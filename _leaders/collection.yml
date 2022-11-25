@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview/.keep
+      - Student Leadership/Green Champion.md
       - Student Leadership/CCE Champion.md
       - Student Leadership/Prefects.md
       - Student Leadership/The Executive Committee Prefectorial Board (ExCo
