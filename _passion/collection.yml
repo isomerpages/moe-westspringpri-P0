@@ -1,4 +1,5 @@
 collections:
   passion:
     output: true
-    order: []
+    order:
+      - Pursue Our Passions Programme/.keep
