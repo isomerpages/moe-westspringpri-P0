@@ -16,3 +16,4 @@ During the lessons, teachers and students not only engage in quality discussions
 **
 
 ![](/images/KP%20CCE2%20(1).jpg)
+![](/images/FTGP%20Reflection.jpg)
