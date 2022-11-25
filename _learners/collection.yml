@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY Version 2.md
       - ICT PLAY/.keep
       - Dramatic PLAY/.keep
       - Object PLAY/.keep
