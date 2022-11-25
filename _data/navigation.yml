@@ -8,15 +8,4 @@ links:
   - title: Learners 2
     collection: learners
   - title: MK @ West Spring
-    url: /MK@WS
-    sublinks:
-      - title: About MK@WS
-        url: /MK@WS about
-      - title: Info for Parents
-        url: /MK@WS information
-      - title: Flagship Programmes
-        url: /MK@WS flagship programmes
-      - title: Events and Celebrations
-        url: /MK@WS Events & Celebrations
-  - title: MK @ West Spring
     collection: mk-west-spring
