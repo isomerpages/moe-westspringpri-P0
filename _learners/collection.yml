@@ -2,10 +2,10 @@ collections:
   learners:
     output: true
     order:
-      - PLAY Version 2/Achieving balance between PLAY & didactic teaching.md
-      - PLAY Version 2/Our Philosophy & Learning Approach.md
-      - PLAY Version 2/Domains of PLAY.md
       - PLAY Version 2/.keep
+      - PLAY Version 2/Domains of PLAY.md
+      - PLAY Version 2/Our Philosophy & Learning Approach.md
+      - PLAY Version 2/Achieving balance between PLAY & didactic teaching.md
       - Object PLAY/.keep
       - Object PLAY/What is Object PLAY.md
       - Object PLAY/Sand Art.md
