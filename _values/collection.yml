@@ -2,14 +2,14 @@ collections:
   values:
     output: true
     order:
+      - CCE Programmes/.keep
+      - CCE Programmes/Key Programmes (VIA).md
+      - CCE Programmes/Key Programmes CCE.md
+      - CCE Programmes/CCE Framework.md
+      - Events/.keep
       - Events/Children's Day.md
       - Events/Deepavali.md
       - Events/Hari Raya.md
       - Events/Total Defence.md
       - Events/Racial Harmony.md
       - Events/Chinese New Year.md
-      - Events/.keep
-      - CCE Programmes/Key Programmes (VIA).md
-      - CCE Programmes/Key Programmes CCE.md
-      - CCE Programmes/CCE Framework.md
-      - CCE Programmes/.keep
