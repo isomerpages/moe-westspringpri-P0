@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - ICT PLAY/.keep
       - Dramatic PLAY/.keep
       - Object PLAY/.keep
       - Object PLAY/Object PLAY.md
