@@ -2,4 +2,5 @@ collections:
   leaders:
     output: true
     order:
+      - Student Leadership/.keep
       - Overview/.keep
