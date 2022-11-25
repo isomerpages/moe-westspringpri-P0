@@ -2,4 +2,5 @@ collections:
   learners:
     output: true
     order:
+      - Object PLAY/The DELI.md
       - Object PLAY/.keep
