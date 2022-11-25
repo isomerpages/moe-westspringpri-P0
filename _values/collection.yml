@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - Events/Total Defence.md
       - Events/Racial Harmony.md
       - Events/Chinese New Year.md
       - Events/.keep
