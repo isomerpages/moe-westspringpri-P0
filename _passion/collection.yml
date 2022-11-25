@@ -2,5 +2,6 @@ collections:
   passion:
     output: true
     order:
+      - ALP (STEM)/.keep
       - Co Curricular Activities (CCA)/.keep
       - Pursue Our Passions Programme/.keep
