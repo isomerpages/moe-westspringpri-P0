@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview/.keep
+      - Student Leadership/Prefects.md
       - Student Leadership/The Executive Committee Prefectorial Board (ExCo
         Members).md
       - Student Leadership/.keep
