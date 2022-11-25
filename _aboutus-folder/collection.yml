@@ -2,4 +2,4 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - vmvs.md
+      - Vision, Mission & Values.md
