@@ -2,6 +2,7 @@ collections:
   passion:
     output: true
     order:
+      - Pursue Our Passions Programme/What is POP Programme.md
       - Pursue Our Passions Programme/.keep
       - Co Curricular Activities (CCA)/.keep
       - ALP (STEM)/.keep
