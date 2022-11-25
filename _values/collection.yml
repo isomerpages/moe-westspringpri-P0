@@ -2,11 +2,11 @@ collections:
   values:
     output: true
     order:
-      - CCE Programmes/VIA Overview.md
       - CCE Programmes/.keep
-      - CCE Programmes/Key Programmes (VIA).md
-      - CCE Programmes/Key Programmes CCE.md
       - CCE Programmes/CCE Framework.md
+      - CCE Programmes/Key Programmes CCE.md
+      - CCE Programmes/VIA Overview.md
+      - CCE Programmes/Key Programmes (VIA).md
       - Events/.keep
       - Events/Children's Day.md
       - Events/Deepavali.md
