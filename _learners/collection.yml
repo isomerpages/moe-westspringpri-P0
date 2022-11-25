@@ -2,11 +2,11 @@ collections:
   learners:
     output: true
     order:
-      - Physical PLAY/.keep
       - PLAY Version 2.md
       - Object PLAY/.keep
       - Object PLAY/Object PLAY.md
       - Object PLAY/The DELI.md
       - Cognitive PLAY/.keep
       - ICT PLAY/.keep
+      - Physical PLAY/.keep
       - Dramatic PLAY/.keep
