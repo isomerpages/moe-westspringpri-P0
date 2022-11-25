@@ -1,4 +1,5 @@
 collections:
   values:
     output: true
-    order: []
+    order:
+      - CCE Programmes/.keep
