@@ -1,4 +1,5 @@
 collections:
   leaders:
     output: true
-    order: []
+    order:
+      - Overview/.keep
