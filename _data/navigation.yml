@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: About Us
+    collection: example-folder
+  - title: Learners
+    collection: example-folder
+  - title: Passion
+    collection: example-folder
+  - title: Leaders
+    collection: example-folder
+  - title: Values
+    collection: example-folder
+  - title: MOE Kindergarten @ West Spring
     collection: example-folder
