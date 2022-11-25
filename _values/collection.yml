@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - Events/Children's Day.md
       - Events/Deepavali.md
       - Events/Hari Raya.md
       - Events/Total Defence.md
