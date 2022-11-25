@@ -5,6 +5,8 @@ description: ""
 third_nav_title: About MK @ West Spring
 ---
 
-Our Vision
+Our **vision** is to provide a strong start for every child. 
 
-Our Mission
+Our **mission** is to provide quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.
+
+![]()
