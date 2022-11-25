@@ -2,5 +2,6 @@ collections:
   values:
     output: true
     order:
+      - CCE Programmes/Key Programmes CCE.md
       - CCE Programmes/CCE Framework.md
       - CCE Programmes/.keep
