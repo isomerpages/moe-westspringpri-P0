@@ -2,7 +2,7 @@
 layout: homepage
 title: West Spring Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/West-Spring-Primary-logo-03.png
 permalink: /
 notification: ""
 sections:
@@ -25,5 +25,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
