@@ -2,6 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Key Programmes/.keep
-      - Student Leadership/.keep
       - Overview/.keep
+      - Student Leadership/.keep
+      - Key Programmes/.keep
