@@ -2,7 +2,7 @@ collections:
   leaders:
     output: true
     order:
-      - Overview/Overview.md
+      - Overview/Student Leadership Structure.md
       - Overview/.keep
       - Student Leadership/.keep
       - Student Leadership/The Executive Committee Prefectorial Board (ExCo
