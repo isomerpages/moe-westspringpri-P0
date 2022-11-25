@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - About MK @ West Spring/Vision and Mission.md
       - About MK @ West Spring/.keep
       - Information for Parents/.keep
       - Our Flagship Programmes/.keep
