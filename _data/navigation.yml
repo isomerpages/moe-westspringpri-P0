@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    collection: example-folder
+    collection: aboutus-folder
   - title: Learners
     collection: example-folder
   - title: Passion
