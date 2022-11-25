@@ -34,4 +34,3 @@ In addition to the pedagogic principles stated, West Spring Primary adopts five 
 
 Our PLAY- based learning approach is delivered through these pedagogic principles and can take the form of any of the 5 PLAY domains. Thus, a PLAY lesson can be implemented through a combination of principles and take the form of a variety of domains.
 ![](/images/PLAY-Learning-Approach.png)
-
