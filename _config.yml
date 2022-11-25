@@ -2,19 +2,19 @@ title: West Spring Primary School
 url: https://westspringpri.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#c6aaf9"
-  secondary-color: "#d7fbb3"
+  primary-color: "#f9a416"
+  secondary-color: "#9013fe"
   media-colors:
     - title: media-color-one
-      color: "#abfbfb"
+      color: "#3c7ef4"
     - title: media-color-two
-      color: "#bb8cee"
+      color: "#7ed321"
     - title: media-color-three
-      color: "#fdbf58"
+      color: "#570ac8"
     - title: media-color-four
-      color: "#fdbf58"
+      color: "#570ac8"
     - title: media-color-five
-      color: "#fdbf58"
+      color: "#570ac8"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
