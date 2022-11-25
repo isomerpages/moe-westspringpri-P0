@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY Version 2/Achieving balance between PLAY & didactic teaching.md
       - PLAY Version 2/Our Philosophy & Learning Approach.md
       - PLAY Version 2/Domains of PLAY.md
       - PLAY Version 2/.keep
