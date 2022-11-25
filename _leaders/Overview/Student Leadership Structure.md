@@ -16,4 +16,13 @@ Each year, students go through the CLOVE framework which adopts the Five Practic
 The school aims to develop every student to be a leader, guided by the school’s values. We believe that every student must first learn to lead self before leading others.
 
 The school has put in place a student leadership framework which aims to develop leadership competencies in our students through a 3-level programme:
-![]()
+
+![](/images/Student%20leadership.png)
+
+![](/images/Tiered-leadership.png)
+
+### **Developmental Programmes (Prefects)**
+
+![](/images/Student%20leadership%202.jpg)
+
+
