@@ -2,5 +2,6 @@ collections:
   learners:
     output: true
     order:
+      - Object PLAY.md
       - Object PLAY/The DELI.md
       - Object PLAY/.keep
