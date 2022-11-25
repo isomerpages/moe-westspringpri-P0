@@ -2,7 +2,7 @@ collections:
   passion:
     output: true
     order:
-      - LLP (Outdoor Education)/.keep
-      - ALP (STEM)/.keep
-      - Co Curricular Activities (CCA)/.keep
       - Pursue Our Passions Programme/.keep
+      - Co Curricular Activities (CCA)/.keep
+      - ALP (STEM)/.keep
+      - LLP (Outdoor Education)/.keep
