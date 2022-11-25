@@ -1,0 +1,4 @@
+collections:
+  vmv-folder:
+    output: true
+    order: []
