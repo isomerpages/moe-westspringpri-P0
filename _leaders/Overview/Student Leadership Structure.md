@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Overview
 ---
 The West Spring Primary School Student Leader strives to serves as role models for peers, creating standards of excellence and setting an example for others to follow.
-
 #### **CLOVE (Cultivating Leaders Of ValuEs)**
 
 **CLOVE** is a school-based Leadership Education programme which aims to achieve the school’s belief that every student has the potential to be a leader.
@@ -18,4 +17,3 @@ The school aims to develop every student to be a leader, guided by the school’
 
 The school has put in place a student leadership framework which aims to develop leadership competencies in our students through a 3-level programme:
 ![]()
-
