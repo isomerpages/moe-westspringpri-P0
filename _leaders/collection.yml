@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Overview/.keep
+      - Student Leadership/The Executive Committee Prefectorial Board (ExCo
+        Members).md
       - Student Leadership/.keep
       - Key Programmes/.keep
       - Key Programmes/NYAA Junior Programme.md
