@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview/.keep
+      - Student Leadership/ICT Champion.md
       - Student Leadership/Green Champion.md
       - Student Leadership/CCE Champion.md
       - Student Leadership/Prefects.md
