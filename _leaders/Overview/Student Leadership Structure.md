@@ -25,6 +25,10 @@ The school has put in place a student leadership framework which aims to develop
 
 ![](/images/Student%20leadership.png)
 
+### Development Programmes (Prefects)
+
+![](/images/Student%20leadership%202.jpg)
+
 
 
 
