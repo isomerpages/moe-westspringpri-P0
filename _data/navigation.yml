@@ -9,4 +9,6 @@ links:
     collection: learners
   - title: MK @ West Spring
     url: /MK@WS
-    sublinks: []
+    sublinks:
+      - title: About MK@WS
+        url: /about MK@WS
