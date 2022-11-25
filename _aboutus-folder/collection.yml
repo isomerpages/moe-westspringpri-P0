@@ -1,4 +1,5 @@
 collections:
   aboutus-folder:
     output: true
-    order: []
+    order:
+      - vmvs.md
