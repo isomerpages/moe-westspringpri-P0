@@ -4,8 +4,6 @@ links:
     collection: aboutus-folder
   - title: Learners
     url: /learners
-    sublinks:
-      - title: Object PLAY
-        url: /objectplay
-      - title: Cognitive PLAY
-        url: /cognitiveplay
+    sublinks: []
+  - title: Learners 2
+    collection: learners
