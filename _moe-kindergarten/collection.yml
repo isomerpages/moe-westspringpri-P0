@@ -2,6 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Flagship Programmes/.keep
-      - Information for Parents/.keep
       - About MK @ West Spring/.keep
+      - Information for Parents/.keep
+      - Our Flagship Programmes/.keep
