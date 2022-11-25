@@ -2,31 +2,26 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: West Spring Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 60 Bukit Panjang Ring Road
+      - Singapore 679946
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.30am - 5.00pm
+        description: |-
+          
+          Closed on Saturday, Sunday & Public Holidays
+    maps_link: ""
+    title: General Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6314 4192
+      - email: westspring_ps@moe.edu.sg
+      - other: "<br><p> Parents and visitors permitted time to enter the school
+          premises: </p><br><p>Monday to Friday</p>8.00am to 9.00am <br>11.00am
+          to 12.00pm <p>Wednesdays only</p>2.30pm to 4.00pm  "
+    title: General Enquiries & Feedback
 ---
