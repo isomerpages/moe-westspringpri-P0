@@ -25,4 +25,3 @@ Our 5 domains of the Purposeful Learning Activities for the Young (PLAY) prepar
 ![](/images/PHYSICAL-PLAY-723x1024.jpg)
 
 ![](/images/CCE-723x1024.jpg)
-
