@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - PLAY Version 2.md
-      - ICT PLAY/.keep
-      - Dramatic PLAY/.keep
       - Object PLAY/.keep
       - Object PLAY/Object PLAY.md
       - Object PLAY/The DELI.md
       - Cognitive PLAY/.keep
+      - ICT PLAY/.keep
+      - Dramatic PLAY/.keep
