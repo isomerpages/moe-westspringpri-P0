@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - PLAY Version 2.md
+      - Object PLAY/Sand Art.md
       - Object PLAY/Eureka Space.md
       - Object PLAY/.keep
       - Object PLAY/What is Object PLAY.md
