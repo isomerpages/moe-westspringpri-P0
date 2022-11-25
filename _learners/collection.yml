@@ -2,7 +2,7 @@ collections:
   learners:
     output: true
     order:
-      - Cognitive PLAY/.keep
+      - Object PLAY/.keep
       - Object PLAY/Object PLAY.md
       - Object PLAY/The DELI.md
-      - Object PLAY/.keep
+      - Cognitive PLAY/.keep
