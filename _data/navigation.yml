@@ -3,7 +3,12 @@ links:
   - title: About Us
     collection: aboutus-folder
   - title: Learners
-    collection: example-folder
+    url: /learners
+    sublinks:
+      - title: Object PLAY
+        url: /objectplay
+      - title: Cognitive PLAY
+        url: /cognitiveplay
   - title: Passion
     collection: example-folder
   - title: Leaders
