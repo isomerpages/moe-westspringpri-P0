@@ -1,4 +1,5 @@
 collections:
   objectplay:
     output: true
-    order: []
+    order:
+      - DELI.md
