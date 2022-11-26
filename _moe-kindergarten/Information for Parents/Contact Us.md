@@ -4,9 +4,12 @@ permalink: /moe-kindergarten/Information-for-Parents/Contact-Us/
 description: ""
 third_nav_title: Information for Parents
 ---
+**Address**: 60 Bukit Panjang Ring Road Singapore (679946)
 
-Address
+**Tel no**: 6314 4192
 
-Phone
+**Email address**: mk_westspring@moe.edu.sg
 
-Generic Email
+**Centre Head**: Mrs Marian Lee
+
+**Deputy Centre Head**: Mr Rico Chan
