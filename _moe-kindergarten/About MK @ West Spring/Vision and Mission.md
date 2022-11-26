@@ -5,3 +5,4 @@ description: ""
 third_nav_title: About MK @ West Spring
 ---
 ![](/images/MK/MK%20Vision%20Mission.jpg)
+[Curious about the MK Experience? Come take a look!](https://youtu.be/LockyOmaNB0)
