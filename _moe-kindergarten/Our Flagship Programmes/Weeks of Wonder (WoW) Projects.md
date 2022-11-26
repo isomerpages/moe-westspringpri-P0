@@ -19,3 +19,5 @@ Through the process of finding answers to their own questions, WoW projects allo
 *   Experience the joy of self-motivated learning.
 *   Build their confidence.
 *   Strengthen their learning dispositions or positive behaviours and attitudes towards learning.
+
+[Find out more about WoW Projects and our MK Curriculum!](https://drive.google.com/file/d/1h6K3qqMCxfSNVD1eV8BkjLmiyDCx59eI/view?usp=share_link)
