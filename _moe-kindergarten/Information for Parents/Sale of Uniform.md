@@ -5,20 +5,22 @@ description: ""
 third_nav_title: Information for Parents
 ---
 ![](/images/MK/Uniform/MK%20Uniform%20(1).jpg)
-![](/images/MK/Uniform/MK%20Uniform%20(2).jpg)
-![](/images/MK/Uniform/MK%20Uniform%20(3a).jpg)
-**MK UNIFORM ORDER AND COLLECTION**
 
-**For email order and delivery of uniform:**
+Purchasing of MK Uniforms
+---------------------------
 
-• Please email the completed MK Uniform Subsidy letter to the supplier whom you would like to order the uniform from. Delivery fee is payable by the parents to the supplier directly.
+You can purchase the MK uniform from either [Beau Voix Uniform](https://beauvoix.com/preschool/) or [Jeep Sing Fashion](https://jeepsinguniform.com/collections/moe-kindergarten-uniforms) at the following prices:
 
-• Parents will receive an acknowledgement email within 3 working days.
+**Beau Voix Uniform**
 
-**Beau Voix** 
-Website: [https://beauvoix.com/preschool/](https://beauvoix.com/preschool/) Email: info@beauvoix.com.sg
+*   $7 for polo T-shirt.
+*   $7 for khaki shorts (for boys) or skorts (for girls).
 
-**Jeep Sing** 
-Website: [https://jeepsinguniform.com/](https://jeepsinguniform.com/) Email: mk@jeepsinguniform.com
+**Jeep Sing Fashion**
+
+*   $7 for polo T-shirt.
+*   $8 for khaki shorts (for boys) or skorts (for girls).
+
 ![](/images/MK/Uniform/MK%20Uniform%20(4).jpg)
+![](/images/MK/Uniform/MK%20Uniform%20(5).jpg)
 ![](/images/MK/Uniform/MK%20Uniform%20(6).jpg)
