@@ -21,11 +21,8 @@ third_nav_title: Information for Parents
 
    
 
-**Beau Voix** <p>
-Website: [https://beauvoix.com/preschool/](https://beauvoix.com/preschool/) <p>
-	Email:    info@beauvoix.com.sg
+**Beau Voix** 
+Website: [https://beauvoix.com/preschool/](https://beauvoix.com/preschool/) Email: info@beauvoix.com.sg
 
-**Jeep Sing** <p>
-Website: 
-[https://jeepsinguniform.com/](https://jeepsinguniform.com/) <p>
-	Email: mk@jeepsinguniform.com
+**Jeep Sing** 
+Website: [https://jeepsinguniform.com/](https://jeepsinguniform.com/) Email: mk@jeepsinguniform.com
