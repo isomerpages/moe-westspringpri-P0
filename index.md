@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: West Spring Primary School
-description: An Isomer site of the Singapore Government
+description: School website of West Spring Primary School and MOE Kindergarten @ West Spring
 image: /images/West-Spring-Primary-logo-03.png
 permalink: /
 notification: ""
@@ -25,3 +25,4 @@ sections:
       button: Let's Go
       url: /schooltour/
 ---
+
