@@ -20,4 +20,4 @@ Through the process of finding answers to their own questions, WoW projects allo
 *   Build their confidence.
 *   Strengthen their learning dispositions or positive behaviours and attitudes towards learning.
 
-[Find out more about WoW Projects and our MK Curriculum!](https://drive.google.com/file/d/1h6K3qqMCxfSNVD1eV8BkjLmiyDCx59eI/view?usp=share_link)
+[Find out more about Weeks of Wonder (WoW) Projects](https://drive.google.com/file/d/1HpCdzPeL-lhEP5mLSlCplZKuhtClWvRV/view?usp=share_link)
