@@ -17,3 +17,6 @@ The “Pursue Our Passion” (POP) Programme aims to:
 *   allow our students to celebrate their successes, beyond that of academic achievements
 *   build friendships that could serve them well beyond Primary School
 *   create mutual understanding and respect to foster a more collaborative and accepting school culture.
+
+![]()
+
