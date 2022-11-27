@@ -8,7 +8,9 @@ In line with the school’s vision, “Learners Driven by Passion, Leaders Guide
 
 Through the specially designed POP sessions, our West Springers participate in activities and conversations that enable them to discover their interests and passions.
 
-**Aims of the POP Programme**
+
+# **Aims of the POP Programme**
+
 The “Pursue Our Passion” (POP) Programme aims to:
 *   nurture in our West Springers the joy of learning and to encourage them to pursue their passions
 *   create the safe environment for students to develop the knowledge, skills and dispositions to pursue their passions- their soft skills will enable them to become confident, lifelong learners
