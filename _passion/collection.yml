@@ -2,10 +2,10 @@ collections:
   passion:
     output: true
     order:
-      - Pursue Our Passions Programme/POPfest.md
       - Pursue Our Passions Programme/.keep
       - Pursue Our Passions Programme/What is POP Programme.md
       - Pursue Our Passions Programme/Our West Spring POPstars.md
+      - Pursue Our Passions Programme/POPfest.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Our CCAs.md
       - Co Curricular Activities (CCA)/Physical Sports.md
