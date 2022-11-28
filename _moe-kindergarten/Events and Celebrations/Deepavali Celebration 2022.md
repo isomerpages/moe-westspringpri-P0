@@ -1,7 +1,0 @@
----
-title: Deepavali Celebration 2022
-permalink: /moe-kindergarten/Events-and-Celebrations/Deepavali-2022/
-description: ""
-third_nav_title: Events and Celebrations
----
-
