@@ -11,6 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 * [Table Tennis](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/tabletennis/)
 * [Outdoor Adventure Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/outdoor/)
 * [Wushu](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/wushu/)
+
 # Visual & Performing Arts
 
 # Uniformed Group
