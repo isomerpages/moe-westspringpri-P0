@@ -2,6 +2,7 @@ collections:
   aboutus-folder:
     output: true
     order:
+      - Our People/Our Teachers.md
       - Our People/School Management Committee.md
       - Our People/Our School Leaders.md
       - Our People/Our School Advisory Committee.md
