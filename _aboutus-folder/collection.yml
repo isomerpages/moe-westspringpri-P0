@@ -2,5 +2,4 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - Our People.md
       - Vision, Mission & Values.md
