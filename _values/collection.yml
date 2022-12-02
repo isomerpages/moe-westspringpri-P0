@@ -2,7 +2,6 @@ collections:
   values:
     output: true
     order:
-      - CCE Programmes/REACH.md
       - CCE Programmes/.keep
       - CCE Programmes/CCE Framework.md
       - CCE Programmes/Key Programmes CCE.md
