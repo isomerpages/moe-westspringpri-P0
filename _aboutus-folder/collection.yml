@@ -2,5 +2,6 @@ collections:
   aboutus-folder:
     output: true
     order:
+      - Our People/Our School Advisory Committee.md
       - Our People/.keep
       - Vision, Mission & Values.md
