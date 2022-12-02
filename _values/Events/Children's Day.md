@@ -18,4 +18,6 @@ Do what you love so you will love what you do!
 
 A very Happy Children’s Day to you!
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJxGqpTxx-ukI7Eo1LFJFal7-8weS7jv9Y4itQaNlW12In-dvJZQsIMQJQ6tekRmacLP4VAOzYegqS/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpMfXcTn-RwpE0daRODqzK75HKiLQaR_iUusfcZKN-vBifXeu-YvqZ-cxdY-uHay_Tp1H4-rkOP2E6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+
