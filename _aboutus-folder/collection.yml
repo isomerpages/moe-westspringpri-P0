@@ -2,9 +2,9 @@ collections:
   aboutus-folder:
     output: true
     order:
+      - Vision, Mission & Values.md
+      - Our People/.keep
       - Our People/Our Teachers.md
       - Our People/School Management Committee.md
       - Our People/Our School Leaders.md
       - Our People/Our School Advisory Committee.md
-      - Our People/.keep
-      - Vision, Mission & Values.md
