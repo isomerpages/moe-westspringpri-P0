@@ -3,11 +3,10 @@ collections:
     output: true
     order:
       - Vision, Mission & Values.md
-      - Our People/Our Support Staff.md
+      - Our People/.keep
+      - Our People/Our School Leaders.md
+      - Our People/School Management Committee.md
+      - Our People/Our Teachers.md
       - Our People/Our Contract Adjunct & Flexi Adjunct Teachers.md
       - Our People/Our Allied Educators.md
-      - Our People/.keep
-      - Our People/Our Teachers.md
-      - Our People/School Management Committee.md
-      - Our People/Our School Leaders.md
       - Our People/Our School Advisory Committee.md
