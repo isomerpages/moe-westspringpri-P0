@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Vision, Mission & Values.md
+      - Our People/Our Support Staff.md
       - Our People/Our Contract Adjunct & Flexi Adjunct Teachers.md
       - Our People/Our Allied Educators.md
       - Our People/.keep
