@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - VIA Overview.md
-      - CCE Programmes/.keep
-      - CCE Programmes/CCE Framework.md
-      - CCE Programmes/VITAL.md
-      - CCE Programmes/Heart to Heart (HTH).md
-      - CCE Programmes/CCE Mother Tongue Language.md
-      - CCE Programmes/Foreign Integration Programme (FIP).md
-      - CCE Programmes/FTGP.md
-      - CCE Programmes/REACH.md
+      - CCE/.keep
+      - CCE/CCE Framework.md
+      - CCE/VITAL.md
+      - CCE/Heart to Heart (HTH).md
+      - CCE/CCE Mother Tongue Language.md
+      - CCE/Foreign Integration Programme (FIP).md
+      - CCE/FTGP.md
+      - CCE/REACH.md
       - Events/First Day of School 2022.md
       - Events/Primary One Orientation 2022.md
       - Events/International Friendship Day 2022.md
