@@ -9,3 +9,16 @@ third_nav_title: Pursue Our Passions Programme
 ![](/images/POP/Pei-Qi-1.jpg)
 
 ![](/images/POP/Mr-Kwek.jpg)
+
+![](/images/POP/vyann.jpg)
+
+![](/images/POP/irinsyaqirah.jpg)
+
+![](/images/POP/penny.jpg)
+
+![](/images/POP/alynna.jpg)
+
+![](/images/POP/jocelyn.jpg)
+
+![](/images/POP/mrlimkw.jpg)
+
