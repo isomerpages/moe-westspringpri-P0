@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - VIA/CHEERS.md
       - VIA/CHERISH.md
       - VIA/BLISS.md
       - VIA/ACTIVATE.md
