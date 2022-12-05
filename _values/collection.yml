@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - VIA/.keep
       - VIA Overview.md
       - CCE/.keep
       - CCE/CCE Framework.md
