@@ -4,3 +4,6 @@ permalink: /values/CCE-Programmes/ftgp/
 description: ""
 third_nav_title: CCE Programmes
 ---
+![](/images/Key%20programmes%20cce%202022/FTGP1.jpg)
+
+![](/images/Key%20programmes%20cce%202022/FTGP2.jpg)
