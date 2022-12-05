@@ -2,13 +2,13 @@ collections:
   values:
     output: true
     order:
+      - VIA/.keep
+      - VIA/VIA Overview.md
       - VIA/CHEERS.md
       - VIA/CHERISH.md
       - VIA/BLISS.md
       - VIA/ACTIVATE.md
       - VIA/Friends of Singa.md
-      - VIA/VIA Overview.md
-      - VIA/.keep
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/VITAL.md
