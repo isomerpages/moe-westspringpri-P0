@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Vision, Mission & Values.md
+      - Our People/Support Staff.md
       - Our People/.keep
       - Our People/Our School Leaders.md
       - Our People/Our School Management Committee.md
