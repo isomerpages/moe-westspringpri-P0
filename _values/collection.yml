@@ -2,7 +2,7 @@ collections:
   values:
     output: true
     order:
-      - VIA Overview.md
+      - VIA.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/VITAL.md
