@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - CCE Programmes/Heart to Heart (HTH).md
       - CCE Programmes/CCE Mother Tongue Language.md
       - CCE Programmes/Foreign Integration Programme (FIP).md
       - CCE Programmes/FTGP.md
