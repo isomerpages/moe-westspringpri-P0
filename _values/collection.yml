@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - VIA/BLISS.md
       - VIA/ACTIVATE.md
       - VIA/Friends of Singa.md
       - VIA/VIA Overview.md
