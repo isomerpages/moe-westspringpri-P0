@@ -4,3 +4,4 @@ permalink: /cca/clubs/strategygamesclub/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+![](/images/CCA2022/CCA-StrategyGames-01.png)
