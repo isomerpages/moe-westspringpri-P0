@@ -9,5 +9,3 @@ third_nav_title: Key Programmes
 ![](/images/TIES2.jpg)
 
 ![](/images/ties%20reflection.jpg)
-
-
