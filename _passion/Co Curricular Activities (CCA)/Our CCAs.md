@@ -14,16 +14,16 @@ third_nav_title: Co Curricular Activities (CCA)
 
 # Visual & Performing Arts
 * [🎨Art & Crafts Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/artcraftsclub/)
-* [🖌Chinese Calligraphy](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
-* [🎤Choir](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
-* [📷Digital Media Club](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
-* [Modern Dance](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
-* [🎵Percussion Ensemble](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
+* [🖌Chinese Calligraphy](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/chinesecalligraphy/)
+* [🎤Choir](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/choir/) 
+* [📷Digital Media Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/digitalmediaclub/)
+* [🩰Modern Dance](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/moderndance/)
+* [🎵Percussion Ensemble](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/percussionensemble/)
 
 # Uniformed Group
-* [🔍Scouts](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
+* [🔍Scouts](https://staging.d2i1deds856vl0.amplifyapp.com/cca/uniformedgp/scouts/) 
 
 # Clubs & Societies
-* [🌳Environmental Science Club](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
-* [💻Robotics Club](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
-* [🎲Strategy Games Club](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
+* [🌳Environmental Science Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/clubs/environmentalscienceclub/)
+* [💻Robotics Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/clubs/roboticsclub/)
+* [🎲Strategy Games Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/clubs/strategygamesclub/)
