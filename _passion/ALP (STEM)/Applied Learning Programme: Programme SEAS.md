@@ -12,3 +12,6 @@ Objectives of the SEAS:
 * To nurture and develop students’ passion to care and contribute to a Sustainable Earth
 * To build 21st Century Competency to be able to seek solutions to environmental problems and to advocate the environmental changes and solutions
 
+![](/images/ALP/ALP1STEM.jpg)
+
+![](/images/ALP/ALP2stem.jpg)
