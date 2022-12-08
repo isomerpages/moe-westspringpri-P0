@@ -4,16 +4,16 @@ permalink: /passion/LLPOutdoorEducation/DistinctiveCohortOEProgrammes/
 description: ""
 third_nav_title: LLP (Outdoor Education)
 ---
-**Primary 1 and 2 Programme for Active Learning (PAL) - OE&nbsp;**
+**Primary 1 and 2 Programme for Active Learning (PAL) - OE**
 
 Our lower primary students enjoy learning in the outdoors during our PAL - OE lessons across 2 years. PAL emphasises on joyful learning through active, hands-on experiences and developing students’ social emotional competencies such as managing their own emotions, learning to work together and respect one another's views. The PAL-OE lessons bring about lots of learning through fun as students explore the school environment, engage their 5 senses and think out of the box while learning to work together to investigate and complete learning tasks.&nbsp;
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2n52dfzCFaxJphHOAWTCMKsb-_J4Bx9YKbB2p1l6aszbB4d62N-JO3HD2AbjfqAiL_8PRYTU2ZzHl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2n52dfzCFaxJphHOAWTCMKsb-_J4Bx9YKbB2p1l6aszbB4d62N-JO3HD2AbjfqAiL_8PRYTU2ZzHl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 
-**Primary 1 and 2 Outdoor Learning Journeys to the Zoos**&nbsp;
+**Primary 1 and 2 Outdoor Learning Journeys to the Zoos**
 
 The lower primary students begin their outdoor learning adventures in our local zoos such as Singapore Zoo and Jurong Bird Park annually. They undergo a series of executive functioning skills lessons with their Form Teachers prior to their outdoor trips to the zoos, ranging from conducting research on conserving the wildlife, planning the trip itinerary and learning to pack the essential items for the outdoor trip independently.&nbsp;
-
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQrDMIO37pak8tI8ibud-u-cRzBoUVuCpCovr70jVt0z1agCDqIlEL-Skwqe9WRM7I998z-7oV8Eqb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **Primary 3 One-Day Outdoor Exploration Experience**
 
