@@ -2,7 +2,6 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - Contact Us.md
       - Vision, Mission & Values.md
       - School Logo.md
       - School Code of Conduct.md
@@ -17,3 +16,4 @@ collections:
       - Our Stakeholders/Our Alumni.md
       - Our Stakeholders/Our PSG.md
       - Our Stakeholders/Our School Advisory Committee.md
+      - Contact Us.md
