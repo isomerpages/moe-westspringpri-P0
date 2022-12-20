@@ -14,7 +14,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   text-align: left;
   padding: 8px;
 }
@@ -60,15 +60,41 @@ tr:nth-child(even) {
 		<td>No lessons</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>29th and 30th March</td>
+    <td>Students Class Photo-taking</td>
+    <td>All levels</td>
+		<td>School hours</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>7th April</td>
+    <td>Good Friday</td>
+    <td>All levels</td>
+		<td>No lessons</td>
   </tr>
+  <tr>
+    <td>10th April to 19th April</td>
+    <td>HPB Health Screening for All Levels</td>
+    <td>All levels</td>
+		<td>School hours</td>
+		  </tr>
+  <tr>
+    <td>24th April</td>
+    <td>School holiday in lieu of Hari Raya Puasa</td>
+    <td>All levels</td>
+		<td>No lessons</td>
+				  </tr>
+  <tr>
+    <td>1st May</td>
+    <td>Labour Day</td>
+    <td>All levels</td>
+		<td>No lessons</td>
+		
+				  </tr>
+  <tr>
+    <td>25th May</td>
+    <td>Sports Fiesta</td>
+    <td>All levels</td>
+		<td>School hours</td>
 </table>
 
 </body>
