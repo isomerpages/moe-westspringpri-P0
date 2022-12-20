@@ -3,7 +3,6 @@ title: Important Dates
 permalink: /aboutus-folder/important-dates/
 description: ""
 ---
-
 <html>
 <head>
 <style>
@@ -89,7 +88,7 @@ tr:nth-child(even) {
     <td>All levels</td>
 		<td>No lessons</td>
 		
-				  </tr>
+				
   <tr>
     <td>25th May</td>
     <td>Sports Fiesta</td>
