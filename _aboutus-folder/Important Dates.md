@@ -3,6 +3,7 @@ title: Important Dates
 permalink: /aboutus-folder/important-dates/
 description: ""
 ---
+
 <html>
 <head>
 <style>
@@ -26,14 +27,14 @@ tr:nth-child(even) {
 <body>
 
 <h2>Important Dates</h2>
-
+	
 <table>
   <tr>
     <th>Date</th>
     <th>Event</th>
     <th>Level</th>
 		<th>Remarks</th>
-  </tr>
+
   <tr>
     <td>3rd Jan</td>
     <td>Start of Term 1 for P1</td>
