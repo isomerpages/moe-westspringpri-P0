@@ -4,33 +4,12 @@ permalink: /aboutus-folder/Important-Dates/permalink/
 description: ""
 third_nav_title: Our People
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
 
 <h2>January</h2>
 
 <table>
-  <tr>
+  <tbody><tr>
 	<th>Date</th>
     <th>Level</th>
     <th>Event</th>
@@ -61,17 +40,61 @@ tr:nth-child(even) {
     <td>No lessons</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+  
+  </tr>
+</tbody></table>
+
+
+	
+	
+
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+
+
+<h2>April</h2>
+
+<table>
+  <tbody><tr>
+	<th>Date</th>
+    <th>Level</th>
+    <th>Event</th>
+    <th>Remarks</th>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>7th April</td>
+    <td>All levels</td>
+    <td>Good Friday</td>
+    <td>No lessons </td>
   </tr>
-</table>
-
-</body>
-</html>
-
+  <tr>
+    <td>10th to 19th April</td>
+    <td>All levels </td>
+    <td>HPB Health Screening</td>
+    <td>School hours </td>
+  </tr>
+  <tr>
+    <td>24th April</td>
+    <td>All levels </td>
+    <td>School holiday in lieu of Hari Raya Puasa</td>
+    <td>No lessons </td>
+ 
+	
+</tr></tbody></table>
