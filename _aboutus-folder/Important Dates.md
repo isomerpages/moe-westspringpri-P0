@@ -32,27 +32,32 @@ tr:nth-child(even) {
   <tr>
     <th>Date</th>
     <th>Event</th>
-    <th>Remarks</th>
+    <th>Level</th>
+		<th>Remarks</th>
   </tr>
   <tr>
     <td>3rd Jan</td>
     <td>Start of Term 1 for P1</td>
-    <td></td>
+		<td>P1</td>
+    <td>School hours</td>
   </tr>
   <tr>
     <td>4th Jan</td>
     <td>Start of Term 1 for All Levels</td>
-    <td></td>
+		<td>P2 to P5</td>
+    <td>School hours</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>11th Jan</td>
+    <td>Attendance and Temperature-Taking Exercise</td>
+		<td>All levels</td>
+    <td>School hours</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>23rd and 24th Jan</td>
+    <td>Chinese New Year</td>
+    <td>All levels</td>
+		<td>No lessons</td>
   </tr>
   <tr>
     <td>Laughing Bacchus Winecellars</td>
@@ -68,4 +73,3 @@ tr:nth-child(even) {
 
 </body>
 </html>
-
