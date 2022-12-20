@@ -23,7 +23,7 @@ third_nav_title: Our People
     <td>4th Jan</td>
     <td>P2 to P5 </td>
     <td>Start of Term 1 for all other levels</td>
-    <td>School hours </td>
+    <td>School hours          </td>
   </tr>
   <tr>
     <td>11th Jan</td>
