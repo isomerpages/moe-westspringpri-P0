@@ -72,7 +72,7 @@ tr:nth-child(1) {
   <tr>
     <td rowspan=2>1G</td>
     <td rowspan=2><b>Miss Toh Kiat Meng, Penny</b><br><a href="mailto:toh_kiat_meng@moe.edu.sg">toh_kiat_meng@moe.edu.sg</a></td>
-    <td><b>Mrs Celia Goh</b><br><a href="mailto:tan_guat_beng@moe.edu.sg">tan_guat_beng@moe.edu.sg</a></td>
+    <td border=0><b>Mrs Celia Goh</b><br><a href="mailto:tan_guat_beng@moe.edu.sg">tan_guat_beng@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>Mdm Tan Kai Ying</b><br><a href="mailto:tan_kai_ying_a@moe.edu.sg">tan_kai_ying_a@moe.edu.sg</a></td>
