@@ -231,3 +231,67 @@ tr:nth-child(1) {
   </tr>
   
 </tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 4</th>
+  </tr>
+  <tr>
+    <td>4A</td>
+		<td><b>Mr Ko Chen Wei</b><br>
+        <a href="mailto:ko_chen_wei@moe.edu.sg">ko_chen_wei@moe.edu.sg</a></td>
+    <td><b>Mr Ng Kwang Meng, James</b><br>
+    <a href="mailto:ng_kwang_meng_james@moe.edu.sg">ng_kwang_meng_james@moe.edu.sg</a>
+    <br>
+    <b>Ms Liu Ying</b><br>
+    <a href="mailto:liu_ying_b@moe.edu.sg">liu_ying_b@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>4B</td>
+    <td><b>Ms Magdalene Chong</b><br>
+    <a href="mailto:magdalene_chong_kiat_en@moe.edu.sg">magdalene_chong_kiat_en@moe.edu.sg</a></td>
+    <td><b>Mr Kwek Yao Chie</b><br>
+    <a href="mailto:kwek_yao_chie@moe.edu.sg">kwek_yao_chie@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>4C</td>
+    <td><b>Ms Phua Si Ying, Kelly</b><br>
+    <a href="mailto:phua_si_ying@moe.edu.sg">phua_si_ying@moe.edu.sg</a></td>
+    <td><b>Mr Liang Hong Poh</b><br>
+    <a href="mailto:liang_hong_poh@moe.edu.sg">liang_hong_poh@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>4D</td>
+    <td><b>Miss Leow Ke Yun</b><br>
+    <a href="mailto:leow_ke_yun@moe.edu.sg">leow_ke_yun@moe.edu.sg</a></td>
+    <td><b>Mr Calvin Tan</b>
+    <br>
+    <a href="mailto:tan_wui_nam@moe.edu.sg">tan_wui_nam@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>4E</td>
+    <td><b>Mr Justin Paolo</b><br>
+    <a href="mailto:justin_paolo@moe.edu.sg">justin_paolo@moe.edu.sg</a></td>
+    <td><b>Mdm Shalarnee</b><br>
+    <a href="mailto:shalarnee_raja_rethinam@moe.edu.sg">shalarnee_raja_rethinam@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>4F</td>
+    <td><b>Ms Suvitha</b><br>
+    <a href="mailto:suvitha_prakass_pillay@moe.edu.sg">suvitha_prakass_pillay@moe.edu.sg</a></td>
+    <td><b>Mr Michael Chua</b><br>
+    <a href="mailto:chua_yew_sein_michael@moe.edu.sg">chua_yew_sein_michael@moe.edu.sg</a><br>
+    <b>Ms Kavitha</b><br>
+    <a href="kavitha_periyasamy@moe.edu.sg">kavitha_periyasamy@moe.edu.sg</a></td>
+  </tr>
+  
+</tbody>
