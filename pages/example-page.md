@@ -7,7 +7,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
-  text-aligh: center;
+  text-align: center;
 }
 
 td, th {
