@@ -28,8 +28,8 @@ tr:nth-child(1) {
   </tr>
   <tr>
     <td>1A</td>
-    <td>Mdm Yong Lay Pheng <br>[yong_lay_pheng@moe.edu.sg](mailto:yong_lay_pheng@moe.edu.sg)</td>
-    <td>Ms Casey Ng <br>[ng_hui_wun_casey@moe.edu.sg](mailto:ng_hui_wun_casey@moe.edu.sg)</td>
+    <td>Mdm Yong Lay Pheng <br><a href="mailto:yong_lay_pheng@moe.edu.sg">yong_lay_pheng@moe.edu.sg</a></td>
+    <td>Ms Casey Ng <br><a href="mailto:ng_hui_wun_casey@moe.edu.sg">ng_hui_wun_casey@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>1B</td>
