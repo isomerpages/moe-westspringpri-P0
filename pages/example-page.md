@@ -25,7 +25,7 @@ tr:nth-child(1) {
 <table border=1>
   <tbody>
   <tr>
-    <th colspan=3; align=center>Primary 1</th>
+    <th colspan=3; align="center">Primary 1</th>
   </tr>
   <tr>
     <td>1A</td>
