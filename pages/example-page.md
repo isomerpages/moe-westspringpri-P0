@@ -88,52 +88,70 @@ tr:nth-child(1) {
   </tr>
   <tr>
     <td>2A</td>
-		<td><b>Mdm Yong Lay Pheng</b> <br><a href="mailto:yong_lay_pheng@moe.edu.sg">yong_lay_pheng@moe.edu.sg</a></td>
-    <td><b>Ms Casey Ng</b><br><a href="mailto:ng_hui_wun_casey@moe.edu.sg">ng_hui_wun_casey@moe.edu.sg</a></td>
+		<td><b>Mdm Norhany</b> <br><a href="mailto:norhany_mohd_yaicop@moe.edu.sg">norhany_mohd_yaicop@moe.edu.sg</a></td>
+    <td><b>Mdm Masturah</b><br><a href="mailto:masturah_mohamed_mashoo@moe.edu.sg">masturah_mohamed_mashoo@moe.edu.sg</a></td>
   </tr>
   
   <tr>
-    <td>1B</td>
-    <td><b>Mr Rahmat</b><br><a href="mailto:rahmat_ramli@moe.edu.sg">rahmat_ramli@moe.edu.sg</a></td>
-    <td><b>Miss Guan Xiaoting</b><br><a href="mailto:guan_xiaoting@moe.edu.sg">guan_xiaoting@moe.edu.sg</a></td>
+    <td>2B</td>
+    <td><b>Mdm Nur Fadilah</b><br><a href="mailto:nur_fadilah_mohd_ariffin@moe.edu.sg">nur_fadilah_mohd_ariffin@moe.edu.sg</a></td>
+    <td><b>Miss Ho Been Chieh</b><br><a href="mailto:ho_been_chieh@moe.edu.sg">ho_been_chieh@moe.edu.sg</a></td>
   </tr>
   
   <tr>
-    <td>1C</td>
-    <td><b>Mr Lim Kim Sze</b><br><a href="mailto:lim_kim_sze@moe.edu.sg">lim_kim_sze@moe.edu.sg</a></td>
-    <td><b>Mdm Nurwati</b><br><a href="mailto:nurwati_sarip@moe.edu.sg">nurwati_sarip@moe.edu.sg</a></td>
+    <td>2C</td>
+    <td><b>Mrs Tan- Cheong Yew Tze, Ruth</b><br>
+    <a href="mailto:tan-_cheong_yew_tze@moe.edu.sg">tan-_cheong_yew_tze@moe.edu.sg</a></td>
+    <td><b>Ms Mindy Wong</b><br>
+    <a href="mailto:wong_min_yin@moe.edu.sg">wong_min_yin@moe.edu.sg</a></td>
   </tr>
   
   <tr>
-    <td>1D</td>
-    <td><b>Mrs Irene Yong</b><br><a href="mailto:tan_wie_hong@moe.edu.sg">tan_wie_hong@moe.edu.sg</a></td>
-    <td><b>Miss Annalynna</b><br><a href="mailto:annalynna_ather_ts@moe.edu.sg">annalynna_ather_ts@moe.edu.sg</a></td>
+    <td>2D</td>
+    <td><b>Miss Ng Seow Hwei, Ivine</b><br>
+    <a href="mailto:ng_seow_hwei@moe.edu.sg">ng_seow_hwei@moe.edu.sg</a></td>
+    <td><b>Mdm Goh Wan Lin</b>
+    <br>
+    <a href="mailto:goh_wan_lin@moe.edu.sg">goh_wan_lin@moe.edu.sg</a>
+    <br>
+    <b>Mdm Quek Li Pei, Grace</b><br>
+    <a href="mailto:quek_li_pei_grace@moe.edu.sg">quek_li_pei_grace@moe.edu.sg</a></td>
   </tr>
   
   <tr>
-    <td>1E</td>
-    <td><b>Miss Asfalinda</b><br><a href="mailto:asfalinda_asmawi@moe.edu.sg">asfalinda_asmawi@moe.edu.sg</a></td>
-    <td><b>Mr Mohamed Shodikin Wahid</b><br><a href="mailto:mohamed_shodikin_wahid@moe.edu.sg">mohamed_shodikin_wahid@moe.edu.sg</a></td>
+    <td>2E</td>
+    <td><b>Mrs Adeline Koh</b><br>
+    <a href="mailto:zhong_peiqin_adeline@moe.edu.sg">zhong_peiqin_adeline@moe.edu.sg</a></td>
+    <td><b>Mr Kenny Chua</b><br>
+    <a href="mailto:chua_koon_hwa_kenny@moe.edu.sg">chua_koon_hwa_kenny@moe.edu.sg</a></td>
   </tr>
   
   <tr>
-    <td>1F</td>
-    <td><b>Miss Nadzirah</b><br><a href="mailto:nadzirah_azhar@moe.edu.sg">nadzirah_azhar@moe.edu.sg</a></td>
-    <td><b>Miss Nurul Asyikin</b><br><a href="mailto:nurul_asyikin_muzlan@moe.edu.sg">nurul_asyikin_muzlan@moe.edu.sg</a></td>
+    <td>2F</td>
+    <td><b>Ms Faeqa</b><br>
+    <a href="mailto:faeqa_fizla_muhammad_rajaie@moe.edu.sg">faeqa_fizla_muhammad_rajaie@moe.edu.sg</a></td>
+    <td><b>Miss Chan Xue Ting</b><br>
+    <a href="mailto:chan_xue_ting@moe.edu.sg">chan_xue_ting@moe.edu.sg</a></td>
   </tr>
   
   <tr>
-    <td>1G</td>
-    <td><b>Miss Toh Kiat Meng, Penny</b><br><a href="mailto:toh_kiat_meng@moe.edu.sg">toh_kiat_meng@moe.edu.sg</a></td>
-    <td><b>Mrs Celia Goh</b><br><a href="mailto:tan_guat_beng@moe.edu.sg">tan_guat_beng@moe.edu.sg</a>
+    <td>2G</td>
+    <td><b>Mdm Nurul</b><br><a href="mailto:nurul_ain_saparuan@moe.edu.sg">nurul_ain_saparuan@moe.edu.sg</a></td>
+    <td><b>Mdm Tan Sin Hwee, Dawn</b><br>
+    <a href="mailto:tan_sin_hwee@moe.edu.sg">tan_sin_hwee@moe.edu.sg</a>
 			<br>
-			<b>Mdm Tan Kai Ying</b><br><a href="mailto:tan_kai_ying_a@moe.edu.sg">tan_kai_ying_a@moe.edu.sg</a></td>
+			<b>Miss Liew Wen Rin</b><br>
+            <a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a></td>
   </tr>
 
   <tr>
-    <td>1H</td>
-    <td><b>Miss Tan Siew Lian</b><br><a href="mailto:tan_siew_lian_b@moe.edu.sg">tan_siew_lian_b@moe.edu.sg</a></td>
-    <td><b>Ms Nur Shafizah</b><br><a href="mailto:nur_shafizah_johan@moe.edu.sg">nur_shafizah_johan@moe.edu.sg</a></td>
+    <td>2H</td>
+    <td><b>Mdm Ling Wei Ching, Janet</b><br>
+    <a href="mailto:ling_wei_ching@moe.edu.sg">ling_wei_ching@moe.edu.sg</a></td>
+    <td><b>Mdm Aniza</b><br><a href="mailto:aniza_samat@moe.edu.sg">aniza_samat@moe.edu.sg</a>
+    <br>
+    <b>Mr Weng Kaibin</b><br>
+    <a href="weng_kaibin@moe.edu.sg">weng_kaibin@moe.edu.sg</a></td>
   </tr>
   
 </tbody>
