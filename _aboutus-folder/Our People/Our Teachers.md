@@ -10,7 +10,7 @@ Teachers
 
 | Column 1 | Column 2 column | Column 3 Column|
 | -------- | ------------ | ------------ |
-| Text     | Text     | Text     |
+| 1A     | Mdm Yong Lay Pheng <br>[yong_lay_pheng@moe.edu.sg](mailto:yong_lay_pheng@moe.edu.sg)     | Text     |
 
 
 
