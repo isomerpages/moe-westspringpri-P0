@@ -6,6 +6,16 @@ third_nav_title: Our People
 ---
 Teachers
 ===========================================
+| **Primary 1**|  |  |
+| :---: | :---: | :---: |
+| 1A     | Yong Lay Pheng<br>[yong_lay_pheng@moe.edu.sg](mailto:yong_lay_pheng@moe.edu.sg)     | Ms Casey Ng<br>[ng_hui_wun_casey@moe.edu.sg](mailto:ng_hui_wun_casey@moe.edu.sg)   |
+| 1B     | Mr Rahmat<br>[rahmat_ramli@moe.edu.sg](mailto:rahmat_ramli@moe.edu.sg)     | Miss Guan Xiaoting<br>[guan_xiaoting@moe.edu.sg](mailto:guan_xiaoting@moe.edu.sg)    |
+| 1C     | Mr Lim Kim Sze<br>[lim_kim_sze@moe.edu.sg](mailto:lim_kim_sze@moe.edu.sg)    | Mdm Nurwati Bte Sarip<br>[nurwati_sarip@moe.edu.sg](mailto:nurwati_sarip@moe.edu.sg)     |
+| 1D     | Mrs Irene Yong<br>[tan_wie_hong@moe.edu.sg](mailto:tan_wie_hong@moe.edu.sg)    | Miss Annalynna<br>[annalynna_ather_ts@moe.edu.sg](mailto:annalynna_ather_ts@moe.edu.sg)    |
+| 1E     | Miss Asfalinda<br>[asfalinda_asmawi@moe.edu.sg](mailto:asfalinda_asmawi@moe.edu.sg) | Mr Mohamed Shodikin Wahid<br>[mohamed_shodikin_wahid@moe.edu.sg](mailto:mohamed_shodikin_wahid@moe.edu.sg)    |
+| 1F     | Miss Nadzirah <br>[nadzirah_azhar@moe.edu.sg](mailto:nadzirah_azhar@moe.edu.sg)    | Miss Nurul Asyikin<br>[nurul_asyikin_muzlan@moe.edu.sg](mailto:nurul_asyikin_muzlan@moe.edu.sg)    |
+| 1G     | Miss Toh Kiat Meng, Penny<br>[toh_kiat_meng@moe.edu.sg](mailto:toh_kiat_meng@moe.edu.sg)     | Mrs Celia Goh<br>[tan_guat_beng@moe.edu.sg](mailto:tan_guat_beng@moe.edu.sg)    <br>Mdm Tan Kai Ying [tan_kai_ying_a@moe.edu.sg](mailto:tan_kai_ying_a@moe.edu.sg)|
+| 1H     | Miss Tan Siew Lian<br>[tan_siew_lian_b@moe.edu.sg](mailto:tan_siew_lian_b@moe.edu.sg)    | Ms Nur Shafizah<br>[nur_shafizah_johan@moe.edu.sg](mailto:nur_shafizah_johan@moe.edu.sg)    |
 
 
 
