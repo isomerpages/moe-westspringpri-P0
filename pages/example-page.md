@@ -9,9 +9,9 @@ table {
   width: 100%;
 }
 
-td {
+td, th {
   border: 1px solid #dddddd;
-  text-align: center;
+  text-align: right;
   padding: 8px;
 }
 
