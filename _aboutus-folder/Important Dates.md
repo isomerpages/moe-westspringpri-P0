@@ -25,7 +25,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>Important Dates</h2>
+<h2>Important Dates for Semester 1</h2>
 	
 <table>
   <tr>
