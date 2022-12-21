@@ -11,12 +11,13 @@ table {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: left;
+  text-align: center;
   padding: 8px;
 }
 
 tr:nth-child(1) {
   background-color: #9d4bfe;
+  color: white;
 }
 </style>
 
