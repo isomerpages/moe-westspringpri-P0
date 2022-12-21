@@ -7,6 +7,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  text-aligh: center;
 }
 
 td, th {
@@ -69,6 +70,12 @@ tr:nth-child(1) {
   </tr>
   <tr>
     <td><b>Mdm Tan Kai Ying</b><br><a href="mailto:tan_kai_ying_a@moe.edu.sg">tan_kai_ying_a@moe.edu.sg</a></td>
+  </tr>
+
+  <tr>
+    <td>1H</td>
+    <td><b>Miss Tan Siew Lian</b><br><a href="mailto:tan_siew_lian_b@moe.edu.sg">tan_siew_lian_b@moe.edu.sg</a></td>
+    <td><b>Ms Nur Shafizah</b><br><a href="mailto:nur_shafizah_johan@moe.edu.sg">nur_shafizah_johan@moe.edu.sg</a></td>
   </tr>
   
 </tbody>
