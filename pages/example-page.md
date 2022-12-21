@@ -15,14 +15,15 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
+tr:nth-child(1) {
   background-color: #dddddd;
 }
 </style>
 
-<table>
-  <tbody><tr>
-	<th>Date</th>
+<table border=1>
+  <tbody>
+  <tr>
+    <th>Date</th>
     <th>Level</th>
     <th>Event</th>
     <th>Remarks</th>
