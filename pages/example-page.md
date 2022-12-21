@@ -28,7 +28,7 @@ tr:nth-child(1) {
 }
 </style>
 
-<table border=1>
+<table>
   <tbody>
   <tr>
     <th colspan=3>Primary 1</th>
