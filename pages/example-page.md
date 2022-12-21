@@ -295,3 +295,72 @@ tr:nth-child(1) {
   </tr>
   
 </tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 5</th>
+  </tr>
+  <tr>
+    <td>5A</td>
+		<td><b>Ms Violet Pon</b><br>
+        <a href="mailto:pon_wai_han_violet@moe.edu.sg">pon_wai_han_violet@moe.edu.sg</a></td>
+    <td><b>Mr Abbas</b><br>
+    <a href="mailto:abbas_k_abdulla_kutty@moe.edu.sg">abbas_k_abdulla_kutty@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5B</td>
+    <td><b>Ms Jasmine Wong</b><br>
+    <a href="mailto:Jasmine_WONG_JING_XIN@moe.edu.sg">Jasmine_WONG_JING_XIN@moe.edu.sg</a></td>
+    <td><b>Mdm Tang Kuan Ying</b><br>
+    <a href="mailto:tang_kuan_ying@moe.edu.sg">tang_kuan_ying@moe.edu.sg</a>
+    <br>
+    <b>Mdm Cao Liu</b><br>
+    <a href="mailto:cao_liu@moe.edu.sg">cao_liu@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5C</td>
+    <td><b>Mrs Nanda</b><br>
+    <a href="mailto:thilakavaty_govindasamy@moe.edu.sg">thilakavaty_govindasamy@moe.edu.sg</a></td>
+    <td><b>Mr Din</b><br>
+    <a href="mailto:muhammad_fakhruddin_daud@moe.edu.sg">muhammad_fakhruddin_daud@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>5D</td>
+    <td><b>Mrs Zahid</b><br>
+    <a href="mailto:maria_roziah_zamani@moe.edu.sg">maria_roziah_zamani@moe.edu.sg</a></td>
+    <td><b>Ms Revathi</b>
+    <br>
+    <a href="mailto:revathi_raja_krishnan@moe.edu.sg">revathi_raja_krishnan@moe.edu.sg</a>
+    <br>
+    <b>Miss Gwen Toh</b>
+    <br>
+    <a href="mailto:gwen_toh@moe.edu.sg">gwen_toh@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5E</td>
+    <td><b>Miss Ho Shi Yin</b><br>
+    <a href="mailto:ho_shi_yin@moe.edu.sg">ho_shi_yin@moe.edu.sg</a></td>
+    <td><b>Mdm Zainab</b><br>
+    <a href="mailto:zainab_nawabi@moe.edu.sg">zainab_nawabi@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>5F</td>
+    <td><b>Mrs Lack Hwee Leng</b><br>
+    <a href="mailto:ong_hwee_leng@moe.edu.sg">ong_hwee_leng@moe.edu.sg</a></td>
+    <td><b>Mr Samuel Mok Zijun</b><br>
+    <a href="mailto:mok_zijun_samuel@moe.edu.sg">mok_zijun_samuel@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+</tbody>
