@@ -25,7 +25,7 @@ tr:nth-child(1) {
 <table border=1>
   <tbody>
   <tr>
-    <th colspan=3; align="center">Primary 1</th>
+    <td colspan=3; align="center">Primary 1</td>
   </tr>
   <tr>
     <td>1A</td>
@@ -79,14 +79,15 @@ tr:nth-child(1) {
   
 </tbody>
 </table>
+<br><br>
 
 <table border=1>
   <tbody>
   <tr>
-    <th colspan=3; align="center">Primary 1</th>
+    <td colspan=3; align="center">Primary 2</td>
   </tr>
   <tr>
-    <td>1A</td>
+    <td>2A</td>
 		<td><b>Mdm Yong Lay Pheng</b> <br><a href="mailto:yong_lay_pheng@moe.edu.sg">yong_lay_pheng@moe.edu.sg</a></td>
     <td><b>Ms Casey Ng</b><br><a href="mailto:ng_hui_wun_casey@moe.edu.sg">ng_hui_wun_casey@moe.edu.sg</a></td>
   </tr>
