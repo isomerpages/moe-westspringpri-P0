@@ -94,7 +94,5 @@ tr:nth-child(even) {
     <td>Sports Fiesta</td>
     <td>All levels</td>
 		<td>School hours</td>
-</table>
 
-</body>
 </html>
