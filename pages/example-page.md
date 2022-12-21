@@ -25,7 +25,7 @@ tr:nth-child(1) {
 <table border=1>
   <tbody>
   <tr>
-    <td colspan=3; align="center">Primary 1</td>
+    <th colspan=3>Primary 1</th>
   </tr>
   <tr>
     <td>1A</td>
@@ -84,7 +84,7 @@ tr:nth-child(1) {
 <table border=1>
   <tbody>
   <tr>
-    <td colspan=3; align="center">Primary 2</td>
+    <th colspan=3>Primary 2</th>
   </tr>
   <tr>
     <td>2A</td>
