@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Our People
 ---
 Teachers
-===========================
+===========================================
+
+
+| Column 1 | Column 2 column | Column 3 Column|
+| -------- | ------------ | ------------ |
+| Text     | Text     | Text     |
+
+
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
 	<tbody style="box-sizing: inherit;">
