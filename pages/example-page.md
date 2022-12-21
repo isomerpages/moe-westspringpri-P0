@@ -79,5 +79,5 @@ tr:nth-child(1) {
   </tr>
   
 </tbody>
-</table>
+
 </table>
