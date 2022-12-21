@@ -16,7 +16,7 @@ td, th {
 }
 
 tr:nth-child(1) {
-  background-color: #9d4bfe;
+  background-color: #f2f2f2;
   color: #ffffff;
 }
 </style>
