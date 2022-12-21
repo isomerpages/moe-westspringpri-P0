@@ -17,6 +17,7 @@ td, th {
 
 tr:nth-child(1) {
   background-color: #9d4bfe;
+	text-align: center;
   color: white;
 }
 </style>
@@ -33,8 +34,8 @@ tr:nth-child(1) {
   </tr>
   <tr>
     <td>1B</td>
-    <td>Mdm Yong Lay Pheng <br>yong_lay_pheng@moe.edu.sg</td>
-    <td>Ms Casey Ng <br>ng_hui_wun_casey@moe.edu.sg</td>
+    <td>Mr Rahmat <br><a href="rahmat_ramli@moe.edu.sg">rahmat_ramli@moe.edu.sg</a></td>
+    <td>Miss Guan Xiaoting<br><a href="guan_xiaoting@moe.edu.sg">guan_xiaoting@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
