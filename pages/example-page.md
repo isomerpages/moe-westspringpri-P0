@@ -364,3 +364,69 @@ tr:nth-child(1) {
   </tr>
   
 </tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 6</th>
+  </tr>
+  <tr>
+    <td>6A</td>
+		<td><b>Mdm Uma</b><br>
+        <a href="mailto:uma_mageswari@moe.edu.sg">uma_mageswari@moe.edu.sg</a></td>
+    <td><b>Mr Azhar</b><br>
+    <a href="mailto:azhar_mohamed_hussain@moe.edu.sg">azhar_mohamed_hussain@moe.edu.sg</a>
+    <br>
+    <b>Ms Nur Ashiqin</b>
+    <br>
+    <a href="mailto:nur_ashiqin_saat@moe.edu.sg">nur_ashiqin_saat@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>6B</td>
+    <td><b>Mr Lim Ker Wee</b><br>
+    <a href="mailto:lim_ker_wee@moe.edu.sg">lim_ker_wee@moe.edu.sg</a></td>
+    <td><b>Mdm Lee Seng Tiang</b><br>
+    <a href="mailto:lee_seng_tiang@moe.edu.sg">lee_seng_tiang@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>6C</td>
+    <td><b>Mdm Nur Atiqah</b><br>
+    <a href="mailto:nur_atiqah_musa@moe.edu.sg">nur_atiqah_musa@moe.edu.sg</a></td>
+    <td><b>Ms Chong Ming Jia</b><br>
+    <a href="mailto:chong_ming_jia@moe.edu.sg">chong_ming_jia@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>6D</td>
+    <td><b>Mdm Tang Sock Kien</b><br>
+    <a href="mailto:tang_sock_kien@moe.edu.sg">tang_sock_kien@moe.edu.sg</a></td>
+    <td><b>Mdm Nur Hafizah</b>
+    <br>
+    <a href="mailto:nur_hafizah_mazlan@moe.edu.sg">nur_hafizah_mazlan@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>6E</td>
+    <td><b>Mrs Pauline Soh</b><br>
+    <a href="mailto:quek_hui_hiang_pauline@moe.edu.sg">quek_hui_hiang_pauline@moe.edu.sg</a></td>
+    <td><b>Mr Chong Yew Fook</b><br>
+    <a href="mailto:chong_yew_fook@moe.edu.sg">chong_yew_fook@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>6F</td>
+    <td><b>Mr Adam Lim</b><br>
+    <a href="mailto:lim_pei_tsung@moe.edu.sg">lim_pei_tsung@moe.edu.sg</a></td>
+    <td><b>Mdm Norain</b><br>
+    <a href="mailto:norain_hassein@moe.edu.sg">norain_hassein@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+</tbody>
