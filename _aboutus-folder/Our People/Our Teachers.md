@@ -21,7 +21,7 @@ Teachers
 
 |        |       |        |
 | :---: | :---: | :---: |
-| 2A     | **Mdm Norhany** <br> norhany_mohd_yaicop@moe.edu.sg | **Mdm Masturah** <br> masturah_mohamed_mashoo@moe.edu.sg |
+| 2A     | **Mdm Norhany** <br> [norhany_mohd_yaicop@moe.edu.sg](mailto:norhany_mohd_yaicop@moe.edu.sg) | **Mdm Masturah** <br> masturah_mohamed_mashoo@moe.edu.sg |
 | 2B     | **Mdm Nur Fadilah** <br> nur\_fadilah\_mohd\_ariffin@moe.edu.sg | **Miss Ho Been Chieh, Jane** <br> ho\_been\_chieh@moe.edu.sg |
 | 2C     | **Mrs Tan- Cheong Yew Tze, Ruth**  <br> tan-\_cheong\_yew\_tze@moe.edu.sg| **Ms Mindy Wong** <br> wong\_min\_yin@moe.edu.sg |
 | 2D     | **Miss Ng Seow Hwei, Ivine** <br> ng\_seow\_hwei@moe.edu.sg | **Mdm Goh Wan Lin** <br> goh\_wan\_lin@moe.edu.sg <br>**Mdm Quek Li Pei, Grace** <br> quek\_li\_pei\_grace@moe.edu.sg |
