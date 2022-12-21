@@ -12,7 +12,7 @@ table {
 td, th {
   border: 1px solid #dddddd;
   text-align: right;
-  padding: 8px;
+  padding: 10px;
 }
 
 tr:nth-child(1) {
