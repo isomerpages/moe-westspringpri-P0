@@ -7,18 +7,442 @@ third_nav_title: Our People
 Teachers
 ===========================================
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-	<tbody style="box-sizing: inherit;">
-		<tr style="box-sizing: inherit; background: rgb(240, 240, 240);">
-			<td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1A</strong>
-			</td>
-			<td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Yong Lay Pheng<br style="box-sizing: inherit;"><a href="mailto:yong_lay_pheng@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">yong_lay_pheng@moe.edu.sg</a></td>
-			<td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Casey Ng<br style="box-sizing: inherit;"><a href="mailto:ng_hui_wun_casey@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ng_hui_wun_casey@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1B</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Rahmat Bin Ramli <br style="box-sizing: inherit;"><a href="mailto:rahmat_ramli@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">rahmat_ramli@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Guan Xiaoting<br style="box-sizing: inherit;"><a href="mailto:guan_xiaoting@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">guan_xiaoting@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1C</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Lim Kim Sze<br style="box-sizing: inherit;"><a href="mailto:lim_kim_sze@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">lim_kim_sze@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Nurwati Bte Sarip<br style="box-sizing: inherit;"><a href="mailto:nurwati_sarip@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nurwati_sarip@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1D</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Irene Yong<br style="box-sizing: inherit;"><a href="mailto:tan_wie_hong@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan_wie_hong@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Annalynna<br style="box-sizing: inherit;"><a href="mailto:annalynna_ather_ts@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">annalynna_ather_ts@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1E</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Asfalinda<br style="box-sizing: inherit;"><a href="mailto:asfalinda_asmawi@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">asfalinda_asmawi@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Mohamed Shodikin Wahid<br style="box-sizing: inherit;"><a href="mailto:mohamed_shodikin_wahid@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">mohamed_shodikin_wahid@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1F</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Nadzirah<br style="box-sizing: inherit;"><a href="mailto:nadzirah_azhar@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nadzirah_azhar@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Nurul Asyikin<br style="box-sizing: inherit;"><a href="mailto:nurul_asyikin_muzlan@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nurul_asyikin_muzlan@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1G</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Toh Kiat Meng, Penny<br style="box-sizing: inherit;"><a href="mailto:toh_kiat_meng@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">toh_kiat_meng@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mrs Celia Goh<br style="box-sizing: inherit;"><a href="mailto:tan_guat_beng@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan_guat_beng@moe.edu.sg</a><br style="box-sizing: inherit;">Mdm Tan Kai Ying<br style="box-sizing: inherit;"><a href="mailto:tan_kai_ying_a@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan_kai_ying_a@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">1H</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Tan Siew Lian<br style="box-sizing: inherit;"><a href="mailto:tan_siew_lian_b@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan_siew_lian_b@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Nur Shafizah Binte Johan<br style="box-sizing: inherit;"><a href="mailto:nur_shafizah_johan@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nur_shafizah_johan@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2A</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Norhany Bte Mohd Yaicop<br style="box-sizing: inherit;"><a href="mailto:norhany_mohd_yaicop@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">norhany_mohd_yaicop@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Masturah Bte Mohd Mashoo<br style="box-sizing: inherit;"><a href="mailto:masturah_mohamed_mashoo@moe.edu.sg" target="_blank" rel="noreferrer noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">masturah_mohamed_mashoo@moe.edu.sg</a></td></tr>
-		<tr style="box-sizing: inherit; background: rgb(230, 230, 230);">
-			<td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2B</strong></td>
-			<td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Nur Fadilah<br style="box-sizing: inherit;"><a href="mailto:nur_fadilah_mohd_ariffin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nur_fadilah_mohd_ariffin@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Jane Ho Been Chieh<br style="box-sizing: inherit;"><a href="mailto:Ho_BEEN_CHIEH@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">Ho_BEEN_CHIEH@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2C</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Ruth Tan<br style="box-sizing: inherit;"><a href="mailto:tan-_cheong_yew_tze@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan-_cheong_yew_tze@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Mindy Wong<br style="box-sizing: inherit;"><a href="mailto:wong_min_yin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">wong_min_yin@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2D</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Ng Seow Hwei Ivine<br style="box-sizing: inherit;"><a href="mailto:ng_seow_hwei@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ng_seow_hwei@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Goh Wan Lin<br style="box-sizing: inherit;"><a href="mailto:goh_wan_lin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">goh_wan_lin@moe.edu.sg</a><br style="box-sizing: inherit;">Mdm Grace Quek Li Pei<br style="box-sizing: inherit;"><a href="mailto:quek_li_pei_grace@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">quek_li_pei_grace@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2E</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Adeline Koh<br style="box-sizing: inherit;"><a href="mailto:zhong_peiqin_adeline@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">zhong_peiqin_adeline@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Kenny Chua<br style="box-sizing: inherit;"><a href="mailto:chua_koon_hwa_kenny@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chua_koon_hwa_kenny@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2F</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Faeqa<br style="box-sizing: inherit;"><a href="mailto:faeqa_fizla_muhammad_rajaie@moe.edu.sg" target="_blank" rel="noreferrer noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">faeqa_fizla_muhammad_rajaie@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Chan Xue Ting<br style="box-sizing: inherit;"><a href="mailto:chan_xue_ting@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chan_xue_ting@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2G</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Nurul<br style="box-sizing: inherit;"><a href="mailto:nurul_ain_saparuan@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nurul_ain_saparuan@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Tan Sin Hwee, Dawn<br style="box-sizing: inherit;"><a href="mailto:tan_sin_hwee@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan_sin_hwee@moe.edu.sg</a><br style="box-sizing: inherit;">Miss Liew Wen Rin<br style="box-sizing: inherit;"><a href="mailto:liew_wen_rin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">liew_wen_rin@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">2H</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Janet Ling Wei Ching<br style="box-sizing: inherit;"><a href="mailto:ling_wei_ching@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ling_wei_ching@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Aniza<br style="box-sizing: inherit;"><a href="mailto:aniza_samat@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">aniza_samat@moe.edu.sg</a><br style="box-sizing: inherit;">Mr Weng Kai Bin<br style="box-sizing: inherit;"><a href="mailto:weng_kaibin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">weng_kaibin@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">&nbsp;</td></tr>
-		<tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">3A</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Song Lay Leng, Angela<br style="box-sizing: inherit;"><a href="mailto:song_lay_leng_angela@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">song_lay_leng_angela@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Ngoi Yong Jian<br style="box-sizing: inherit;"><a href="mailto:ngoi_yong_jian@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ngoi_yong_jian@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">3B</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Kwan Wai Leong<br style="box-sizing: inherit;"><a href="mailto:kwan_wai_leong@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">kwan_wai_leong@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Chen Xiao Xiao<br style="box-sizing: inherit;"><a href="mailto:chen_xiaoxiao@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chen_xiaoxiao@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">3C</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Chu Wen Shen<br style="box-sizing: inherit;"><a href="mailto:chu_wen_shen@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chu_wen_shen@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Nur Shahidah Hafizza<br style="box-sizing: inherit;"><a href="mailto:nur_shahidah_hafizza@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nur_shahidah_hafizza@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">3D</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Teo Foong Min Yee<br style="box-sizing: inherit;"><a href="mailto:teo_foong_min_yee@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">teo_foong_min_yee@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr M Satheeswaran<br style="box-sizing: inherit;"><a href="mailto:M_SATHEESWARAN@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">M_SATHEESWARAN@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">3E</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Florence Wong<br style="box-sizing: inherit;"><a href="mailto:wong_khei_yee_florence@moe.edu.sg" target="_blank" rel="noreferrer noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">wong_khei_yee_florence@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Teng Mei Yoke<br style="box-sizing: inherit;"><a href="mailto:teng_mei_yoke@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">teng_mei_yoke@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">3F</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Fatin Nurul Ain Binti Suandi<br style="box-sizing: inherit;"><a href="mailto:Fatin_NURUL@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">Fatin_NURUL@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Miss Mazlina Bte Isnin<br style="box-sizing: inherit;"><a href="mailto:mazlina_isnin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">mazlina_isnin@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></td>
-		<td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">4A</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Ko Chen Wei<br style="box-sizing: inherit;"><a href="mailto:ko_chen_wei@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ko_chen_wei@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Ng Kwang Meng, James<br style="box-sizing: inherit;"><a href="mailto:ng_kwang_meng_james@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ng_kwang_meng_james@moe.edu.sg</a><br style="box-sizing: inherit;">Ms Liu Ying<br style="box-sizing: inherit;"><a href="mailto:liu_ying_b@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">liu_ying_b@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">4B</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Magdalene Chong<br style="box-sizing: inherit;"><a href="mailto:magdalene_chong_kiat_en@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">magdalene_chong_kiat_en@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Kwek Yao Chie<br style="box-sizing: inherit;"><a href="mailto:kwek_yao_chie@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">kwek_yao_chie@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">4C</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Kelly Phua Si Ying<br style="box-sizing: inherit;"><a href="mailto:phua_si_ying@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">phua_si_ying@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Liang Hong Poh<br style="box-sizing: inherit;"><a href="mailto:liang_hong_poh@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">liang_hong_poh@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">4D</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Leow Ke Yun<br style="box-sizing: inherit;"><a href="mailto:Leow_KE_YUN@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">Leow_KE_YUN@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Calvin Tan<br style="box-sizing: inherit;"><a href="mailto:tan_wui_nam@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tan_wui_nam@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">4E</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Justin Paolo<br style="box-sizing: inherit;"><a href="mailto:Justin_paolo@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">Justin_paolo@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Shalarnee D/O Raja Rethinam<br style="box-sizing: inherit;"><a href="mailto:shalarnee_raja_rethinam@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">shalarnee_raja_rethinam@moe.edu.sg</a><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">4F</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Suvitha<br style="box-sizing: inherit;"><a href="mailto:suvitha_prakass_pillay@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">suvitha_prakass_pillay@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Michael Chua<br style="box-sizing: inherit;"><a href="mailto:chua_yew_sein_michael@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chua_yew_sein_michael@moe.edu.sg</a><br style="box-sizing: inherit;">Ms Kavitha<br style="box-sizing: inherit;"><a href="mailto:kavitha_periyasamy@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">kavitha_periyasamy@moe.edu.sg</a></td></tr>
-		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">5A</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Violet Pon<br style="box-sizing: inherit;"><a href="mailto:pon_wai_han_violet@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">pon_wai_han_violet@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Abbas<br style="box-sizing: inherit;"><a href="mailto:abbas_k_abdulla_kutty@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">abbas_k_abdulla_kutty@moe.edu.sg</a><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">5B</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Jasmine Wong<br style="box-sizing: inherit;"><a href="mailto:Jasmine_WONG_JING_XIN@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">Jasmine_WONG_JING_XIN@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Tang Kuan Yingi<br style="box-sizing: inherit;"><a href="mailto:tang_kuan_ying@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tang_kuan_ying@moe.edu.sg</a><br style="box-sizing: inherit;">Mdm Cao Liu<br style="box-sizing: inherit;"><a href="mailto:cao_liu@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">cao_liu@moe.edu.sg</a></td></tr></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">5C</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Nanda<br style="box-sizing: inherit;"><a href="mailto:thilakavaty_govindasamy@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">thilakavaty_govindasamy@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Din<br style="box-sizing: inherit;"><a href="mailto:muhammad_fakhruddin_daud@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">muhammad_fakhruddin_daud@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">5D</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Zahid<br style="box-sizing: inherit;"><a href="mailto:maria_roziah_zamani@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">maria_roziah_zamani@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Revathi<br style="box-sizing: inherit;"><a href="mailto:revathi_raja_krishnan@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">revathi_raja_krishnan@moe.edu.sg</a><br style="box-sizing: inherit;">Miss Gwen Toh<br style="box-sizing: inherit;"><a href="mailto:gwen_toh@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">gwen_toh@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">5E</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Miss Ho Shi Yin<br style="box-sizing: inherit;"><a href="mailto:ho_shi_yin@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ho_shi_yin@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Zainab Bte Nawabi<br style="box-sizing: inherit;"><a href="mailto:zainab_nawabi@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">zainab_nawabi@moe.edu.sg</a><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">5F</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Lack Hwee Leng<br style="box-sizing: inherit;"><a href="mailto:ong_hwee_leng@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">ong_hwee_leng@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Samuel Mok Zijun<br style="box-sizing: inherit;"><a href="mailto:mok_zijun_samuel@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">mok_zijun_samuel@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">&nbsp;</strong></td>
-		<td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">&nbsp;</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);">
-		<td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">6A</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Uma<br style="box-sizing: inherit;"><a href="mailto:uma_mageswari@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">uma_mageswari@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Azhar B Mohamed Hussain<br style="box-sizing: inherit;"><a href="mailto:azhar_mohamed_hussain@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">azhar_mohamed_hussain@moe.edu.sg</a><br style="box-sizing: inherit;">Ms Nur Ashiqin<br style="box-sizing: inherit;"><a href="mailto:nur_ashiqin_saat@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nur_ashiqin_saat@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">6B</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Lim Ker Wee<br style="box-sizing: inherit;"><a href="mailto:lim_ker_wee@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">lim_ker_wee@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Lee Seng Tiang<br style="box-sizing: inherit;"><a href="mailto:lee_seng_tiang@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">lee_seng_tiang@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">6C</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Nur Atiqah<br style="box-sizing: inherit;"><a href="mailto:nur_atiqah_musa@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nur_atiqah_musa@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Chong Ming Jia<br style="box-sizing: inherit;"><a href="mailto:chong_ming_jia@moe.edu.sg" target="_blank" rel="noreferrer noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chong_ming_jia@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">6D</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Tang Sock Kien<br style="box-sizing: inherit;"><a href="mailto:tang_sock_kien@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">tang_sock_kien@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Nur Hafizah Binte Mazlan<br style="box-sizing: inherit;"><a href="mailto:nur_hafizah_mazlan@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">nur_hafizah_mazlan@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">6E</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mrs Pauline Soh<br style="box-sizing: inherit;"><a href="mailto:quek_hui_hiang_pauline@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">quek_hui_hiang_pauline@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Chong Yew Fook<br style="box-sizing: inherit;"><a href="mailto:chong_yew_fook@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">chong_yew_fook@moe.edu.sg</a></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-center" data-align="center" style="box-sizing: inherit; padding: 5px 10px; text-align: center; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">6F</strong></td><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Adam Lim<br style="box-sizing: inherit;"><a href="mailto:lim_pei_tsung@moe.edu.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">lim_pei_tsung@moe.edu.sg</a></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Norain Binte Hassein<br style="box-sizing: inherit;"><a href="mailto:norain_hassein@moe.edu.sg" target="_blank" rel="noreferrer noopener" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(160, 34, 214);">norain_hassein@moe.edu.sg</a></td></tr>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+}
+
+tr:nth-child(1) {
+  background-color: #9d4bfe;
+  font-color: #ffffff;
+}
+</style>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 1</th>
+  </tr>
+  <tr>
+    <td>1A</td>
+		<td><b>Mdm Yong Lay Pheng</b><br>
+        <a href="mailto:yong_lay_pheng@moe.edu.sg">yong_lay_pheng@moe.edu.sg</a></td>
+    <td><b>Ms Casey Ng</b><br>
+    <a href="mailto:ng_hui_wun_casey@moe.edu.sg">ng_hui_wun_casey@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>1B</td>
+    <td><b>Mr Rahmat</b><br>
+    <a href="mailto:rahmat_ramli@moe.edu.sg">rahmat_ramli@moe.edu.sg</a></td>
+    <td><b>Miss Guan Xiaoting</b><br>
+    <a href="mailto:guan_xiaoting@moe.edu.sg">guan_xiaoting@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>1C</td>
+    <td><b>Mr Lim Kim Sze</b><br>
+    <a href="mailto:lim_kim_sze@moe.edu.sg">lim_kim_sze@moe.edu.sg</a></td>
+    <td><b>Mdm Nurwati</b><br>
+    <a href="mailto:nurwati_sarip@moe.edu.sg">nurwati_sarip@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>1D</td>
+    <td><b>Mrs Irene Yong</b><br>
+    <a href="mailto:tan_wie_hong@moe.edu.sg">tan_wie_hong@moe.edu.sg</a></td>
+    <td><b>Miss Annalynna</b><br>
+    <a href="mailto:annalynna_ather_ts@moe.edu.sg">annalynna_ather_ts@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>1E</td>
+    <td><b>Miss Asfalinda</b><br>
+    <a href="mailto:asfalinda_asmawi@moe.edu.sg">asfalinda_asmawi@moe.edu.sg</a></td>
+    <td><b>Mr Mohamed Shodikin Wahid</b><br>
+    <a href="mailto:mohamed_shodikin_wahid@moe.edu.sg">mohamed_shodikin_wahid@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>1F</td>
+    <td><b>Miss Nadzirah</b><br>
+    <a href="mailto:nadzirah_azhar@moe.edu.sg">nadzirah_azhar@moe.edu.sg</a></td>
+    <td><b>Miss Nurul Asyikin</b><br>
+    <a href="mailto:nurul_asyikin_muzlan@moe.edu.sg">nurul_asyikin_muzlan@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>1G</td>
+    <td><b>Miss Toh Kiat Meng, Penny</b><br>
+    <a href="mailto:toh_kiat_meng@moe.edu.sg">toh_kiat_meng@moe.edu.sg</a></td>
+    <td><b>Mrs Celia Goh</b><br>
+    <a href="mailto:tan_guat_beng@moe.edu.sg">tan_guat_beng@moe.edu.sg</a>
+	<br>
+	<b>Mdm Tan Kai Ying</b><br>
+    <a href="mailto:tan_kai_ying_a@moe.edu.sg">tan_kai_ying_a@moe.edu.sg</a></td>
+  </tr>
+
+  <tr>
+    <td>1H</td>
+    <td><b>Miss Tan Siew Lian</b><br>
+    <a href="mailto:tan_siew_lian_b@moe.edu.sg">tan_siew_lian_b@moe.edu.sg</a></td>
+    <td><b>Ms Nur Shafizah</b><br>
+    <a href="mailto:nur_shafizah_johan@moe.edu.sg">nur_shafizah_johan@moe.edu.sg</a></td>
+  </tr>
+  
+</tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 2</th>
+  </tr>
+  <tr>
+    <td>2A</td>
+		<td><b>Mdm Norhany</b> <br><a href="mailto:norhany_mohd_yaicop@moe.edu.sg">norhany_mohd_yaicop@moe.edu.sg</a></td>
+    <td><b>Mdm Masturah</b><br><a href="mailto:masturah_mohamed_mashoo@moe.edu.sg">masturah_mohamed_mashoo@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>2B</td>
+    <td><b>Mdm Nur Fadilah</b><br><a href="mailto:nur_fadilah_mohd_ariffin@moe.edu.sg">nur_fadilah_mohd_ariffin@moe.edu.sg</a></td>
+    <td><b>Miss Ho Been Chieh</b><br><a href="mailto:ho_been_chieh@moe.edu.sg">ho_been_chieh@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>2C</td>
+    <td><b>Mrs Tan- Cheong Yew Tze, Ruth</b><br>
+    <a href="mailto:tan-_cheong_yew_tze@moe.edu.sg">tan-_cheong_yew_tze@moe.edu.sg</a></td>
+    <td><b>Ms Mindy Wong</b><br>
+    <a href="mailto:wong_min_yin@moe.edu.sg">wong_min_yin@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>2D</td>
+    <td><b>Miss Ng Seow Hwei, Ivine</b><br>
+    <a href="mailto:ng_seow_hwei@moe.edu.sg">ng_seow_hwei@moe.edu.sg</a></td>
+    <td><b>Mdm Goh Wan Lin</b>
+    <br>
+    <a href="mailto:goh_wan_lin@moe.edu.sg">goh_wan_lin@moe.edu.sg</a>
+    <br>
+    <b>Mdm Quek Li Pei, Grace</b><br>
+    <a href="mailto:quek_li_pei_grace@moe.edu.sg">quek_li_pei_grace@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>2E</td>
+    <td><b>Mrs Adeline Koh</b><br>
+    <a href="mailto:zhong_peiqin_adeline@moe.edu.sg">zhong_peiqin_adeline@moe.edu.sg</a></td>
+    <td><b>Mr Kenny Chua</b><br>
+    <a href="mailto:chua_koon_hwa_kenny@moe.edu.sg">chua_koon_hwa_kenny@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>2F</td>
+    <td><b>Ms Faeqa Fizla</b><br>
+    <a href="mailto:faeqa_fizla_muhammad_rajaie@moe.edu.sg">faeqa_fizla_muhammad_rajaie@moe.edu.sg</a></td>
+    <td><b>Miss Chan Xue Ting</b><br>
+    <a href="mailto:chan_xue_ting@moe.edu.sg">chan_xue_ting@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>2G</td>
+    <td><b>Mdm Nurul Ain</b><br><a href="mailto:nurul_ain_saparuan@moe.edu.sg">nurul_ain_saparuan@moe.edu.sg</a></td>
+    <td><b>Mdm Tan Sin Hwee, Dawn</b><br>
+    <a href="mailto:tan_sin_hwee@moe.edu.sg">tan_sin_hwee@moe.edu.sg</a>
+			<br>
+			<b>Miss Liew Wen Rin</b><br>
+            <a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a></td>
+  </tr>
+
+  <tr>
+    <td>2H</td>
+    <td><b>Mdm Ling Wei Ching, Janet</b><br>
+    <a href="mailto:ling_wei_ching@moe.edu.sg">ling_wei_ching@moe.edu.sg</a></td>
+    <td><b>Mdm Aniza</b><br><a href="mailto:aniza_samat@moe.edu.sg">aniza_samat@moe.edu.sg</a>
+    <br>
+    <b>Mr Weng Kaibin</b><br>
+    <a href="weng_kaibin@moe.edu.sg">weng_kaibin@moe.edu.sg</a></td>
+  </tr>
+  
+</tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 3</th>
+  </tr>
+  <tr>
+    <td>3A</td>
+		<td><b>Mdm Song Lay Leng, Angela</b><br>
+        <a href="mailto:song_lay_leng_angela@moe.edu.sg">song_lay_leng_angela@moe.edu.sg</a></td>
+    <td><b>Mr Ngoi Yong Jian</b><br>
+    <a href="mailto:ngoi_yong_jian@moe.edu.sg">ngoi_yong_jian@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>3B</td>
+    <td><b>Mr Kwan Wai Leong</b><br>
+    <a href="mailto:kwan_wai_leong@moe.edu.sg">kwan_wai_leong@moe.edu.sg</a></td>
+    <td><b>Mdm Chen Xiao Xiao</b><br>
+    <a href="mailto:chen_xiaoxiao@moe.edu.sg">chen_xiaoxiao@moe.edu.sg</a><br>
+			<b>Ms Low Jing Xian</b>
+			<a href="mailto:"> </a>
+		</td>
+  </tr>
+  
+  <tr>
+    <td>3C</td>
+    <td><b>Mr Chu Wen Shen</b><br>
+    <a href="mailto:chu_wen_shen@moe.edu.sg">chu_wen_shen@moe.edu.sg</a></td>
+    <td><b>Miss Nur Shahidah Hafizza</b><br>
+    <a href="mailto:nur_shahidah_hafizza@moe.edu.sg">nur_shahidah_hafizza@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>3D</td>
+    <td><b>Mrs Teo Foong Min Yee</b><br>
+    <a href="mailto:teo_foong_min_yee@moe.edu.sg">teo_foong_min_yee@moe.edu.sg</a></td>
+    <td><b>Mr M Satheeswaran</b>
+    <br>
+    <a href="mailto:m_satheeswaran@moe.edu.sg">m_satheeswaran@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>3E</td>
+    <td><b>Mdm Florence Wong</b><br>
+    <a href="mailto:wong_khei_yee_florence@moe.edu.sg">wong_khei_yee_florence@moe.edu.sg</a></td>
+    <td><b>Mdm Teng Mei Yoke</b><br>
+    <a href="mailto:teng_mei_yoke@moe.edu.sg">teng_mei_yoke@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>3F</td>
+    <td><b>Miss Fatin Nurul Ain</b><br>
+    <a href="mailto:fatin_nurul@moe.edu.sg">fatin_nurul@moe.edu.sg</a></td>
+    <td><b>Miss Mazlina</b><br>
+    <a href="mailto:mazlina_isnin@moe.edu.sg">mazlina_isnin@moe.edu.sg</a></td>
+  </tr>
+  
+</tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 4</th>
+  </tr>
+  <tr>
+    <td>4A</td>
+		<td><b>Mr Ko Chen Wei</b><br>
+        <a href="mailto:ko_chen_wei@moe.edu.sg">ko_chen_wei@moe.edu.sg</a></td>
+    <td><b>Mr Ng Kwang Meng, James</b><br>
+    <a href="mailto:ng_kwang_meng_james@moe.edu.sg">ng_kwang_meng_james@moe.edu.sg</a>
+    <br>
+    <b>Ms Liu Ying</b><br>
+    <a href="mailto:liu_ying_b@moe.edu.sg">liu_ying_b@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>4B</td>
+    <td><b>Ms Magdalene Chong</b><br>
+    <a href="mailto:magdalene_chong_kiat_en@moe.edu.sg">magdalene_chong_kiat_en@moe.edu.sg</a></td>
+    <td><b>Mr Kwek Yao Chie</b><br>
+    <a href="mailto:kwek_yao_chie@moe.edu.sg">kwek_yao_chie@moe.edu.sg</a><br>
+			<b>Mdm Hong Yuning</b>
+			<a href="mailto:hong_yuning@moe.edu.sg">hong_yuning@moe.edu.sg</a>
+		</td>
+  </tr>
+  
+  <tr>
+    <td>4C</td>
+    <td><b>Ms Phua Si Ying, Kelly</b><br>
+    <a href="mailto:phua_si_ying@moe.edu.sg">phua_si_ying@moe.edu.sg</a></td>
+    <td><b>Mr Liang Hong Poh</b><br>
+    <a href="mailto:liang_hong_poh@moe.edu.sg">liang_hong_poh@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>4D</td>
+    <td><b>Miss Leow Ke Yun</b><br>
+    <a href="mailto:leow_ke_yun@moe.edu.sg">leow_ke_yun@moe.edu.sg</a></td>
+    <td><b>Mr Calvin Tan</b>
+    <br>
+    <a href="mailto:tan_wui_nam@moe.edu.sg">tan_wui_nam@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>4E</td>
+    <td><b>Mr Justin Paolo</b><br>
+    <a href="mailto:justin_paolo@moe.edu.sg">justin_paolo@moe.edu.sg</a></td>
+    <td><b>Mdm Tang Sock Kien</b><br>
+    <a href="mailto:tang_sock_kien@moe.edu.sg">tang_sock_kien@moe.edu.sg</a>
+		<br>
+			<b>Ms Chua Peh Xiang</b>
+			<br>
+			<a href="mailto:"> </a>
+		</td>
+  </tr>
+  
+  <tr>
+    <td>4F</td>
+    <td><b>Ms Suvitha</b><br>
+    <a href="mailto:suvitha_prakass_pillay@moe.edu.sg">suvitha_prakass_pillay@moe.edu.sg</a></td>
+    <td><b>Mr Michael Chua</b><br>
+    <a href="mailto:chua_yew_sein_michael@moe.edu.sg">chua_yew_sein_michael@moe.edu.sg</a><br>
+    <b>Ms Kavitha</b><br>
+    <a href="kavitha_periyasamy@moe.edu.sg">kavitha_periyasamy@moe.edu.sg</a></td>
+  </tr>
+  
+</tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 5</th>
+  </tr>
+  <tr>
+    <td>5A</td>
+		<td><b>Ms Violet Pon</b><br>
+        <a href="mailto:pon_wai_han_violet@moe.edu.sg">pon_wai_han_violet@moe.edu.sg</a></td>
+    <td><b>Mr Abbas</b><br>
+    <a href="mailto:abbas_k_abdulla_kutty@moe.edu.sg">abbas_k_abdulla_kutty@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5B</td>
+    <td><b>Ms Jasmine Wong</b><br>
+    <a href="mailto:Jasmine_WONG_JING_XIN@moe.edu.sg">Jasmine_WONG_JING_XIN@moe.edu.sg</a></td>
+    <td><b>Mdm Tang Kuan Ying</b><br>
+    <a href="mailto:tang_kuan_ying@moe.edu.sg">tang_kuan_ying@moe.edu.sg</a>
+    <br>
+    <b>Mdm Cao Liu</b><br>
+    <a href="mailto:cao_liu@moe.edu.sg">cao_liu@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5C</td>
+    <td><b>Mrs Nanda</b><br>
+    <a href="mailto:thilakavaty_govindasamy@moe.edu.sg">thilakavaty_govindasamy@moe.edu.sg</a></td>
+    <td><b>Mr Din</b><br>
+    <a href="mailto:muhammad_fakhruddin_daud@moe.edu.sg">muhammad_fakhruddin_daud@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>5D</td>
+    <td><b>Mrs Zahid</b><br>
+    <a href="mailto:maria_roziah_zamani@moe.edu.sg">maria_roziah_zamani@moe.edu.sg</a></td>
+    <td><b>Mdm Revathi</b>
+    <br>
+    <a href="mailto:revathi_raja_krishnan@moe.edu.sg">revathi_raja_krishnan@moe.edu.sg</a>
+    <br>
+    <b>Miss Gwen Toh</b>
+    <br>
+    <a href="mailto:gwen_toh@moe.edu.sg">gwen_toh@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5E</td>
+    <td><b>Miss Ho Shi Yin</b><br>
+    <a href="mailto:ho_shi_yin@moe.edu.sg">ho_shi_yin@moe.edu.sg</a></td>
+    <td><b>Mdm Zainab</b><br>
+    <a href="mailto:zainab_nawabi@moe.edu.sg">zainab_nawabi@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>5F</td>
+    <td><b>Mrs Lack Hwee Leng</b><br>
+    <a href="mailto:ong_hwee_leng@moe.edu.sg">ong_hwee_leng@moe.edu.sg</a></td>
+    <td><b>Mr Samuel Mok Zijun</b><br>
+    <a href="mailto:mok_zijun_samuel@moe.edu.sg">mok_zijun_samuel@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+</tbody>
+</table>
+<br><br>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th colspan=3>Primary 6</th>
+  </tr>
+  <tr>
+    <td>6A</td>
+		<td><b>Mdm Uma Mageswari</b><br>
+        <a href="mailto:uma_mageswari@moe.edu.sg">uma_mageswari@moe.edu.sg</a></td>
+    <td><b>Mr Azhar</b><br>
+    <a href="mailto:azhar_mohamed_hussain@moe.edu.sg">azhar_mohamed_hussain@moe.edu.sg</a>
+    <br>
+    <b>Ms Nur Ashiqin</b>
+    <br>
+    <a href="mailto:nur_ashiqin_saat@moe.edu.sg">nur_ashiqin_saat@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>6B</td>
+    <td><b>Mr Lim Ker Wee</b><br>
+    <a href="mailto:lim_ker_wee@moe.edu.sg">lim_ker_wee@moe.edu.sg</a></td>
+    <td><b>Mdm Lee Seng Tiang</b><br>
+    <a href="mailto:lee_seng_tiang@moe.edu.sg">lee_seng_tiang@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>6C</td>
+    <td><b>Mdm Nur Atiqah</b><br>
+    <a href="mailto:nur_atiqah_musa@moe.edu.sg">nur_atiqah_musa@moe.edu.sg</a></td>
+    <td><b>Ms Chong Ming Jia</b><br>
+    <a href="mailto:chong_ming_jia@moe.edu.sg">chong_ming_jia@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+		<td>6D</td>
+		<td><b>Mdm Nur Hafizah</b>
+    <br>
+    <a href="mailto:nur_hafizah_mazlan@moe.edu.sg">nur_hafizah_mazlan@moe.edu.sg</a>
+    </td>
+		<td><b>Mdm Shalarnee</b><br>
+    <a href="mailto:shalarnee_raja_rethinam@moe.edu.sg">shalarnee_raja_rethinam@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>6E</td>
+    <td><b>Mrs Pauline Soh</b><br>
+    <a href="mailto:quek_hui_hiang_pauline@moe.edu.sg">quek_hui_hiang_pauline@moe.edu.sg</a></td>
+    <td><b>Mr Chong Yew Fook</b><br>
+    <a href="mailto:chong_yew_fook@moe.edu.sg">chong_yew_fook@moe.edu.sg</a></td>
+  </tr>
+  
+  <tr>
+    <td>6F</td>
+    <td><b>Mr Adam Lim</b><br>
+    <a href="mailto:lim_pei_tsung@moe.edu.sg">lim_pei_tsung@moe.edu.sg</a></td>
+    <td><b>Mdm Norain</b><br>
+    <a href="mailto:norain_hassein@moe.edu.sg">norain_hassein@moe.edu.sg</a>
+    </td>
+  </tr>
+  
+</tbody>
