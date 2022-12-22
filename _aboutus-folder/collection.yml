@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Hours 2022/.keep
-      - School Hours 2022/Contact Us.md
       - Vision, Mission & Values.md
       - Our School Song.md
       - Our School Logo.md
