@@ -12,7 +12,7 @@ table {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: center;
+  text-align: center;
   padding: 10px;
 }
 
