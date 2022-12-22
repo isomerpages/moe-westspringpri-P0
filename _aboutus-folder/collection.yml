@@ -2,9 +2,8 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - Our School Song.md
-      - Important Dates.md
       - Vision, Mission & Values.md
+      - Our School Song.md
       - School Logo.md
       - School Code of Conduct.md
       - Our People/.keep
@@ -18,4 +17,5 @@ collections:
       - Our Stakeholders/Our School Advisory Committee.md
       - Our Stakeholders/Our PSG.md
       - Our Stakeholders/Our Alumni.md
+      - Important Dates.md
       - Contact Us.md
