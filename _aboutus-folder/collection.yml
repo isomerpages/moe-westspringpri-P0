@@ -2,9 +2,8 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - Contact Us/.keep
-      - School Hours 2022/Contact Us.md
       - School Hours 2022/.keep
+      - School Hours 2022/Contact Us.md
       - Vision, Mission & Values.md
       - Our School Song.md
       - Our School Logo.md
@@ -21,3 +20,4 @@ collections:
       - Our Stakeholders/Our PSG.md
       - Our Stakeholders/Our Alumni.md
       - Important Dates.md
+      - Contact Us/.keep
