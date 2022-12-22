@@ -264,7 +264,7 @@ tr:nth-child(1) {
     <a href="mailto:magdalene_chong_kiat_en@moe.edu.sg">magdalene_chong_kiat_en@moe.edu.sg</a></td>
     <td><b>Mr Kwek Yao Chie</b><br>
     <a href="mailto:kwek_yao_chie@moe.edu.sg">kwek_yao_chie@moe.edu.sg</a><br>
-			<b>Mdm Hong Yuning</b>
+			<b>Mdm Hong Yuning</b><br>
 			<a href="mailto:hong_yuning@moe.edu.sg">hong_yuning@moe.edu.sg</a>
 		</td>
   </tr>
