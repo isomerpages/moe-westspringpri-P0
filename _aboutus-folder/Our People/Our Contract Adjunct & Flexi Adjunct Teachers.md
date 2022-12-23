@@ -9,7 +9,7 @@ third_nav_title: Our People
 Please contact the General Office at 6314 4192 if you like to get in touch with the following staff.
 
 
-|  Contract Adjunct Teachers (CAJT) |
+|  <h5>Contract Adjunct Teachers (CAJT)</h5>|
 | -------- | 
 | Mdm Juita Bte Neemat  | 
 | Mr Nicholas Ee  | 
