@@ -46,3 +46,81 @@ tr:nth-child(1) {
 		</tr>
 	</tbody>
 	</table>
+	<br>
+<table border=1>
+  <tbody>
+  <tr>
+    <th>Flexi Adjunct Teachers (FAJT))</th>
+  </tr>
+		<tr>
+			<td>
+				Mr Abdolah Bin Lamat
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ms Ang Khiang Hong, Wendy
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Mdm Ng Chay Hwang
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Mr Wafei Hidayat Nasron
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Mdm Hsu Yuh Fui
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Ms Teng Shi Min
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Ms Sugitha
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Mdm Liang Huiting
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Ms Chen Ching Ching
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Mr Mahmud Bin Hussain
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Mrs Bala
+			</td>
+		</tr>
+				<tr>
+			<td>
+				Ms Ng Shok Hwa, Gail
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ms Chan Melly
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ms Chan Mei Yann
+			</td>
+		</tr>
+		
+		
