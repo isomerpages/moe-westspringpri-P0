@@ -8,36 +8,41 @@ third_nav_title: Our People
 
 Please contact the General Office at 6314 4192 if you like to get in touch with the following staff.
 
-##### Contract Adjunct Teachers (CAJT)
 
-<table border="1">
-	<tr>
-		<td>Mdm Juita Bte Neemat</td>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: left;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(1) {
+  background-color: #9d4bfe;
+  font-color: #ffffff;
+}
+</style>
+
+<table border=1>
+  <tbody>
+  <tr>
+    <th>Contract Adjunct Teachers (CAJT)</th>
+  </tr>
+		<tr>
+			<td>
+				Mdm Juita Bte Neemat
+			</td>
 		</tr>
 		<tr>
-		<td>Mr Nicholas Ee</td>
-	</tr>
+			<td>
+				Mr Nicholas Ee
+			</td>
+		</tr>
+	</tbody>
 	</table>
-
-
-|#####Contract Adjunct Teachers (CAJT)|
-| -------- | 
-| Mdm Juita Bte Neemat  | 
-| Mr Nicholas Ee  | 
-
-<br>
-
-| <h5>Flexi Adjunct Teachers (FAJT)</h5> |  | 
-| -------- | -------- |
-| Text     | Text     | 
-
-
-
-
-##### Contract Adjunct Teachers (CAJT)
-<table class="has-fixed-layout" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; table-layout: fixed; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; word-break: break-word; border-color: transparent;">Mdm Juita Bte Neemat</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Nicholas Ee</td></tr></table>
-
-
-<h5> Flexi Adjunct Teachers (FAJT)</h5>
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Abdolah</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Chen Ching Ching</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Mahmud Bin Hussain</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Ng Chay Hwang</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Wafei Hidayat Nasron</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Ms Wendy Ang</td></tr>
