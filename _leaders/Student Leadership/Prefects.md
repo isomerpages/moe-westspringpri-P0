@@ -4,3 +4,8 @@ permalink: /leaders/Student-Leadership/prefects/
 description: ""
 third_nav_title: Student Leadership
 ---
+![](/images/Prefects1.jpg)
+
+![]()
+
+![]()
