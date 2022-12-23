@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /announcement/
         - title: Quicklinks
           description: ""
           url: https://gmail.com
@@ -25,4 +25,3 @@ sections:
       button: Let's Go
       url: /schooltour/
 ---
-
