@@ -13,7 +13,6 @@ Please contact the General Office at 6314 4192 if you like to get in touch with 
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 50%;
   text-align: left;
 }
 
