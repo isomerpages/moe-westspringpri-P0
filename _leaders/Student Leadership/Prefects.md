@@ -6,6 +6,6 @@ third_nav_title: Student Leadership
 ---
 ![](/images/Prefects1.jpg)
 
-![]()
+![](/images/Prefects2%20reupload.jpg)
 
-![]()
+![](/images/Prefects3.jpg)
