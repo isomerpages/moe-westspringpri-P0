@@ -11,4 +11,3 @@ Through these programmes, students hone their critical thinking and project mana
 As a result, an equal emphasis is placed  on helping communities and providing relevant learning experiences to the CCE champions.
 
 ![](/images/CCE%20Champ.jpg)
-
