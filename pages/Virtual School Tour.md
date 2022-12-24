@@ -40,5 +40,8 @@ Welcome to our Programme for Active Learning (PAL) Room!
 Welcome to our playground! 
 <iframe src="https://player.vimeo.com/video/783796448?h=191643ee3d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Playground"></iframe>
 
-Welcome to our 
-<iframe src="https://player.vimeo.com/video/783796448?h=191643ee3d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Playground"></iframe>
+Welcome to our Science Laboratories! 
+We have 2 Science Laboratories: 
+1) World of Life Science 
+2) World of Physical Science 
+<iframe src="https://player.vimeo.com/video/783796435?h=7125942f7e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Science Lab"></iframe>
