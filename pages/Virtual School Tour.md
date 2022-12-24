@@ -34,5 +34,6 @@ Welcome to our Life Garden!
 Welcome to our Net A-Maze!
 <iframe src="https://player.vimeo.com/video/783796476?h=82e5eecc6c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Net A Maze"></iframe>
 
-Welcome to our 
-<iframe src="https://player.vimeo.com/video/783796476?h=82e5eecc6c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Net A Maze"></iframe>
+Welcome to our Programme for Active Learning (PAL) Room!
+<iframe src="https://player.vimeo.com/video/783796463?h=839c7caaac&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="PAL"></iframe>
+
