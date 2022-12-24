@@ -20,12 +20,10 @@ Welcome to our Eco Garden!
 <iframe src="https://player.vimeo.com/video/783795924?h=65ba2834b1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Eco Pond"></iframe>
 
 Welcome to our Indoor Sports Hall (ISH)!
-<iframe src="https://player.vimeo.com/video/783796038?h=5204a8b51d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ISH"></iframe>
+<iframe src="https://player.vimeo.com/video/783796038?h=5204a8b51d&badge=0&autopause=0&player_id=0&app_id=58479/embed"width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ISH"></iframe>
 
 Welcome to our Libraries! 
-We have 2 libraries: 
-1) Woods of Wonder (WoW)
-2) Oceans of Wonder
+We have 2 libraries: 1) Woods of Wonder (WoW) and 2) Oceans of Wonder.
 <iframe src="https://player.vimeo.com/video/783796024?h=a3b2134849&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Library"></iframe>
 
 Welcome to our Life Garden!
@@ -40,8 +38,5 @@ Welcome to our Programme for Active Learning (PAL) Room!
 Welcome to our playground! 
 <iframe src="https://player.vimeo.com/video/783796448?h=191643ee3d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Playground"></iframe>
 
-Welcome to our Science Laboratories! 
-We have 2 Science Laboratories: 
-1) World of Life Science 
-2) World of Physical Science 
+Welcome to our Science Laboratories! We have 2 Science Laboratories: 1) World of Life Science and 2) World of Physical Science. 
 <iframe src="https://player.vimeo.com/video/783796435?h=7125942f7e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Science Lab"></iframe>
