@@ -14,7 +14,7 @@ sections:
           url: /announcement/
         - title: Quicklinks
           description: ""
-          url: https://gmail.com
+          url: /quicklinks/
         - title: Latest Happenings
           description: ""
           url: /privacy/
