@@ -3,6 +3,7 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
+**First day of school**
 Dear West Springers, 
 
 Hope all of you have had a well-rested school break. The first day of school is: 
@@ -11,4 +12,4 @@ Hope all of you have had a well-rested school break. The first day of school is:
 
 We look forward to seeing you back in school for another year of learning! 
 
-See you! 
+See you!
