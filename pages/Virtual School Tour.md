@@ -23,7 +23,7 @@ Welcome to our Indoor Sports Hall (ISH)!
 <iframe title="ISH" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="480" width="700" src="https://player.vimeo.com/video/783796038?h=5204a8b51d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479/embed"></iframe>
 
 Welcome to our Libraries! 
-We have 2 libraries: 1) Woods of Wonder (WoW) and 2) Oceans of Wonder.
+We have 2 libraries: 1) Woods of Wonder (WOW) and 2) Oceans of Wonder (OOW).
 <iframe title="Library" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="480" width="700" src="https://player.vimeo.com/video/783796024?h=a3b2134849&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
 Welcome to our Life Garden!
