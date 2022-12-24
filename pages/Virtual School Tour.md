@@ -13,5 +13,6 @@ Welcome to the Astro Turf!
 Welcome to the School Canteen! 
 <iframe src="https://player.vimeo.com/video/783795997?h=02c8a8f89d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Canteen"></iframe>
 
-Welcome to the Deli!
+Welcome to the DELI (The Delightful Experience in Learning & Interaction) Room!
 <iframe src="https://player.vimeo.com/video/783795956?h=df3bf46d99&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="DELI"></iframe>
+
