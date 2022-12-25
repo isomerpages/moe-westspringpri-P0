@@ -4,6 +4,8 @@ permalink: /leaders/Overview/StudentLeadershipStructure/
 description: ""
 third_nav_title: Overview
 ---
+![](/images/SLbanner.png)
+
 The West Spring Primary School Student Leader strives to serves as role models for peers, creating standards of excellence and setting an example for others to follow.
 #### **CLOVE (Cultivating Leaders Of ValuEs)**
 
@@ -24,5 +26,3 @@ The school has put in place a student leadership framework which aims to develop
 ### **Developmental Programmes (Prefects)**
 
 ![](/images/Student%20leadership%202.jpg)
-
-
