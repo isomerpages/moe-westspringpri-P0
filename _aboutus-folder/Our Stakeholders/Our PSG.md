@@ -8,6 +8,15 @@ The Parent Support Group (PSG) is made up of dedicated parents who actively coll
 
 ##### 2023 Exco Team
 
+
+
+| |  | 
+| -------- | -------- |
+| Chairperson    | Yew Wan Ling     |
+| Vice-Chairperson | Lyn Yao|
+
+
+
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Chairperson</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Yew Wan Ling</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Vice-Chairperson</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Lyn Yao</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Secretary</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Lee Xin Yee, Cindy</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Treasurer</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Kathryn Koh Yen Lin</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Dads for Life</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Lau Tze Siang, Kendrick</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">EMERGE</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Vilathur Srinivasan Rama Devi</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Media</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Lau Tze Siang, Kendrick <p>Lyn Yao</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Advisor to Chairperson</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Ronny Chin</td></tr></tbody></table>
 
 <p>
