@@ -3,9 +3,6 @@ title: MOE FAS application
 permalink: /moefas/
 description: ""
 ---
-MOE FAS
-=======
-
 Dear Parent/Guardian,
 
 **MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)**
