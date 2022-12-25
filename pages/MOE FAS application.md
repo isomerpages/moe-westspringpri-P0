@@ -18,5 +18,3 @@ If you have any enquiries, please contact the school General Office at 63144192.
 Useful Link: 
 
 * [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance)
-
-[**MOE Pamphlet 2022**](https://westspringpri.moe.edu.sg/wp-content/uploads/2021/10/MOE_FAS_Pamphlet_2022.pdf)
