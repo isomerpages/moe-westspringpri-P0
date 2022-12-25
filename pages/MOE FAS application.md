@@ -18,3 +18,9 @@ If you have any enquiries, please contact the school General Office at 63144192.
 Useful Link: 
 
 * [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance)
+
+The subsidy provisions and income eligibility criteria for MOE FAS and SPED FAS will be revised from 1 Jan 2023. Learn more about it through MOE's press releases:
+
+*   [Enhanced financial support  
+    ](https://www.moe.gov.sg/news/press-releases/20220824-enhanced-financial-support-for-needy-students-amidst-rising-cost-pressures)
+*   [Revised income criteria](https://www.moe.gov.sg/news/press-releases/20221014-more-than-10000-students-to-benefit-from-revised-income-criteria-for-moe-financial-assistance-schemes-and-increased-ite-bursary-quanta)
