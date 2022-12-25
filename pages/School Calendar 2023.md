@@ -59,3 +59,5 @@ Monday, 23 February |
 | Teachers’ Day | Friday, 1 September |
 | Children’s Day  
 (for primary schools and primary sections of full schools only) | Friday, 6 October |
+
+The school terms and holidays for 2023 are also listed on the MOE's website at [https://www.moe.gov.sg/calendar](https://www.moe.gov.sg/calendar).
