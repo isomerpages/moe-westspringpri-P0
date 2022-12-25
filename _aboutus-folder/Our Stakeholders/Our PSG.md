@@ -101,7 +101,6 @@ th:nth-child(1) {
  Ronny Chin
 </td>
 </tr>
-
 </table>
 <br>
 
@@ -205,4 +204,3 @@ th:nth-child(1) {
 </tr>
 <tr>
 <td>Ong Pei Boon</td>
-</tr>
