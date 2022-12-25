@@ -54,8 +54,8 @@ Monday, 23 February |
 | SCHEDULED SCHOOL HOLIDAYS | DATE |
 | --- | --- |
 | Youth Day | Sunday, 2 July  
-(The following Monday, 4 July will be a scheduled school holiday.) |
-| Day after National Day | Wednesday, 10 August |
-| Teachers’ Day | Friday, 2 September |
+(The following Monday, 3 July will be a scheduled school holiday.) |
+| Day after National Day | Thursday, 10 August |
+| Teachers’ Day | Friday, 1 September |
 | Children’s Day  
-(for primary schools and primary sections of full schools only) | Friday, 7 October |
+(for primary schools and primary sections of full schools only) | Friday, 6 October |
