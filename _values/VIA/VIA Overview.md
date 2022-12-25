@@ -4,10 +4,7 @@ permalink: /values/CCE-Programmes/VIAoverview/
 description: ""
 third_nav_title: VIA
 ---
-
-
-
-
+![](/images/Valuesbanner.png)
 # Values in Action
 
 Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community.
