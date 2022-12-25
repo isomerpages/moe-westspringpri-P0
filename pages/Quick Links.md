@@ -3,6 +3,7 @@ title: Quick Links
 permalink: /quicklinks/
 description: ""
 ---
+# For Parents
 *   [School Calendar 2023](https://westspringpri.moe.edu.sg/for-parents/schoolcalendar/)
 *   [WSPS School Calendar of Events 2022](https://westspringpri.moe.edu.sg/aboutus-folder/important-dates/)
 *   [MOE FAS](https://westspringpri.moe.edu.sg/for-parents/moe-fas/)
