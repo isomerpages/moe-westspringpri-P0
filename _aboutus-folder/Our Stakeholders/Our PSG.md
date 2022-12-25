@@ -6,6 +6,23 @@ third_nav_title: Our Stakeholders
 ---
 The Parent Support Group (PSG) is made up of dedicated parents who actively collaborate, organize and support activities and events in the school. By volunteering their expertise, talent and time, the PSG inspires and guides fellow parents as well as students. This strong parent-school connection supports the school’s efforts in the holistic development of West Springers.
 
+
+
+|2023 Exco Team |  |
+| -------- | -------- | 
+| Chairperson |Yew Wan Ling |
+|Vice-Chairperson | Lyn Yao |
+|Secretary | Lee Xin Yee, Cindy |
+|Treasurer | Kathryn Koh Yen Lin |
+|Dads of Life | Lau Yze Siang, Kendrick |
+|EMERGE | Vilathur Srinivasan Rama Devi |
+|Media | Lau Tze Siang, Kendrick <br> Lyn Yao |
+|Advisor to Chairperson | Ronny Chin |
+
+
+
+
+
 <style>
 table {
   font-family: arial, sans-serif;
