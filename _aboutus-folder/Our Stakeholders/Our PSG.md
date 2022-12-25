@@ -13,7 +13,7 @@ table {
   text-align: center;
 }
 
-td, th {
+td, tr {
   border: 1x solid #dddddd;
   text-align: center;
   padding: 5px;
@@ -101,7 +101,7 @@ th:nth-child(1) {
  Ronny Chin
 </td>
 </tr>
-</table>
+
 <br>
 
 <h3>2023 Level Representatives</h3>
@@ -121,7 +121,9 @@ th:nth-child(1) {
 <td>Vilathur Srinivasan Rama Devi</td>
 </tr>
 </table>
+
 <br>
+
 <table border=1>
 <tr>
 <th>Primary 2</th>
@@ -204,3 +206,5 @@ th:nth-child(1) {
 </tr>
 <tr>
 <td>Ong Pei Boon</td>
+</tr>
+</table>
