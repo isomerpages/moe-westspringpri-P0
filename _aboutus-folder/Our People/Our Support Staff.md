@@ -4,23 +4,306 @@ permalink: /aboutus-folder/Our-People/supportstaff/
 description: ""
 third_nav_title: Our People
 ---
-##### Our Admin Staff
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Administrative Manager</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mrs Kalai</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Administrative Manager</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Woon Hui Ping</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Administrative Executive</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Noorshirin Binte Musa</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Administrative Executive</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Tan Wan Ling</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Administrative Executive</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Nurul Nadia Binte Azuar</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Administrative Executive</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Samsuliah</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Corporate Support Office</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mdm Joyce Khoo</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Corporate Support Office</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Asyrani Binte Abu Bakar</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Corporate Support Office</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Karen Lee</td></tr><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Operational Manager</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Muthu</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"></tbody></table>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: center;
+}
 
-##### Our OSOs
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Ng Peng</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Koh Choon Sian</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Mimi Wardah Binte Sahmat</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Aishah Binte Sudal</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Jasman Bin Warso</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Siti Khadijah Bte Amer</td></tr></tbody></table>
+td, th {
+  border: 1x solid #dddddd;
+  text-align: center;
+  padding: 5px;
+}
 
-##### Our ICT Support Team
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Desktop Engineer</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Mr Baqir</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">ICT Associate </td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">Ms Lim Hui Ling</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"></table>
+</style>
 
-##### Our Security Guards
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 472.667px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Tan Keng Guan</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Richard Lim</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Jasmine Purvanesary </td></tr></tbody></table>
+<h3>Our Admin Staff</h3>
 
-##### Our Cleaners
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Goh Roslina Bte Adb Rahim</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Azizah Bte Mahadi</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Norimah Bin Noor</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Melati Binte Mamat</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Normah Bte Yim</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Ilaiya Bte Kassim</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Shi Gui Feng</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Khoo Hock Seng</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mr Tan Soon Lee</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Ang Hoon (MK)</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left; border-color: transparent;">Mdm Ee Bee Hong (MK)</td></tr></tbody></table>
+<table border=1>
+<tr>
+ <td>
+  <b>Administration Manager</b>
+ </td>
+ <td>
+  Mrs Kalai
+ </td>
+</tr>
 
-##### Our Dentist
-Ms Royati
+<tr>
+ <td>
+  <b>Administration Manager</b>
+ </td>
+ <td>
+  Ms Woon Hui Ping
+ </td>
+</tr>
 
-##### Our Librarian
-Ms Nur Atika Binte Sulaiman
+<tr>
+ <td>
+  <b>Operations Manager</b>
+ </td>
+ <td>
+  Mr Muthu
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Administrative Executive</b>
+ </td>
+ <td>
+  Mdm Noorshirin
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Administrative Executive</b>
+ </td>
+ <td>
+  Ms Tan Wan Ling
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Administrative Executive</b>
+ </td>
+ <td>
+  Ms Nurul Nadia
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Administrative Executive</b>
+ </td>
+ <td>
+  Mdm Samsuliah
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Corporate Support Office</b>
+ </td>
+ <td>
+  Mdm Joyce Khoo
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Corporate Support Office</b>
+ </td>
+ <td>
+  Ms Asyrani
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <b>Corporate Support Office</b>
+ </td>
+ <td>
+  Ms Karen Lee
+ </td>
+</tr>
+
+</table>
+
+<br>
+
+<h3>Our Operations Support Officer</h3>
+
+<table border=1>
+
+<tr>
+ <td>
+  Mr Ng Peng
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Mr Koh Choon Sian
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Mr Jasman
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Mdm Mimi Wardah
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Mdm Aishah
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Mdm Siti Khadijah
+ </td>
+</tr>
+
+</table>
+<br>
+<h3>Our ICT Support Team</h3>
+
+<table border=1>
+<tr>
+ <td>
+ Desktop Engineer
+ </td>
+ <td>
+ Mr Ravinder Singh
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Desktop Engineer
+ </td>
+ <td>
+ Mr Muhammad Albaqir
+ </td>
+</tr>
+
+<tr>
+ <td>
+ ICT Associate
+ </td>
+ <td>
+ Ms Lim Hui Ling
+ </td>
+</tr>
+</table>
+
+<br>
+<h3>Our Security Guards</h3>
+
+<table border=1>
+<tr>
+ <td>
+ Mr Tan Keng Guan
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mr Richard Lim
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Jasmine Purvanesary
+ </td>
+</tr>
+
+</table>
+
+<br>
+
+<h3>Our Cleaners</h3>
+
+<table border=1>
+<tr>
+ <td>
+ Mdm Goh Roslina Bte Adb Rahim
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Azizah Bte Mahadi
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Norimah Bin Noor
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Melati Binte Mamat
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Normah Bte Yim
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Ilaiya Bte Kassim
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Shi Gui Feng
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mr Khoo Hock Seng
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mr Tan Soon Lee
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Ang Hoon (MK)
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Mdm Ee Bee Hong (MK)
+ </td>
+</tr>
+
+</table>
+
+<br>
+
+<h3>Our Dentist</h3>
+
+<table border=1>
+<tr>
+ <td>
+ Ms Royati
+ </td>
+</tr>
+
+</table>
+
+<h3>Our Librarian</h3>
+<table border=1>
+<tr>
+ <td>
+ Ms Nur Atika Binte Sulaiman
+ </td>
+</tr>
+</table>
