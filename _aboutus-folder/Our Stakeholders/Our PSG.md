@@ -7,58 +7,130 @@ third_nav_title: Our Stakeholders
 The Parent Support Group (PSG) is made up of dedicated parents who actively collaborate, organize and support activities and events in the school. By volunteering their expertise, talent and time, the PSG inspires and guides fellow parents as well as students. This strong parent-school connection supports the school’s efforts in the holistic development of West Springers.
 
 
-### 2023 Exco Team
-|||
-| -------- | -------- | 
-| Chairperson |Yew Wan Ling |
-|Vice-Chairperson | Lyn Yao |
-|Secretary | Lee Xin Yee, Cindy |
-|Treasurer | Kathryn Koh Yen Lin |
-|Dads of Life | Lau Yze Siang, Kendrick |
-|EMERGE | Vilathur Srinivasan Rama Devi |
-|Media | Lau Tze Siang, Kendrick <br> Lyn Yao |
-|Advisor to Chairperson | Ronny Chin |
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td, th {
+  border: 1x solid #dddddd;
+  text-align: center;
+  padding: 5px;
+}
+
+th:nth-child(1) {
+  background-color: #9d4bfe;
+  font-color: #ffffff;
+}
+
+</style>
+
+<h3>2023 Exco Team</h3>
+
+<table border=1>
+<tr>
+ <td>
+  Chairperson
+ </td>
+ <td>
+  Yew Wan Ling
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Vice-Chairperson
+ </td>
+ <td>
+  Lyn Yao
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Secretary
+ </td>
+ <td>
+  Lee Xin Yee, Cindy 
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Treasurer
+ </td>
+ <td>
+  Kathryn Koh Yen Lin
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Dads for Life
+ </td>
+ <td>
+  Lau Yze Siang, Kendrick
+ </td>
+</tr>
+
+<tr>
+ <td>
+  EMERGE
+ </td>
+ <td>
+  Vilathur Srinivasan Rama Devi
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Media
+ </td>
+ <td>
+  Lau Tze Siang, Kendrick
+  <br>
+  Lyn Yao
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Advisor to Chairperson
+ </td>
+ <td>
+  Ronny Chin
+ </td>
+</tr>
+
+</table>
+
+<h3>2023 Level Representatives</h3>
+
+<table border=1>
+
+<tr>
+ <th>Primary 1</th>
+</tr>
+
+<tr>
+ <td>
+ Lee Xin Yee, Cindy
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Eng Whyeteck
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Vilathur Srinivasan Rama Devi
+ </td>
+</tr>
 
 
-### 2023 Level Representatives
-
-|Primary 1|
-|--------|
-|Lee Xin Yee, Cindy|
-|Eng Whyeteck|
-|Vilathur Srinivasan Rama Devi|
-
-
-|Primary 2|
-|--------|
-|Koh Chiew Hoon Mary|
-|Hashidah Binte Mohd Yusof|
-|Yohanna Kho|
-
-
-|Primary 3|
-|--------|
-|Rasheedha|
-|Fivany Ng|
-|Lee Xin Yee, Cindy|
-
-
-|Primary 4|
-|--------|
-|Peh Geok Lan, Jasmine|
-|Alicia Lee Wee Yong|
-|Ronny Chin|
-
-
-|Primary 5|
-|--------|
-|Koh Yen Lin, Kathryn|
-|Lyn Yao|
-|Ong Hai Yong|
-
-
-|Primary 6|
-|--------|
-|Koh Chiew Hoon, Mary|
-|Wong Ai Ling, Wynn|
-|Ong Pei Boon|
+</table>
