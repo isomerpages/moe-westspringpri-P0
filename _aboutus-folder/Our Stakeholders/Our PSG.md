@@ -32,7 +32,7 @@ th:nth-child(1) {
 <table border=1>
 <tr>
  <td>
-  Chairperson
+	 <b>Chairperson</b>
  </td>
  <td>
   Yew Wan Ling
@@ -41,7 +41,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  Vice-Chairperson
+	 <b>Vice-Chairperson</b>
  </td>
  <td>
   Lyn Yao
@@ -50,7 +50,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  Secretary
+	 <b>Secretary</b>
  </td>
  <td>
   Lee Xin Yee, Cindy 
@@ -59,7 +59,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  Treasurer
+	 <b>Treasurer</b>
  </td>
  <td>
   Kathryn Koh Yen Lin
@@ -68,7 +68,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  Dads for Life
+	 <b>Dads for Life</b>
  </td>
  <td>
   Lau Yze Siang, Kendrick
@@ -77,7 +77,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  EMERGE
+	 <b>EMERGE</b>
  </td>
  <td>
   Vilathur Srinivasan Rama Devi
@@ -86,7 +86,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  Media
+	 <b>Media</b>
  </td>
  <td>
   Lau Tze Siang, Kendrick
@@ -97,7 +97,7 @@ th:nth-child(1) {
 
 <tr>
  <td>
-  Advisor to Chairperson
+	 <b>Advisor to Chairperson</b>
  </td>
  <td>
   Ronny Chin
