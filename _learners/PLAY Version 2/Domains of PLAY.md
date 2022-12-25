@@ -4,6 +4,7 @@ permalink: /learners/playv2/
 description: ""
 third_nav_title: PLAY Version 2
 ---
+![](/images/PLAYbanner.png)
 **A snapshot of Purposeful Learning Activities for the Young (PLAY) @ West Spring Primary**
 
 Our 5 domains of the Purposeful Learning Activities for the Young (PLAY) prepare our students well for their secondary education by:
