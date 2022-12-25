@@ -45,7 +45,7 @@ tr:nth-child(1) {
 		</tr>
 	</tbody>
 	</table>
-	
+<br>
 <table border=1>
   <tbody>
   <tr>
