@@ -132,5 +132,134 @@ th:nth-child(1) {
  </td>
 </tr>
 
+</table>
+<br>
+<table border=1>
+
+<tr>
+ <th>Primary 2</th>
+</tr>
+
+<tr>
+ <td>
+ Koh Chiew Hoon Mary
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Hashidah Binte Mohd Yusof
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Yohanna Kho
+ </td>
+</tr>
+
+</table>
+<br>
+<table border=1>
+
+<tr>
+ <th>Primary 3</th>
+</tr>
+
+<tr>
+ <td>
+ Rasheedha
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Fivany Ng
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Lee Xin Yee, Cindy
+ </td>
+</tr>
+
+</table>
+<br>
+<table border=1>
+
+<tr>
+ <th>Primary 4</th>
+</tr>
+
+<tr>
+ <td>
+ Peh Geok Lan, Jasmine
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Alicia Lee Wee Yong
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Ronny Chin
+ </td>
+</tr>
+
+</table>
+<br>
+<table border=1>
+
+<tr>
+ <th>Primary 5</th>
+</tr>
+
+<tr>
+ <td>
+ Koh Yen Lin, Kathryn
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Lyn Yao
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Ong Hai Yong
+ </td>
+</tr>
+
+</table>
+<br>
+<table border=1>
+
+<tr>
+ <th>Primary 5</th>
+</tr>
+
+<tr>
+ <td>
+ Koh Chiew Hoon, Mary
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Wong Ai Ling, Wynn
+ </td>
+</tr>
+
+<tr>
+ <td>
+ Ong Pei Boon
+ </td>
+</tr>
 
 </table>
