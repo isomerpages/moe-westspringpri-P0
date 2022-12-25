@@ -22,7 +22,7 @@ td, th {
 
 th:nth-child(1) {
   background-color: #9d4bfe;
-  font-color: #ffffff;
+  color: #ffffff;
 }
 
 </style>
