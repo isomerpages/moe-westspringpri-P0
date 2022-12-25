@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/wspshero-banner.png
+      background: /images/Home Banner V2.jpg
       key_highlights:
         - title: Announcements
           description: ""
