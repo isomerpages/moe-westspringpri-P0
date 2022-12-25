@@ -241,7 +241,7 @@ th:nth-child(1) {
 <table border=1>
 
 <tr>
- <th>Primary 5</th>
+ <th>Primary 6</th>
 </tr>
 
 <tr>
