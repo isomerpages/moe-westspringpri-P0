@@ -4,6 +4,8 @@ permalink: /passion/Co-Curricular-Activities-CCA/cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+![](/images/CCAbanner.png)
+
 # Physical Sports
 * [🏸Badminton](https://staging.d2i1deds856vl0.amplifyapp.com/passion/Co-Curricular-Activities-CCA/physicalsports/badminton/)
 * [🏀Basketball](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/basketball/)
