@@ -3,7 +3,7 @@ title: School Calendar 2023
 permalink: /schoolcalendar2023/
 description: ""
 ---
-School Calendar 2022
+School Calendar 2023
 ====================
 
 **School Term, Term Breaks, Public and School Holidays**
