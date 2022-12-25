@@ -10,10 +10,39 @@ The Parent Support Group (PSG) is made up of dedicated parents who actively coll
 
 
 
-| |  | 
-| -------- | -------- |
-| Chairperson    | Yew Wan Ling     |
-| Vice-Chairperson | Lyn Yao|
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td, th {
+  border: 0x solid #dddddd;
+  text-align: center;
+}
+
+tr:nth-child(1) {
+  background-color: #9d4bfe;
+  font-color: #ffffff;
+}
+</style>
+
+<table>
+<tr>
+<td colspan=2>2023 Exco Team
+</td>
+
+</tr>
+<tr>
+<td>
+ Chairperson
+</td>
+<td>
+ Yew Wan Ling
+</td>
+</tr>
+</table>
 
 
 
