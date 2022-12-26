@@ -4,6 +4,8 @@ permalink: /learners/Dramatic-PLAY/PerformingArts/
 description: ""
 third_nav_title: Dramatic PLAY
 ---
+![](/images/PLAYbanner.png)
+
 ![](/images/Slide1-5-1024x576.jpg)
 
 ![](/images/Slide5-4-1024x576.jpg)
