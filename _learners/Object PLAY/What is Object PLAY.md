@@ -4,5 +4,6 @@ permalink: /learners/objectplay/whatisobject/
 description: ""
 third_nav_title: Object PLAY
 ---
-![](/images/Object-PLAY-723x1024.jpg)
+![](/images/PLAYbanner.png)
 
+![](/images/Object-PLAY-723x1024.jpg)
