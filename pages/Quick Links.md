@@ -9,7 +9,7 @@ description: ""
 *   [MOE FAS](/moefas/)
 *   [Students Care in WSPS](/studentcarewsps/)
 *   [School Canteen Menu](/schoolcanteenmenu/)
-*   [Triple P programme](https://westspringpri.moe.edu.sg/quicklink-parents/triple-p-programme/)
+*   [Triple P programme](/tripleP/)
 *   [Parents’ Gateway](https://pg.moe.edu.sg/)
 *   [MOE Schoolbag](https://www.schoolbag.edu.sg/)
 *   [WSPS Facebook](https://www.facebook.com/West-Spring-Primary-763228920471063/)
