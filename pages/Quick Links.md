@@ -21,11 +21,35 @@ description: ""
 
 
 
-For Students
-========
+# For Students
 
 *   [Students Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [eZhishi](https://www.ezhishi.net/)
 *   [Student iCON](https://workspace.google.com/dashboard)
 
 
+# For Staff
+_Website required to connect VPN_
+
+*   [MOE Intranet Application](http://intranet.moe.gov.sg/Pages/Home.aspx)
+*   [MOE HR Portal](http://intranet.moe.gov.sg/hronline/)
+*   [HRMS for Schools](https://hrms.moe.gov.sg/)
+*   [iEXAMS 2](https://iexams.seab.gov.sg/)
+*   [mCARE 2.0](https://mcare.moe.gov.sg/)
+*   [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
+*   [Reset IAMS Password](https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx)
+*   [SSOE 2 Portal](https://ssoe2.moe.edu.sg/)
+
+*   [PaC@Gov](http://www.pac.gov.sg/)
+*   [Parents Gateway](https://pg.moe.edu.sg/)
+*   [SC Mobile](https://scmobile.moe.edu.sg/login)
+*   [ICON 2.0](https://icon.moe.edu.sg/)
+*   [Resource Booking System (RBS)](https://rbs.avero-tech.com/)
+
+**Educational Links:**
+
+*   [iMTL Portal](https://imtl.moe.edu.sg/)
+*   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
+*   [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
+*   [Students Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+*   [ezhishi.net](https://www.ezhishi.net/)
