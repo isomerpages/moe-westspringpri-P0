@@ -24,7 +24,7 @@ Log in with MIMS
 2.  At the MIMS login page, enter your MIMS username and password.
     
 
-![](https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/Teacher/LTM1.png)
+
 
 4.  Click **Sign in**.
     
