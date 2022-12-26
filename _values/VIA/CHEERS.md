@@ -4,6 +4,8 @@ permalink: /values/VIA/cheers/
 description: ""
 third_nav_title: VIA
 ---
+![](/images/Valuesbanner.png)
+
 # Project Cheers in collaboration with NW CDC
 
 Primary 5 students were involved in the ‘**G**et **I**nvolve, **R**each out and **A**ct **F**und **F**or the **E**nvironment’ initiative known as **GIRAFFE** which was organised by the North West Community Development Council (CDC).
