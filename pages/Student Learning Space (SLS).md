@@ -3,7 +3,8 @@ title: Student Learning Space (SLS)
 permalink: /sls/
 description: ""
 ---
-# Log in with MIMS (New)
+Log in with MIMS (New)
+======================
 
 You can log in to SLS in 2 ways:
 
@@ -24,11 +25,11 @@ Log in with MIMS
 2.  At the MIMS login page, enter your MIMS username and password.
     
 
+![](/images/sls1.png)
 
-
-4.  Click **Sign in**.
+3.  Click **Sign in**.
     
-5.  Upon successful authentication, you will be brought to the SLS homepage.
+4.  Upon successful authentication, you will be brought to the SLS homepage.
     
 
   
@@ -38,7 +39,7 @@ Unable to Sign-in to MIMS Account
 
 * * *
 
-Please approach your teacher or MIMS student administrator for assistance. If you are unable to contact a teacher but urgently need to access SLS, you can click **Login with SLS** on the main login page to log in with your SLS username and password.
+Please approach your teacher or MIMS student administrator for assistance. If you are unable to contact a teacher but urgently need to access SLS, you can click **Login with SLS** on the main login page to log in with your SLS username (begins with SLS-XXXXX) and password.
 
   
 
