@@ -15,7 +15,7 @@ If you are eligible and wish to apply for the MOE FAS, please click [[here](htt
 
 If you have any enquiries, please contact the school General Office at 63144192.
 
-Useful Link: 
+**Useful Links: **
 
 * [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
