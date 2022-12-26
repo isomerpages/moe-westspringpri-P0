@@ -3,10 +3,9 @@ title: Triple P Programme
 permalink: /tripleP/
 description: ""
 ---
-Triple P Programme
-==================
+# Triple P Programme
 
-#### **Parenting Support Programmes**
+**Parenting Support Programmes**
 
 There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why [Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/) can help.
 
