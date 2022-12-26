@@ -4,6 +4,8 @@ permalink: /learners/PLAY-Version-2/Achievingbalance/
 description: ""
 third_nav_title: PLAY Version 2
 ---
+![](/images/PLAYbanner.png)
+
 All departments follow the MOE syllabus and curriculum and lessons are taught accordingly as such. Besides using the PLAY approach to learning, students are also required to spend time attempting the exercises found in MOE prescribed textbooks/workbooks. In addition, additional worksheets are given to students to reinforce their learning. At an appropriate juncture in the students’ learning, individual desk work is also being conducted weekly for students to familiarize themselves with the pen and paper type of assessments. In short, there is a good balance between integrating PLAY in learning and conducting didactic teaching where necessary.
 
 There’ll be more PLAY at the lower primary levels as it’s very important to get children to love learning from young. If learning lacks PLAY from young, the child might come to dislike learning when older. It’s important for children to discover the joy of learning.
