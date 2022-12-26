@@ -77,4 +77,3 @@ For more enquiries, you may email to [NEUPC@imda.gov.sg](mailto:NEUPC@imda.gov.
 
 Information taken from IMDA's website: (last updated on): 01 Dec 2022
 https://www.imda.gov.sg/neupc
-
