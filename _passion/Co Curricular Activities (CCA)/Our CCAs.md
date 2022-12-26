@@ -13,6 +13,7 @@ third_nav_title: Co Curricular Activities (CCA)
 * [🏓Table Tennis](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/tabletennis/)
 * [🧗‍♂️Outdoor Adventure Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/outdoor/)
 * [🥋Wushu](https://staging.d2i1deds856vl0.amplifyapp.com/cca/physicalsports/wushu/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid032kxsJaVACXahCxc7sw6icwRNuWdrzcQ3D49SxhU2pd9pnVpaz7sTAfGMK1p4E1D3l%26id%3D763228920471063&show_text=true&width=500" width="500" height="735" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # Visual & Performing Arts
 * [🎨Art & Crafts Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/artcraftsclub/)
@@ -21,6 +22,7 @@ third_nav_title: Co Curricular Activities (CCA)
 * [📷Digital Media Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/digitalmediaclub/)
 * [🩰Modern Dance](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/moderndance/)
 * [🎵Percussion Ensemble](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/percussionensemble/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid033nUzw2pLAGAnW3upCq715qcs8EydezEesugeUjmYRhrZH9nCqiGafwguxpHYXQnWl%26id%3D763228920471063&show_text=true&width=500" width="500" height="748" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # Uniformed Group
 * [🔍Scouts](https://staging.d2i1deds856vl0.amplifyapp.com/cca/uniformedgp/scouts/) 
