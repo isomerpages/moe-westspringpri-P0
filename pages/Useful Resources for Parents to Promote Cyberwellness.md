@@ -5,8 +5,12 @@ description: ""
 ---
 Useful Resources for Parents to Promote Cyber Wellness
 ======================================================
+![](/images/Cyber-Wellness_01.jpg)
+Access the guide [here](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf).
 
-[![](https://westspringpri.moe.edu.sg/wp-content/uploads/2022/01/Cyber-Wellness_01.jpg)](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)  [![](https://westspringpri.moe.edu.sg/wp-content/uploads/2022/01/Cyber-Wellness_02.jpg)](http://https//www.schoolbag.edu.sg/story/quest-for-cyber-wellness)
+![](/images/Cyber-Wellness_02.jpg)
+
+
 
 | From MOE |
 | --- |
