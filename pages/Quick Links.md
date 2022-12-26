@@ -17,4 +17,4 @@ description: ""
 *   [Students Learning Space (SLS)](/sls/)
 *   [Google Classroom] 
 *   [NEU PC Plus Programme](/neupcplus/)
-*   [Useful Resources for Parents to Promote Cyber Wellness](https://westspringpri.moe.edu.sg/cyberwellness-userful-resource-wsps/)
+*   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
