@@ -4,6 +4,7 @@ permalink: /learners/Object-PLAY/visualart/
 description: ""
 third_nav_title: Object PLAY
 ---
+![](/images/PLAYbanner.png)
 
 ![](/images/Object%20PLAY%20Slide1-1024x576.jpg)
 
