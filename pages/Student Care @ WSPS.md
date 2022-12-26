@@ -3,11 +3,8 @@ title: Student Care @ WSPS
 permalink: /studentcarewsps/
 description: ""
 ---
-Student Care@West Spring
-========================
-
-[![nascans](https://westspringpri.moe.edu.sg/wp-content/uploads/wp-content/uploads/2015/07/nascans-300x67.png)](https://westspringpri.moe.edu.sg/wp-content/wp-content/uploads/2015/07/nascans.png)
-===================================================================================================================================================================================================
+# Student Care@West Spring
+![](/images/nascans-300x67.png)
 
 NASCANS Student Care was set up at West Spring Primary School on 1 June 2016.
 
