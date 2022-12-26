@@ -18,7 +18,3 @@ West Springers start venturing into the outdoors once they begin their journey w
 |![](/images/School%20Facilities%20(old)/Outdoor%20Performing%20Theatre.jpg)    | Outdoor Performing Theatre ||
 |![](/images/School%20Facilities%20(old)/Herbs%20Garden.jpg)   | Herbs Garden||
 ![](/images/School%20Facilities%20(old)/Sandpit.jpg) | Sandpit||
-
-
-
-
