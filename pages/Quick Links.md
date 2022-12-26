@@ -18,3 +18,14 @@ description: ""
 *   [Google Classroom] 
 *   [NEU PC Plus Programme](/neupcplus/)
 *   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
+
+
+
+For Students
+========
+
+*   [Students Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+*   [eZhishi](https://www.ezhishi.net/)
+*   [Student iCON](https://workspace.google.com/dashboard)
+
+
