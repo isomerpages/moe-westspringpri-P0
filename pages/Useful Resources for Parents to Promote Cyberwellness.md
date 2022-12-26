@@ -9,7 +9,7 @@ Useful Resources for Parents to Promote Cyber Wellness
 Access the guide [here](https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf).
 
 ![](/images/Cyber-Wellness_02.jpg)
-
+![](/images/C-Quest%20Banner%20for%20School%20Website.png)
 
 
 | From MOE |
