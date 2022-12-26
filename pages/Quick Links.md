@@ -16,5 +16,5 @@ description: ""
 *   [ICT Helpdesk](https://go.gov.sg/wspshelpdesk)
 *   [Students Learning Space (SLS)](/sls/)
 *   [Google Classroom](Google-Classroom_For-Parents.pdf)
-*   [NEU PC Plus Programme](/moefas/)
+*   [NEU PC Plus Programme](/neupcplus/)
 *   [Useful Resources for Parents to Promote Cyber Wellness](https://westspringpri.moe.edu.sg/cyberwellness-userful-resource-wsps/)
