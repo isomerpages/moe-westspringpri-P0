@@ -14,12 +14,10 @@ You can log in to SLS in 2 ways:
 
   
 
-Log in with MIMS (for Secondary and JC/CI students)
+Log in with MIMS 
 ---------------------------------------------------
 
 * * *
-
-Note: This option is only applicable to MIMS users. For users whose SLS username begins with SLS-XXX, please log in via SLS existing login page.
 
 1.  From the main login page, click **Login with MIMS**.
     
