@@ -65,11 +65,6 @@ Application Forms can be obtained from [here](https://www.imda.gov.sg/neupc).
 
 _\*Ministry of Education Financial Assistance Scheme (MOE-FAS) is a financial assistance scheme provided by MOE to help the needy Singaporean families to reduce their burden in meeting essential school expenses and to ensure that no child will be denied an education due to financial reasons whereas Special Education Financial Assistance Scheme (SPED-FAS) is a financial assistance scheme provided by MOE, together with the National Council of Social Service for needy Singaporean students in MOE-funded SPED schools, this is to ensure that all Singaporean SPED students, regardless of their financial background, can benefit from the best opportunities in education._ 
 
-| Other information: |
-| --- |
-| Level of subsidy | [Click here (104.74KB)](https://www.imda.gov.sg/-/media/Imda/Files/Programme/NEU-PC-Plus/1-Level-of-Subsidy-PDF.pdf) |
-| Application Process & Partners | [Click here](https://www.imda.gov.sg/How-We-Can-Help/neu-pc-plus/Partners-and-Application-Process) |
-
 Other support available
 -----------------------
 
@@ -79,3 +74,7 @@ Feedback
 --------
 
 For more enquiries, you may email to [NEUPC@imda.gov.sg](mailto:NEUPC@imda.gov.sg) or call 6377 3800.
+
+Information taken from IMDA's website: (last updated on): 01 Dec 2022
+https://www.imda.gov.sg/neupc
+
