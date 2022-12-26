@@ -4,6 +4,8 @@ permalink: /learners/PLAY-Version-2/OurPhilosophy/
 description: ""
 third_nav_title: PLAY Version 2
 ---
+![](/images/PLAYbanner.png)
+
 ### Philosophy
 
 Creating a learning environment where students experience successes through meaningful learning and character development.
