@@ -4,6 +4,7 @@ permalink: /learners/Object-PLAY/MuseumBasedLearning/
 description: ""
 third_nav_title: Cognitive PLAY
 ---
+![](/images/PLAYbanner.png)
 
 ![](/images/Slide5-1-1024x576.jpg)
 
