@@ -7,7 +7,7 @@ description: ""
 * [School Calendar 2023](/schoolcalendar2023/)
 *   [WSPS School Calendar of Events 2023](/aboutus-folder/important-dates/)
 *   [MOE FAS](/moefas/)
-*   [Students Care in WSPS](https://westspringpri.moe.edu.sg/for-parents/student-careatwest-spring/)
+*   [Students Care in WSPS](/studentcarewsps/)
 *   [School Canteen Menu](https://westspringpri.moe.edu.sg/quicklink-parents/school-canteen-menu/)
 *   [Triple P programme](https://westspringpri.moe.edu.sg/quicklink-parents/triple-p-programme/)
 *   [Parents’ Gateway](https://pg.moe.edu.sg/)
