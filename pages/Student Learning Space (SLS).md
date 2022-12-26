@@ -128,7 +128,7 @@ Reset Password by Answering Security Questions
     
     Note: You will be prompted only if you have set a verified alternate email. Otherwise, you will be brought directly to the Security Questions page.
     
-    ![](https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/TSPStudentPwResetMethod.png)
+![](/images/sls2.png)
     
 6.  On the Security Questions page, enter the answers to the security questions.
     
