@@ -17,7 +17,7 @@ sections:
           url: /quicklinks/
         - title: Latest Happenings
           description: ""
-          url: /privacy/
+          url: /latesthappenings/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
