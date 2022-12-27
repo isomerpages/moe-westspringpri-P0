@@ -1,0 +1,20 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - About MK @ West Spring/.keep
+      - About MK @ West Spring/Vision and Mission.md
+      - About MK @ West Spring/Our MK@WS Team.md
+      - About MK @ West Spring/Our Learning Environment.md
+      - About MK @ West Spring/Kindergarten Care (KCare).md
+      - Information for Parents/.keep
+      - Information for Parents/Calendar of Events.md
+      - Information for Parents/MK Fees.md
+      - Information for Parents/Sale of Uniform.md
+      - Information for Parents/Contact Us.md
+      - Our Flagship Programmes/.keep
+      - Our Flagship Programmes/Starlight Literacy Programme.md
+      - Our Flagship Programmes/HI Light Programme.md
+      - Our Flagship Programmes/Weeks of Wonder (WoW) Projects.md
+      - Events and Celebrations/.keep
+      - Events and Celebrations/JELLY Day 2022.md

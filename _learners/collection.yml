@@ -1,0 +1,38 @@
+collections:
+  learners:
+    output: true
+    order:
+      - PLAY Version 2/.keep
+      - PLAY Version 2/Domains of PLAY.md
+      - PLAY Version 2/Our Philosophy & Learning Approach.md
+      - PLAY Version 2/Achieving balance between PLAY & didactic teaching.md
+      - Object PLAY/.keep
+      - Object PLAY/What is Object PLAY.md
+      - Object PLAY/Aesthetic Week.md
+      - Object PLAY/Eureka Space.md
+      - Object PLAY/Exploring Great Artists.md
+      - Object PLAY/Visual Art.md
+      - Object PLAY/Screen Printing.md
+      - Object PLAY/The DELI.md
+      - Object PLAY/Ukelele.md
+      - Cognitive PLAY/.keep
+      - Cognitive PLAY/What is Cognitive PLAY.md
+      - Cognitive PLAY/Current Affairs at West Spring.md
+      - Cognitive PLAY/Heritage Explorer.md
+      - Cognitive PLAY/In The World of Books.md
+      - Cognitive PLAY/Museum Based Learning.md
+      - ICT PLAY/.keep
+      - ICT PLAY/What is ICT PLAY.md
+      - ICT PLAY/Cyber Wellness.md
+      - ICT PLAY/Fastest Fingers First.md
+      - ICT PLAY/ICT Baseline Skills.md
+      - Physical PLAY/.keep
+      - Physical PLAY/What is Physical PLAY.md
+      - Physical PLAY/ATOMS.md
+      - Physical PLAY/PAL Sports and Games.md
+      - Physical PLAY/PAL Outdoor Education.md
+      - Physical PLAY/SS Learning Journeys.md
+      - Dramatic PLAY/.keep
+      - Dramatic PLAY/What is Dramatic PLAY.md
+      - Dramatic PLAY/Performing Arts.md
+      - Dramatic PLAY/Visual Arts.md

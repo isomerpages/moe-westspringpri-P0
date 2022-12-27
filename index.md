@@ -1,32 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: West Spring Primary School
+description: School website of West Spring Primary School and MOE Kindergarten @ West Spring
+image: /images/West-Spring-Primary-logo-03.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/herobannerV2.png
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcement/
+        - title: Quicklinks
+          description: ""
+          url: /quicklinks/
+        - title: Latest Happenings
+          description: ""
+          url: /latesthappenings/
+  - infobar:
+      title: SCHOOL TOUR
+      subtitle: virtual
+      description: Come and join us!
+      button: Let's Go
+      url: /schooltour/
 ---
-

@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/West-Spring-Primary-logo-03.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: aboutus-folder
+  - title: Learners
+    collection: learners
+  - title: Passion
+    collection: passion
+  - title: Leaders
+    collection: leaders
+  - title: Values
+    collection: values
+  - title: MK @ West Spring
+    collection: moe-kindergarten
