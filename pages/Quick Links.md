@@ -15,7 +15,7 @@ description: ""
 *   [WSPS Facebook](https://www.facebook.com/West-Spring-Primary-763228920471063/)
 *   [ICT Helpdesk](https://go.gov.sg/wspshelpdesk)
 *   [Students Learning Space (SLS)](/sls/)
-*   [Google Classroom] 
+*   [Google Classroom](/files/Google-Classroom_For-Parents.pdf)
 *   [NEU PC Plus Programme](/neupcplus/)
 *   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
 
