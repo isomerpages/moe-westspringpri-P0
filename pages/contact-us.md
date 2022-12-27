@@ -22,6 +22,6 @@ contacts:
       - email: westspring_ps@moe.edu.sg
       - other: "<br><p> Parents and visitors permitted time to enter the school
           premises: </p><br><p>Monday to Friday</p>8.00am to 9.00am <br>11.00am
-          to 12.00pm <p>Wednesdays only</p>2.30pm to 4.00pm  "
+          to 12.00pm <br><br><p>Wednesdays only</p>2.30pm to 4.00pm  "
     title: General Enquiries & Feedback
 ---
