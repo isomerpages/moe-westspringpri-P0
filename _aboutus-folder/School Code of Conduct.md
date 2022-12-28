@@ -11,7 +11,7 @@ description: ""
 
 **Attendance and Punctuality**
 
-*   Students are to report to school punctually by 7.40 a.m. A valid medical certificate or letter must be submitted to the form teacher if a student is absent.
+*   Students are to report to school punctually by 7.30 a.m. A valid medical certificate or letter must be submitted to the form teacher if a student is absent.
 *   Students will be issued a warning if he/she is repeatedly late. Disciplinary action will be taken against repeat offenders.
 *   A Short Message Service (SMS) will be sent to parent/guardian when a student logs in the biometric scanner late.
 
