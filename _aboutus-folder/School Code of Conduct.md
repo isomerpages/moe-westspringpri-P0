@@ -83,4 +83,70 @@ Illness, Absence from School and Procedure for early dismissal
 
 •       Students are not to skip classes or play truant.
 
-**School Attire** – Be a proud West Springer! Be neat and properly attired.
+School Attire
+------------------------------------------------------------
+
+Be a proud West Springer! Be neat and properly attired.
+
+School Uniform
+![](/images/Code%20of%20Conduct/school%20uniform%201.jpeg)
+
+•       Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+
+•       Name tag should be placed above the school logo.
+
+![](/images/Code%20of%20Conduct/student%20unitform2.jpeg)
+
+
+•       Students are not allowed to wear coloured or patterned T-shirt or vest under their school attire. Only plain white T-shirt is allowed.
+
+•       Students are allowed to wear only black shoes without any designs.
+
+•       Only plain white socks with school logo are allowed.
+
+•       Socks must be at least two fingers above the ankle.
+
+
+Hair and Personal Hygiene
+-------------------------
+
+•       Nails should be kept short and clean.
+
+•       Nails are not to be painted.
+
+•       Hair should not be coloured or dyed.
+
+•       Hair gel, wax or cream are to be used only to keep the hair neat and not for styling purposes.
+
+
+Boys
+----
+![](/images/Code%20of%20Conduct/student%20unitform3.jpeg)
+•       Hair must be kept short and neat at all times. It should not touch the ears, eyebrows and the collar.
+
+•       Male students must be clean-shaven and neat in appearance.
+
+•       Stylish haircuts are not allowed, for example, sides are shaved close to the head but top is kept long or layered.
+
+•       The length of the hair must be the same throughout.
+
+Girls
+-----
+![](/images/Code%20of%20Conduct/student%20unitform4.jpeg)
+•       Hair must be kept neat at all times.
+
+•       Longer hair should be tied up.
+
+•       Fringe must be neatly pinned up.
+****
+
+Use of Accessories
+------------------
+
+•       Hair accessories should be in black only.
+
+•       Students are not allowed to wear jewellery or accessories such as chains, rings, bracelets, arm/ankle bands.
+
+•       Girls are allowed to wear small and simple ear studs only and boys are not allowed to wear any ear studs. Fanciful/ valuable ear studs are not allowed.
+
+•       Make-up, henna or other forms of face painting, marks or tattoos are not allowed.
