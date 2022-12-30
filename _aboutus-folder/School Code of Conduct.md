@@ -84,4 +84,3 @@ Illness, Absence from School and Procedure for early dismissal
 •       Students are not to skip classes or play truant.
 
 **School Attire** – Be a proud West Springer! Be neat and properly attired.
-
