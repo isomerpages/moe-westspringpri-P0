@@ -7,7 +7,7 @@ third_nav_title: Contact Us
 All students are to report to school by 7.30 a.m.
 Please refer to the table below for the **school hours for** **Primary 1 to 6 in 2023.**
 
-![](/images/Contact%20Us%20School%20Hours.png)
+![](/images/school%20curriculum%20hours1.jpeg)
 
 **Providing Learners with Useful Support (PLUS) Programme for Primary 6 cohort:**  
 PLUS is a programme to support our P6 students in their preparation for PSLE. It is compulsory for **ALL** P6 students to attend. Please take note of the dismissal times.
