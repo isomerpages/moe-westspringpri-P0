@@ -4,6 +4,7 @@ permalink: /aboutus-folder/Contact-Us/SchoolHours2023/
 description: ""
 third_nav_title: Contact Us
 ---
+All students are to report to school by 7.30 a.m.
 Please refer to the table below for the **school hours for** **Primary 1 to 6 in 2023.**
 
 ![](/images/Contact%20Us%20School%20Hours.png)
