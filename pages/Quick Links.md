@@ -6,7 +6,7 @@ description: ""
 # For Parents
 * [School Calendar 2023](/schoolcalendar2023/)
 *   [WSPS School Calendar of Events 2023](/aboutus-folder/important-dates/)
-*   General Information for Parents 
+*   [General Information for Parents ](/generalinformationforparents/)
 *   [MOE FAS](/moefas/)
 *   [Students Care in WSPS](/studentcarewsps/)
 *   [School Canteen Menu](/schoolcanteenmenu/)
