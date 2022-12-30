@@ -2,6 +2,7 @@ collections:
   aboutus-folder:
     output: true
     order:
+      - School Hours 2023.md
       - Vision, Mission & Values.md
       - Our School Song.md
       - Our School Logo.md
