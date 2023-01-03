@@ -42,7 +42,7 @@ tr:nth-child(even) {
   <tr>
     <td>4th Jan</td>
     <td>Start of Term 1 for All Levels</td>
-		<td>P2 to P5</td>
+		<td>P2 to P6</td>
     <td>School hours</td>
   </tr>
   <tr>
