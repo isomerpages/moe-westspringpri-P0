@@ -3,7 +3,7 @@ title: School Canteen Menu
 permalink: /schoolcanteenmenu/
 description: ""
 ---
-Updated Canteen Menu Lists for the canteen stalls (with effect from 21 March 2022, Term 2) are as follow:
+Canteen Menu Lists for the canteen stalls are as follow:
 
 ![Stall 2](/images/School%20Canteen%20Menu/School%20Canteen_6%20Jan/WSPS_School%20Canteen%20Menu%20Stall%202_6Jan.jpg)
 
