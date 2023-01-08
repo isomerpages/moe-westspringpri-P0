@@ -4,8 +4,8 @@ permalink: /values/Events/p1orientation/
 description: ""
 third_nav_title: Events
 ---
-# Primary One Orientation 2023
-
+# Primary One Orientation
+#### 2023
 Finally … it is time to officially welcome our Primary 1s to West Spring Primary School! We were pumped to see the excited faces of the students and parents and cannot wait to see all the awesome things they will accomplish this year! To the parents who attended the Parents’ Engagement, we look forward to partnering you in this education journey. Here’s to a great year ahead!
 
 <iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwuMxFZWZOUJUz9IPQrvzkmvvk2Bv-QHf9Cf36KMHg9vZ3PvUS0_uDKjo4ARFn6cQVjXWlLiSplnSA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
