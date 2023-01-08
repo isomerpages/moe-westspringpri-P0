@@ -1,9 +1,10 @@
 ---
-title: Children's Day 2022
-permalink: /values/Events/childrensday2022/
+title: Children's Day
+permalink: /values/Events/childrensday/
 description: ""
 third_nav_title: Events
 ---
+
 # Children’s Day Celebration 2022
 
 The occasion of Children’s Day reminds us all how special it is to be a child.

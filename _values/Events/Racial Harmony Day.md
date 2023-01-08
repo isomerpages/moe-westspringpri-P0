@@ -1,9 +1,10 @@
 ---
-title: Racial Harmony Day 2022
-permalink: /values/Events/rhd2022/
+title: Racial Harmony Day
+permalink: /values/Events/rhd/
 description: ""
 third_nav_title: Events
 ---
+
 # Racial Harmony Day 
 The school commemorated Racial Harmony Day on Wednesday, 20 July 2022. The theme for this year is ‘Our Multicultural Mosaic’. The students learn that in Singapore, people are treated equally regardless of their race and religion. Thus, students learned to appreciate the different cultures that make up Singapore. They should make friends with people of other races and religions.
 

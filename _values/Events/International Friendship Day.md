@@ -1,9 +1,10 @@
 ---
-title: International Friendship Day 2022
-permalink: /values/Events/ifd2022/
+title: International Friendship Day
+permalink: /values/Events/ifd/
 description: ""
 third_nav_title: Events
 ---
+
 # International Friendship Day 2022
 On 6 April, we celebrated International Friendship Day during the assembly.
 

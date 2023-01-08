@@ -1,9 +1,10 @@
 ---
-title: Teachers' Day 2022
-permalink: /values/Events/teachersday2022/
+title: Teachers' Day
+permalink: /values/Events/teachersday/
 description: ""
 third_nav_title: Events
 ---
+
 # Teachers' Day Celebration 2022
 
 Teachers' Day Celebrations

@@ -1,9 +1,10 @@
 ---
-title: Hari Raya Aidilfitri 2022
-permalink: /values/Events/hariraya2022/
+title: Hari Raya Aidilfitri
+permalink: /values/Events/hariraya/
 description: ""
 third_nav_title: Events
 ---
+
 # Hari Raya Aidilfitri 2022
 West Springers celebrated Hari Raya Aidilfitri with a live and pre-recorded concert on Wednesday, 4 May 2022. The theme for this year’s celebration is Kampung West Spring.
 

@@ -1,9 +1,10 @@
 ---
-title: National Day 2022
-permalink: /values/Events/Nationalday2022/
+title: National Day
+permalink: /values/Events/Nationalday/
 description: ""
 third_nav_title: Events
 ---
+
 # National Day Celebration 2022
 Majulah, Singapura!
 

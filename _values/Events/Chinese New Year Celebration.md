@@ -1,9 +1,10 @@
 ---
-title: Chinese New Year 2022
-permalink: /values/Events/cny2022/
+title: Chinese New Year Celebration
+permalink: /values/Events/cny/
 description: ""
 third_nav_title: Events
 ---
+
 # Chinese New Year Celebration 2022
 West Springers celebrated Chinese New Year via an e-concert on 31 January 2022.
 
