@@ -4,8 +4,7 @@ permalink: /values/Events/firstday/
 description: ""
 third_nav_title: Events
 ---
-# First Day of School
-#### 2023
+# First Day of School 2023
 
 On the second day of school reopening, the students were all smiles as they arrived at school. They greeted each other with enthusiastic spirits and were excited to be reunited with their friends. Classrooms were filled with laughter and chatter as the students eagerly participated in classroom activities and caught up with one another on all the events that happened during their vacation.
 
