@@ -10,4 +10,4 @@ It was so wonderful to see the smiling faces of our K1 children for the first ti
 
 As part of the K1 Orientation, parents were invited to enter the school with their child as they experienced various ice-breaker activities.
 
-<iframe allowfullscreen="true" height="974" width="945" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRR_64zY2LCWKvliSChl0MKBK9bLUHB_mjwaZO-M7iwDdAH5Zk9h5J5MAIcc4pkRyHG4JGK2astrwfM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="501" width="472" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRR_64zY2LCWKvliSChl0MKBK9bLUHB_mjwaZO-M7iwDdAH5Zk9h5J5MAIcc4pkRyHG4JGK2astrwfM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
