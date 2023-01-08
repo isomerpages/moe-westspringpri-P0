@@ -8,4 +8,4 @@ At MK @ West Spring, we celebrate Children's Day in conjunction with our Literac
 
 On 6 October 2022, the children came do to school dressed up as their favourite storybook characters. They had great fun participating in various activities such as the interclass competition, Kahoot quizzes, Starlight book charades as well as designing their own crayons.
 
-<iframe allowfullscreen="true" height="501" width="472" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbIprHCtNkQc9kIgPej1G1rEkd5zLJtWcIirQU9G2SI_wXoFhohJr2T949MFOsmpeetuchpnueV0cn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="974" width="945" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbIprHCtNkQc9kIgPej1G1rEkd5zLJtWcIirQU9G2SI_wXoFhohJr2T949MFOsmpeetuchpnueV0cn/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
