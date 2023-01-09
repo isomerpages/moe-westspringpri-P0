@@ -4,8 +4,18 @@ permalink: /values/Events/cny/
 description: ""
 third_nav_title: Events
 ---
+# Chinese New Year Celebration 
+#### 2023
 
-# Chinese New Year Celebration 2022
+text
+
+google slides photos
+
+video
+
+
+#### 2022 
+
 West Springers celebrated Chinese New Year via an e-concert on 31 January 2022.
 
 To kickstart the day, our students made some crafts related to the event in the Chinese New Year’s Arts Alive segment. Thereafter, students spring-cleaned the classrooms before decorating them.
