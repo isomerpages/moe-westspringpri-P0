@@ -5,13 +5,6 @@ description: ""
 third_nav_title: Events
 ---
 # Chinese New Year Celebration 
-#### 2023
-
-text
-
-google slides photos
-
-video
 
 
 #### 2022 
