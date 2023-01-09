@@ -6,5 +6,43 @@ third_nav_title: Our People
 ---
 ![](/images/SchoolLeadersbanner.png)
 # Our School Leaders
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: left;
+}
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">PRINCIPAL</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Willy Tan</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">VICE-PRINCIPAL</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Kum Lai Meng</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Dave Sim</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Linda Chua</strong></td></tr></tbody></table>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(0) {
+  background-color: #9d4bfe;
+  font-color: #ffffff;
+}
+</style>
+
+<table border="1">
+<tr>
+	<td>
+		Principal
+	</td>
+	<td>
+		<b>Mr Willy Tan</b>
+	</td>
+	</tr>
+	<tr>
+	<td>
+		Vice-Principal
+	</td>
+	<td>
+		<b>Mdm Kum Lai Meng</b><br>
+		<b>Mr Dave Sim</b><br>
+		<b>Ms Linda Chua</b>
+		</td>
+	</tr>
+	
+</table>
