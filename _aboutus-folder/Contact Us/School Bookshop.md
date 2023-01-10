@@ -4,9 +4,14 @@ permalink: /aboutus-folder/Contact-Us/SchoolBookshop/
 description: ""
 third_nav_title: Contact Us
 ---
-**Company Name: BL Marketing Pte Ltd**
+#### BL Marketing Private Ltd
 
-Tel: 6281 9274        Fax: 6584 5508
+**Phone:** 6518 9611<br>
+**Email:** [sales@blmarketing.sg](mailto:sales@blmarketing.sg)
+
+
+
+
 
 The permitted time for parents and visitors to enter the school premises is as follows:
 
