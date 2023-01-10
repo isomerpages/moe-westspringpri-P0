@@ -11,4 +11,4 @@ Check out our latest happenings on our Facebook page:
 
 # 10th Anniversary Celebrations
 
-Head over to our [10th Anniversary Events Page]() for all the latest happenings on our 10th Anniversary Celebrations!
+Head over to our [10th Anniversary Events Page](/values/Events/10anniversary/) for all the latest happenings on our 10th Anniversary Celebrations!
