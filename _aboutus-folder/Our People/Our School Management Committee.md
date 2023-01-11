@@ -6,18 +6,289 @@ third_nav_title: Our People
 ---
 School Management Committee
 ===========================
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td, th {
+  border: 1x solid #dddddd;
+  text-align: center;
+  padding: 5px;
+}
+
+</style>
+
+<h5>SCHOOL LEADERS</h5>
+
+<table border=1>
+	<tr>
+		<td>
+			PRINCIPAL
+		</td>
+		<td>
+			<b>Mr Willy Tan</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			VICE-PRINCIPAL
+		</td>
+		<td>
+			<b>Mdm Kum Lai Meng</b><br>
+			<b>Mr Dave Sim</b><br>
+			<b>Ms Linda Chua</b>
+		</td>
+	</tr>
+	</table>
+
+<h5>Deans</h5>
+
+<table border=1>
+	<tr>
+		<td>
+			EL / MTL / CCA / ICT
+		</td>
+		<td>
+			<b>Mr Michael Chua</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			MA / PE-LLP / CCE
+		</td>
+		<td>
+			<b>Mrs Pauline Soh</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SC-ALP / Mu-Art / SMT
+		</td>
+		<td>
+			<b>Mrs Lack Hwee Leng</b>
+		</td>
+	</tr>
+	</table>
 
 
-##### SCHOOL LEADERS
-	
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">PRINCIPAL</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Willy Tan</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">VICE-PRINCIPAL</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Kum Lai Meng</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Dave Sim</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;"></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Linda Chua</strong></td></tr></tbody></table>
+<h5>Curriculum And Instruction Departments (CAID)</h5>
 
-##### Deans
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">EL / MTL / CCA / ICT</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Michael Chua</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">MA / PE-LLP / CCE</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mrs Pauline Soh</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SC-ALP / Mu-Art / SMT</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mrs Lack Hwee Leng</strong></td></tr></tbody></table>
+<table border=1>
+	<tr>
+		<td>
+			HOD / English Language
+		</td>
+		<td>
+			<b>Ms Mindy Wong</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / Mother Tongue Language
+		</td>
+		<td>
+			<b>Mdm Lee Seng Tiang</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / Mathematics
+		</td>
+		<td>
+			<b>Mr James Ng Kwang Meng</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / Science
+		</td>
+		<td>
+			<b>Mdm Norain Binte Hassein</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / PE, CCA, OE, AES
+		</td>
+		<td>
+			<b>Ms Casey Ng</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / OE, LLP & PAL
+		</td>
+		<td>
+			<b>Mr Justin Paolo</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Malay & Tamil Language
+		</td>
+		<td>
+			<b>Ms Mazlina Isnin</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / PE & CCA
+		</td>
+		<td>
+			<b>Mr Mohamed Shodikin</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Aesthetics
+		</td>
+		<td>
+			<b>Miss Nurul Asyikin</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			LH / English
+		</td>
+		<td>
+			<b>Mrs Zahid</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			LH / Mathematics
+		</td>
+		<td>
+			<b>Ms Nadzirah Binte Azhar</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			LH / Science & ALP
+		</td>
+		<td>
+			<b>Ms Revathi</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			LH / Chinese Language
+		</td>
+		<td>
+			<b>Mr Daniel Foo</b>
+		</td>
+	</tr>
+	</table>
 
-##### Curriculum And Instruction Departments (CAID)
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / English Language</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Mindy Wong</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / Mother Tongue Language</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Lee Seng Tiang</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / Mathematics</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr James Ng Kwang Meng</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / Science</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Norain Binte Hassein</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / PE, CCA, OE &amp; AES</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Casey Ng </strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Outdoor Education, LLP &amp; PAL</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Justin Paolo</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Malay & Tamil Language</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Mazlina Isnin</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / PE & CCA</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Mohamed Shodikin </strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Aesthetics </td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Miss Nurul Asyikin</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">LH / English</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mrs Zahid</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">LH / Mathematics</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Nadzirah binte Azhar</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">LH / Science & ALP </td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Ms Revathi</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">LH / Chinese Language</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Daniel Foo</strong></td></tr></tbody></table>
 
+<h5>Students, Staff & Stakeholders Departments (SSSD)</h5>
 
-##### Students, Staff & Stakeholders Departments (SSSD) 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 776.333px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">Year Head (P1 – P2)</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Miss Ho Shi Yin</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">Year Head (P3 – P4)</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Samuel Mok</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">Year Head (P5 – P6)</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Liang Hong Poh</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">School Staff Developer</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Azhar Hussain</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / Character & Citizenship Education</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Ko Chen Wei</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / Student Management</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mrs Irene Yong</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / Info Comm Tech</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Chu Wen Shen</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">HOD / SEN</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Miss Janet Ling Wei Ching</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Partnership</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr M Satheeswaran</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Character & Citizenship Education</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Norhany Bte Mohd Yaicop</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Discipline</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Fakkhruddin</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Student Leadership</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Shalarnee D/O Raja Rethinam</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td class="has-text-align-left" data-align="left" style="box-sizing: inherit; padding: 5px 10px; text-align: left;">SH / Student Well Being</td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Nur Atiqah</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);">
+<table border=1>
+	<tr>
+		<td>
+			Year Head (P1 - P2)
+		</td>
+		<td>
+			<b>Miss Ho Shi Yin</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Year Head (P3 - P4)
+		</td>
+		<td>
+			<b>Mr Samuel Mok</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			Year Head (P5 - P6)
+		</td>
+		<td>
+			<b>Mr Liang Hong Poh</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			School Staff Developer
+		</td>
+		<td>
+			<b>Mr Azhar Hussain</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / Character & Citizenship Education
+		</td>
+		<td>
+			<b>Mr Ko Chen Wei</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / Student Management
+		</td>
+		<td>
+			<b>Mrs Irene Yong</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			HOD / Info Comm Tech
+		</td>
+		<td>
+			<b>Mr Chu Wen Shen</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SEN
+		</td>
+		<td>
+			<b>Miss Janet Ling</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Partnership
+		</td>
+		<td>
+			<b>Mr M Satheeswaran</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Character & Citizenship Education
+		</td>
+		<td>
+			<b>Mdm Norhany</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Discipline
+		</td>
+		<td>
+			<b>Mr Fakkhruddin</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Student Leadership
+		</td>
+		<td>
+			<b>Mdm Shalarnee</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / Student Well Being
+		</td>
+		<td>
+			<b>Mdm Nur Atiqahk</b>
+		</td>
+	</tr>
+	</table>
