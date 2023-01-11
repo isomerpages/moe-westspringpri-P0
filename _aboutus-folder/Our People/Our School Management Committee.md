@@ -288,7 +288,7 @@ td, th {
 			SH / Student Well Being
 		</td>
 		<td>
-			<b>Mdm Nur Atiqahk</b>
+			<b>Mdm Nur Atiqah</b>
 		</td>
 	</tr>
 	</table>
