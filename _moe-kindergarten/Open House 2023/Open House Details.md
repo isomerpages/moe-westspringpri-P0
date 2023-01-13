@@ -17,4 +17,5 @@ Come join us for an information session at 9am to know more about MOE Kindergart
 ## Register your interest today!
 Please click on the link below for more details on the Open House and to register your attendance! 
 https://www.moe.gov.sg/preschool/moe-kindergarten
-Looking forward to seeing you!
+
+**Looking forward to seeing you!**
