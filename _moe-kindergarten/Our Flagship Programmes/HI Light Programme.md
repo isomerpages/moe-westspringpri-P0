@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Flagship Programmes
 ---
 # Holistic development
-
+![]()
 The **HI-Light Programme** is designed to support the **holistic development** of children across these six learning areas through an **integrated approach** to learning. It provides children opportunities to explore, discover and learn about the world around them.
 
 *   Aesthetics and creative expression
