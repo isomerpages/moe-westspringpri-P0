@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Flagship Programmes
 ---
 # Collaborative, self-directed learning
-![]()
+![](/images/wonder.png)
 Each term at MOE Kindergarten (MK) culminates in a **Weeks of Wonder (WoW) project**. In a year, children complete 2 WoW projects in English and another 2 in their Mother Tongue Language (MTL). Children will work together with their friends on a topic of their choice.
 
 Through WoW projects, children learn how to:
