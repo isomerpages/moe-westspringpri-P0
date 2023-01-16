@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Flagship Programmes
 ---
 # Early childhood literacy
-![]()
+![](/images/Starlight.jpg)
 Language learning is a dynamic and ongoing process that begins in infancy and early childhood and continues throughout the schooling years. In early childhood, the focus is on developing children’s listening and speaking skills. An active, interactive approach helps to nurture children’s interest in learning languages.
 
 We will use Big Books, songs, rhymes and games to help your child to:
