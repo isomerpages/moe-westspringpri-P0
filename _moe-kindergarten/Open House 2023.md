@@ -3,8 +3,6 @@ title: Open House 2023
 permalink: /moe-kindergarten/Open-House-2023/
 description: ""
 ---
-
-
 ## When is it?
 Date/Day: **18 February 2023, Saturday**
 
@@ -33,6 +31,6 @@ Come join us for an information session at **9am** to know more about MOE Kinder
 ## Register your interest today!
 Please click on the link below for more details on the Open House and to register your attendance! 
 
-[https://www.moe.gov.sg/preschool/moe-kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
+[https://go.gov.sg/mkopenhouse2023pmk](https://go.gov.sg/mkopenhouse2023pmk)
 
 **Looking forward to seeing you!**
