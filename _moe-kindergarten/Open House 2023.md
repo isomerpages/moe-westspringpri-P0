@@ -3,7 +3,7 @@ title: Open House 2023
 permalink: /moe-kindergarten/Open-House-2023/
 description: ""
 ---
-![](/images/MK%20OH%202023.png)
+![](/images/MK/Open%20House%202023.png)
 
 ## Programme Flow
 
@@ -23,8 +23,9 @@ description: ""
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="255"><p class="MsoNormal">Open Tour (for subsequent walk-ins)</p></td></tr></tbody></table>
 
-Come join us for an information session at **9am** to know more about MOE Kindergarten @ West Spring!
-
 ### Click [here](https://go.gov.sg/mkopenhouse2023pmk) to register your interest today!
 
-**Looking forward to seeing you!**
+![](/images/MK/2023%20MK%20OH%20Flyer_page-0001.jpg)
+![](/images/MK/2023%20MK%20OH%20Flyer_page-0002.jpg)
+
+# Looking forward to seeing you!
