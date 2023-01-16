@@ -3,12 +3,9 @@ title: Open House 2023
 permalink: /moe-kindergarten/Open-House-2023/
 description: ""
 ---
-## When is it?
-Date/Day: **18 February 2023, Saturday**
+![](/images/MK%20OH%202023.png)
 
-Time: **9am to 1pm** (***Last entry 12:30pm***)
-
-## What to expect?
+## Programme Flow
 
 <table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:99.0pt;border:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="132"><p class="MsoNormal"><b>Time:</b></p></td><td style="width:191.35pt;border:solid windowtext 1.0pt;
@@ -28,9 +25,6 @@ Time: **9am to 1pm** (***Last entry 12:30pm***)
 
 Come join us for an information session at **9am** to know more about MOE Kindergarten @ West Spring!
 
-## Register your interest today!
-Please click on the link below for more details on the Open House and to register your attendance! 
-
-[https://go.gov.sg/mkopenhouse2023pmk](https://go.gov.sg/mkopenhouse2023pmk)
+### Click [here](https://go.gov.sg/mkopenhouse2023pmk) to register your interest today!
 
 **Looking forward to seeing you!**
