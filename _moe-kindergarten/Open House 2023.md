@@ -12,7 +12,7 @@ description: ""
   border-left:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="255"><p class="MsoNormal"><b>Activity:</b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:99.0pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt" width="132"><p class="MsoNormal">9am to 9.10am</p></td><td style="width:191.35pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt" width="255"><p class="MsoNormal">Arrival of parents at School Hall</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:99.0pt;border:solid windowtext 1.0pt;border-top:
+  padding:0in 5.4pt 0in 5.4pt" width="255"><p class="MsoNormal">Arrival of Parents at School Hall</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:99.0pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt" width="132"><p class="MsoNormal">9.10am to 10am</p></td><td style="width:191.35pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt" width="255"><p class="MsoNormal">Welcome Address by School Leader</p><p class="MsoNormal">Open House Briefing by Centre Head</p><p class="MsoNormal">Q&amp;A Session</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:99.0pt;border:solid windowtext 1.0pt;
