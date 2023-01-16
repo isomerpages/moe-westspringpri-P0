@@ -45,7 +45,8 @@ Time: **9am to 1pm** (***Last entry 12:30pm***)
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="255"><p class="MsoNormal">Open Tour</p></td><td style="width:212.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="284"><p class="MsoNormal">MOE Kindergarten / KCare</p></td></tr></tbody></table>
-Come join us for an information session at 9am to know more about MOE Kindergarten @ West Spring!
+
+Come join us for an information session at **9am** to know more about MOE Kindergarten @ West Spring!
 
 ## Register your interest today!
 Please click on the link below for more details on the Open House and to register your attendance! 
