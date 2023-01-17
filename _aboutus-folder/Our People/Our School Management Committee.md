@@ -245,7 +245,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SEN
+			HOD / SEN
 		</td>
 		<td>
 			<b>Miss Janet Ling</b>
