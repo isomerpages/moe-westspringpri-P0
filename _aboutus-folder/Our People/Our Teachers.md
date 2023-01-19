@@ -53,7 +53,9 @@ tr:nth-child(1) {
     <td><b>Mr Lim Kim Sze</b><br>
     <a href="mailto:lim_kim_sze@moe.edu.sg">lim_kim_sze@moe.edu.sg</a></td>
     <td><b>Mdm Nurwati</b><br>
-    <a href="mailto:nurwati_sarip@moe.edu.sg">nurwati_sarip@moe.edu.sg</a></td>
+    <a href="mailto:nurwati_sarip@moe.edu.sg">nurwati_sarip@moe.edu.sg</a><br>
+		<b>Mdm Muthusamy Thilakavathy</b><br>
+			<a href="mailto:muthusamy_thilakavathy@moe.edu.sg">muthusamy_thilakavathy@moe.edu.sg</a></td>
   </tr>
   
   <tr>
