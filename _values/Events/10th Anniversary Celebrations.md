@@ -6,7 +6,7 @@ third_nav_title: Events
 ---
 #### January
 
-Hello everyone! Do you know that West Spring Primary School is in the beautiful community of Bukit Panjang for 10 years already? We have so many fond memories of our West Spring family! It is a significant and an important year for us and we will be celebrating our 10th Anniversary throughout 2023 monthly!
+Do you know that West Spring Primary School is in the beautiful community of Bukit Panjang for 10 years already? We have so many fond memories of our West Spring family! It is a significant and an important year for us and we will be celebrating our 10th Anniversary throughout 2023 monthly!
 
 On 4 Jan 2023, on the first day of school for all West Springers, we had our very first energetic celebration with lots of movement and sounds! All West Springers and staff were in this together, through a series of body percussion rhythmic beats, movements, and actions. Led by our talented and passionate teachers, all of us ushered in our 2023 and our first 10th Anniversary celebrations with excitement!&nbsp;
 
