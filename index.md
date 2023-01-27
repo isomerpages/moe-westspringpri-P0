@@ -24,4 +24,9 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infobar:
+      title: "Slides and Video "
+      subtitle: Curriculum Briefing 2023
+      button: Click here
+      url: /
 ---
