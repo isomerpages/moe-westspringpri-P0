@@ -38,3 +38,8 @@ b.	Character and Citizenship Education (CCE)
 
 <b>Please Note:</b><br>
 <i>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </i>
+
+<h5>INFORMATION FOR PARENTS</h5>
+<p>8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
+<p>9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <b>here</b>. The completed opt-out form is to be submitted by 1 April 2023.</p>
+<p>10.	Parents can contact the school at <a href="mailto:westspring_ps@moe.edu.sg">westspring_ps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
