@@ -29,4 +29,9 @@ b.	Character and Citizenship Education (CCE)
 <p>7. 	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. </p> 
 
 <h4>At West Spring Primary School, the following Sexuality Education lessons will be taught in 2023</h4>
-![](/images/MOE%20SEd/28Jan23/P5%20SEd%2001.jpg)
+<img src="/images/MOE%20SEd/28Jan23/P5%20SEd%2001.jpg" alt="P5 SEd">
+<img src="/images/MOE%20SEd/28Jan23/P5%20SEd%2002.jpg" alt="P5 SEd">
+<br>
+<br>
+<img src="/images/MOE%20SEd/28Jan23/P6%20SEd%2001.jpg" alt="P6 SEd">
+<img src="/images/MOE%20SEd/28Jan23/P6%20SEd02.jpg" alt="P6 SEd">
