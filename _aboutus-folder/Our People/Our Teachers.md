@@ -212,7 +212,7 @@ tr:nth-child(1) {
     <td>3C</td>
     <td><b>Mr Chu Wen Shen</b><br>
     <a href="mailto:chu_wen_shen@moe.edu.sg">chu_wen_shen@moe.edu.sg</a></td>
-    <td><b>Miss Nur Shahidah Hafizza</b><br>
+    <td><b>Mdm Nur Shahidah Hafizza</b><br>
     <a href="mailto:nur_shahidah_hafizza@moe.edu.sg">nur_shahidah_hafizza@moe.edu.sg</a></td>
   </tr>
   

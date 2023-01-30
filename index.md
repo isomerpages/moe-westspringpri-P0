@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: "Slides and Video "
+      subtitle: Curriculum Briefing 2023
+      button: Click here
+      url: /curriculum-briefing/2023/
+  - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
       description: Come and join us!
