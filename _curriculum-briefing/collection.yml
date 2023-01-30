@@ -2,6 +2,7 @@ collections:
   curriculum-briefing:
     output: true
     order:
+      - Primary 3 (Coming soon).md
       - Primary 2 (Coming Soon).md
       - Primary 1 (Coming soon).md
       - Curriculum Briefing 2023.md
