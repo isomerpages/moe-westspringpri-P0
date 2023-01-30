@@ -3,7 +3,6 @@ title: Primary 2 (Coming Soon)
 permalink: /curriculum-briefing/p2/
 description: ""
 ---
-
 ##### English Language
 
 
@@ -25,7 +24,7 @@ description: ""
 ##### Art
 
 
-##### PHF
+##### Physical Education (PE)
 
 
 ##### Information Communication Technology (ICT)
