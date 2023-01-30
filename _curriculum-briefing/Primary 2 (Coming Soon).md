@@ -3,12 +3,10 @@ title: Primary 2 (Coming Soon)
 permalink: /curriculum-briefing/p2/
 description: ""
 ---
-
-
 ##### English Language
 
 
-##### Maths
+##### Mathematics
 
 
 ##### Science
