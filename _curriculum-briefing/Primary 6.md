@@ -15,10 +15,7 @@ description: ""
 ##### Mother Tongue Language
 
 
-##### CCA
-
-
-##### PAL
+##### Co-Curricular Activity (CCA)
 
 
 ##### Music
@@ -27,13 +24,13 @@ description: ""
 ##### Art
 
 
-##### PHF
+##### Physical Education (PE)
 
 
-##### Information Communication Technology
+##### Information Communication Technology (ICT)
 
 
-##### Character and Citizenship Education
+##### Character and Citizenship Education (CCE)
 
 
 ##### Students Well-Being
