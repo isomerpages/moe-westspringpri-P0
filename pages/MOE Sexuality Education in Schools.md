@@ -45,7 +45,6 @@ b.  Character and Citizenship Education (CCE)
 <i>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </i>
 
 <h5>INFORMATION FOR PARENTS</h5>
-<br>
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 <br><br>
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/2023%20Parent%20Opt%20Out%20Form%20(Pri).pdf" download>here</a>. The completed opt-out form is to be submitted by 1 April 2023.
