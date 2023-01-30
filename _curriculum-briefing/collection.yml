@@ -1,5 +1,5 @@
 collections:
-  curriculum-briefing-2023:
+  curriculum-briefing:
     output: true
     order:
       - Primary 4.md
