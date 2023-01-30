@@ -213,6 +213,6 @@ Term 3 Week 9
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here to hyperlink opt-out form for parents to download. The completed opt-out form is to be submitted by 1 April 2023
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20Parent%20Opt%20Out%20Form%20(Pri).pdf). The completed opt-out form is to be submitted by 1 April 2023
 
 10.      Parents can contact the school at [**westspring\_ps@moe.edu.sg**](mailto:westspring_ps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
