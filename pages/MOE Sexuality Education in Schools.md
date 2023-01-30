@@ -50,4 +50,3 @@ b.  Character and Citizenship Education (CCE)
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/2023%20Parent%20Opt%20Out%20Form%20(Pri).pdf" download>here</a>. The completed opt-out form is to be submitted by 1 April 2023.
 <br><br>
 10.	Parents can contact the school at <a href="mailto:westspring_ps@moe.edu.sg">westspring_ps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.
-
