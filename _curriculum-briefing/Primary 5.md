@@ -6,7 +6,7 @@ description: ""
 ##### English Language
 <iframe title="2023 P5 EL Curriculum Briefing" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/793966104?h=5ae3d3165c&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479"></iframe>
 
-##### Maths
+##### Mathematics
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTQine84wO3UqgM2VVnGoD4AgpfqwZVyLvdnA5FoZRZtjqQGPUt8L5BbqPHfh4oA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### Science
