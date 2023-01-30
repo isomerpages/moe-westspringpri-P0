@@ -24,7 +24,7 @@ description: ""
 ##### Art
 
 
-##### PHF
+##### Physical Education (PE)
 
 
 ##### Information Communication Technology (ICT)
