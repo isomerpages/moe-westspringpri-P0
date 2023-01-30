@@ -51,4 +51,3 @@ b.  Character and Citizenship Education (CCE)
 <br><br>
 10.	Parents can contact the school at <a href="mailto:westspring_ps@moe.edu.sg">westspring_ps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-[here](/files/2023%20Parent%20Opt%20Out%20Form%20(Pri).pdf)
