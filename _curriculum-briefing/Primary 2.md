@@ -3,3 +3,34 @@ title: Primary 2
 permalink: /curriculum-briefing/p2/
 description: ""
 ---
+##### English Language
+
+
+##### Maths
+
+
+##### Science
+
+
+##### Mother Tongue Language
+
+
+##### Programme for Active Learning (PAL)
+
+
+##### Music
+
+
+##### Art
+
+
+##### PHF
+
+
+##### Information Communication Technology (ICT)
+
+
+##### Character and Citizenship Education (CCE)
+
+
+##### Students Well-Being
