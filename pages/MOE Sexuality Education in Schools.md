@@ -7,24 +7,24 @@ description: ""
 <br><br>
 
 2. The Goals of Sexuality Education are:<br>
-(a)To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>
-(b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>
-(c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
+a.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>
+b.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>
+c.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
 <br><br>
 
 3. The Key Messages of Sexuality Education are:<br>
-(a)	Love and respect yourself as you love and respect others;<br>
-(b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-(c)	Make responsible decisions for yourself, your family and society; and<br>
-(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
+a.  Love and respect yourself as you love and respect others;<br>
+b.  Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+c.  Make responsible decisions for yourself, your family and society; and<br>
+d.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
 
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education. </p>
 
 <h5>OVERVIEW OF WEST SPRING PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME FOR 2023</h5>
 4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.<br><br>
 5.	The subjects that incorporate topics on sexuality include:<br>
-a.	Science<br>
-b.	Character and Citizenship Education (CCE)
+a.  Science<br>
+b.  Character and Citizenship Education (CCE)
 
 <h5>Sexuality Education Lessons: </h5>
 <br>
