@@ -4,6 +4,11 @@ permalink: /moe-kindergarten/About-MKWS/Learning-Environment/
 description: ""
 third_nav_title: About MK @ West Spring
 ---
+Every space a learning space
+----------------------------
+
+MK’s learning environment is designed with the child in mind. Our creative use of available space encourages children to discover and explore their surroundings. Safe outdoor spaces promote learning, engagement and active play while inviting and thoughtfully-designed classrooms support teaching and learning.
+
 [Click for a virtual tour of our Learning Environments! (Video from Virtual Open House 2022)](https://drive.google.com/file/d/1_ItdAwo8Rh_65LOXnYg-qwMld0DgVUBT/view?usp=share_link)
 
 ## Entrance
