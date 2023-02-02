@@ -4,8 +4,6 @@ permalink: /moe-kindergarten/Our-Flagship-Programmes/curriculum/
 description: ""
 third_nav_title: Curriculum and Programmes
 ---
-
-
 # Curriculum goals
 Our curriculum and programmes are based on the [Nurturing Early Learners (NEL) Framework](https://www.moe.gov.sg/preschool/curriculum) that guides the development of quality kindergarten programmes in Singapore.
 
@@ -19,7 +17,7 @@ We strive to make learning authentic and relevant for your child through **activ
 
 How children learn
 ------------------
-
+![](/images/MK/2023%20Tangrams.png)
 We believe that preschool children are joyful, curious, active and competent learners and they learn, play and grow in a diverse and multi-cultural community. Preschool education should:
 
 *   **Promote the joy of learning** so they are excited to learn and make sense of the world around them.
@@ -28,7 +26,7 @@ We believe that preschool children are joyful, curious, active and competent lea
 
 Values, Social and Emotional Competencies and Learning Dispositions (VSLD)
 -------------------------------------------------------------------
-
+![](/images/MK/2023%20Booth.png)
 It is important to nurture values, social and emotional competencies and learning dispositions in young children. These three aspects of development are core to children’s holistic development. They set the stage for character building and lifelong learning, shaping children’s attitudes, behaviours and decisions that they make in their daily interactions.
 
 *   **Values** shape how children use the knowledge and skills they have learned; whether they act on when they should or need to. The core values are respect, responsibility, care and honesty.
@@ -37,7 +35,7 @@ It is important to nurture values, social and emotional competencies and learnin
 
 Supporting your children’s learning and development
 ---------------------------------------------------
-
+![](/images/MK/2023%20Reading.png)
 Parents play an important role in supporting your child’s development in their preschool years and helping them to transit well into primary school. They can:
 
 *   Pay equal attention to your child’s cognitive and non-cognitive development
