@@ -156,7 +156,7 @@ tr:nth-child(1) {
     <td>2F</td>
     <td><b>Ms Faeqa Fizla</b><br>
     <a href="mailto:faeqa_fizla_muhammad_rajaie@moe.edu.sg">faeqa_fizla_muhammad_rajaie@moe.edu.sg</a></td>
-    <td><b>Miss Chan Xue Ting</b><br>
+    <td><b>Ms Chan Xue Ting</b><br>
     <a href="mailto:chan_xue_ting@moe.edu.sg">chan_xue_ting@moe.edu.sg</a></td>
   </tr>
   
