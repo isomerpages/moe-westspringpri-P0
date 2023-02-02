@@ -15,8 +15,7 @@ We strive to make learning authentic and relevant for your child through **activ
 *   Literacy and numeracy skills.
 *   Bilingualism in English and their Mother Tongue Language (i.e. Chinese, Malay and Tamil languages).
 
-How children learn
-------------------
+## How children learn
 ![](/images/MK/2023%20Tangrams.png)
 We believe that preschool children are joyful, curious, active and competent learners and they learn, play and grow in a diverse and multi-cultural community. Preschool education should:
 
@@ -24,8 +23,7 @@ We believe that preschool children are joyful, curious, active and competent lea
 *   **Nurture values, social and emotional competencies and learning dispositions so that they can adopt the right attitudes and behaviours to learn and live harmoniously with others.**
 *   **Encourage active learning** so they can learn by experimenting and experiencing.
 
-Values, Social and Emotional Competencies and Learning Dispositions (VSLD)
--------------------------------------------------------------------
+## Values, Social and Emotional Competencies and Learning Dispositions (VSLD)
 ![](/images/MK/2023%20Booth.png)
 It is important to nurture values, social and emotional competencies and learning dispositions in young children. These three aspects of development are core to children’s holistic development. They set the stage for character building and lifelong learning, shaping children’s attitudes, behaviours and decisions that they make in their daily interactions.
 
@@ -33,8 +31,7 @@ It is important to nurture values, social and emotional competencies and learnin
 *   **Social and emotional competencies** complement values by providing children with the knowledge, skills and dispositions to understand themselves and to relate positively and constructively with others. These competencies include self-awareness, self-management, social awareness, relationship management and responsible decision-making.
 *   **Positive learning dispositions** place children in good stead to embrace lifelong learning. These learning dispositions include perseverance, reflectiveness, appreciation, inventiveness, sense of wonder and curiosity and engagement.
 
-Supporting your children’s learning and development
----------------------------------------------------
+## Supporting your children’s learning and development
 ![](/images/MK/2023%20Reading.png)
 Parents play an important role in supporting your child’s development in their preschool years and helping them to transit well into primary school. They can:
 
