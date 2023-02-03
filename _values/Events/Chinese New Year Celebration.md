@@ -19,7 +19,7 @@ This was certainly a new, yet enjoyable experience for our West Springers where 
 Stay safe and Xin Nian Kuai Le ( Happy Chinese New Year) to all!
 
 
-<iframe allowfullscreen="true" height="125" width="96" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRai7vDVttyXq_WgHNwzxdH7a0wIHwbXXq4do_nKsDv8DX98f0BLoUJcIVmkwv33g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRai7vDVttyXq_WgHNwzxdH7a0wIHwbXXq4do_nKsDv8DX98f0BLoUJcIVmkwv33g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ![](/images/Cny2023/Reflection%20II.jpeg)
 
