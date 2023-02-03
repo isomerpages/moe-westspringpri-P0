@@ -8,8 +8,9 @@ third_nav_title: Events
 
 
 <iframe allowfullscreen="true" height="125" width="96" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRai7vDVttyXq_WgHNwzxdH7a0wIHwbXXq4do_nKsDv8DX98f0BLoUJcIVmkwv33g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+![](/images/Cny2023/Reflection%20II.jpeg)
 
-
+![](/images/Cny2023/Reflection%20I.jpeg)
 
 #### 2022 
 
