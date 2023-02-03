@@ -4,7 +4,7 @@ permalink: /curriculum-briefing/p2/
 description: ""
 ---
 ##### English Language
-
+<iframe src="https://player.vimeo.com/video/795454297?h=6b7131cf3a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="P2 EL Curriculum Briefing Final"></iframe>
 
 ##### Mathematics
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNSdizUqsrmT-GzZIeKiSeDHNmu0ktOQ-lAFswExClL0W4c8KOZ3N-r-aOdoO-Bw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
