@@ -9,8 +9,6 @@ description: ""
 ##### Mathematics
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQH3vLZh4z9GzEiYqIINsAqwIAVF1ITOStKCGLycLUfMLpT6cPCHOHE6Bo1Uo7eRg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-
-
 ##### Mother Tongue Language
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRubm7TUmVgPsCm7FV1B9p-XbOyH4q_IgjFUdiQBuVmRiEBeQyGz0tf3xrT54Z-wg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
