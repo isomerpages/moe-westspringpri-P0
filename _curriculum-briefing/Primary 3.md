@@ -3,9 +3,8 @@ title: Primary 3
 permalink: /curriculum-briefing/p3/
 description: ""
 ---
-
 ##### English Language
-
+<iframe src="https://player.vimeo.com/video/795454337?h=b2cdd39f24&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="427" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="P3 EL Curriculum Briefing"></iframe>
 
 ##### Mathematics
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3FtxzHBoJ5nxgpCHow2mmoVNuUVEAjMn13oJTKnCfOR1kJqKzWDa5exfurppRzg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
