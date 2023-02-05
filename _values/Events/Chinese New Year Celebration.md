@@ -21,9 +21,9 @@ Stay safe and Xin Nian Kuai Le ( Happy Chinese New Year) to all!
 
 <iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRai7vDVttyXq_WgHNwzxdH7a0wIHwbXXq4do_nKsDv8DX98f0BLoUJcIVmkwv33g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-![](/images/Cny2023/Reflection%20II.jpeg)
+![](/images/Cny2023/updated%20reflection%201.jpg)
 
-![](/images/Cny2023/Reflection%20I.jpeg)
+![](/images/Cny2023/updated%20reflection%202.jpg)
 
 #### 2022 
 
