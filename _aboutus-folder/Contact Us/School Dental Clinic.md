@@ -4,16 +4,10 @@ permalink: /aboutus-folder/Contact-Us/SchoolDentalClinic/
 description: ""
 third_nav_title: Contact Us
 ---
-<style>
-th:nth-child(1) {
-	background-color: #9d4bfe;
-	}
-</style>
-
 <h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
 <table border="0">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Monday to Thursday:</b>
 		</td>
@@ -45,9 +39,10 @@ th:nth-child(1) {
 			9115 8472
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
+	
 <table border="1">
-	<tr>
+	<tbody><tr>
 		<th>
 			<b>Operating Dates in Term 1 (2023)</b>
 		</th>
@@ -62,12 +57,12 @@ th:nth-child(1) {
 			20 March 2023 to 24 March 2023<br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <p>Student who only requires <b>URGENT</b> dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
 
 <table border="1">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Dental Clinic</b>
 		</td>
@@ -89,7 +84,7 @@ th:nth-child(1) {
 			35, Bukit Batok Street 31, S(659441)
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <p><u>In the event of dental emergencies</u> such as trauma (tooth broken/ knocked out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>, please contact School Dental Centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg">Contact_YPS@hpb.gov.sg</a></p>
 <p>
