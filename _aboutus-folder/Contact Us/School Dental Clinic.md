@@ -4,8 +4,10 @@ permalink: /aboutus-folder/Contact-Us/SchoolDentalClinic/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/Contact%20Us%20School%20Dental%20Clinic.png)
+|**Dental Clinic opening days will be alternate weekly schedule** |  |
+| -------- | -------- |
+| Monday to Thursday:     | 8.00am to 5.30pm |   
+| Friday:  | 8.00am to 5.00pm | 
+| Lunch Time:| 1.00pm to 2.00pm |   
+| Clinic Handphone:    | 9115 8472 |   
 
-In the event of dental emergency such as trauma, facial/gum swelling, toothache due to decay, during clinic closure, please call School Dental Centre, Health Promotion Board at **6435 3782** for assistance.
-
-Please refer to our notice at the school gate or school website for any changes to the schedule.
