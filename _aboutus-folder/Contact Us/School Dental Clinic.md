@@ -4,15 +4,42 @@ permalink: /aboutus-folder/Contact-Us/SchoolDentalClinic/
 description: ""
 third_nav_title: Contact Us
 ---
- 
-|**Dental Clinic opening days will be alternate weekly schedule** |  |
-| -------- | -------- |
-| Monday to Thursday:     | 8.00am to 5.30pm |   
-| Friday:  | 8.00am to 5.00pm | 
-| Lunch Time:| 1.00pm to 2.00pm |   
-| Clinic Handphone:    | 9115 8472 |
+<h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
-##### Dental Clinic opening days will be alternate weekly schedule
+<table border="0">
+	<tr>
+		<td>
+			<b>Monday to Thursday:</b>
+		</td>
+	  <td>
+			8.00am to 5.30pm
+		</td>
+	</tr>
+		<tr>
+		<td>
+			<b>Friday:</b>
+		</td>
+	  <td>
+			8.00am to 5.00pm
+		</td>
+	</tr>
+		<tr>
+		<td>
+			<b>Lunch Time:</b>
+		</td>
+	  <td>
+			1.00pm to 2.00pm
+		</td>
+	</tr>
+		<tr>
+		<td>
+			<b>Clinic Handphone:</b>
+		</td>
+	  <td>
+			9115 8472
+		</td>
+	</tr>
+	</table>
 Monday to Thursday: 8.00am to 5.30pm
 
 Friday: 8.00am to 5.00pm
