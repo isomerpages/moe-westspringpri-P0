@@ -11,7 +11,7 @@ We wish to inform you that the School Dental Clinic is closed on 9 February 2023
 
 
 | **Dental Clinic** | **Clinic Handphone** | **Address** |
-| -------- | -------- | -------- |
+| :--------: | :--------: | :--------: |
 | Dazhong Primary School     | 9114 5479     | 35, Bukit Batok Street 31, S(659441)     |
 
 <u>In the event of dental emergencies</u> such as trauma (tooth broken/knocked out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>, please contact School Dental Centre via email [Contact_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg)
