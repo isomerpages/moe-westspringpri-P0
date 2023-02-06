@@ -5,18 +5,15 @@ description: ""
 third_nav_title: Contact Us
 ---
 <style>
- th:nth-child(1) {
-	  background-color: #9d4bfe;
-	}
-	
 td {
 	text-align: center;
 	}
 </style>
+
 <h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
 <table border="0">
-	<tbody><tr>
+<tr>
 		<td>
 			<b>Monday to Thursday:</b>
 		</td>
@@ -48,14 +45,10 @@ td {
 			9115 8472
 		</td>
 	</tr>
-	</tbody></table>
+	</table>
 	
+<h5>Operating Dates in Term 1 (2023)</h5>
 <table border="1">
-	<tbody><tr>
-		<th>
-			<b>Operating Dates in Term 1 (2023)</b>
-		</th>
-	</tr>
 	<tr>
 		<td>
 			09 January 2023 to 13 January 2023<br>
