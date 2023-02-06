@@ -46,7 +46,7 @@ td {
 		</td>
 	</tr>
 	</table>
-	
+<br>	
 <h5>Operating Dates in Term 1 (2023)</h5>
 <table border="1">
 	<tr>
@@ -82,7 +82,7 @@ td {
 
 <p>Student who only requires <b>URGENT</b> dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
 
-<table border="1" align="center">
+<table border="1">
 <tr>
 		<td>
 			<b>Dental Clinic</b>
