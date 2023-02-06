@@ -59,7 +59,7 @@ td {
 			20 March 2023 to 24 March 2023<br>
 		</td>
 	</tr>
-</tbody></table>
+</table>
 
 <p>Student who only requires <b>URGENT</b> dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
 
