@@ -9,8 +9,6 @@ We wish to inform you that the School Dental Clinic is closed on 9 February 2023
 
 <u>Student who only requires URGENT dental treatment</u>, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.
 
-<br>
-
 | **Dental Clinic** | **Clinic Handphone** | **Address** |
 | :--------: | :--------: | :--------: |
 | Dazhong Primary School     | 9114 5479     | 35, Bukit Batok Street 31, S(659441)     |
