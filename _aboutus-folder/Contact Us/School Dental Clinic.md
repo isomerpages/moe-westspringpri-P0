@@ -85,15 +85,15 @@ td {
 
 <table border="1">
 <tr>
-		<td>
+		<th>
 			<b>Dental Clinic</b>
-		</td>
-		<td>
+		</th>
+		<th>
 			<b>Clinic Handphone</b>
-		</td>
-		<td>
+		</th>
+		<th>
 			<b>Address</b>
-		</td>
+		</th>
 	</tr>
 	<tr>
 		<td>
