@@ -43,51 +43,45 @@ third_nav_title: Contact Us
 <br>	
 
 <h5>Operating Dates in Term 1 (2023)</h5>
-<table border="1">
+<table border="0">
 	<tr>
-		<td>09 January 2023 to 13 January 2023</td>
-  <tr>
-		<td>23 January 2023 to 27 January 2023</td>
-	</tr>
-	<tr>
-		<td>06 February 2023 to 10 Feburay 2023</td>
-	</tr>
-	<tr>
-		<td>20 February 2023 to 24 February 2023</td>
-	</tr>
-	<tr>
-		<td>06 March 2023 to 10 March 2023</td>
-	</tr>
-	<tr>
-		<td>20 March 2023 to 24 March 2023</td>
-	</tr>
+		<td>
+		09 January 2023 to 13 January 2023<br>
+        23 January 2023 to 27 January 2023<br>
+        06 February 2023 to 10 Feburay 2023<br>
+        20 February 2023 to 24 February 2023<br>
+        20 February 2023 to 24 February 2023<br>
+        06 March 2023 to 10 March 2023<br>
+        20 March 2023 to 24 March 2023<br>
+        </td>
+     </tr>
 </table>
 
 <p>Student who only requires <b>URGENT</b> dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
 
 <table border="1">
 <tr>
-		<th>
-			<b>Dental Clinic</b>
-		</th>
-		<th>
-			<b>Clinic Handphone</b>
-		</th>
-		<th>
-			<b>Address</b>
-		</th>
-	</tr>
-	<tr>
-		<td>
-			Dazhong Primary School
-		</td>
-		<td>
-			9114 5479
-		</td>
-		<td>
-			35, Bukit Batok Street 31, S(659441)
-		</td>
-	</tr>
+	<th>
+		<b>Dental Clinic</b>
+	</th>
+	<th>
+		<b>Clinic Handphone</b>
+	</th>
+	<th>
+		<b>Address</b>
+	</th>
+</tr>
+<tr>
+	<td>
+		Dazhong Primary School
+	</td>
+	<td>
+		9114 5479
+	</td>
+	<td>
+		35, Bukit Batok Street 31, S(659441)
+	</td>
+</tr>
 </table>
 
 <p><u>In the event of dental emergencies</u> such as trauma (tooth broken/ knocked out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>, please contact School Dental Centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg">Contact_YPS@hpb.gov.sg</a></p>
