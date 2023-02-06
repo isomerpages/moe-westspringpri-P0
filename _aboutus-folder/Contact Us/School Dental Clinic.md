@@ -92,6 +92,8 @@ th:nth-child(1) {
 	</tr>
 </table>
 
+<p><u>In the event of dental emergencies</u> such as trauma (tooth broken/ knocked out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>, please contact School Dental Centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg">Contact_YPS@hpb.gov.sg</a></p>
+<p>
+	Please refer to our notice at the school gate or school website for any changes to the schedule.</p>
 
 
-	
