@@ -58,3 +58,12 @@ third_nav_title: Contact Us
 		</td>
 	</tr>
 </table>
+
+<p>Student who only requires URGENT dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
+
+
+
+
+
+
+
