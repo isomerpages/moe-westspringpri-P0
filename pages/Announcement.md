@@ -3,7 +3,7 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
- <style>
+<style>
     td, th {
        border: "1";
     }
