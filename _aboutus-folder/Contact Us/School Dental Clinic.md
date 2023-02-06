@@ -48,7 +48,7 @@ td {
 	</table>
 	
 <h5>Operating Dates in Term 1 (2023)</h5>
-<table border="1">
+<table border="0">
 	<tr>
 		<td>
 			09 January 2023 to 13 January 2023<br>
