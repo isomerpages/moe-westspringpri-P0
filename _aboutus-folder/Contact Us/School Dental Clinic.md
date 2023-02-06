@@ -46,7 +46,7 @@ th:nth-child(1) {
 		</td>
 	</tr>
 	</table>
-<br>
+
 <table border="1">
 	<tr>
 		<th>
