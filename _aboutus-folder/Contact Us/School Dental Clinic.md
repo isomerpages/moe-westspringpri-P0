@@ -4,6 +4,12 @@ permalink: /aboutus-folder/Contact-Us/SchoolDentalClinic/
 description: ""
 third_nav_title: Contact Us
 ---
+<style>
+th:nth-child(1) {
+	background-color: #9d4bfe;
+	}
+</style>
+
 <h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
 <table border="0">
@@ -60,10 +66,3 @@ third_nav_title: Contact Us
 </table>
 
 <p>Student who only requires URGENT dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
-
-
-
-
-
-
-
