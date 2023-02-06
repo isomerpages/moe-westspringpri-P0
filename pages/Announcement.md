@@ -3,17 +3,13 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
-<style>
-    td, th {
-       border: "1";
-    }
-</style>
-### Closure fo School Dental Clinic
+<h3> Closure fo School Dental Clinic</h3>
 
 We wish to inform you that the School Dental Clinic is closed on 9 February 2023 (Thursday) from 1pm onwards.
 
 <u>Student who only requires URGENT dental treatment</u>, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.
 
+<br>
 
 | **Dental Clinic** | **Clinic Handphone** | **Address** |
 | :--------: | :--------: | :--------: |
