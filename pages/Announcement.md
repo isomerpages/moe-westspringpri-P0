@@ -3,6 +3,11 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
+ <style>
+    td, th {
+       border: "1";
+    }
+</style>
 ### Closure fo School Dental Clinic
 
 We wish to inform you that the School Dental Clinic is closed on 9 February 2023 (Thursday) from 1pm onwards.
