@@ -8,6 +8,10 @@ third_nav_title: Contact Us
  th:nth-child(1) {
 	  background-color: #9d4bfe;
 	}
+	
+td {
+	text-align: center;
+	}
 </style>
 <h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
