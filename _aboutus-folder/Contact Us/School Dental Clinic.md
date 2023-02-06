@@ -4,11 +4,7 @@ permalink: /aboutus-folder/Contact-Us/SchoolDentalClinic/
 description: ""
 third_nav_title: Contact Us
 ---
-<style>
-td {
-	text-align: center;
-	}
-</style>
+
 
 <h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
