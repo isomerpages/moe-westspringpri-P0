@@ -46,7 +46,7 @@ th:nth-child(1) {
 		</td>
 	</tr>
 	</table>
-
+<br>
 <table border="1">
 	<tr>
 		<th>
@@ -65,4 +65,33 @@ th:nth-child(1) {
 	</tr>
 </table>
 
-<p>Student who only requires URGENT dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
+<p>Student who only requires <b>URGENT</b> dental treatment, please Call/Whatapps/SMS the buddy clinic (see table below) for an appointment. This is to ensure a dental staff is on duty at the location.</p>
+
+<table border="1">
+	<tr>
+		<td>
+			<b>Dental Clinic</b>
+		</td>
+		<td>
+			<b>Clinic Handphone</b>
+		</td>
+		<td>
+			<b>Address</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Dazhong Primary School
+		</td>
+		<td>
+			9114 5479
+		</td>
+		<td>
+			35, Bukit Batok Street 31, S(659441)
+		</td>
+	</tr>
+</table>
+
+
+
+	
