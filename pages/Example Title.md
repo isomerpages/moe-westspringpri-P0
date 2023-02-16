@@ -8,13 +8,13 @@ description: ""
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img style="width:100%" src="img1.jpg">
+    <img style="width:100%" src="/images/Cny2023/Reflection%20I.jpeg">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img style="width:100%" src="img2.jpg">
+    <img style="width:100%" src="Reflection I.jpeg">
     <div class="text">Caption Two</div>
   </div>
 
