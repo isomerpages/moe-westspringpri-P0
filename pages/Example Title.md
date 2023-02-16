@@ -3,8 +3,6 @@ title: Example Title
 permalink: /exampletitle/
 description: ""
 ---
-
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -36,8 +34,3 @@ description: ""
   <span class="dot"></span> 
   <span class="dot"></span> 
 </div>
-
-
-
-
- 
