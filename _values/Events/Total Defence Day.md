@@ -4,9 +4,12 @@ permalink: /values/Events/tdd/
 description: ""
 third_nav_title: Events
 ---
+# Total Defence Day
 
+#### 2023
+*Coming soon *
 
-# Total Defence Day 2022
+#### 2022
 West Spring Primary School commemorated Total Defence Day (TDD) on Wednesday, 16th February 2022. This event serves to remind us of what Singapore could be like if we are not able to defend ourselves. Total Defence has guided us through many difficult times. One example would be our nation’s fight against the ongoing COVID-19.
 
 2022's Total Defence campaign – “Together We Keep Singapore Strong” – focused on the many ways we can incorporate Total Defence into our daily lives. As part of the commemoration, our students will learn about the significance of Total Defence and the six pillars through the morning assembly programme and activities infused into the lessons.
