@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Programmes
 ---
 # Curriculum goals
-Our curriculum and programmes are based on the [Nurturing Early Learners (NEL) Framework](https://www.moe.gov.sg/preschool/curriculum) that guides the development of quality kindergarten programmes in Singapore.
+Our curriculum and programmes are based on the [Nurturing Early Learners (NEL) Framework](https://youtu.be/bDF0IbQlb3k) that guides the development of quality kindergarten programmes in Singapore.
 
 At MK, we believe preschool **children are joyful, curious, active and competent learners** and they play, learn and grow with others in a diverse and multi-cultural community. They are keen to make sense of the world around them, and they learn best through active learning.
 
