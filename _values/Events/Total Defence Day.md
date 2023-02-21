@@ -20,6 +20,8 @@ We want to thank all the students who submitted their pledges in the SLS. Your c
 
 <iframe allowfullscreen="true" height="729" width="700" frameborder="0" src=" https://docs.google.com/presentation/d/e/2PACX-1vTEq88y9tmzyInOaF2MoW5Pm1Kuw3Gc5_87SQvbS6Mwb8ThILUMEdRRVgJ6SNh56jDZ1r8hW23q4qsy/embed?start=true&loop=true&delayms=3000"></iframe>
 
+![](/images/Reflection-1.jpeg)
+![](/images/Reflection-2.jpeg)
 #### 2022
 West Spring Primary School commemorated Total Defence Day (TDD) on Wednesday, 16th February 2022. This event serves to remind us of what Singapore could be like if we are not able to defend ourselves. Total Defence has guided us through many difficult times. One example would be our nation’s fight against the ongoing COVID-19.
 
