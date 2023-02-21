@@ -16,7 +16,6 @@ third_nav_title: Co Curricular Activities (CCA)
 
 # Visual & Performing Arts
 * [🎨Art & Crafts Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/artcraftsclub/)
-* [🖌Chinese Calligraphy](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/chinesecalligraphy/)
 * [🎤Choir](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/choir/) 
 * [📷Digital Media Club](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/digitalmediaclub/)
 * [🩰Modern Dance](https://staging.d2i1deds856vl0.amplifyapp.com/cca/vparts/moderndance/)
