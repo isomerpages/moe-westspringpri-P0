@@ -20,11 +20,11 @@ We are just so excited about all the upcoming 10th Anniversary celebrations! Sta
 
 
 
-<iframe allowfullscreen="true" height="700" width="729" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrI0ScSYhXnS_ojFhDf3O_qVDtMnqTmfoIxuScoFjGzpGbiRcpDV00gZLRwwVbXetmDAt_A2VXtkd4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrI0ScSYhXnS_ojFhDf3O_qVDtMnqTmfoIxuScoFjGzpGbiRcpDV00gZLRwwVbXetmDAt_A2VXtkd4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<iframe title="Joel June.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="1920" width="1080" src="https://player.vimeo.com/video/807398939?h=2f1dbc32be&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Joel June.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/807398939?h=2f1dbc32be&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
-<iframe title="Janavi.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="1920" width="1080" src="https://player.vimeo.com/video/807398609?h=8da37845b4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Janavi.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/807398609?h=8da37845b4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
 <iframe title="March 10 Anni Recess Activity 1.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/807401722?h=1712b81edf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
