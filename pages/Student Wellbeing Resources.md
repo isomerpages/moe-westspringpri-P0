@@ -20,7 +20,7 @@ The Zones of Regulation aims to teach students about self-regulation by categori
 You can learn more on the Zones of Regulation by watching the video below!
 
 <iframe src="https://player.vimeo.com/video/806219003?h=c8de256ec9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-**Zones of Regulation from West Spring Primary on Vimeo
+Zones of Regulation from West Spring Primary on Vimeo
 
 #### Calming Strategy: Deep Belly Breathing
 
@@ -30,4 +30,4 @@ Find out how to do the deep belly breathing exercise by clicking on the video be
 
 
 <iframe src="https://player.vimeo.com/video/806219026?h=11d9507019" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-**Keep Calm and Breathe from West Spring Primary on Vimeo.
+Keep Calm and Breathe from West Spring Primary on Vimeo.
