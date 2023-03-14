@@ -21,6 +21,8 @@ description: ""
 *   [NEU PC Plus Programme](/neupcplus/)
 *   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
 *   [MOE Sexuality Education in schools](/moe-sed-schools/) 
+*   [Student Well-being Resources](/studentwellbeingresources/ ) 
+
 
 
 
