@@ -17,6 +17,6 @@ Canteen Menu Lists for the canteen stalls are as follow:
 
 ![Stall 7](/images/School%20Canteen%20Menu/School%20Canteen_19Jan23/Slide6.jpg)
 
-![Stall 8](/images/School%20Canteen%20Menu/School%20Canteen_19Jan23/Slide7.jpg)
+![Stall 8](/images/School%20Canteen%20Menu/School%20Canteen_20%20March23/Stall%208%20updated%20menus%20as%20of%2020%20March%202023.jpg)
 
 The current food prices for set meals are $1.80 and $2.00.
