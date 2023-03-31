@@ -27,10 +27,10 @@ tr:nth-child(1) {
 }
 </style>
 
-<table border=1>
+<table border="1">
   <tbody>
   <tr>
-    <th colspan=3>Primary 1</th>
+    <th colspan="3">Primary 1</th>
   </tr>
   <tr>
     <td>1A</td>
@@ -107,10 +107,10 @@ tr:nth-child(1) {
 </table>
 <br><br>
 
-<table border=1>
+<table border="1">
   <tbody>
   <tr>
-    <th colspan=3>Primary 2</th>
+    <th colspan="3">Primary 2</th>
   </tr>
   <tr>
     <td>2A</td>
@@ -165,10 +165,8 @@ tr:nth-child(1) {
     <td><b>Mdm Nurul Ain</b><br><a href="mailto:nurul_ain_saparuan@moe.edu.sg">nurul_ain_saparuan@moe.edu.sg</a></td>
     <td><b>Mdm Tan Sin Hwee, Dawn</b><br>
     <a href="mailto:tan_sin_hwee@moe.edu.sg">tan_sin_hwee@moe.edu.sg</a>
-			<br>
-			<b>Miss Liew Wen Rin</b><br>
-            <a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a></td>
-  </tr>
+			
+  </td></tr>
 
   <tr>
     <td>2H</td>
@@ -184,10 +182,10 @@ tr:nth-child(1) {
 </table>
 <br><br>
 
-<table border=1>
+<table border="1">
   <tbody>
   <tr>
-    <th colspan=3>Primary 3</th>
+    <th colspan="3">Primary 3</th>
   </tr>
   <tr>
     <td>3A</td>
@@ -246,10 +244,10 @@ tr:nth-child(1) {
 </table>
 <br><br>
 
-<table border=1>
+<table border="1">
   <tbody>
   <tr>
-    <th colspan=3>Primary 4</th>
+    <th colspan="3">Primary 4</th>
   </tr>
   <tr>
     <td>4A</td>
@@ -295,8 +293,8 @@ tr:nth-child(1) {
     <td>4E</td>
     <td><b>Mr Justin Paolo</b><br>
     <a href="mailto:justin_paolo@moe.edu.sg">justin_paolo@moe.edu.sg</a></td>
-    <td><b>Mdm Tang Sock Kien</b><br>
-    <a href="mailto:tang_sock_kien@moe.edu.sg">tang_sock_kien@moe.edu.sg</a>
+    <td><b>Ms Kavitha</b><br>
+    <a href="mailto:kavitha_periyasamy@moe.edu.sg">kavitha_periyasamy@moe.edu.sg</a>
 		<br>
 			<b>Ms Chua Peh Xiang</b>
 			<br>
@@ -318,10 +316,10 @@ tr:nth-child(1) {
 </table>
 <br><br>
 
-<table border=1>
+<table border="1">
   <tbody>
   <tr>
-    <th colspan=3>Primary 5</th>
+    <th colspan="3">Primary 5</th>
   </tr>
   <tr>
     <td>5A</td>
@@ -387,10 +385,10 @@ tr:nth-child(1) {
 </table>
 <br><br>
 
-<table border=1>
+<table border="1">
   <tbody>
   <tr>
-    <th colspan=3>Primary 6</th>
+    <th colspan="3">Primary 6</th>
   </tr>
   <tr>
     <td>6A</td>
@@ -449,4 +447,4 @@ tr:nth-child(1) {
     </td>
   </tr>
   
-</tbody>
+</tbody></table>
