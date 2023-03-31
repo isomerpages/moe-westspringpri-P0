@@ -308,9 +308,8 @@ tr:nth-child(1) {
     <a href="mailto:suvitha_prakass_pillay@moe.edu.sg">suvitha_prakass_pillay@moe.edu.sg</a></td>
     <td><b>Mr Michael Chua</b><br>
     <a href="mailto:chua_yew_sein_michael@moe.edu.sg">chua_yew_sein_michael@moe.edu.sg</a><br>
-    <b>Ms Kavitha</b><br>
-    <a href="kavitha_periyasamy@moe.edu.sg">kavitha_periyasamy@moe.edu.sg</a></td>
-  </tr>
+    
+  </td></tr>
   
 </tbody>
 </table>
