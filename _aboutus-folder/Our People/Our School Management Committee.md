@@ -23,8 +23,8 @@ td, th {
 
 <h5>SCHOOL LEADERS</h5>
 
-<table border=1>
-	<tr>
+<table border="1">
+	<tbody><tr>
 		<td>
 			PRINCIPAL
 		</td>
@@ -42,12 +42,12 @@ td, th {
 			<b>Ms Linda Chua</b>
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <h5>Deans</h5>
 
-<table border=1>
-	<tr>
+<table border="1">
+	<tbody><tr>
 		<td>
 			EL / MTL / CCA / ICT
 		</td>
@@ -71,13 +71,13 @@ td, th {
 			<b>Mrs Lack Hwee Leng</b>
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 
 <h5>Curriculum And Instruction Departments (CAID)</h5>
 
-<table border=1>
-	<tr>
+<table border="1">
+	<tbody><tr>
 		<td>
 			HOD / English Language
 		</td>
@@ -114,20 +114,20 @@ td, th {
 			HOD / PE, CCA, OE, AES
 		</td>
 		<td>
+			<b>Mr Mohamed Shodikin</b>
+		</td>
+	</tr>
+		<tr>
+		<td>
+			SH / OE, PE, LLP &amp; PAL
+		</td>
+		<td>
 			<b>Ms Casey Ng</b>
 		</td>
 	</tr>
 		<tr>
 		<td>
-			SH / OE, LLP & PAL
-		</td>
-		<td>
-			<b>Mr Justin Paolo</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / Malay & Tamil Language
+			SH / Malay &amp; Tamil Language
 		</td>
 		<td>
 			<b>Ms Mazlina Isnin</b>
@@ -135,7 +135,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / PE & CCA
+			SH / PE &amp; CCA
 		</td>
 		<td>
 			<b>Mr Mohamed Shodikin</b>
@@ -167,7 +167,7 @@ td, th {
 	</tr>
 	<tr>
 		<td>
-			LH / Science & ALP
+			LH / Science &amp; ALP
 		</td>
 		<td>
 			<b>Ms Revathi</b>
@@ -181,13 +181,13 @@ td, th {
 			<b>Mr Daniel Foo</b>
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 
-<h5>Students, Staff & Stakeholders Departments (SSSD)</h5>
+<h5>Students, Staff &amp; Stakeholders Departments (SSSD)</h5>
 
-<table border=1>
-	<tr>
+<table border="1">
+	<tbody><tr>
 		<td>
 			Year Head (P1 - P2)
 		</td>
@@ -221,7 +221,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			HOD / Character & Citizenship Education
+			HOD / Character &amp; Citizenship Education
 		</td>
 		<td>
 			<b>Mr Ko Chen Wei</b>
@@ -261,7 +261,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / Character & Citizenship Education
+			SH / Character &amp; Citizenship Education
 		</td>
 		<td>
 			<b>Mdm Norhany</b>
@@ -291,4 +291,4 @@ td, th {
 			<b>Mdm Nur Atiqah</b>
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
