@@ -272,7 +272,7 @@ td, th {
 			SH / Discipline
 		</td>
 		<td>
-			<b>Mr Fakkhruddin</b>
+			<b>Mr Fakhruddin</b>
 		</td>
 	</tr>
 		<tr>
