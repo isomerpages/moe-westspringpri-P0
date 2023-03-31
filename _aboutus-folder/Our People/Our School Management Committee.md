@@ -119,7 +119,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / OE, PE, LLP &amp; PAL
+			SH / OE, LLP &amp; PAL
 		</td>
 		<td>
 			<b>Ms Casey Ng</b>
