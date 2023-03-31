@@ -135,10 +135,10 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / PE &amp; CCA
+			SH / CCA
 		</td>
 		<td>
-			<b>Mr Mohamed Shodikin</b>
+			<b>Mr Justin Paolo</b>
 		</td>
 	</tr>
 		<tr>
