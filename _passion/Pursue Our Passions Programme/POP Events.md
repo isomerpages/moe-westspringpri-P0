@@ -17,3 +17,7 @@ Congratulations to all the winners and participants for putting on such an incre
 </a>
 
 </p>
+
+![](/images/POP/updated%20speedcubing%20reflection%201.jpg)
+
+![](/images/POP/updated%20speedcubing%20reflection%202.jpg)
