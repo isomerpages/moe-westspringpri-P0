@@ -16,8 +16,10 @@ Congratulations to all the winners and participants for putting on such an incre
 <iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/813444775?h=0ac696c3db"></iframe> <p><a href="https://vimeo.com/813444775">
 	
 
+	
 ![Speedcube](/images/students'%20reflections_speedcubing.jpg)
 
+	
 ![Speedcube2](/images/students'%20reflections_speedcubing_1.jpg)
 
 </a></p>
