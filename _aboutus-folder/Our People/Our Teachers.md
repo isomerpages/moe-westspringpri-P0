@@ -202,7 +202,7 @@ tr:nth-child(1) {
     <td><b>Mdm Chen Xiao Xiao</b><br>
     <a href="mailto:chen_xiaoxiao@moe.edu.sg">chen_xiaoxiao@moe.edu.sg</a><br>
 			<b>Ms Low Jing Xian</b>
-			<a href="mailto:"> </a>
+			<a href="mailto:low_jingxian@moe.edu.sg"> low_jingxian@moe.edu.sg</a>
 		</td>
   </tr>
   
@@ -298,7 +298,7 @@ tr:nth-child(1) {
 		<br>
 			<b>Ms Chua Peh Xiang</b>
 			<br>
-			<a href="mailto:"> </a>
+			<a href="mailto:chua_peh_xiang@moe.edu.sg"> chua_peh_xiang@moe.edu.sg</a>
 		</td>
   </tr>
   
