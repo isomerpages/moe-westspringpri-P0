@@ -16,3 +16,6 @@ Congratulations to all the winners and participants for putting on such an incre
 
 ![](/images/students'%20reflections_speedcubing.jpg)
 ![](/images/students'%20reflections_speedcubing_1.jpg)
+
+To view our students' reflections, head over to this link :
+https://cms.isomer.gov.sg/sites/moe-westspringpri-P0/folders/passion/subfolders/Pursue%20Our%20Passions%20Programme/editPage/POP%20Events.md
