@@ -4,8 +4,16 @@ permalink: /values/Events/ifd/
 description: ""
 third_nav_title: Events
 ---
+# International Friendship Day 
+#### 2023
 
-# International Friendship Day 2022
+On Wednesday, 5 April 2023, the school celebrated International Friendship Day with this year's theme being 'Singapore in Asia.' During the assembly programme, students learnt about the importance of connecting with communities different from their own. Specifically, the connection between Singapore and the neighbouring ASEAN countries.&nbsp;
+
+  
+
+Through the assembly programme, students were encouraged to develop friendship and collaboration with individuals from the different ASEAN countries by having an open mindset and appreciation for our neighbouring countries. The assembly began with a group of Primary 4 students dancing to music from the different ASEAN countries. Thereafter, a video of students interviewing their peers about how ASEAN countries support one another was shown. Lastly, to further engage the West Springers and to enhance their understanding of the importance of collaboration among ASEAN countries, our student emcees conducted a quiz for the whole school to participate in!
+
+#### 2022
 On 6 April, we celebrated International Friendship Day during the assembly.
 
 The theme for this year’s International Friendship Day is Singapore in Asia. International cooperation remains key in our complex world. By recognising the importance of connectedness between our neighbouring countries, we can play an active role in fostering people-to-people ties, and thus celebrate the region's diversity and vibrancy and promote the spirit of friendship and collaboration.
