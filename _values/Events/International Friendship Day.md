@@ -15,6 +15,7 @@ Through the assembly programme, students were encouraged to develop friendship a
 
 ![IFD](/images/students_%20reflections.jpg)
 ![IFD2](/images/ifd_students_%20reflections%20(2).jpg)
+
 #### 2022
 On 6 April, we celebrated International Friendship Day during the assembly.
 
