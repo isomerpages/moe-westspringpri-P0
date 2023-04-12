@@ -2,9 +2,8 @@ collections:
   passion:
     output: true
     order:
-      - Young Reporters.md
-      - Pursue Our Passions Programme/POP Events.md
       - Pursue Our Passions Programme/.keep
+      - Pursue Our Passions Programme/POP Events.md
       - Pursue Our Passions Programme/What is POP Programme.md
       - Pursue Our Passions Programme/Our West Spring POPstars.md
       - Pursue Our Passions Programme/POPfest.md
@@ -25,8 +24,8 @@ collections:
       - Co Curricular Activities (CCA)/Environmental Science Club.md
       - Co Curricular Activities (CCA)/Robotics Club.md
       - Co Curricular Activities (CCA)/Strategy Games Club.md
-      - "ALP (STEM)/Applied Learning Programme: SEAS.md"
       - ALP (STEM)/.keep
+      - "ALP (STEM)/Applied Learning Programme: SEAS.md"
       - LLP (Outdoor Education)/.keep
       - "LLP (Outdoor Education)/Learn for Life Programme: Outdoor Education.md"
       - LLP (Outdoor Education)/A School in Nature.md
@@ -35,3 +34,4 @@ collections:
       - LLP (Outdoor Education)/CCAs for the outdoor enthusiasts.md
       - LLP (Outdoor Education)/Pursue our Passion outdoors through Outdoor
         Interest Groups.md
+      - Young Reporters.md
