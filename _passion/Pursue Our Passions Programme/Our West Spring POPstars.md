@@ -6,6 +6,8 @@ third_nav_title: Pursue Our Passions Programme
 ---
 ![](/images/POPbanner.png)
 
+![](/images/POP/noufal_april2023%20(1).jpg)
+
 ![](/images/POP/March_Guzheng.jpg)
 
 ![](/images/POP/Feb_helping%20others.jpg)
