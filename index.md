@@ -19,10 +19,10 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
-      title: "Slides and Video "
-      subtitle: Curriculum Briefing 2023
+      title: Slides
+      subtitle: Ask Anything PSD 2023
       button: Click here
-      url: /curriculum-briefing/2023/
+      url: /ask-anything-psd/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual

@@ -3,7 +3,6 @@ title: Important Dates
 permalink: /aboutus-folder/important-dates/
 description: ""
 ---
-<head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -21,19 +20,19 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
+
+
 
 <h2>Important Dates for Semester 1</h2>
 	
 <table>
-  <tr>
+  <tbody><tr>
     <th>Date</th>
     <th>Event</th>
     <th>Level</th>
 		<th>Remarks</th>
 
-  <tr>
+  </tr><tr>
     <td>3rd Jan</td>
     <td>Start of Term 1 for P1</td>
 		<td>P1</td>
@@ -81,15 +80,18 @@ tr:nth-child(even) {
     <td>All levels</td>
 		<td>No lessons</td>
 				  </tr>
-  <tr>
-    <td>1st May</td>
-    <td>Labour Day</td>
-    <td>All levels</td>
-		<td>No lessons</td>
-		
-				
-  <tr>
-    <td>25th May</td>
+		<tr>
+    <td>27th April</td>
     <td>Sports Fiesta</td>
     <td>All levels</td>
 		<td>School hours</td>
+		</tr>
+		<tr>
+    <td>1st May</td>
+    <td>Labour Day</td>
+    <td>All levels</td>
+		<td>No lessons</td>		
+  </tr>
+
+	</tbody>
+</table>
