@@ -14,7 +14,9 @@ We would also like to thank and affirm the members of the Club for rising to the
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5K5EXYJOEEs_t5AYcPi4vSagH9Oqn3PCvPgerhtGvoN9Uzc6T5pqGK5d9NJZ9DA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
 
+![](/images/POP/students'%20reflections%20(2).jpg)
 
+![](/images/POP/students'%20reflections%20(3).jpg)
 #### WSPS Speedcubing Competition 2023
 
 Our first WSPS Speedcubing competition was held on March 28th. Each class was represented by two students - one girl and one boy. Although not many of the lower primary students were able to solve all six faces of the 3x3 Rubik's Cube, they were still courageous enough to represent their classes. On stage, the competitors were busy solving their Rubik's Cubes while their classmates cheered them on.
