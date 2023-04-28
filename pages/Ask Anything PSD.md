@@ -4,7 +4,7 @@ permalink: /ask-anything-psd/
 description: ""
 ---
 ![PSLE and FSBB](/images/Ask%20Anything%20PSD/1_psle%20and%20fsbb_page_01.jpg)
-#### [PSLE and Full Subject-based Banding (Sec)](/files/PSD/2023/1_psle%20and%20fsbb.pdf)
+#### [PSLE and Full Subject-based Banding (Sec)](/files/PSD/2023/4_psle_02.pdf)
 
 
 
