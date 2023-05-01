@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Events
 ---
 # Hari Raya Aidilfitri 2023
-**
 
-West Springers celebrated Hari Raya Aidilfitri on Wednesday, 26 April 2023.&nbsp; The theme for this year's celebration is Gempak Raya. This year, we highlighted 3 misconceptions on Hari Raya Celebration through a skit. Students learned on how someone can wish a Muslim on Hari Raya, is there a need for color coordinated clothes and also the act of giving or sharing with others. On top of that, we featured some of our Malay culture. Hence, performances by the talents of West Springers were showcased through Dikir Barat, Kompang and Tarian. The celebration ended with West Springers sing-along to a Raya Sudah Tiba song following to a tune of Rasa Sayang Eh.
 
-During the recess activities, West Springers got the opportunity to experience various activities, such as creating a Raya decoration using origami papers, tanjak making and playing Kompang. There was also a photobooth for West Springers to take photos with their friends!
+On Wednesday, 26 April 2023, West Springers celebrated Hari Raya Aidilfitri with the theme "Gempak Raya". This year's celebration focused on dispelling three misconceptions about Hari Raya through a skit. Students learned about how to wish Muslims on Hari Raya, whether wearing color-coordinated clothes was necessary, and the significance of giving and sharing with others. The event also featured various performances showcasing our Malay culture, including Dikir Barat, Kompang, and Tarian. The celebration ended on a high note with West Springers singing along to the Raya Sudah Tiba song, following the tune of Rasa Sayang Eh.
 
-This was certainly a new, yet enjoyable experience for them where the whole school come together to celebrate Hari Raya. We hope all of them had enjoyed the performances and learn something new.
+During recess, West Springers participated in various activities such as creating Raya decorations using origami paper, making tanjaks, and playing Kompang. A photobooth was also set up for them to capture memories with their friends.
 
-Stay safe and Selamat Hari Raya to all, Maaf Zahir dan Batin!
+It was a memorable experience for everyone, as the entire school came together to celebrate Hari Raya. We hope that all of them enjoyed the performances and learned something new.
+
+Stay safe and Selamat Hari Raya to all! Maaf Zahir dan Batin!
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrL6u9bf6Fqk28fNwHclAiVWTc0OBHl7at13RVyA1k_knKIWDSyzqS6EcGJt7VwhK6Wt7R1CiVoXIn/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
 
