@@ -19,11 +19,6 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
-      title: Slides
-      subtitle: Ask Anything PSD 2023
-      button: Click here
-      url: /ask-anything-psd/
-  - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
       description: Come and join us!

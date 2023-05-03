@@ -1,6 +1,6 @@
 ---
 title: Ask Anything PSD
-permalink: /ask-anything-psd/
+permalink: /ask-anything-psd-2023/
 description: ""
 ---
 ![PSLE and FSBB](/images/Ask%20Anything%20PSD/1_psle%20and%20fsbb_page_01.jpg)
