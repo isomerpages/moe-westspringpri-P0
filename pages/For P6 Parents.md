@@ -11,8 +11,8 @@ Explore schools based on their distance from your home, locations, CCAs, subject
 
 ##### WE Stories Publication
 The WE Stories Publication provides detailed information about the secondary schools in the West. It is a very informative guide that you can use when discussing secondary school choices with your child/ ward. The filter function allows you to sieve out suitable schools easily.
-[![WE Stories Publication](/images/For%20P6%20Parents/2_WE%20Stories%20Publication.png)](https://online.fliphtml5.com/obrr/vrmu/#p=1)
-[https://online.fliphtml5.com/obrr/vrmu/#p=1](https://online.fliphtml5.com/obrr/vrmu/#p=1)
+[![WE Stories Publication](/images/For%20P6%20Parents/2_westories_2023.png)](https://online.fliphtml5.com/obrr/qkde/)
+[https://online.fliphtml5.com/obrr/qkde/](https://online.fliphtml5.com/obrr/qkde/)
 
 
 ##### MOE S1 Posting Website
