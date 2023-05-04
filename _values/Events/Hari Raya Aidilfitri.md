@@ -17,8 +17,11 @@ Stay safe and Selamat Hari Raya to all! Maaf Zahir dan Batin!
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrL6u9bf6Fqk28fNwHclAiVWTc0OBHl7at13RVyA1k_knKIWDSyzqS6EcGJt7VwhK6Wt7R1CiVoXIn/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
 
+![](/images/Hari%20Raya/hari%20raya%20reflection.jpg)
 
+![](/images/Hari%20Raya/hari%20raya%20reflection%202%20.jpg)
 
+![](/images/Hari%20Raya/hari%20raya%20reflection%203.jpg)
 # Hari Raya Aidilfitri 2022
 West Springers celebrated Hari Raya Aidilfitri with a live and pre-recorded concert on Wednesday, 4 May 2022. The theme for this year’s celebration is Kampung West Spring.
 
