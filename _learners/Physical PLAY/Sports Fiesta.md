@@ -11,3 +11,7 @@ The event concluded with our West Spring Primary School (WSPS) Workout, held in 
 Congratulations to all West Springers for their positive and active participation. Please continue to stay physically active! Click on the photo album to gain insight into how the event went!
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUydKXNbaSuam4cmpQp5JKQIzNoRmSr73b1l_FtBj9h6kzn--c0-jL3J4aYeh4MPMZ__JehET7vMP4/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
+
+![](/images/Sports%20Fiesta/students'%20reflections%20sports%20fiesta%202023%202.jpg)
+
+![](/images/Sports%20Fiesta/students'%20reflections_sports%20fiesta%202023%201.jpg)
