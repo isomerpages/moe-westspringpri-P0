@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Open House 2023.md
       - About MK @ West Spring/.keep
       - About MK @ West Spring/Vision and Mission.md
       - About MK @ West Spring/Our MK@WS Team.md
