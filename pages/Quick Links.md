@@ -18,7 +18,6 @@ description: ""
 *   [ICT Helpdesk](https://go.gov.sg/wspshelpdesk)
 *   [Students Learning Space (SLS)](/sls/)
 *   [Google Classroom](/files/Google-Classroom_For-Parents.pdf)
-*   [NEU PC Plus Programme](/neupcplus/)
 *   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
 *   [MOE Sexuality Education in schools](/moe-sed-schools/) 
 *   [Student Well-being Resources](/studentwellbeingresources/ ) 
