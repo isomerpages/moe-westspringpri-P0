@@ -1,6 +1,6 @@
 ---
 title: NEU PC Plus
-permalink: /neupcplus2020/
+permalink: /123/
 description: ""
 ---
 About
