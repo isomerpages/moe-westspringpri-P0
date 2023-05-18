@@ -14,7 +14,9 @@ Our May 10th anniversary celebration at WSPS was another great success! The acti
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYiHG1HyzlIh8HDOrFhVsCD90fCr6uRPZiQ9JSqDkQW_udvCiqwRxOnCI4NbdjrQpZ08tBfxax4Zmf/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
 
-![shambavi](/images/shambavi.JPG)
+![](/images/10%20anniversary/students'%20reflections%20may%201.jpg)
+
+![](/images/10%20anniversary/students'%20reflections%20may%202.jpg)
 
 #### April
 
