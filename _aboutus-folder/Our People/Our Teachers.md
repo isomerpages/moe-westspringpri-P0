@@ -296,11 +296,7 @@ tr:nth-child(1) {
     <td><b>Ms Kavitha</b><br>
     <a href="mailto:kavitha_periyasamy@moe.edu.sg">kavitha_periyasamy@moe.edu.sg</a>
 		<br>
-			<b>Ms Chua Peh Xiang</b>
-			<br>
-			<a href="mailto:chua_peh_xiang@moe.edu.sg"> chua_peh_xiang@moe.edu.sg</a>
-		</td>
-  </tr>
+  </td></tr>
   
   <tr>
     <td>4F</td>
@@ -343,10 +339,16 @@ tr:nth-child(1) {
   
   <tr>
     <td>5C</td>
-    <td><b>Mdm Nur Hafizah</b><br>
-    <a href="mailto:nur_hafizah_mazlan@moe.edu.sg">nur_hafizah_mazlan@moe.edu.sg</a></td>
     <td><b>Mr Din</b><br>
     <a href="mailto:muhammad_fakhruddin_daud@moe.edu.sg">muhammad_fakhruddin_daud@moe.edu.sg</a></td>
+    <td><b>Mdm Nur Hafizah</b><br>
+    <a href="mailto:nur_hafizah_mazlan@moe.edu.sg">nur_hafizah_mazlan@moe.edu.sg</a>
+			<br>
+		<b>Ms Chua Peh Xiang</b>
+			<br>
+			<a href="mailto:chua_peh_xiang@moe.edu.sg"> chua_peh_xiang@moe.edu.sg</a>
+		</td>
+		
   </tr>
   
   <tr>
