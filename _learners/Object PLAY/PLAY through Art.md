@@ -1,6 +1,6 @@
 ---
-title: Visual Art
-permalink: /learners/Object-PLAY/visualart/
+title: PLAY through Art
+permalink: /learners/object-play/playthroughart/
 description: ""
 third_nav_title: Object PLAY
 ---
