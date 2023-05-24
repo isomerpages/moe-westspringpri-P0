@@ -7,8 +7,7 @@ third_nav_title: Events and Celebrations
 ### What is LIFE@MK?
 **L**eading and **I**nspiring **F**amilies of **E**arly Learners **@** **M**OE **K**indergarten (or **LIFE@MK** in short) is a series of workshops to encourage families to be more involved in and gain a deeper understanding of their children’s holistic development in the pre-school years.
 
-# Discover West Spring 2023 
-
+# Discover West Spring 2023 (K2 Transition to Primary 1) 
 At MOE Kindergarten, we believe that parents play a crucial role in their child's education and we want to partner with you to ensure your child's success. 
 
 On 19 May 2023, we partnered West Spring Primary School to invite our K2 parents as well as the public for a K2 Transition Talk. 
