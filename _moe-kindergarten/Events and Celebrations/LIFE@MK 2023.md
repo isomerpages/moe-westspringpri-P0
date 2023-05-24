@@ -4,9 +4,8 @@ permalink: /moe-kindergarten/events-and-celebrations/transitiontoprimaryschool/
 description: ""
 third_nav_title: Events and Celebrations
 ---
-### (LIFE@MK: K2 Transition Talk)
-###
-**L**eading and **I**nspiring **F**amilies of **E**arly Learners @ MOE Kindergarten (or **LIFE@MK** in short) is a series of workshops to encourage families to be more involved in and gain a deeper understanding of their children’s holistic development in the pre-school years.
+### What is LIFE@MK?
+**L**eading and **I**nspiring **F**amilies of **E**arly Learners **@** **M**OE **K**indergarten (or **LIFE@MK** in short) is a series of workshops to encourage families to be more involved in and gain a deeper understanding of their children’s holistic development in the pre-school years.
 
 # Discover West Spring 2023 
 
