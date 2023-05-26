@@ -1,6 +1,6 @@
 ---
-title: Visual Arts
-permalink: /learners/Dramatic-PLAY/VisualArts/
+title: PAL Visual & Performing Arts
+permalink: /learners/dramatic-play/visualarts/pal/
 description: ""
 third_nav_title: Dramatic PLAY
 ---

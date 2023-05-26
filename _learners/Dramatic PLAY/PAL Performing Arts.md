@@ -1,6 +1,6 @@
 ---
-title: Performing Arts
-permalink: /learners/Dramatic-PLAY/PerformingArts/
+title: PAL Performing Arts
+permalink: /learners/dramatic-play/performingarts/pal/
 description: ""
 third_nav_title: Dramatic PLAY
 ---

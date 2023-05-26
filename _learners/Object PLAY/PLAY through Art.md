@@ -10,4 +10,8 @@ third_nav_title: Object PLAY
 
 ![](/images/Object%20PLAY%20Slide2-1024x576.jpg)
 
-![](/images/Object%20PLAY%20Slide3-1024x576.jpg)
+![](/images/Slide1-1-1024x576.jpg)
+
+![](/images/Slide2-1-1024x576.jpg)
+
+![](/images/Slide3-1-1024x576.jpg)
