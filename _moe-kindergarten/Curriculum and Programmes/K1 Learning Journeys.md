@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Programmes
 ---
 # Neighbourhood Walk
-As we explored the topic on “My Neighbourhood”, we learnt about the people and places in the neighbourhood and the importance of building positive relationships with the people around them. We went on our first field trip, a Neighbourhood Walk, to observe and make new discoveries about the people, places and features in their neighbourhood! Let’s check out on our adventure!
+As we explored the topic on “My Neighbourhood”, we learnt about the people and places in the neighbourhood and the importance of building positive relationships with the people around them. On week 8 of Term 2, we went on our first field trip, a Neighbourhood Walk, to observe and make new discoveries about the people, places and features in their neighbourhood! Let’s check out on our adventure!
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpEamMnS-guNN3ervJkDpKm2D-0XY-Vu2anwYIustCZhdN6_-SPchQypGKKVLKOxz_FwO07-480jya/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="491" height="520" allowfullscreen="true"></iframe>
 
