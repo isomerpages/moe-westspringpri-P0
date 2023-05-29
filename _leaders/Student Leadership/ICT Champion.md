@@ -14,6 +14,13 @@ third_nav_title: Student Leadership
 #### 2023
 ![](/images/Leaders/ict%20champion%20reflection%20.jpg)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRylqxO_dHXHxQvaSFtMZvVDRSBRaZIR90mQx-W-_z_Uwd3X_F68HHmWYegaoGvWa_4LG1UbgX_1PCf/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
+
+![](/images/Students'%20Reflections%202023/ict%20champion%202023%20reflection%201.jpg)
+
+![](/images/Students'%20Reflections%202023/ict%20champion%202023%20reflection%202.jpg)
+
+
 #### 2021-2022
 
 ![](/images/ICT%20Champ%203.jpg)
