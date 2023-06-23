@@ -118,7 +118,10 @@ tr:nth-child(1) {
   <tr>
     <td>2A</td>
 		<td><b>Mdm Norhany</b> <br><a href="mailto:norhany_mohd_yaicop@moe.edu.sg">norhany_mohd_yaicop@moe.edu.sg</a></td>
-    <td><b>Mdm Masturah</b><br><a href="mailto:masturah_mohamed_mashoo@moe.edu.sg">masturah_mohamed_mashoo@moe.edu.sg</a></td>
+    <td><b>Mdm Masturah</b><br><a href="mailto:masturah_mohamed_mashoo@moe.edu.sg">masturah_mohamed_mashoo@moe.edu.sg</a><br>
+			<b>Mr Nur Iman</b>
+		<br>
+			<a href="Nur_Iman_Hashim@moe.edu.sg">Nur_Iman_Hashim@moe.edu.sg</a></td>
   </tr>
   
   <tr>
