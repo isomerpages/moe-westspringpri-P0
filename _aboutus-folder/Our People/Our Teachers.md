@@ -37,7 +37,10 @@ tr:nth-child(1) {
 		<td><b>Mdm Yong Lay Pheng</b><br>
         <a href="mailto:yong_lay_pheng@moe.edu.sg">yong_lay_pheng@moe.edu.sg</a></td>
     <td><b>Ms Casey Ng</b><br>
-    <a href="mailto:ng_hui_wun_casey@moe.edu.sg">ng_hui_wun_casey@moe.edu.sg</a></td>
+    <a href="mailto:ng_hui_wun_casey@moe.edu.sg">ng_hui_wun_casey@moe.edu.sg</a>
+		<br>
+			<b>Ms Liew Wen Rin</b><br>
+			<a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a></td>
   </tr>
   
   <tr>
@@ -72,8 +75,8 @@ tr:nth-child(1) {
     <td>1E</td>
     <td><b>Miss Asfalinda</b><br>
     <a href="mailto:asfalinda_asmawi@moe.edu.sg">asfalinda_asmawi@moe.edu.sg</a></td>
-    <td><b>Mr Mohamed Shodikin Wahid</b><br>
-    <a href="mailto:mohamed_shodikin_wahid@moe.edu.sg">mohamed_shodikin_wahid@moe.edu.sg</a></td>
+    <td><b>Mr Benjamin Ong</b><br>
+    <a href="mailto:Ong_Kah_Hao_Benjamin@moe.edu.sg">ong_kah_hao_benjamin@moe.edu.sg</a></td>
   </tr>
   
   <tr>
