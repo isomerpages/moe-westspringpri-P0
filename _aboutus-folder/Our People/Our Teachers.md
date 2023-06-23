@@ -296,8 +296,8 @@ tr:nth-child(1) {
     <td>4E</td>
     <td><b>Mr Justin Paolo</b><br>
     <a href="mailto:justin_paolo@moe.edu.sg">justin_paolo@moe.edu.sg</a></td>
-    <td><b>Ms Kavitha</b><br>
-    <a href="mailto:kavitha_periyasamy@moe.edu.sg">kavitha_periyasamy@moe.edu.sg</a>
+    <td><b>Ms Goh Wan Lin</b><br>
+    <a href="mailto:goh_wan_lin@moe.edu.sg">goh_wan_lin@moe.edu.sg</a>
 		<br>
   </td></tr>
   
