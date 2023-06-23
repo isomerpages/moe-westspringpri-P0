@@ -344,14 +344,13 @@ tr:nth-child(1) {
     <td>5C</td>
     <td><b>Mr Din</b><br>
     <a href="mailto:muhammad_fakhruddin_daud@moe.edu.sg">muhammad_fakhruddin_daud@moe.edu.sg</a></td>
-    <td><b>Mdm Nur Hafizah</b><br>
+    <td><b>Ms Chua Peh Xiang</b>
+			<br>
+			<a href="mailto:chua_peh_xiang@moe.edu.sg"> chua_peh_xiang@moe.edu.sg</a><br>
+			<b>Mdm Nur Hafizah</b><br>
     <a href="mailto:nur_hafizah_mazlan@moe.edu.sg">nur_hafizah_mazlan@moe.edu.sg</a>
 			<br>
-		<b>Ms Chua Peh Xiang</b>
-			<br>
-			<a href="mailto:chua_peh_xiang@moe.edu.sg"> chua_peh_xiang@moe.edu.sg</a>
 		</td>
-		
   </tr>
   
   <tr>
@@ -373,7 +372,11 @@ tr:nth-child(1) {
     <td><b>Miss Ho Shi Yin</b><br>
     <a href="mailto:ho_shi_yin@moe.edu.sg">ho_shi_yin@moe.edu.sg</a></td>
     <td><b>Mdm Zainab</b><br>
-    <a href="mailto:zainab_nawabi@moe.edu.sg">zainab_nawabi@moe.edu.sg</a></td>
+    <a href="mailto:zainab_nawabi@moe.edu.sg">zainab_nawabi@moe.edu.sg</a>
+		<br>
+			<b>Mr Shodikin</b>
+		<br>
+			<a href="mohamed_shodikin_wahid@moe.edu.sg">mohamed_shodikin_wahid@moe.edu.sg</a></td>
   </tr>
   
   <tr>
