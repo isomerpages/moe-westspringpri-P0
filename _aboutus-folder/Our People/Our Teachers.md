@@ -134,18 +134,15 @@ tr:nth-child(1) {
     <td>2C</td>
     <td><b>Mrs Tan- Cheong Yew Tze, Ruth</b><br>
     <a href="mailto:tan-_cheong_yew_tze@moe.edu.sg">tan-_cheong_yew_tze@moe.edu.sg</a></td>
-    <td><b>Ms Mindy Wong</b><br>
-    <a href="mailto:wong_min_yin@moe.edu.sg">wong_min_yin@moe.edu.sg</a></td>
+    <td><b>Mr Daniel Foo</b><br>
+    <a href="mailto:Foo_Kim_Han_Daniel@moe.edu.sg">Foo_Kim_Han_Daniel@moe.edu.sg</a></td>
   </tr>
   
   <tr>
     <td>2D</td>
     <td><b>Miss Ng Seow Hwei, Ivine</b><br>
     <a href="mailto:ng_seow_hwei@moe.edu.sg">ng_seow_hwei@moe.edu.sg</a></td>
-    <td><b>Mdm Goh Wan Lin</b>
-    <br>
-    <a href="mailto:goh_wan_lin@moe.edu.sg">goh_wan_lin@moe.edu.sg</a>
-    <br>
+    <td>
     <b>Mdm Quek Li Pei, Grace</b><br>
     <a href="mailto:quek_li_pei_grace@moe.edu.sg">quek_li_pei_grace@moe.edu.sg</a></td>
   </tr>
