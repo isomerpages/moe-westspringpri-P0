@@ -21,6 +21,6 @@ third_nav_title: Student Leadership
 ![](/images/Students'%20Reflections%202023/ict%20champion%202023%20reflection%202.jpg)
 
 
-#### 2021-2022
+#### 2021
 
 ![](/images/ICT%20Champ%203.jpg)
