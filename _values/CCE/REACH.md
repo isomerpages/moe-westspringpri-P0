@@ -4,6 +4,9 @@ permalink: /values/CCE-Programmes/reach/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/Key%20programmes%20cce%202022/REACH1.jpg)
+
+
 #### 2023
 
 We are thrilled to have hosted a group of students from Global Prestasi School (GPS) in Indonesia from 6 March to 7 March. During their visit, they had the opportunity to attend lessons with their assigned buddies and experience what it's like to be a student in a local school.
@@ -29,6 +32,4 @@ Overall, it was a fantastic experience for everyone involved. We hope that this 
 ![](/images/REACH%202023%20reflections/REACH%20Reflections%203.jpg)
 
 #### 2022
-![](/images/Key%20programmes%20cce%202022/REACH1.jpg)
-
 ![](/images/Key%20programmes%20cce%202022/REACH2.jpg)
