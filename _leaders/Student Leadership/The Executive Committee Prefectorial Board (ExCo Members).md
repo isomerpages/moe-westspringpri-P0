@@ -10,6 +10,8 @@ third_nav_title: Student Leadership
 #### The Executive Committee Prefectorial Board (Ex-Co Members)
 #### 
 
+![](/images/Leaders/img_0351.JPG)
+
 The executive committee prefectorial board strives to inculcate a strong sense of identity and responsibility, forging strong partnerships with teachers and other student leaders. It aims to achieve this goal by promoting a responsible school community through engagement and advocacy.
 
 The executive committee prefectorial board embodies the spirit of school improvement by encouraging the West Springers’ active participation. It seeks to create an ideal school environment where each West Springer can personify its vision of “Leaders driven by Values”.
