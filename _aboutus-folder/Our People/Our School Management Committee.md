@@ -127,14 +127,6 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / Malay &amp; Tamil Language
-		</td>
-		<td>
-			<b>Ms Mazlina Isnin</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
 			SH / PE-CCA
 		</td>
 		<td>
