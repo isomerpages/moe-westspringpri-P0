@@ -111,7 +111,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			HOD / PE, CCA, OE, AES
+			HOD / PE, CCA, OE
 		</td>
 		<td>
 			<b>Mr Mohamed Shodikin</b>
@@ -119,7 +119,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / OE, LLP &amp; PAL
+			SH / OE &amp; LLP
 		</td>
 		<td>
 			<b>Ms Casey Ng</b>
@@ -127,15 +127,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / Malay &amp; Tamil Language
-		</td>
-		<td>
-			<b>Ms Mazlina Isnin</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / CCA
+			SH / PE-CCA
 		</td>
 		<td>
 			<b>Mr Justin Paolo</b>
@@ -175,7 +167,7 @@ td, th {
 	</tr>
 	<tr>
 		<td>
-			LH / Chinese Language
+			LH / Mother Tongue
 		</td>
 		<td>
 			<b>Mr Daniel Foo</b>
