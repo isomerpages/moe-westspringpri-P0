@@ -8,7 +8,6 @@ third_nav_title: Student Leadership
 
 
 #### The Executive Committee Prefectorial Board (Ex-Co Members)
-#### 
 
 ![](/images/Leaders/img_0351.JPG)
 
