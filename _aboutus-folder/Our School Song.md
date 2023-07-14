@@ -6,7 +6,7 @@ description: ""
 **West Spring Primary School Song**  
 _Composed by:&nbsp;Singaporean Singer Songwriter Lorraine Tan_
 
-<iframe title="WSPS School Song 2023" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="720" width="405" src="https://player.vimeo.com/video/845160569?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="WSPS School Song 2023" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="405" width="720" src="https://player.vimeo.com/video/845160569?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
 <iframe src="https://player.vimeo.com/video/784934739?h=681163b49c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="720" height="405" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="WSPS School Song"></iframe>
 
