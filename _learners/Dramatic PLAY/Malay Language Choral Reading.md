@@ -55,4 +55,13 @@ The students were also featured in the local news on Suria Channel. Congratulati
 
 <iframe title="Choral Reading_West Spring Pri" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/844085969?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
+
 <iframe title="Local News (8 July)" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/844085929?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+
+
+![](/images/MTL%20Competitions/malay%20choral%20reading%20competition%20reflection%201%202023.jpg)
+
+
+![](/images/MTL%20Competitions/malay%20choral%20reading%20competition%20reflection%202%202023.jpg)
+
+
