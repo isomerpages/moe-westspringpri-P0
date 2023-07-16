@@ -1,8 +1,8 @@
 ---
-title: K1 First Day of School 2023
-permalink: /moe-kindergarten/Events-and-Celebrations/K1-FirstDay-2023/
+title: 🎒 K1 First Day of School 2023
+permalink: /moe-kindergarten/events-and-celebrations/k1-firstday-2023/
 description: ""
-third_nav_title: Events and Celebrations
+third_nav_title: 🎉 Events and Celebrations
 ---
 Welcome back to a new school year!
 

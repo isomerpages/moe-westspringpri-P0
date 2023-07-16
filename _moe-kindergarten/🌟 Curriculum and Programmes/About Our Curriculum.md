@@ -2,7 +2,7 @@
 title: About Our Curriculum
 permalink: /moe-kindergarten/Our-Flagship-Programmes/curriculum/
 description: ""
-third_nav_title: Curriculum and Programmes
+third_nav_title: 🌟 Curriculum and Programmes
 ---
 # Curriculum goals
 Our curriculum and programmes are based on the [Nurturing Early Learners (NEL) Framework](https://youtu.be/bDF0IbQlb3k) that guides the development of quality kindergarten programmes in Singapore.

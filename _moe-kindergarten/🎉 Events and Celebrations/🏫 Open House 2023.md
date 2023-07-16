@@ -1,8 +1,8 @@
 ---
-title: Open House 2023
-permalink: /moe-kindergarten/Open-House-2023/
+title: 🏫 Open House 2023
+permalink: /moe-kindergarten/open-house-2023/
 description: ""
-third_nav_title: Events and Celebrations
+third_nav_title: 🎉 Events and Celebrations
 ---
 ![](/images/MK/Open%20House%202023.png)
 

@@ -2,7 +2,7 @@
 title: K2 Learning Journeys
 permalink: /moe-kindergarten/curriculum-and-programmes/k2-learning-journeys/
 description: ""
-third_nav_title: Curriculum and Programmes
+third_nav_title: 🌟 Curriculum and Programmes
 ---
 # Nam Hwa Opera
 On the 8th and 9th May 2023, our K2 children visited the Singapore Chinese Cultural Centre for an opera workshop. The Nam Hwa Opera has kindly allowed our children to experience firsthand regarding the basics of Teochew Opera.

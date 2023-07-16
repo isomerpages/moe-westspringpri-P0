@@ -2,7 +2,7 @@
 title: Sale of Uniform
 permalink: /moe-kindergarten/Information-for-Parents/Sale-of-Uniform/
 description: ""
-third_nav_title: Information for Parents
+third_nav_title: 🔍 Information for Parents
 ---
 ![](/images/MK/Uniform/MK%20Uniform%20(1).jpg)
 

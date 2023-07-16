@@ -2,7 +2,7 @@
 title: K1 Learning Journeys
 permalink: /moe-kindergarten/curriculum-and-programmes/k1-learning-journeys/
 description: ""
-third_nav_title: Curriculum and Programmes
+third_nav_title: 🌟 Curriculum and Programmes
 ---
 # Neighbourhood Walk
 As we explored the topic on “My Neighbourhood”, we learnt about the people and places in the neighbourhood and the importance of building positive relationships with the people around them. On week 8 of Term 2, we went on our first field trip, a Neighbourhood Walk, to observe and make new discoveries about the people, places and features in their neighbourhood! Let’s check out on our adventure!

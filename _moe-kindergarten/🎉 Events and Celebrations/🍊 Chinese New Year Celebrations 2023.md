@@ -1,8 +1,8 @@
 ---
-title: Chinese New Year Celebrations 2023
-permalink: /moe-kindergarten/Events-and-Celebrations/CNY-2023/
+title: 🍊 Chinese New Year Celebrations 2023
+permalink: /moe-kindergarten/events-and-celebrations/cny-2023/
 description: ""
-third_nav_title: Events and Celebrations
+third_nav_title: 🎉 Events and Celebrations
 ---
 The children ushered in the Year of the Rabbit and celebrated Chinese New Year on 20 January 2023.
 

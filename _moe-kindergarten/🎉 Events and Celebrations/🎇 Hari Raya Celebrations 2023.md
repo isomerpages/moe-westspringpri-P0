@@ -1,8 +1,8 @@
 ---
-title: Hari Raya Celebrations 2023
+title: 🎇 Hari Raya Celebrations 2023
 permalink: /moe-kindergarten/events-and-celebrations/hari-raya-2023/
 description: ""
-third_nav_title: Events and Celebrations
+third_nav_title: 🎉 Events and Celebrations
 ---
 On 28 April 2023, the children participated in the annual MK@West Spring Hari Raya Celebration. 
 
