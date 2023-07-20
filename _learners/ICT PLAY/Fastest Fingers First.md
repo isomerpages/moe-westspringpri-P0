@@ -5,8 +5,10 @@ description: ""
 third_nav_title: ICT PLAY
 ---
 # ![](/images/PLAYbanner.png)
+# 
+# Fastest Fingers First
 
-![](/images/PLAY-ICT_Fastest-Fingers-First-1024x576.png)
+![](/images/fastest%20fingers%20first%202023%201.jpg)
 
 
 #### 2023
