@@ -4,6 +4,29 @@ permalink: /values/Events/10anniversary/
 description: ""
 third_nav_title: Events
 ---
+#### June - July
+
+
+Hello parents and West Springers, we are back with more mini celebrations of our school’s 10th Anniversary for June and July!
+
+In end June, we welcomed and celebrated our 10th anniversary by highlighting our Purposeful Learning Activities for the Young (PLAY) Outdoors! - Learning for Life Programme (LLP), which focuses on experiential learning in, about and through the outdoors. Our West Springers were encouraged to go outdoors to learn and play with their family and friends. They then shared their playful and adventurous outdoor learning experiences though photographs and videos via our Student Learning Space (SLS). We saw West Springers share pictorial memories of their outdoor play and learning in various places of Singapore such as their neighbourhoods, green spaces, nature parks, beaches, zoos, and many other interesting places. Our PLAY Outdoors! LLP places a strong emphasis on real-life outdoor experiential learning. It aims to nurture confident and curious West Springers who are comfortable in the outdoors, exhibit a "dare-to-try" spirit, passionate about exploring both the natural and urban environments and take action to care for the environment. By welcoming new learning experiences and embracing challenges and adventures with a positive attitude, our West Springers become adept at managing themselves, building relationships with others and interacting harmoniously with the environment.
+
+In July, the school's 10th-anniversary celebration highlights the success of the Mother Tongue Fortnight (MT Fortnight), which aims to enhance our West Springers' proficiency in their mother tongue language and foster cultural appreciation. Various interactive activities, such as poem recitations, 'tudung saji' crafting, and tea appreciation, engaged our West Springers in language and cultural experiences. During recess, there were many activity stations, spanning across the mother tongue languages. Our West Springers were immensed in a myriad of activities such as angklung playing, 'shooting' Chinese characters, and flower garland making. The event and activities encourage our West Springers to connect with their cultural roots, develop language skills, and understand their identities. The anniversary also featured community singing in multiple languages and a virtual tour of past MT Fortnight events, promoting unity and reminiscing cherished memories.
+
+West Spring Primary School celebrates its 10th anniversary with strong support from the staff and parent support group, actively engaging in recess activities. Our school focuses on deepening its identity for students, seeking meaningful anniversary activities. Together with parents and staff, we aim to create an unforgettable and inspiring experience for our West Springers, celebrating a decade of growth and learning while setting the stage for a bright future.
+
+Let’s look forward to our upcoming August 10th Anniversary celebrations!
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQolOT9pSx_EQSizVuO6cwkLsNyoBhvWvxj5Q9QGuiFux-Zs9xJb7l9B_0g5lrHYBSsdV5C4tJziq1T/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
+
+<iframe src="https://player.vimeo.com/video/848217340?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="700" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="June 10th anniversary-1"></iframe>
+
+
+<iframe src="https://player.vimeo.com/video/848191489?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="700" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="10th Anniversary_PLAY Outdoors LLP"></iframe>
+
+
+
 #### May
 
 Our school celebrated its 10th anniversary with a focus on its Applied Learning Programme (ALP), which emphasizes the theme of "Sustaining the Earth through Advocacy and Solutioning" (SEAS). The programme focuses on environmental protection, responsible resource management, and innovative problem-solving approaches for environmental sustainability challenges. West Springers were invited to conceptualize and design the school's ALP logo, expressing their creativity and understanding of the importance of sustainability. Getting students' input in this design would foster a sense of ownership and pride among students and also reinforce the significance of their contribution in shaping the identity and values of our school. The logo will represent the school's commitment to environmental consciousness and sustainability and be an essential part of the programme.
@@ -12,7 +35,7 @@ As part of our 10th anniversary recess activity, our Parent Support Group (PSG) 
 
 Our May 10th anniversary celebration at WSPS was another great success! The activities deepened our appreciation for the school's identity and values. It was so much fun for our 10th! Let’s look forward to our June/July 10th celebrations!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYiHG1HyzlIh8HDOrFhVsCD90fCr6uRPZiQ9JSqDkQW_udvCiqwRxOnCI4NbdjrQpZ08tBfxax4Zmf/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="700" width="729" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYiHG1HyzlIh8HDOrFhVsCD90fCr6uRPZiQ9JSqDkQW_udvCiqwRxOnCI4NbdjrQpZ08tBfxax4Zmf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![](/images/10%20anniversary/students'%20reflections%20may%201.jpg)
 
@@ -26,11 +49,11 @@ The Parent Support Group (PSG) also prepared exciting recess activities for West
 
 Our April 10th anniversary celebration at WSPS was a great success, promoting a greater appreciation for the school's identity and core values. So much of buzz and excitement for our 10th! Let’s look forward to our May 10th celebrations!
 
-<iframe allowfullscreen="true" height="700" width="729" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRihiDVPaybKCJJreDcxfAo0r1CPX-4nxuftRi1KtoezVxuYbgxJoCnf35IHewHyyalS6SvnVXc5Kv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTRihiDVPaybKCJJreDcxfAo0r1CPX-4nxuftRi1KtoezVxuYbgxJoCnf35IHewHyyalS6SvnVXc5Kv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
 
-<iframe title="Video 1" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729&quot;" src="https://player.vimeo.com/video/819670521?h=9360c7fa4c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/819670521?h=9360c7fa4c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729&quot;" height="700" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 1"></iframe>
 
-<iframe title="Video 2" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/819679218?h=7af7c7c4f8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/819679218?h=7af7c7c4f8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="729" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 2"></iframe>
 
 #### March
 
@@ -48,15 +71,15 @@ We are just so excited about all the upcoming 10th Anniversary celebrations! Sta
 
 
 
-<iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrI0ScSYhXnS_ojFhDf3O_qVDtMnqTmfoIxuScoFjGzpGbiRcpDV00gZLRwwVbXetmDAt_A2VXtkd4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrI0ScSYhXnS_ojFhDf3O_qVDtMnqTmfoIxuScoFjGzpGbiRcpDV00gZLRwwVbXetmDAt_A2VXtkd4/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
 
-<iframe title="Joel June.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/807398939?h=2f1dbc32be&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/807398939?h=2f1dbc32be&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="729" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Joel June.mp4"></iframe>
 
-<iframe title="Janavi.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/807398609?h=8da37845b4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/807398609?h=8da37845b4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="729" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Janavi.mp4"></iframe>
 
-<iframe title="March 10 Anni Recess Activity 1.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/807401722?h=1712b81edf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/807401722?h=1712b81edf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="700" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="March 10 Anni Recess Activity 1.mp4"></iframe>
 
-<iframe title="March 10 Anni Recess Activity 2.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/807402351?h=035efc9d8c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/807402351?h=035efc9d8c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="700" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="March 10 Anni Recess Activity 2.mp4"></iframe>
 
 #### February
 
@@ -70,14 +93,14 @@ Here's sharing our videos and photos with you for our February celebrations! Enj
 
 With exciting celebrations in January and February, can you guess what we are going to do for our March 10th Anniversary celebration? Stay tune to this space for more updates on our 10th Anniversary celebrations as we journey on in March!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_61UCUI-pSDVXz5yS9sJIl0NqB7VwCb3zSWZ8IqjhJ1tBF8at3GgpoPd0XfLZFTcr7dqkkfz4_c8u/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
-<iframe title="Reflection1.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/798597564?h=86841b6c59&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
-<iframe src="https://player.vimeo.com/video/798242506?h=f30100e405&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="352" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 2 - DESIRY ZHUO WAN EN 1H"></iframe>
-<iframe src="https://player.vimeo.com/video/798242270?h=c7869165bf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="410" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 5"></iframe>
-<iframe src="https://player.vimeo.com/video/798242257?h=2226911d99&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="410" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 4"></iframe>
-<iframe src="https://player.vimeo.com/video/798242245?h=ec92126c09&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="410" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 3"></iframe>
-<iframe src="https://player.vimeo.com/video/798242227?h=f77a01a00e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="410" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 2"></iframe>
-<iframe src="https://player.vimeo.com/video/798242219?h=3c2baf0dc8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="848" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Video 1.mp4"></iframe>
+<iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_61UCUI-pSDVXz5yS9sJIl0NqB7VwCb3zSWZ8IqjhJ1tBF8at3GgpoPd0XfLZFTcr7dqkkfz4_c8u/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://player.vimeo.com/video/798597564?h=86841b6c59&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="729" height="700" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Reflection1.mp4"></iframe>
+<iframe title="Video 2 - DESIRY ZHUO WAN EN 1H" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="640" width="352" src="https://player.vimeo.com/video/798242506?h=f30100e405&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Video 5" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="410" width="729" src="https://player.vimeo.com/video/798242270?h=c7869165bf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Video 4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="410" width="729" src="https://player.vimeo.com/video/798242257?h=2226911d99&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Video 3" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="410" width="729" src="https://player.vimeo.com/video/798242245?h=ec92126c09&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Video 2" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="410" width="729" src="https://player.vimeo.com/video/798242227?h=f77a01a00e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Video 1.mp4" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="848" width="480" src="https://player.vimeo.com/video/798242219?h=3c2baf0dc8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 
 #### January
 
@@ -87,10 +110,10 @@ On 4 Jan 2023, on the first day of school for all West Springers, we had our ver
 
 Not forgetting our important partner of West Spring Primary School, our Parent Support Group (PSG). On 10 Jan 2023, our Parent Support Group conducted a series of recess activities related to our 10th Anniversary to further excite our West Springers! Thank you, PSG for partnering us in our celebrations!
 
-<iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpTG9B-J0Nu7bZXHA4fbylbp5nwk-6s1AqutELnaoy5U_OpoQupfD8c5HImxSsRQgwe7ruNFKrtwx4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpTG9B-J0Nu7bZXHA4fbylbp5nwk-6s1AqutELnaoy5U_OpoQupfD8c5HImxSsRQgwe7ruNFKrtwx4/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
 
-<iframe title="Jan Celebration Video" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/787850563?h=5e733b6ef9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/787850563?h=5e733b6ef9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="729" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Jan Celebration Video"></iframe>
 
-<iframe title="Jan Celebration Reflection 1" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/787872029?h=76669a6d69&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/787872029?h=76669a6d69&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="729" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Jan Celebration Reflection 1"></iframe>
 
-<iframe title="Jan Celebration Reflection 2" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="729" width="700" src="https://player.vimeo.com/video/787873624?h=a369197912&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe src="https://player.vimeo.com/video/787873624?h=a369197912&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="729" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Jan Celebration Reflection 2"></iframe>
