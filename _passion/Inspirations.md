@@ -3,7 +3,9 @@ title: Inspirations
 permalink: /passion/inspirations/
 description: ""
 ---
-The Mother Tongue Language (MTL) Inspirations aims to provide a dedicated platform for students to display and share their creative writings such as short stories, poetry and comics.
+
+![](/images/MTL/mtlmyinspiration.png)
+The Mother Tongue Language (MTL) My Inspirations aims to provide a dedicated platform for students to display and share their creative writings such as short stories, poetry and comics.
 
 The main objective of this platform is to celebrate and acknowledge the diverse creative talents of students. By showcasing their works, the program aims to recognize and appreciate the artistic abilities of each student.
 
