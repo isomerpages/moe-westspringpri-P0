@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/MTL/mtlyoungreporters.png)
 
-The Mother Tongue Language (MTL) Young Reporters Programme aims to provide students with an opportunity to develop their skills and knowledge in the field of journalism by offering them a chance to learn about the principles of journalism, such as researching, interviewing, writing, editing, and reporting. This programme is designed to equip students with the necessary skills to become proficient in the field of journalism, both in terms of theoretical knowledge and practical experience.
+The Mother Tongue Language (MTL) Young Reporters Programme aims to provide students with an opportunity to develop their skills and knowledge in the field of journalism by offering them a chance to learn about the principles of journalism, such as researching, interviewing, writing, editing, and reporting in their respective mother tongue language. This programme is designed to equip students with the necessary skills to become proficient in the field of journalism, both in terms of theoretical knowledge and practical experience.
 
 The main objective of this programme is to teach students about the importance of media in today's world and how it operates. Additionally, it aims to develop their critical thinking and analytical skills by teaching them how to research and report on news stories.
 
