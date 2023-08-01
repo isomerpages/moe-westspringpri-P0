@@ -6,7 +6,7 @@ third_nav_title: 🎉 Events and Celebrations
 ---
 On 21 July 2023, the children celebrated Racial Harmony Day.
 
-The children participated in a series of activities including a video sharing, a costume parade, a rousing game of Bingo and tasting of some traditional snacks.&nbsp;
+The children participated in a series of activities including a video sharing, a costume parade, a rousing game of Bingo and tasting of some traditional snacks.
   
 Through these activities, the children learnt more about the customs and traditions of different cultures, and recognised the importance of respecting and appreciating one another regardless of race.  
   
