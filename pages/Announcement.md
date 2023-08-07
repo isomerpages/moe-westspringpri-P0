@@ -3,7 +3,7 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
-# Closure of School Dental Clinic 
+### Closure of School Dental Clinic 
 
 We wish to inform you that the School Dental Clinic will be closed on 10 August 2023 (Thursday) AM only.
 
