@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Events
 ---
 #### August
-#### 
+ 
 West Spring Primary School's 10th Anniversary celebrations are a testament to its vibrant and nurturing community. Led by our student leaders, our August celebration revolves around the theme "Inspiring Others, Making a Positive Impact." The domino structure forming the word INSPIRE, symbolizing unity and strength, reflects the collective efforts of our student leaders to create a chain reaction of positive change in our school community. A video clip showcasing their inspiring spirit highlighted their dedication and creativity during preparations for this mini celebration. With the toppling of the dominoes, it serves as a powerful visual representation of our school's growth and potential for even greater achievements in the future.
 
 In the celebration finale, the entire school participated in the engaging giant ball relay, promoting teamwork, camaraderie, and a strong sense of belonging among the students. It ended with a resounding roar of “Happy Birthday, West Spring!”.
