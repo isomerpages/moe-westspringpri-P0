@@ -5,11 +5,16 @@ description: ""
 ---
 ### Closure of School Dental Clinic 
 
-We wish to inform you that the School Dental Clinic will be closed on 10 August 2023 (Thursday) AM only.
+We wish to inform you that the School Dental Clinic will be closed on these dates:
+
+* 4 September 2023 (Monday);
+* 8 September 2023 (Friday); and
+* 18 September 2023 (Monday)
 
 **In the event of dental emergencies** such as trauma (tooth broken/knocked out), facial/gum swelling or severe toothache **during both dental clinic closure**, please contact School Dental Centre via email: [Contact_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg)
 
 We are sorry for any inconveniences caused during the closure.
+
 
 ### My Hopes and Aspirations for West Springers! 
 
