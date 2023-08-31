@@ -3,6 +3,8 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
+![](/images/Announcement/shineaspirations.gif)
+
 ### Closure of School Dental Clinic 
 
 We wish to inform you that the School Dental Clinic will be closed on these dates:
