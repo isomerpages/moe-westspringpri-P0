@@ -3,6 +3,18 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
+![](/images/Announcement/shineaspirations.gif)
+
+Dear Parents and Students,
+
+Exciting news! Your valuable inputs have paved the way for an amazing adventure ahead. 🌟 Get ready to embark on a quest to uncover the SHINE aspirations!
+
+Introducing the SHINE aspirations—an adventure where you'll join Super Shiny on a journey to uncover the essence of SHINE. Through engaging Student Learning Space activities from 1 to 10 September, we'll delve into what SHINE means, how to translate it into reality, and why it's essential to be future ready.
+
+Get ready to embrace the thrill of self-discovery, connect with your passions, and supercharge your confidence. Your journey to SHINE brightly starts now!
+
+Stay tuned for the adventure of a lifetime.
+
 ### Closure of School Dental Clinic 
 
 We wish to inform you that the School Dental Clinic will be closed on these dates:
