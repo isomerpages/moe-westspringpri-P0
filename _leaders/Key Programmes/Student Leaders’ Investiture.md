@@ -13,4 +13,3 @@ The ceremony recognizes and celebrates various forms of leadership, including Mo
 #### 2023
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXG-lSs2sBTRShz9xWCw9gf5vCFMr2gMkXEDVDHHB74AkIfwBr7qWE6pW0PZYwppA9Pl_6eeIRwSAm/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
 
-![](/images/Leaders/cca%20champion%20reflection%20.jpg)
