@@ -42,16 +42,19 @@ third_nav_title: Contact Us
 	</tbody></table>
 <br>	
 
-<h5>Operating Dates in Term 3 (2023)</h5>
+<h5>Operating Dates in Term 4 (2023)</h5>
 <table border="0">
 	<tbody><tr>
 		<td>
-			26 June 2023 to 30 June 2023<br>
-			10 July 2023 to 14 July 2023<br>
-			24 July 2023 to 28 July 2023<br>
-			7 Aug 2023 to 11 Aug 2023<br>
-			21 Aug 2023 to 25 Aug 2023<br>
 			4 Sept 2023 to 8 Sept 2023<br>
+			18 Sept 2023 to 22 Sept 2023<br>
+			2 Oct 2023 to 6 Oct 2023<br>
+			16 Oct 2023 to 20 Oct 2023<br>
+			30 Oct 2023 to 3 Nov 2023<br>
+			14 Nov 2023 to 17 Nov 2023<br>
+			27 Nov 2023 to 1 Dec 2023<br>
+			11 Dec 2023 to 15 Dec 2023<br>
+			26 Dec 2023 to 29 Dec 2023<br>
         </td>
      </tr>
 </tbody></table>
