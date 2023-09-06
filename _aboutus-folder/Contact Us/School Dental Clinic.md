@@ -54,7 +54,7 @@ third_nav_title: Contact Us
 			14 Nov 2023 to 17 Nov 2023<br>
 			27 Nov 2023 to 1 Dec 2023<br>
 			11 Dec 2023 to 15 Dec 2023<br>
-			26 Dec 2023 to 29 Dec<br>
+			26 Dec 2023 to 29 Dec 2023<br>
         </td>
      </tr>
 </tbody></table>
