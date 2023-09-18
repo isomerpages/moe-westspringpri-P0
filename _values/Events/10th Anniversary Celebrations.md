@@ -4,6 +4,18 @@ permalink: /values/Events/10anniversary/
 description: ""
 third_nav_title: Events
 ---
+#### September
+
+This month, our school celebrated its 10th Anniversary with a Mathematics@Play event. The celebration started with an assembly on September 13th. The students were engaged in a binary game and became even more excited when they had the opportunity to watch their schoolmates present the SLS E-lesson on Pi. Mathematics@Play continued with more fun activities held at the Parade Square during recess on two days. Our West Springers participated in various activities in the Physical Playzone with Roman Numbers up to 10, a Cognitive Playzone with Binary Digits 1 and 0, Matchstick Puzzles, the Magic Triangle of 10, and an ICT Playzone involving Multiplication within 10.
+
+The event also featured a presentation by Daniel, a student from 4C, about his passion for coding. He also created an ICT Multiplication game for the event. The event was supported by our wonderful Parent Support Group (PSG), who guided our West Springers through these exciting games! The event was a great way for our West Springers to learn about mathematics in a fun and engaging way, and it also celebrated our school's 10th Anniversary.
+
+<iframe title="September 10th Anniversary Reflection 1" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/865420179?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+
+<iframe title="September 10th Anniversary Reflection 1" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/865420179?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+
+<iframe title="September 10th Anniversary Reflection 2" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/865420201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+
 #### August
  
 West Spring Primary School's 10th Anniversary celebrations are a testament to its vibrant and nurturing community. Led by our student leaders, our August celebration revolves around the theme "Inspiring Others, Making a Positive Impact." The domino structure forming the word INSPIRE, symbolizing unity and strength, reflects the collective efforts of our student leaders to create a chain reaction of positive change in our school community. A video clip showcasing their inspiring spirit highlighted their dedication and creativity during preparations for this mini celebration. With the toppling of the dominoes, it serves as a powerful visual representation of our school's growth and potential for even greater achievements in the future.
