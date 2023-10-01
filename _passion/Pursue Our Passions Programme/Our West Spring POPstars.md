@@ -4,9 +4,11 @@ permalink: /passion/Pursue-Our-Passions-Programme/popstars/
 description: ""
 third_nav_title: Pursue Our Passions Programme
 ---
+![](/images/POPbanner.png)
+
+![](/images/POP/sept_daniel_coding.jpg)
 
 ![](/images/POP/lion%20dance%20pop%202023.jpeg)
-![](/images/POPbanner.png)
 
 ![](/images/POP/noufal_april2023%20(1).jpg)
 
