@@ -4,6 +4,15 @@ permalink: /values/Events/10anniversary/
 description: ""
 third_nav_title: Events
 ---
+#### October
+In commemoration of a decade spent in the vibrant community of Bukit Panjang, our school embarked on a memorable journey during Children's Day celebrations, making this year truly special. As we rejoiced in our 10th anniversary, we took a nostalgic trip down memory lane, recalling the series of monthly mini celebrations that marked this significant milestone. These celebrations encapsulated the rich tapestry of student experiences, showcasing their talents and fostering camaraderie through various activities during recess, and heartfelt sharing sessions among fellow West Springers. The heartwarming success of our 10th Anniversary celebrations was a collective effort, supported by our dedicated teachers, enthusiastic parent volunteers, and the boundless energy and passion of our entire West Spring family. Through these celebrations, we celebrated not just a milestone, but the vibrant spirit that has been woven into the fabric of our school community. Looking ahead, our excitement mounts as we anticipate the upcoming Pursue Our Passion (P.O.P) Fiesta and S.T.A.R.S event in November, promising more moments of shared joy and growth for all.
+
+<iframe title="10th Anniversary Memory Video" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/872375166?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"></iframe>
+
+<iframe title="10th Anniversary Live Segment Video 2" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/872375140?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"></iframe>
+
+<iframe title="10th Anniversary Live Segment Video 1" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="700" width="729" src="https://player.vimeo.com/video/872375120?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"></iframe>
+
 #### September
 
 This month, our school celebrated its 10th Anniversary with a Mathematics@Play event. The celebration started with an assembly on September 13th. The students were engaged in a binary game and became even more excited when they had the opportunity to watch their schoolmates present the SLS E-lesson on Pi. Mathematics@Play continued with more fun activities held at the Parade Square during recess on two days. Our West Springers participated in various activities in the Physical Playzone with Roman Numbers up to 10, a Cognitive Playzone with Binary Digits 1 and 0, Matchstick Puzzles, the Magic Triangle of 10, and an ICT Playzone involving Multiplication within 10.
