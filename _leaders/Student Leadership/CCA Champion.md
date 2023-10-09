@@ -15,4 +15,3 @@ As student leaders, CCA Champions are given the opportunity to be role models an
   
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFXxgEZfXzsM8eKUpHUsSPgcFy6VdQS7YKreDdEwyZYbmgYsd1XtDktjcSr0zs1Bxv9MisqwHuDgSy/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
-
