@@ -10,8 +10,8 @@ As student leaders, CCA Champions are given the opportunity to be role models an
 
   
 
-<iframe allowfullscreen="true" height="700" width="729" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6IH8LCSMNwACTomrCtB406c5GGB-sFl69CxFTQD08pfL9kxh4ywKd3xFWOam\_fnbJgPPItirKEhq2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6IH8LCSMNwACTomrCtB406c5GGB-sFl69CxFTQD08pfL9kxh4ywKd3xFWOam_fnbJgPPItirKEhq2/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="729" height="700" allowfullscreen="true"></iframe>
 
   
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFXxgEZfXzsM8eKUpHUsSPgcFy6VdQS7YKreDdEwyZYbmgYsd1XtDktjcSr0zs1Bxv9MisqwHuDgSy/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="729" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFXxgEZfXzsM8eKUpHUsSPgcFy6VdQS7YKreDdEwyZYbmgYsd1XtDktjcSr0zs1Bxv9MisqwHuDgSy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
