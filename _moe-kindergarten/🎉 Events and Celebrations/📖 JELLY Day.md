@@ -6,7 +6,7 @@ third_nav_title: 🎉 Events and Celebrations
 ---
 At MK @ West Spring, we celebrate Children's Day in conjunction with our Literacy Day- which we call JELLY Day (**J**ust **E**njoy the **L**anguage and **L**iteracy around **Y**ou)!
 
-**5 October 2023**
+## 5 October 2023
 
 On 5 October 2023, the children once again got the opportunity to come dressed up as their favourite story book characters! They played games that were based on their chosen favourite Starlight book, and even had a fashion parade to show off the wonderful creative efforts of parents and children!
 
@@ -20,7 +20,7 @@ On 5 October 2023, the children once again got the opportunity to come dressed u
 
 ![](/images/MK/Event%20Reflections/Children's%20Day%202023/reflection%20for%20ws%20website%20(jelly%20day%20celebration%202023).jpg)
 
-**6 October 2022**
+## 6 October 2022
 
 On 6 October 2022, the children came do to school dressed up as their favourite storybook characters. They had great fun participating in various activities such as the interclass competition, Kahoot quizzes, Starlight book charades as well as designing their own crayons.
 
