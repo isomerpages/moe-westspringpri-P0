@@ -2,5 +2,6 @@ collections:
   partnership:
     output: true
     order:
+      - Community.md
       - Alumni.md
       - Information for Parents.md
