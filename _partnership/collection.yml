@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Compliments.md
       - Community.md
       - Alumni.md
       - Information for Parents.md
