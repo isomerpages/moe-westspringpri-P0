@@ -1,6 +1,6 @@
 ---
 title: 📖 JELLY Day
-permalink: /moe-kindergarten/events-and-celebrations/jelly-2022/
+permalink: /moe-kindergarten/events-and-celebrations/jelly-day/
 description: ""
 third_nav_title: 🎉 Events and Celebrations
 ---
