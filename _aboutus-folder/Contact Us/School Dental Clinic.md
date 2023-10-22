@@ -9,21 +9,21 @@ third_nav_title: Contact Us
 <table border="0">
 <tbody><tr>
 		<td>
-			<b>Monday to Thursday:</b>
-		</td>
-	  <td>
-			8.00am to 5.30pm
-		</td>
-	</tr>
-		<tr>
-		<td>
-			<b>Friday:</b>
+			<b>Monday, Wednesday &amp; Friday:</b>
 		</td>
 	  <td>
 			8.00am to 5.00pm
 		</td>
 	</tr>
-		<tr>
+	<tr>
+		<td>
+			<b>Tuesday &amp; Thursday:</b>
+		</td>
+	  <td>
+			8.00am to 5.30pm
+		</td>
+	</tr>
+	<tr>
 		<td>
 			<b>Lunch Time:</b>
 		</td>
