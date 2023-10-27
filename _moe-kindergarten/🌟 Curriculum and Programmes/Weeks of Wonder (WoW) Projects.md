@@ -25,7 +25,7 @@ Through the process of finding answers to their own questions, WoW projects allo
 
 # Here are the featured WoW Projects for Term 3 2023: 
 
-###  Coriander PM's Term 3 WoW Project: Birds
+### Coriander PM's Term 3 WoW Project: Birds
 
 <iframe title="Coriander PM WoW_Birds" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="405" width="720" src="https://player.vimeo.com/video/878549362?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"></iframe>
 
