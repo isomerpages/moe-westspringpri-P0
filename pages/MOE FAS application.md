@@ -3,24 +3,23 @@ title: MOE FAS application
 permalink: /moefas/
 description: ""
 ---
-Dear Parent/Guardian,
+# MOE Financial Assistance Scheme (FAS) Application for Year 2024
 
-**MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)**
 
-![](/images/MOE%20FINANCIALASSISTANCE%20SCHEME%20FAS%202023.jpg)
+#### Applicable for Singapore Citizen (SC) students only
 
-The MOE FAS is to help financially needy Singaporean students in schools to meet basic schooling expenses.
 
-If you are eligible and wish to apply for the MOE FAS, please click [[here](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx)]  download the FAS application form and return the completed form to the school for processing. Please note that application for MOE FAS has to be done yearly and only one application form is required for each family regardless of the number of siblings enrolled at our school or other secondary schools or Junior Colleges. Do note that any incomplete supporting documents may result in delay in processing your application.
+MOE provides financial assistance, such as subsidy of school fees, to Singaporean students with financial needs. To be eligible, your Gross Monthly Household Income should be $3,000 or below or Per Capita Income is $750 or below.
 
-If you have any enquiries, please contact the school General Office at 63144192.
+For more information, you can visit the website or refer to MOE FAS pamphlet as attached below:
 
-**Useful Links: **
+[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
-* [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance)
+[document4a_moe fas pamphlet EL](/files/document4a_moe%20fas%20pamphet%20el.pdf)
 
-The subsidy provisions and income eligibility criteria for MOE FAS and SPED FAS will be revised from 1 Jan 2023. Learn more about it through MOE's press releases:
+[document4b_moe fas pamphlet CL](/files/document4b_moe%20fas%20pamphet%20cl.pdf)
 
-*   [Enhanced financial support  
-    ](https://www.moe.gov.sg/news/press-releases/20220824-enhanced-financial-support-for-needy-students-amidst-rising-cost-pressures)
-*   [Revised income criteria](https://www.moe.gov.sg/news/press-releases/20221014-more-than-10000-students-to-benefit-from-revised-income-criteria-for-moe-financial-assistance-schemes-and-increased-ite-bursary-quanta)
+[document4c_moe fas pamphlet ML](/files/document4c_moe%20fas%20pamphet%20ml.pdf)
+
+[document4d_moe fas pamphlet TL](/files/document4d_moe%20fas%20pamphet%20tl.pdf)
+
