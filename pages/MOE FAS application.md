@@ -15,11 +15,36 @@ For more information, you can visit the website or refer to MOE FAS pamphlet as 
 
 [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
-[document4a_moe fas pamphlet EL](/files/document4a_moe%20fas%20pamphet%20el.pdf)
+[MOE FAS Pamphlet in English](/files/document4a_moe%20fas%20pamphet%20el.pdf)
 
-[document4b_moe fas pamphlet CL](/files/document4b_moe%20fas%20pamphet%20cl.pdf)
+[MOE FAS Pamphlet in Mandarin](/files/document4b_moe%20fas%20pamphet%20cl.pdf)
 
-[document4c_moe fas pamphlet ML](/files/document4c_moe%20fas%20pamphet%20ml.pdf)
+[MOE FAS Pamphlet in Malay](/files/document4c_moe%20fas%20pamphet%20ml.pdf)
 
-[document4d_moe fas pamphlet TL](/files/document4d_moe%20fas%20pamphet%20tl.pdf)
+[MOE FAS Pamphlet in Tamil](/files/document4d_moe%20fas%20pamphet%20tl.pdf)
+
+Application for MOE FAS must be done yearly and only one application is required for each family regardless of the number of siblings enrolled in our school, other primary / secondary schools or Junior Colleges. Do note that any incomplete supporting documents may result in delay in processing your application.
+
+Parents whose child is a ComCare recipient, there is no need for you to submit the application for MOE FAS as it will be granted automatically.
+
+Eligible parents / guardians are to submit the application via e-FAS Link: **[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)** or scan the QR code below:
+
+![](/images/fas%202024%20qr%20code1.png)
+
+         
+
+If your family falls under any of the categories below, you are required to submit your application via a **hardcopy** form, together with all the supporting documents, directly to our General Office during the visiting hours: 8am to 9am or 11am to 12pm:
+
+a) Families with other dependents (Great grandparents, Aunties/ Uncles, Cousins and others);
+
+b) Family with more than 6 children in Government and Government-Aided School (GGAS);
+
+c) Family with more than 5 unmarried children not in GGAS; or
+
+d) Family with more than 3 grandparents in the household.
+
+[MOE FAS Application Form ](/files/b2%20document1_2024%20moe%20fas%20application%20form.pdf)
+
+
+If you have any enquiries, please contact the school General Office at 63144192.
 
