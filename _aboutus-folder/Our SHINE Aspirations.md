@@ -1,6 +1,6 @@
 ---
 title: Our SHINE Aspirations
-permalink: /aboutus-folder/permalink/
+permalink: /aboutus-folder/shine/
 variant: markdown
 description: ""
 ---
