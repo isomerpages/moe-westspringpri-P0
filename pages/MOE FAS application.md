@@ -2,6 +2,7 @@
 title: MOE FAS application
 permalink: /moefas/
 description: ""
+variant: markdown
 ---
 # MOE Financial Assistance Scheme (FAS) Application for Year 2024
 
@@ -29,7 +30,7 @@ Parents whose child is a ComCare recipient, there is no need for you to submit t
 
 Eligible parents / guardians are to submit the application via e-FAS Link: **[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)** or scan the QR code below:
 
-![](/images/fas%202024%20qr%20code1.png)
+![](/images/qrcode-fas.jpg)!
 
          
 
@@ -47,4 +48,3 @@ d) Family with more than 3 grandparents in the household.
 
 
 If you have any enquiries, please contact the school General Office at 63144192.
-
