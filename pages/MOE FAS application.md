@@ -47,4 +47,4 @@ d) Family with more than 3 grandparents in the household.
 [MOE FAS Application Form ](/files/b2%20document1_2024%20moe%20fas%20application%20form.pdf)
 
 
-If you have any enquiries, please contact the school General Office at 63144192.
+If you have any enquiries, please contact the school General Office at 6314 4192.
