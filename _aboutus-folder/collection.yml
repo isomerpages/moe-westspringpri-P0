@@ -2,8 +2,8 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - Our SHINE Aspirations.md
       - Our Vision, Mission & Values.md
+      - Our SHINE Aspirations.md
       - Our School Song.md
       - Our School Logo.md
       - Our Code of Conduct.md
