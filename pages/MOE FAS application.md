@@ -30,8 +30,8 @@ Parents whose child is a ComCare recipient, there is no need for you to submit t
 
 Eligible parents / guardians are to submit the application via e-FAS Link: **[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)** or scan the QR code below:
 
-![](/images/qrcode-fas.jpg)!
 
+![](/images/fas_qr2024.jpg)
          
 
 If your family falls under any of the categories below, you are required to submit your application via a **hardcopy** form, together with all the supporting documents, directly to our General Office during the visiting hours: 8am to 9am or 11am to 12pm:
