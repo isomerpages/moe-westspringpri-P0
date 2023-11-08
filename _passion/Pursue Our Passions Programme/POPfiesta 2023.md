@@ -14,11 +14,10 @@ The two major segments of the event were:
 2. POPstars SHINE! @ Hall: The audiences were wowed by our inspiring POPstars' insightful sharing about their pursuit of passion. 
 
 # POP Discovery @ POPsquare
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIRdh7cxtotrGgDTIYSkJZB-0-IV_TLR1A0vc0QalrfFUEQ_bVlN_yJ4Ikul-05ZQ_CsV7OmUn-adC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSonrgXFBSVAP2eFdkVcgx5LXe_T_qdBhC2DbyniYAWJI7vHxhGw2eYrXp1s1h0ZxDYkUyZadhw7Xm8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 # POPstars SHINE! @School Hall
-![](/images/POP/untitled%20presentation.jpg)
-
+![](/images/POP/popstars%20shine.jpg)
 
 Here are some of the key highlights of the POP Fiesta: 
-<iframe title="Post POPfiesta 2023" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="720" width="1280" src="https://player.vimeo.com/video/882487294?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Post POPfiesta 2023" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="540" width="960" src="https://player.vimeo.com/video/882487294?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"></iframe>
