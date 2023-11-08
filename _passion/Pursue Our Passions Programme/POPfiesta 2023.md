@@ -11,4 +11,4 @@ POP Fiesta 2023 on 3 November 2023 is the school’s inaugural event where we ce
 The POP Fiesta (PM) was graced by Mr Edward Chia, MP for Holland-Bukit Timah GRC, one of the many distinguished guests invited.
 
 Here are some of the key highlights of the POP Fiesta: 
-<iframe title="Post POPfiesta 2023" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="1080" width="1920" src="https://player.vimeo.com/video/882487294?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Post POPfiesta 2023" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="720" width="1280" src="https://player.vimeo.com/video/882487294?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"></iframe>
