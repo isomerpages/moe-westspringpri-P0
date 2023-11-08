@@ -15,7 +15,11 @@ The two major segments of the event were:
 2. POPstars SHINE! @ Hall: The audiences were wowed by our inspiring POPstars' insightful sharing about their pursuit of passion. 
 
 # POP Discovery @ POPsquare
-[https://docs.google.com/presentation/d/1VKzJGkHw39gttk_gJzlBcuNISdazh3p2DqAo369AcMk/edit#slide=id.g2953241b7b8_0_80]()
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIRdh7cxtotrGgDTIYSkJZB-0-IV_TLR1A0vc0QalrfFUEQ_bVlN_yJ4Ikul-05ZQ_CsV7OmUn-adC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+# POPstars SHINE! @School Hall
+
+
 
 Here are some of the key highlights of the POP Fiesta: 
 <iframe title="Post POPfiesta 2023" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="720" width="1280" src="https://player.vimeo.com/video/882487294?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"></iframe>
