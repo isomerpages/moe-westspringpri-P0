@@ -22,8 +22,8 @@ description: ""
 
 #### Primary 5
 * Primary 5 Booklist 1
-* Primary 5 Booklist 2
-* Primary 5 Foundation Booklist
+* [Primary 5 Booklist 2](/files/Booklists/Booklist_2024_WSPS_P5_Booklist_2.pdf)
+* [Primary 5 Foundation Booklist](/files/Booklists/Booklist_2024_WSPS_P5_FDN.pdf)
 * Primary 5 Higher Mother Tongue Booklist 1
 * Primary 5 Higher Mother Tongue Booklist 2
 
