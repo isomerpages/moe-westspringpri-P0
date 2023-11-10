@@ -2,11 +2,13 @@
 title: Quick Links
 permalink: /quicklinks/
 description: ""
+variant: markdown
 ---
 # For Parents
-* [School Calendar 2023](/schoolcalendar2023/)
+*   [School Calendar 2023](/schoolcalendar2023/)
 *   [WSPS School Calendar of Events 2023](/aboutus-folder/important-dates/)
 *   [General Information for Parents ](/generalinformationforparents/)
+*   [P1 Orientation Slides](/p1orientationslides/)
 *   [For P6 Parents](/p6parents/)
 *   [MOE FAS](/moefas/)
 *   [Students Care in WSPS](/studentcarewsps/)
@@ -21,6 +23,7 @@ description: ""
 *   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
 *   [MOE Sexuality Education in schools](/moe-sed-schools/) 
 *   [Student Well-being Resources](/studentwellbeingresources/ ) 
+*   [School Booklist 2024](/schoolbooklists/) 
 
 
 
