@@ -15,7 +15,7 @@ variant: markdown
 
 #### 2023
 
-<iframe allowfullscreen="true" height="125" width="700" frameborder="729" src="https://docs.google.com/presentation/d/e/2PACX-1vQedx0LIIzxSpgnkK9dkXEoAm7tytuLwuQ8YzzotXeIiWzl1Ktcycy5ms4nDonbtAwG_Tz804CM47aP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="700" width="729" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQedx0LIIzxSpgnkK9dkXEoAm7tytuLwuQ8YzzotXeIiWzl1Ktcycy5ms4nDonbtAwG_Tz804CM47aP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![tricia](/images/triciareflection.JPG)
 
