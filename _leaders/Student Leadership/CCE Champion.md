@@ -22,6 +22,8 @@ As a result, an equal emphasis is placed&nbsp; on helping communities and provid
 ![](/images/CCE_Champions.jpg)
 
 
+![](/images/Sharleez_Reflection_CCE_Champion.jpg)
+
 
 #### 2021
 ![](/images/CCE%20Champ.jpg)
