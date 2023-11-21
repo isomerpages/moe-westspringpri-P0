@@ -13,8 +13,8 @@ After the concert, students delved into the heart of Indian culture during our r
 
 In all, the Deepavali celebration served as a wonderful opportunity for our students to learn, understand and appreciate the rich and diverse tapestry of Indian tradition and culture.
 <iframe allowfullscreen="true" height="729" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS75SbktZW_IuwME6UxrMSo2p-Hl8N1nKLfZ7TtwFFONa5A-mLt8dZOuwpTgwOY3vn-8XuCj7aQ90kU/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-
-
+![](/images/vetted_Selva_Darshita_Deepavali_reflection_pptx.jpg)
+![](/images/vetted_Selva_Darshita_Deepavali_reflection_pptx__1_.jpg)
 
 # Deepavali Celebration 2022
 
