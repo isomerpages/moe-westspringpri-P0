@@ -17,4 +17,4 @@ With the help of some Parent Volunteers, interactive booths were set up for the 
 
 ![](/images/MK/Event%20Reflections/Reflection_for_Deepavali___2_.jpg)
 
-![](/images/MK/Event%20Reflections/Reflection_for_Deepavali___1_.jpg)
+![](/images/MK/Event%20Reflections/Reflection_for_Deepavali___4_.jpg)
