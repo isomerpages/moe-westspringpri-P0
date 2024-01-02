@@ -294,7 +294,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / Student Leadership
+			SH / Student Leadership &amp; POP
 		</td>
 		<td>
 			<b>Mdm Shalarnee</b>
