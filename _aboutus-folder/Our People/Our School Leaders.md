@@ -3,6 +3,7 @@ title: Our School Leaders
 permalink: /aboutus-folder/Our-People/schoolleaders/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![](/images/SchoolLeadersbanner.png)
 # Our School Leaders
@@ -26,7 +27,7 @@ tr:nth-child(0) {
 </style>
 
 <table border="1">
-<tr>
+<tbody><tr>
 	<td>
 		Principal
 	</td>
@@ -41,8 +42,8 @@ tr:nth-child(0) {
 	<td>
 		<b>Mdm Kum Lai Meng</b><br>
 		<b>Mr Dave Sim</b><br>
-		<b>Ms Linda Chua</b>
+		<b>Mr Humphrey Chin</b>
 		</td>
 	</tr>
 	
-</table>
+</tbody></table>
