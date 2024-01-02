@@ -190,26 +190,26 @@ td, th {
 <table border="1">
 	<tbody><tr>
 		<td>
-			Year Head (P1 - P2)
+			Year Head (P1 &amp; P4)
 		</td>
 		<td>
-			<b>Miss Ho Shi Yin</b>
+			<b>Mr Liang Hong Poh</b>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			Year Head (P3 - P4)
+			Year Head (P2 &amp; P5)
 		</td>
 		<td>
-			<b>Mr Samuel Mok</b>
+			<b>Ms Ho Shi Yin</b>
 		</td>
 	</tr>
 		<tr>
 		<td>
-			Year Head (P5 - P6)
+			Year Head (P3 - P6)
 		</td>
 		<td>
-			<b>Mr Liang Hong Poh</b>
+			<b>Mr Samuel Mok</b>
 		</td>
 	</tr>
 		<tr>
@@ -254,12 +254,20 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / Partnership
+			SH / Partnership &amp; POP
 		</td>
 		<td>
 			<b>Mr M Satheeswaran</b>
 		</td>
-	</tr>
+			</tr><tr>
+				<td>
+					SH / Partnership
+				</td>
+				<td>
+					<b>Ms Jasmine Wong</b>
+				</td>
+		</tr>
+	
 		<tr>
 		<td>
 			SH / Character &amp; Citizenship Education
@@ -270,11 +278,19 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / Discipline
+			SH / AYH + Discipline (Lower Pri)
 		</td>
 		<td>
 			<b>Mr Fakhruddin</b>
 		</td>
+	</tr>
+	<tr>
+	<td>
+		SH / AYH + Discipline (Upper Pri)
+	</td>
+	<td>
+		<b>Mr Adam Lim</b>
+	</td>
 	</tr>
 		<tr>
 		<td>
