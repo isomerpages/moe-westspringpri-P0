@@ -3,6 +3,7 @@ title: Our School Management Committee
 permalink: /aboutus-folder/Our-People/smc/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 School Management Committee
 ===========================
@@ -39,7 +40,7 @@ td, th {
 		<td>
 			<b>Mdm Kum Lai Meng</b><br>
 			<b>Mr Dave Sim</b><br>
-			<b>Ms Linda Chua</b>
+			<b>Mr Humphrey Chin</b>
 		</td>
 	</tr>
 	</tbody></table>
@@ -49,7 +50,7 @@ td, th {
 <table border="1">
 	<tbody><tr>
 		<td>
-			EL / MTL / CCA / ICT
+			MTL /AES / SM
 		</td>
 		<td>
 			<b>Mr Michael Chua</b>
@@ -57,7 +58,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			MA / PE-LLP / CCE
+			MA / PE-LLP / CCE / POP
 		</td>
 		<td>
 			<b>Mrs Pauline Soh</b>
@@ -65,7 +66,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SC-ALP / Mu-Art / SMT
+			SC-ALP / ICT / EL
 		</td>
 		<td>
 			<b>Mrs Lack Hwee Leng</b>
@@ -82,7 +83,7 @@ td, th {
 			HOD / English Language
 		</td>
 		<td>
-			<b>Ms Mindy Wong</b>
+			<b>Mrs Zahid</b>
 		</td>
 	</tr>
 		<tr>
@@ -111,7 +112,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			HOD / PE, CCA, OE
+			HOD / PE, OE &amp; CCA
 		</td>
 		<td>
 			<b>Mr Mohamed Shodikin</b>
@@ -119,7 +120,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / OE &amp; LLP
+			SH / OE &amp; PAL
 		</td>
 		<td>
 			<b>Ms Casey Ng</b>
@@ -127,7 +128,7 @@ td, th {
 	</tr>
 		<tr>
 		<td>
-			SH / PE-CCA
+			SH / CCA &amp; LLP
 		</td>
 		<td>
 			<b>Mr Justin Paolo</b>
@@ -141,12 +142,20 @@ td, th {
 			<b>Miss Nurul Asyikin</b>
 		</td>
 	</tr>
+		<tr>
+			<td>
+				SH / HAL
+			</td>
+			<td>
+				<b>Ms Violet Pon</b>
+			</td>
+		</tr>
 	<tr>
 		<td>
 			LH / English
 		</td>
 		<td>
-			<b>Mrs Zahid</b>
+			<b>Mr Lim Ker Wee</b>
 		</td>
 	</tr>
 	<tr>
