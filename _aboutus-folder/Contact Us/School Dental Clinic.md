@@ -3,6 +3,7 @@ title: School Dental Clinic
 permalink: /aboutus-folder/Contact-Us/SchoolDentalClinic/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 <h5> Dental Clinic opening days will be alternate weekly schedule</h5>
 
@@ -42,19 +43,15 @@ third_nav_title: Contact Us
 	</tbody></table>
 <br>	
 
-<h5>Operating Dates in Term 4 (2023)</h5>
+<h5>Operating Dates in Term 1 (2024)</h5>
 <table border="0">
 	<tbody><tr>
 		<td>
-			4 Sept 2023 to 8 Sept 2023<br>
-			18 Sept 2023 to 22 Sept 2023<br>
-			2 Oct 2023 to 6 Oct 2023<br>
-			16 Oct 2023 to 20 Oct 2023<br>
-			30 Oct 2023 to 3 Nov 2023<br>
-			14 Nov 2023 to 17 Nov 2023<br>
-			27 Nov 2023 to 1 Dec 2023<br>
-			11 Dec 2023 to 15 Dec 2023<br>
-			26 Dec 2023 to 29 Dec 2023<br>
+			8 Jan 2024 to 12 Jan 2024<br>
+			22 Jan 2024 to 26 Jan 2024<br>
+			5 Feb 2024 to 9 Feb 2024<br>
+			19 Feb 2024 to 23 Feb 2024<br>
+			4 Mar 2024 to 8 Mar 2024<br>
         </td>
      </tr>
 </tbody></table>

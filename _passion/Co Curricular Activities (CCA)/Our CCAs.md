@@ -3,6 +3,7 @@ title: Our CCAs
 permalink: /passion/Co-Curricular-Activities-CCA/cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 ![](/images/CCAbanner.png)
 
