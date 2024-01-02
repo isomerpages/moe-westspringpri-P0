@@ -3,6 +3,7 @@ title: Our Support Staff
 permalink: /aboutus-folder/Our-People/supportstaff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style>
 table {
@@ -21,8 +22,8 @@ td, th {
 
 <h3>Our Admin Staff</h3>
 
-<table border=1>
-<tr>
+<table border="1">
+<tbody><tr>
  <td>
   <b>Administration Manager</b>
  </td>
@@ -112,20 +113,15 @@ td, th {
  </td>
 </tr>
 
-</table>
+</tbody></table>
 
 <br>
 
 <h3>Our Operations Support Officer</h3>
 
-<table border=1>
+<table border="1">
 
-<tr>
- <td>
-  Mr Ng Peng
- </td>
-</tr>
-
+<tbody>
 <tr>
  <td>
   Mr Koh Choon Sian
@@ -156,12 +152,12 @@ td, th {
  </td>
 </tr>
 
-</table>
+</tbody></table>
 <br>
 <h3>Our ICT Support Team</h3>
 
-<table border=1>
-<tr>
+<table border="1">
+<tbody><tr>
  <td>
  Desktop Engineer
  </td>
@@ -175,7 +171,7 @@ td, th {
  Desktop Engineer
  </td>
  <td>
- Mr Muhammad Albaqir
+ Mr Muhamed Amir
  </td>
 </tr>
 
@@ -187,13 +183,13 @@ td, th {
  Ms Lim Hui Ling
  </td>
 </tr>
-</table>
+</tbody></table>
 
 <br>
 <h3>Our Security Guards</h3>
 
-<table border=1>
-<tr>
+<table border="1">
+<tbody><tr>
  <td>
  Mr Tan Keng Guan
  </td>
@@ -211,14 +207,14 @@ td, th {
  </td>
 </tr>
 
-</table>
+</tbody></table>
 
 <br>
 
 <h3>Our Cleaners</h3>
 
-<table border=1>
-<tr>
+<table border="1">
+<tbody><tr>
  <td>
  Mdm Goh Roslina Bte Adb Rahim
  </td>
@@ -284,26 +280,26 @@ td, th {
  </td>
 </tr>
 
-</table>
+</tbody></table>
 
 <br>
 
 <h3>Our Dentist</h3>
 
-<table border=1>
-<tr>
+<table border="1">
+<tbody><tr>
  <td>
  Ms Royati
  </td>
 </tr>
 
-</table>
+</tbody></table>
 
 <h3>Our Librarian</h3>
-<table border=1>
-<tr>
+<table border="1">
+<tbody><tr>
  <td>
  Ms Nur Atika Binte Sulaiman
  </td>
 </tr>
-</table>
+</tbody></table>
