@@ -1,23 +1,8 @@
 ---
 title: POPfiesta 2023
 permalink: /passion/pursue-our-passions-programme/popfiesta2023/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Pursue Our Passions Programme
 ---
-POP Fiesta 2023 on 3 November 2023 is the school’s inaugural event where we celebrate and showcase our West Springers’ self-initiated passion and interest. This was held in conjunction with our school’s tenth year anniversary celebrations.
-
-The POP Fiesta (PM) was graced by Mr Edward Chia, MP for Holland-Bukit Timah GRC, one of the many distinguished guests invited.
-
-The two major segments of the event were: 
-1. POP Discovery @ POPsquare: Participants got to explore the 37 passion networks booths set up by our enthusiastic students who shared about their passion journey. 
-2. POPstars SHINE! @ Hall: The audiences were wowed by our inspiring POPstars' insightful sharing about their pursuit of passion. 
-
-# POP Discovery @ POPsquare
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSonrgXFBSVAP2eFdkVcgx5LXe_T_qdBhC2DbyniYAWJI7vHxhGw2eYrXp1s1h0ZxDYkUyZadhw7Xm8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-# POPstars SHINE! @School Hall
-![](/images/POP/popstars%20shine.jpg)
-
-Here are some of the key highlights of the POP Fiesta: 
-<iframe title="Post POPfiesta (1)" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="480" width="700" src="https://player.vimeo.com/video/899319443?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<p>POP Fiesta 2023 on 3 November 2023 is the school’s inaugural event where we celebrate and showcase our West Springers’ self-initiated passion and interest. This was held in conjunction with our school’s tenth year anniversary celebrations.</p><p>The POP Fiesta (PM) was graced by Mr Edward Chia, MP for Holland-Bukit Timah GRC, one of the many distinguished guests invited.</p><p>The two major segments of the event were:</p><ol data-tight="true" class="tight"><li><p>POP Discovery @ POPsquare: Participants got to explore the 37 passion networks booths set up by our enthusiastic students who shared about their passion journey.</p></li><li><p>POPstars SHINE! @ Hall: The audiences were wowed by our inspiring POPstars' insightful sharing about their pursuit of passion.</p></li></ol><h1>POP Discovery @ POPsquare</h1><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSonrgXFBSVAP2eFdkVcgx5LXe_T_qdBhC2DbyniYAWJI7vHxhGw2eYrXp1s1h0ZxDYkUyZadhw7Xm8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div><h1>POPstars SHINE! @School Hall</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/POP/popstars%20shine.jpg"></div><p>Here are some of the key highlights of the POP Fiesta:</p><div class="iframe-wrapper"><iframe height="480" width="700" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/899319443?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div><p></p>
