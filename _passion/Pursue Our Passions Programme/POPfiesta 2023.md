@@ -20,4 +20,4 @@ The two major segments of the event were:
 ![](/images/POP/popstars%20shine.jpg)
 
 Here are some of the key highlights of the POP Fiesta: 
-<iframe title="Post POPfiesta (1)" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="310" width="540" src="https://player.vimeo.com/video/899319443?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe title="Post POPfiesta (1)" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="480" width="700" src="https://player.vimeo.com/video/899319443?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
