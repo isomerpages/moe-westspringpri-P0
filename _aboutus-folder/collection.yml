@@ -2,12 +2,12 @@ collections:
   aboutus-folder:
     output: true
     order:
-      - Our School Hours.md
       - Our Vision, Mission & Values.md
       - Our SHINE Aspirations.md
       - Our School Song.md
       - Our School Logo.md
       - Our Code of Conduct.md
+      - Our School Hours.md
       - Our People/.keep
       - Our People/Our School Leaders.md
       - Our People/Our School Management Committee.md
