@@ -15,4 +15,3 @@ We wish to inform you that the School Dental Clinic will be closed on these date
 
 We are sorry for any inconveniences caused during the closure.
 
-kaka
