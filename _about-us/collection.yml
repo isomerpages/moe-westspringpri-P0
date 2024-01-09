@@ -1,5 +1,5 @@
 collections:
-  aboutus-folder:
+  about-us:
     output: true
     order:
       - Our Vision, Mission & Values.md
