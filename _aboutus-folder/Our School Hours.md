@@ -2,15 +2,6 @@
 title: Our School Hours
 permalink: /aboutus-folder/Contact-Us/SchoolHours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-All students are to report to school by 7.30 a.m.
-Please refer to the table below for the **school hours for** **Primary 1 to 6 in 2023.**
-
-![](/images/school%20curriculum%20hours1.jpeg)
-
-**CCA**
-
-For P5 and P6, CCA will be held on Tuesday.  
-For P4, CCA will be held on Friday.  
-For P3, CCA will start in Term 2 (Friday).
+<p>All students are to report to school by 7.30 a.m. Please refer to the table below for <strong>Primary 1 to 6 in 2024.</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Days</p></th><th rowspan="1" colspan="1"><p>School Hours</p></th><th rowspan="1" colspan="1"><p>Recess Time/ Lunch</p></th><th rowspan="1" colspan="1"><p>Snack Time</p></th></tr><tr><td rowspan="5" colspan="1"><p>Primary 1</p><p>Primary 2</p></td><td rowspan="1" colspan="1"><p>Monday</p></td><td rowspan="5" colspan="1"><p>7.30 a.m. - 1.30 p.m.</p></td><td rowspan="5" colspan="1"><p>Recess</p><p>9.00 a.m. - 10.30 a.m.</p><p>(Refer to class timetable)</p><p></p><p>Lunch</p><p>1.30 p.m. - 2.00 p.m.</p></td><td rowspan="5" colspan="1"><p>Refer to class timetable</p></td></tr><tr><td rowspan="1" colspan="1"><p>Tuesday</p></td></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td></tr><tr><td rowspan="1" colspan="1"><p>Thursday</p></td></tr><tr><td rowspan="1" colspan="1"><p>Friday</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p><p></p><p></p><p><strong>CCA</strong></p><p>For P5 and P6, CCA will be held on Tuesday.<br>For P4, CCA will be held on Friday.<br>For P3, CCA will start in Term 2 (Friday).</p>
