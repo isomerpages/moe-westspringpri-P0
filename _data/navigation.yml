@@ -1,7 +1,7 @@
 logo: /images/West-Spring-Primary-logo-03.png
 links:
   - title: About Us
-    collection: aboutus-folder
+    collection: about-us
   - title: Learners
     collection: learners
   - title: Passion
