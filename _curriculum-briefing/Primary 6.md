@@ -2,36 +2,6 @@
 title: Primary 6
 permalink: /curriculum-briefing/p6/
 description: ""
+variant: tiptap
 ---
-##### English Language
-<iframe src="https://player.vimeo.com/video/793966128?h=c43941643a&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="2023 P6 EL Curriculum Briefing"></iframe>
-
-##### Mathematics
-<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLFaYb6Pq9q44A7PadO3bfwpyQ_jWdJrn40OE06RkU4h75tubSFXdO7uzzcNysew/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-##### Science
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjul50ic2J2gKRIVifD5RKIwv6k5K72Uk5F_kZYYayedA1NGLY8iHHq-15QIJ-5Q/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-##### Mother Tongue Language
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRs0EFOgUyUjjW0Yz8QFzKYDdMNquVZhij1iv2dfEpwnPWsv3DayqdMr-Rc5pGQVw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-##### Co-Curricular Activity (CCA)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRt3eV9BTa2-cLsLY3FxMwgUAnmMjozmHyz8qeGmpEx9RvPE7Qf6fMMsu8WmzaOjQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-##### Music
-<iframe src="https://player.vimeo.com/video/793964892?h=24fcde1839&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="2023 Music P5 \_ P6 Curriculum Briefing Recording"></iframe>
-
-##### Art
-<iframe src="https://player.vimeo.com/video/793963618?h=36eecbbc8f&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479" width="640" height="282" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="2023 Art P5 &amp;amp; P6 Curriculum Briefing"></iframe>
-
-##### Physical Education (PE)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2wGZS857273VHgMzNaYu34JqlH07d_R0WqVXhDnUThA_tdxVexmyU3U8lq1WtKg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-##### Information Communication Technology (ICT)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR__MTWclsnr2PnDuy1wAyGOKVgkQTpfjA8KkG31V6i8pBJKsqhFiR9l5CZc_q82BYNAAaWXeDH8jur/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-##### Character and Citizenship Education (CCE)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9qujBNrnSF_OZyeve5jf99XvLbEh21EsLMm1B6vnZHSTiBRqkpxs7grdCHvoo4w/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-
-##### Students Well-Being
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUUNbuvnfESDKeqXJUop6UgxpT3ziCjKV8LUA6_5kKXn4e8pORT9VGlhz60NxMTg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+<h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_6_Curriculum_Briefing___English.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_6_Curriculum_Briefing___English.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_6_Curriculum_Briefing___English_1.jpg"></a><h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_6_Curriculum_Briefing___Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_6_Curriculum_Briefing___Mathematics.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_6_Curriculum_Briefing___Mathematics_1.jpg"></a><h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_6_Curriculum_Briefing___Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_6_Curriculum_Briefing___Science.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_6_Curriculum_Briefing___Science_1.jpg"></a><h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_6_Curriculum_Briefing___Mother_Tongue.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_6_Curriculum_Briefing___Mother_Tongue.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_6_Curriculum_Briefing___Mother_Tongue_1.jpg"></a><h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_6_Curriculum_Briefing___CCA.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA)</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_6_Curriculum_Briefing___CCA.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_6_Curriculum_Briefing___CCA_1.jpg"></a><h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_1_to_6_Curriculum_Briefing___Music.pdf" rel="noopener noreferrer nofollow" target="_blank">Music</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_1_to_6_Curriculum_Briefing___Music.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_1_to_6_Curriculum_Briefing___Music_1.jpg"></a><h5><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_1_to_6_Curriculum_Briefing___Art.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a></strong></h5><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2024/2024_Primary_1_to_6_Curriculum_Briefing___Art.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_1_to_6_Curriculum_Briefing___Art_1.jpg"></a><h5><strong>Physical Education (PE)</strong></h5><h5><strong>Information Communication Technology (ICT)</strong></h5><h5><strong>Character and Citizenship Education (CCE)</strong></h5><h5><strong>Students Well-Being</strong></h5><p></p>
