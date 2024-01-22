@@ -1,0 +1,4 @@
+collections:
+  do-not-link:
+    output: true
+    order: []
