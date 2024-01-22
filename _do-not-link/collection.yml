@@ -1,5 +1,4 @@
 collections:
   do-not-link:
     output: true
-    order:
-      - Primary 2.md
+    order: []
