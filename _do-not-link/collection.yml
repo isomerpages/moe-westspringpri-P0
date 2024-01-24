@@ -2,6 +2,5 @@ collections:
   do-not-link:
     output: true
     order:
-      - Primary 3.md
       - Primary 2.md
       - Primary 1.md
