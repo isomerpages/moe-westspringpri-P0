@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 # For Parents
-*   [WSPS School Calendar of Events 2023](/aboutus-folder/important-dates/)
 *   [General Information for Parents ](/generalinformationforparents/)
 *   [P1 Orientation Slides](/p1orientationslides/)
 *   [For P6 Parents](/p6parents/)
