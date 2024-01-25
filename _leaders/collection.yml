@@ -1,0 +1,18 @@
+collections:
+  leaders:
+    output: true
+    order:
+      - Overview/Student Leadership Structure.md
+      - Overview/.keep
+      - Student Leadership/Peer Support Champions.md
+      - Student Leadership/.keep
+      - Student Leadership/The Executive Committee Prefectorial Board (ExCo
+        Members).md
+      - Student Leadership/Prefects.md
+      - Student Leadership/CCE Champion.md
+      - Student Leadership/Green Champion.md
+      - Student Leadership/ICT Champion.md
+      - Student Leadership/CCA Champion.md
+      - Key Programmes/.keep
+      - Key Programmes/NYAA Junior Programme.md
+      - Key Programmes/Student Leaders’ Investiture.md

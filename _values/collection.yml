@@ -1,0 +1,32 @@
+collections:
+  values:
+    output: true
+    order:
+      - VIA/.keep
+      - VIA/VIA Overview.md
+      - VIA/CHEERS.md
+      - VIA/CHERISH.md
+      - VIA/BLISS.md
+      - VIA/ACTIVATE.md
+      - VIA/Friends of Singa.md
+      - CCE/.keep
+      - CCE/CCE Framework.md
+      - CCE/VITAL.md
+      - CCE/Heart to Heart (HTH).md
+      - CCE/CCE Mother Tongue Language.md
+      - CCE/Foreign Integration Programme (FIP).md
+      - CCE/FTGP.md
+      - CCE/REACH.md
+      - Events/10th Anniversary Celebrations.md
+      - Events/.keep
+      - Events/Primary One Orientation.md
+      - Events/First Day of School.md
+      - Events/Chinese New Year Celebration.md
+      - Events/Total Defence Day.md
+      - Events/International Friendship Day.md
+      - Events/Hari Raya Aidilfitri.md
+      - Events/Racial Harmony Day.md
+      - Events/National Day.md
+      - Events/Teachers' Day.md
+      - Events/Children's Day.md
+      - Events/Deepavali.md

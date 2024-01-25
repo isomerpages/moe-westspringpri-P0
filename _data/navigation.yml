@@ -1,0 +1,14 @@
+logo: /images/West-Spring-Primary-logo-03.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Learners
+    collection: learners
+  - title: Passion
+    collection: passion
+  - title: Leaders
+    collection: leaders
+  - title: Values
+    collection: values
+  - title: MK @ West Spring
+    collection: moe-kindergarten

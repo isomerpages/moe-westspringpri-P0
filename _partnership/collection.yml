@@ -1,0 +1,8 @@
+collections:
+  partnership:
+    output: true
+    order:
+      - Information for Parents.md
+      - Alumni.md
+      - Community.md
+      - Compliments.md
