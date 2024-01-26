@@ -3,6 +3,7 @@ title: Kindergarten Care (KCare)
 permalink: /moe-kindergarten/About-MKWS/KCare/
 description: ""
 third_nav_title: 🪁 About MK @ West Spring
+variant: markdown
 ---
 What is Kindergarten Care
 -------------------------
@@ -31,4 +32,4 @@ Address: 60 Bukit Panjang Ring Road, S679946
 
 Phone: 9231 9867
 
-Email: wskcc@nascans.com
+Email: supervisor.wskcc@nascans.com
