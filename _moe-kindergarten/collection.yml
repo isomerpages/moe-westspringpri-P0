@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - 🪁 MK@West Spring/Welcome.md
       - 🪁 MK@West Spring/.keep
       - 🪁 MK@West Spring/Vision and Mission.md
       - 🪁 MK@West Spring/Our MK@WS Team.md
