@@ -5,12 +5,23 @@ description: ""
 third_nav_title: 🪁 MK@West Spring
 variant: tiptap
 ---
-![](/images/MK/MK%20Vision%20Mission.jpg)
-# Curious about the MK Experience?
-**Check out some of the videos below to find out more!**
-
-[On to A Strong Start at MOE Kindergarten](https://youtu.be/R636jFF7S28)
-
-[MOE Kindergarten – Igniting the Joy of Learning!](https://youtu.be/mghZCHtKNXc)
-
-[MOE Kindergarten- Where Every Space is a Learning Space](https://youtu.be/LockyOmaNB0)
+<p></p>
+<blockquote>
+<p>Welcome to MOE Kindergarten @ West Spring!</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKChildren_MK_WS.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/2024_VMV.png">
+</div>
+<h2>Curious about the MK Experience?</h2>
+<p><strong>Check out some of the videos below to find out more!</strong>
+</p>
+<p><a href="https://youtu.be/R636jFF7S28" rel="noopener noreferrer nofollow" target="_blank">On to A Strong Start at MOE Kindergarten</a>
+</p>
+<p><a href="https://youtu.be/mghZCHtKNXc" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten – Igniting the Joy of Learning!</a>
+</p>
+<p><a href="https://youtu.be/LockyOmaNB0" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten- Where Every Space is a Learning Space</a>
+</p>
