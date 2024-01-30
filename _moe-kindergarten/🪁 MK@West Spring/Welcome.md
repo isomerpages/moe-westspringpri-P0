@@ -16,12 +16,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/2024_VMV.png">
 </div>
-<h2>Curious about the MK Experience?</h2>
-<p><strong>Check out some of the videos below to find out more!</strong>
+<h4>Curious about the MK Experience?</h4>
+<p><strong>Join our K2s for a day in MK!</strong>
 </p>
-<p><a href="https://youtu.be/R636jFF7S28" rel="noopener noreferrer nofollow" target="_blank">On to A Strong Start at MOE Kindergarten</a>
-</p>
-<p><a href="https://youtu.be/mghZCHtKNXc" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten – Igniting the Joy of Learning!</a>
-</p>
-<p><a href="https://youtu.be/LockyOmaNB0" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten- Where Every Space is a Learning Space</a>
-</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/907676708?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+</div>
+<p></p>
