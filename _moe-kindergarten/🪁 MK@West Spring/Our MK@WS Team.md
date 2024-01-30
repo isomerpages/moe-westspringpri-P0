@@ -14,6 +14,6 @@ variant: tiptap
 what our team at MK@WS do on a daily basis, and hear what some of our parents
 have to say!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/907674594?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/907674594?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p></p>
