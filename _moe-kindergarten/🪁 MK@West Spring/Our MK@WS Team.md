@@ -9,6 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Staff Photos/Staff_Photos_2024_01_30.png">
 </div>
 <p></p>
+<h4>Teacher's Day 2023</h4>
 <p>Take a look at our Teachers' Day 2023 video- which captures snippets of
 what our team at MK@WS do on a daily basis, and hear what some of our parents
 have to say!</p>
