@@ -1,8 +1,9 @@
 ---
 title: HI Light Programme
-permalink: /moe-kindergarten/Our-Flagship-Programmes/HI-light/
+permalink: /mkws/mk-flagship-programmes/hi-light/
 description: ""
 third_nav_title: 🌟 Curriculum and Programmes
+variant: tiptap
 ---
 # Holistic development
 ![](/images/school.png)

@@ -1,8 +1,9 @@
 ---
 title: Sale of Uniform
-permalink: /moe-kindergarten/Information-for-Parents/Sale-of-Uniform/
+permalink: /mkws/info-for-parents/sale-of-mk-uniform/
 description: ""
 third_nav_title: 🔍 Information for Parents
+variant: tiptap
 ---
 ![](/images/MK/Uniform/MK%20Uniform%20(1).jpg)
 

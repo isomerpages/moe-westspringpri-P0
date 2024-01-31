@@ -1,8 +1,9 @@
 ---
 title: 📖 JELLY Day
-permalink: /moe-kindergarten/events-and-celebrations/jelly-day/
+permalink: /mkws/events-and-celebrations/jelly-day/
 description: ""
 third_nav_title: 🎉 Events and Celebrations
+variant: tiptap
 ---
 At MK @ West Spring, we celebrate Children's Day in conjunction with our Literacy Day- which we call JELLY Day (**J**ust **E**njoy the **L**anguage and **L**iteracy around **Y**ou)!
 

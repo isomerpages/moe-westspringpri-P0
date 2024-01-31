@@ -1,8 +1,9 @@
 ---
 title: Weeks of Wonder (WoW) Projects
-permalink: /moe-kindergarten/Our-Flagship-Programmes/WoW-Projects/
+permalink: /mkws/mk-flagship-programmes/wow-projects/
 description: ""
 third_nav_title: 🌟 Curriculum and Programmes
+variant: tiptap
 ---
 # Collaborative, self-directed learning
 ![](/images/wonder.png)

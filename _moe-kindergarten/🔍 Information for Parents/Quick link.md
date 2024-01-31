@@ -1,7 +1,8 @@
 ---
 title: Quick link
-permalink: /moe-kindergarten/information-for-parents/mk-quicklink/
+permalink: /mkws/info-for-parents/mk-quicklink/
 description: ""
 third_nav_title: 🔍 Information for Parents
+variant: tiptap
 ---
 Coming Soon

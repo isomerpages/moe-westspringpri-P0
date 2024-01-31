@@ -1,8 +1,9 @@
 ---
 title: 🤝 Racial Harmony Day
-permalink: /moe-kindergarten/events-and-celebrations/rhd-2023/
+permalink: /mkws/events-and-celebrations/rhd/
 description: ""
 third_nav_title: 🎉 Events and Celebrations
+variant: tiptap
 ---
 On 21 July 2023, the children celebrated Racial Harmony Day.
 

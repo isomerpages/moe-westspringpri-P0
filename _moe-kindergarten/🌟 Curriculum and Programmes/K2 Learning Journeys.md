@@ -1,8 +1,9 @@
 ---
 title: K2 Learning Journeys
-permalink: /moe-kindergarten/curriculum-and-programmes/k2-learning-journeys/
+permalink: /mkws/centre-based-programmes/k2-learning-journeys/
 description: ""
 third_nav_title: 🌟 Curriculum and Programmes
+variant: tiptap
 ---
 # K2 MTL Field Trips (WoW Project)
 

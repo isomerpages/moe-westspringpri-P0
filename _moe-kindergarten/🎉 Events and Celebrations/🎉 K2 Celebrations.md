@@ -1,6 +1,6 @@
 ---
 title: 🎉 K2 Celebrations
-permalink: /moe-kindergarten/events-and-celebrations/k2c/
+permalink: /mkws/events-and-celebrations/k2c/
 variant: markdown
 description: ""
 third_nav_title: 🎉 Events and Celebrations

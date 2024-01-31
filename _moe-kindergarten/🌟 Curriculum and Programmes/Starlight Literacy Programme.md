@@ -1,8 +1,9 @@
 ---
 title: Starlight Literacy Programme
-permalink: /moe-kindergarten/Our-Flagship-Programmes/Starlight-Literacy/
+permalink: /mkws/mk-flagship-programmes/starlight-literacy/
 description: ""
 third_nav_title: 🌟 Curriculum and Programmes
+variant: tiptap
 ---
 # Early childhood literacy
 ![](/images/Starlight.jpg)
