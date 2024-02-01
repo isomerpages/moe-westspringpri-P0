@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Cyberwellness_Slides_for_Parents_Engagement_.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness for Lower Primary</a>
+<p><a href="/files/Cyberwellness_Slides_for_Parents_Engagement_.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness Resources for Lower Primary</a>
 </p>
 </li>
 </ul>
