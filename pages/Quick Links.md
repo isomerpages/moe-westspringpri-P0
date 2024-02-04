@@ -2,59 +2,177 @@
 title: Quick Links
 permalink: /quicklinks/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# For Parents
-*   [General Information for Parents ](/generalinformationforparents/)
-*   [P1 Orientation Slides](/p1orientationslides/)
-*   [For P6 Parents](/p6parents/)
-*   [MOE FAS](/moefas/)
-*   [Students Care in WSPS](/studentcarewsps/)
-*   [School Canteen Menu](/schoolcanteenmenu/)
-*   [Triple P programme](/tripleP/)
-*   [Parents’ Gateway](https://pg.moe.edu.sg/)
-*   [MOE Schoolbag](https://www.schoolbag.edu.sg/)
-*   [WSPS Facebook](https://www.facebook.com/West-Spring-Primary-763228920471063/)
-*   [ICT Helpdesk](https://go.gov.sg/wspshelpdesk)
-*   [Students Learning Space (SLS)](/sls/)
-*   [Google Classroom](/files/Google-Classroom_For-Parents.pdf)
-*   [Useful Resources for Parents to Promote Cyberwellness](/cyberwellnessresourcesparents/)
-*   [MOE Sexuality Education in schools](/moe-sed-schools/) 
-*   [Student Well-being Resources](/studentwellbeingresources/ ) 
-*   [School Booklist 2024](/schoolbooklists/) 
-
-
-
-
-# For Students
-
-*   [Students Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [eZhishi](https://www.ezhishi.net/)
-*   [Student iCON](https://workspace.google.com/dashboard)
-
-
-# For Staff
-_Website required to connect VPN_
-
-*   [MOE Intranet Application](http://intranet.moe.gov.sg/Pages/Home.aspx)
-*   [MOE HR Portal](http://intranet.moe.gov.sg/hronline/)
-*   [HRMS for Schools](https://hrms.moe.gov.sg/)
-*   [iEXAMS 2](https://iexams.seab.gov.sg/)
-*   [mCARE 2.0](https://mcare.moe.gov.sg/)
-*   [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
-*   [Reset IAMS Password](https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx)
-*   [SSOE 2 Portal](https://ssoe2.moe.edu.sg/)
-
-*   [PaC@Gov](http://www.pac.gov.sg/)
-*   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [SC Mobile](https://scmobile.moe.edu.sg/login)
-*   [ICON 2.0](https://icon.moe.edu.sg/)
-*   [Resource Booking System (RBS)](https://rbs.avero-tech.com/)
-
-**Educational Links:**
-
-*   [iMTL Portal](https://imtl.moe.edu.sg/)
-*   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
-*   [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
-*   [Students Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*   [ezhishi.net](https://www.ezhishi.net/)
+<h1>For Parents</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/generalinformationforparents/" rel="noopener noreferrer nofollow" target="_blank">General Information for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/p1orientationslides/" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/p6parents/" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/moefas/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS</a>
+</p>
+</li>
+<li>
+<p><a href="/studentcarewsps/" rel="noopener noreferrer nofollow" target="_blank">Students Care in WSPS</a>
+</p>
+</li>
+<li>
+<p><a href="/schoolcanteenmenu/" rel="noopener noreferrer nofollow" target="_blank">School Canteen Menu</a>
+</p>
+</li>
+<li>
+<p><a href="/tripleP/" rel="noopener noreferrer nofollow" target="_blank">Triple P programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents’ Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Schoolbag</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/West-Spring-Primary-763228920471063/" rel="noopener noreferrer nofollow" target="_blank">WSPS Facebook</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/wspshelpdesk" rel="noopener noreferrer nofollow" target="_blank">ICT Helpdesk</a>
+</p>
+</li>
+<li>
+<p><a href="/sls/" rel="noopener noreferrer nofollow" target="_blank">Students Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Google-Classroom_For-Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Classroom</a>
+</p>
+</li>
+<li>
+<p><a href="/cyberwellnessresourcesparents/" rel="noopener noreferrer nofollow" target="_blank">Useful Resources for Parents to Promote Cyberwellness</a>
+</p>
+</li>
+<li>
+<p><a href="/moe-sed-schools/" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education in schools</a>
+</p>
+</li>
+<li>
+<p><a href="/studentwellbeingresources/" rel="noopener noreferrer nofollow" target="_blank">Student Well-being Resources</a>
+</p>
+</li>
+<li>
+<p><a href="/schoolbooklists/" rel="noopener noreferrer nofollow" target="_blank">School Booklist 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Cyberwellness_Slides_for_Parents_Engagement_.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness Resources for Lower Primary</a>
+</p>
+</li>
+</ul>
+<h1>For Students</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Students Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">eZhishi</a>
+</p>
+</li>
+<li>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+</p>
+</li>
+</ul>
+<h1>For Staff</h1>
+<p><em>Website required to connect VPN</em>
+</p>
+<ul>
+<li>
+<p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
+</p>
+</li>
+<li>
+<p><a href="http://intranet.moe.gov.sg/hronline/" rel="noopener noreferrer nofollow" target="_blank">MOE HR Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HRMS for Schools</a>
+</p>
+</li>
+<li>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://mcare.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">mCARE 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit Plus</a>
+</p>
+</li>
+<li>
+<p><a href="https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx" rel="noopener noreferrer nofollow" target="_blank">Reset IAMS Password</a>
+</p>
+</li>
+<li>
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.pac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PaC@Gov</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+</li>
+<li>
+<p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">ICON 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
+</p>
+</li>
+</ul>
+<p><strong>Educational Links:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Students Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">ezhishi.net</a>
+</p>
+</li>
+</ul>
+<p></p>
