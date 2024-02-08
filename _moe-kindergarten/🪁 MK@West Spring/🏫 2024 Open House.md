@@ -27,6 +27,6 @@ the MK, including the curriculum, programmes, culture and KCare services.</p>
 </ul>
 <h4>Open House Briefing (Pre-recorded)</h4>
 <div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/911072334?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/911072334?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p></p>
