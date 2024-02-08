@@ -26,5 +26,7 @@ the MK, including the curriculum, programmes, culture and KCare services.</p>
 </li>
 </ul>
 <h4>Open House Briefing (Pre-recorded)</h4>
-<p>We will be uploading our briefing slides for the 2024 Open House soon.</p>
-<p>Please stay tuned for more updates!</p>
+<div class="iframe-wrapper">
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/911072334?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+</div>
+<p></p>
