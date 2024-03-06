@@ -8,21 +8,22 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MKOH_2024_updated6Feb__MKWS_.png">
 </div>
-<p>Tour around the MK premises, meet our MK educators and learn more about
-the MK, including the curriculum, programmes, culture and KCare services.</p>
-<p>Our <strong>guided tour</strong> will be available at the following timings:</p>
+<h4>Details of 2024 MK Registration Exercise</h4>
+<p>The 2024 MK Registration Exercise is open to Singapore Citizen and Permanent
+Resident children born between 2 January 2020 and 1 January 2021, both
+dates inclusive.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>8.45am</p>
+<p>Parents can register their child for admission to an MK via the MK website
+(<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk)</a> from <strong>9am on 16 February 2024</strong> to <strong>4pm on 20 February 2024</strong>.</p>
 </li>
 <li>
-<p>9.45am</p>
+<p>Parents will be informed of the registration <strong>outcome by 15 April 2024</strong>.</p>
 </li>
 <li>
-<p>10.45am</p>
-</li>
-<li>
-<p>11.30am</p>
+<p>Outside this registration period, parents can seek admission to K1 or
+K2 for their child by contacting the MK directly to check if there are
+vacancies.</p>
 </li>
 </ul>
 <h4>Open House Briefing (Pre-recorded)</h4>
