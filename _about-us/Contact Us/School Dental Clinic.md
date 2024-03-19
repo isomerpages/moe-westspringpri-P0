@@ -59,9 +59,7 @@ variant: tiptap
 <p>13 May 2024 to 17 May 2024</p>
 <p>27 May 2024 to 31 May 2024</p>
 <p>10 June 2024 to 14 June 2024</p>
-<p>24 June 2024 to 28 June 2024
-<br>
-</p>
+<p>24 June 2024 to 28 June 2024</p>
 </td>
 </tr>
 </tbody>
