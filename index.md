@@ -24,4 +24,10 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
