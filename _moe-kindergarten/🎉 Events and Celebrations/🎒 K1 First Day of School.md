@@ -1,6 +1,6 @@
 ---
-title: 🎒 K1 First Day of School 2023
-permalink: /mkws/events-and-celebrations/k1-firstday-2023/
+title: 🎒 K1 First Day of School
+permalink: /mkws/events-and-celebrations/k1-firstday/
 description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
