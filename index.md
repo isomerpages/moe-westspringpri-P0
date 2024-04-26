@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: Click the link below to access the InfoKits
       button: Click here
-      url: "https:"
+      url: /ask-anything-psd-2024/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
