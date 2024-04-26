@@ -19,15 +19,15 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: PSD 2024
+      id: infobar
+      description: Click the link below to access the InfoKits
+      button: Click here
+      url: "https:"
+  - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
