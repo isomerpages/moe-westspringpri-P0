@@ -1,17 +1,12 @@
 ---
 title: Ask Anything PSD
-permalink: /ask-anything-psd-2023/
+permalink: /ask-anything-psd-2024/
 description: ""
+variant: tiptap
 ---
-![PSLE and FSBB](/images/Ask%20Anything%20PSD/1_psle%20and%20fsbb_page_01.jpg)
-#### [PSLE and Full Subject-based Banding (Sec)](/files/PSD/2023/4_psleandsbb_v3.pdf)
-
-
-
-![SBB Pri](/images/Ask%20Anything%20PSD/2_sbb-pri_page_1.jpg)
-#### [Subject-based Banding for Primary School](/files/PSD/2023/2_sbb-pri.pdf)
-
-
-
-![Direct School Admission](/images/Ask%20Anything%20PSD/3_dsa_page_1.jpg)
-#### [Direct School Admission (DSA)](/files/PSD/2023/3_p6%20dsa.pdf)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSD_2024.png">
+</div>
+<p><a href="/files/PSD/2024/PSD_2024_Info_Kits.pdf" rel="noopener noreferrer nofollow" target="_blank">PSD 2024: Parents Info Kits</a>
+</p>
