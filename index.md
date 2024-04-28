@@ -30,4 +30,11 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infobar:
+      title: Parent Engagement for MK and Public
+      id: infobar
+      description: Click the link below to learn more about our K2 Parent Engagement
+        on May 10, 2024, 3pm.
+      button: "Click here "
+      url: https://westspringpri.moe.edu.sg/parent-engagement-for-mk-and-public/
 ---
