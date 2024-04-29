@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
-<p>Hari raya, also known as Eid, is a significant celebration for Muslims
+<p>Hari Raya, also known as Eid, is a significant celebration for Muslims
 around the world, including those of Malay, Arab, Chinese, Indian and other
 ethnicities. It’s a time for family, community and charitable acts, and
 it’s wonderful to see how people of diverse backgrounds come together to
@@ -29,6 +29,19 @@ respect, and unity among our children. 🌙🕌🌈</p>
 <iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyYgXHTGKI0bfLTzbRoTEm-hWmbl5eKR-g9mRZ0FTkIYIq09ChRd1eBAFyf9a9dOOCaNuZl6wNmrxb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/Hari_Raya_24_Children_s_reflections__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/Hari_Raya_24_Children_s_reflections__4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/Hari_Raya_24_Children_s_reflections__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/Hari_Raya_24_Children_s_reflections__2_.jpg">
+</div>
+<hr>
 <p></p>
 <p>On 28 April 2023, the children participated in the annual MK@West Spring
 Hari Raya Celebration.</p>
