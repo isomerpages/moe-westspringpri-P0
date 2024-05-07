@@ -3,47 +3,54 @@ title: Our School Leaders
 permalink: /aboutus-folder/Our-People/schoolleaders/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-![](/images/SchoolLeadersbanner.png)
-# Our School Leaders
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  text-align: left;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 10px;
-}
-
-tr:nth-child(0) {
-  background-color: #9d4bfe;
-  font-color: #ffffff;
-}
-</style>
-
-<table border="1">
-<tbody><tr>
-	<td>
-		Principal
-	</td>
-	<td>
-		<b>Mr Willy Tan</b>
-	</td>
-	</tr>
-	<tr>
-	<td>
-		Vice-Principal
-	</td>
-	<td>
-		<b>Mdm Kum Lai Meng</b><br>
-		<b>Mr Dave Sim</b><br>
-		<b>Mr Humphrey Chin</b>
-		</td>
-	</tr>
-	
-</tbody></table>
+<h1>Our School Leaders</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Willy Tan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Kum Lai Meng</strong> 
+<br><strong>Mr Dave Sim</strong> 
+<br><strong>Mr Humphrey Chin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Get to know them!</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tan.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Kum.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Sim.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Chin.jpg">
+</div>
+<p></p>
