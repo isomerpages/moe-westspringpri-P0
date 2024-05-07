@@ -26,8 +26,8 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Kum Lai Meng</strong>
-<br><strong>Mr Dave Sim</strong>
+<p><strong>Mdm Kum Lai Meng</strong> 
+<br><strong>Mr Dave Sim</strong> 
 <br><strong>Mr Humphrey Chin</strong>
 </p>
 </td>
@@ -35,7 +35,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Get to know them! </h4>
+<h4>Get to know them!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tan.jpg">
