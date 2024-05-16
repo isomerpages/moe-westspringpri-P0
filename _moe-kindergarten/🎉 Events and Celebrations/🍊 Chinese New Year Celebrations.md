@@ -19,6 +19,18 @@ card and stickers).</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ5jZDWW9BI9Bnpy1Wh3YfR59OnBJbRtaWil6Hdioy7XOvYN7-xAiJFtMeoWudEvljFpsNDnBS8AtM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_1.jpg">
+</div>
 <hr>
 <p>The children ushered in the Year of the Rabbit and celebrated Chinese
 New Year on 20 January 2023.</p>
@@ -29,17 +41,5 @@ View the photo gallery below to find out more!</p>
 <iframe height="501" width="472" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRM3hsUOP2qUt2mlq-HqbUkBAmLLwSdfOk4ESVCSETnGgFO_TWwkxL0R_E7p793tvujlwsFP8vPYDd3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_4.jpg">
-</div>
 <p></p>
