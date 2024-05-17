@@ -17,9 +17,11 @@ their cultural heritage through engaging storytelling sessions.</p>
 <p>We're excited to witness your child's growth and achievements this year.
 Thank you for trusting us with their education. Let's work in partnership
 to ensure that our children are "On To A Strong Start!"</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjtocoM6hp-HYdpMedteqlwa9qmXryqMf2O41pzVMcQjjCxVk_CopnolKWbHFtcHSSSou_Z3Q0U8OD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjtocoM6hp-HYdpMedteqlwa9qmXryqMf2O41pzVMcQjjCxVk_CopnolKWbHFtcHSSSou_Z3Q0U8OD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <hr>
 <p>Welcome back to a new school year!</p>
 <p>It was so wonderful to see the smiling faces of our K1 children for the

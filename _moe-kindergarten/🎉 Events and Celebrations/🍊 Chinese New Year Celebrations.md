@@ -17,7 +17,7 @@ back in their classrooms, the children were engaged in activities before
 ending the day off with the receiving of red packets (consisting of well-wishes
 card and stickers).</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ5jZDWW9BI9Bnpy1Wh3YfR59OnBJbRtaWil6Hdioy7XOvYN7-xAiJFtMeoWudEvljFpsNDnBS8AtM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ5jZDWW9BI9Bnpy1Wh3YfR59OnBJbRtaWil6Hdioy7XOvYN7-xAiJFtMeoWudEvljFpsNDnBS8AtM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_4.jpg">
