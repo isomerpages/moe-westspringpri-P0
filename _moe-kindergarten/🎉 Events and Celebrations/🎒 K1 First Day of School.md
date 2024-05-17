@@ -5,6 +5,7 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h4>First Day of School 2024</h4>
 <p>The first day of school marks a special milestone, brimming with anticipation
 and new beginnings. We're here to support you and your child every step
 of the way. Our team of dedicated MK educators are committed to providing
@@ -23,6 +24,7 @@ to ensure that our children are "On To A Strong Start!"</p>
 </div>
 <p></p>
 <hr>
+<h4>First Day of School 2023</h4>
 <p>Welcome back to a new school year!</p>
 <p>It was so wonderful to see the smiling faces of our K1 children for the
 first time, as they embark on their kindergarten journey with MK @ West
