@@ -5,6 +5,7 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h4>Chinese New Year Celebration 2024</h4>
 <p>The children in MK celebrated Chinese New Year in two parts: Firstly,
 they were involved in spring cleaning and classroom decoration in the week
 leading up to the actual day of celebration, which allowed them to experience
@@ -32,6 +33,7 @@ card and stickers).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_1.jpg">
 </div>
 <hr>
+<h4>Chinese New Year Celebration 20243</h4>
 <p>The children ushered in the Year of the Rabbit and celebrated Chinese
 New Year on 20 January 2023.</p>
 <p>To learn more about the festival and its significance in our local culture,
