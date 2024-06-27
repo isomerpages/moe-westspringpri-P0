@@ -6,7 +6,11 @@ third_nav_title: Contact Us
 variant: tiptap
 ---
 <h5>Dental Clinic opening days will be alternate weekly schedule</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,19 +51,22 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 2 (2024)</h5>
-<table>
+<h5>Operating Dates in Term 3 (2024)</h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 March 2024 to 22 March 2024</p>
-<p>1 April 2024 to 5 April 2024</p>
-<p>15 April 2024 to 19 April 2024</p>
-<p>29 April 2024 to 3 May 2024</p>
-<p>13 May 2024 to 17 May 2024</p>
-<p>27 May 2024 to 31 May 2024</p>
-<p>10 June 2024 to 14 June 2024</p>
 <p>24 June 2024 to 28 June 2024</p>
+<p>8 July 2024 to 12 July 2024</p>
+<p>22 July 2024 to 26 July 2024</p>
+<p>5 Aug 2024 to 8 Aug 2024</p>
+<p>19 Aug 2024 to 23 Aug 2024</p>
+<p>2 Sept 2024 to 6 Sept 2024</p>
+<p>16 Sept 2024 to 20 Sept 2024</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -67,7 +74,12 @@ variant: tiptap
 <p>Student who only requires <strong>URGENT</strong> dental treatment, please
 Call/Whatapps/SMS the buddy clinic (see table below) for an appointment.
 This is to ensure a dental staff is on duty at the location.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
