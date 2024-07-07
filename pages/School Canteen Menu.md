@@ -4,27 +4,33 @@ permalink: /schoolcanteenmenu/
 description: ""
 variant: tiptap
 ---
-<p>Canteen Menu Lists for the canteen stalls are as follow:</p>
+<h4>Canteen Menu Lists for the canteen stalls are as follow:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_6.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_7.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen Menu (Jul 2024)/Stall_8.jpg">
 </div>
 <p></p>
