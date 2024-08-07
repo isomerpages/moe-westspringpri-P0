@@ -20,6 +20,12 @@ and children!</p>
 <iframe height="1012" width="983" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HAFjV-1eP2f_A88Y1vSkKNYjYpayENxqMpj6qJE4V98/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/RHD_2024_Emma_K1_Gin.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/RHD_2024_Erdelya_K2_Ubin.jpg">
+</div>
 <h4>Sports Fiesta 2023</h4>
 <p>On 5th July 2023, our MK children and parents participated actively in
 the annual Sports Fiesta.</p>
