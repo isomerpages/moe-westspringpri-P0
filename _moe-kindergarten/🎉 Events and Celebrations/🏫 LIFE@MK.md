@@ -34,7 +34,7 @@ to primary school.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSHshMXoyFAk0aVJ7hS8xwsWYVBSmlN-HH1pEY4NO8aEIaztoFCV2tVMLLQ-1cr9-nHDIttINNHKL2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="1012" width="983" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ayA60DXAB7_geiIebPxZFAwRftKfdPp4FSygNdkk1Y0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h1>Discover West Spring 2023 (K2 Transition to Primary 1)</h1>
