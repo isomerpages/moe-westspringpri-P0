@@ -33,7 +33,7 @@ card and stickers).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/CNY_2024_reflections_1.jpg">
 </div>
 <hr>
-<h4>Chinese New Year Celebration 20243</h4>
+<h4>Chinese New Year Celebration 2023</h4>
 <p>The children ushered in the Year of the Rabbit and celebrated Chinese
 New Year on 20 January 2023.</p>
 <p>To learn more about the festival and its significance in our local culture,
