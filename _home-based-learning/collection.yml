@@ -1,5 +1,5 @@
 collections:
-  hbl-2024:
+  home-based-learning:
     output: true
     order:
       - Home Based Learning 2024.md
