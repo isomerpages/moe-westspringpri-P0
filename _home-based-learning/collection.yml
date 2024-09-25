@@ -2,5 +2,5 @@ collections:
   home-based-learning:
     output: true
     order:
-      - Primary 1.md
       - Home Based Learning 2024.md
+      - Primary 1.md
