@@ -19,6 +19,12 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: HBL Plan
+      id: infobar
+      description: View the SLS lesson titles for HBL.
+      button: Click here
+      url: /hbl/
+  - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
       description: Come and join us!

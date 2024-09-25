@@ -1,0 +1,10 @@
+collections:
+  home-based-learning:
+    output: true
+    order:
+      - Home Based Learning 2024.md
+      - Primary 1.md
+      - Primary 2.md
+      - Primary 3.md
+      - Primary 4.md
+      - Primary 5.md
