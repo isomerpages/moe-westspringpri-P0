@@ -24,4 +24,10 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infobar:
+      title: HBL Plan
+      id: infobar
+      description: View the SLS lesson titles for HBL.
+      button: Click here
+      url: /hbl/
 ---
