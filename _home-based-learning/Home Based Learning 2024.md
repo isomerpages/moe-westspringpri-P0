@@ -4,7 +4,8 @@ permalink: /hbl/
 variant: tiptap
 description: ""
 ---
-<p>Primary 1</p>
+<p><a href="/p1-hbl/" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
 <p>Primary 2</p>
 <p>Primary 3</p>
 <p>Primary 4</p>
