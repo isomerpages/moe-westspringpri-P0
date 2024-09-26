@@ -21,7 +21,8 @@ sections:
   - infobar:
       title: HBL Plan
       id: infobar
-      description: View the SLS lesson titles for HBL.
+      description: Login to SLS for access the HBL lessons. Please find the SLS lesson
+        titles here.
       button: Click here
       url: /hbl/
   - infobar:
