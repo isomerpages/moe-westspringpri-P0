@@ -59,44 +59,37 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>30 Sept 2024 to 4 Oct 2024</strong>
-</p>
+<p>30 Sept 2024 to 4 Oct 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>14 Oct 2024 to 18 Oct 2024</strong>
-</p>
+<p>14 Oct 2024 to 18 Oct 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>28 Oct 2024 to 1 Nov 2024</strong>
-</p>
+<p>28 Oct 2024 to 1 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11 Nov 2024 to 15 Nov 2024</strong>
-</p>
+<p>11 Nov 2024 to 15 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 Nov 2024 to 29 Nov 2024</strong>
-</p>
+<p>25 Nov 2024 to 29 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec&nbsp;2024 to 13 Dec 2024</strong>
-</p>
+<p>9 Dec&nbsp;2024 to 13 Dec 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>23 Dec&nbsp;2024 to 27 Dec 2024</strong>
-</p>
+<p>23 Dec&nbsp;2024 to 27 Dec 2024</p>
 </td>
 </tr>
 </tbody>
