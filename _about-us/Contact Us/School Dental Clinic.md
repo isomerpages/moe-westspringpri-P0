@@ -51,7 +51,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 3 (2024)</h5>
+<h5>Operating Dates in Term 4 (2024)</h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,14 +59,37 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June 2024 to 28 June 2024</p>
-<p>8 July 2024 to 12 July 2024</p>
-<p>22 July 2024 to 26 July 2024</p>
-<p>5 Aug 2024 to 8 Aug 2024</p>
-<p>19 Aug 2024 to 23 Aug 2024</p>
-<p>2 Sept 2024 to 6 Sept 2024</p>
-<p>16 Sept 2024 to 20 Sept 2024</p>
-<p></p>
+<p>30 Sept 2024 to 4 Oct 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Oct 2024 to 18 Oct 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Oct 2024 to 1 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Nov 2024 to 15 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Nov 2024 to 29 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Dec&nbsp;2024 to 13 Dec 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Dec&nbsp;2024 to 27 Dec 2024</p>
 </td>
 </tr>
 </tbody>
