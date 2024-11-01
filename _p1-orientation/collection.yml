@@ -1,0 +1,5 @@
+collections:
+  p1-orientation:
+    output: true
+    order:
+      - P1 Orientation.md
