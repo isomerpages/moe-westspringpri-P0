@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/p1orientationslides/" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation</a>
+<p><a href="https://westspringpri.moe.edu.sg/p1-orientation/" rel="noopener nofollow" target="_blank">P1 Orientation</a>
 </p>
 </li>
 <li>
