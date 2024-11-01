@@ -19,12 +19,10 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
-      title: HBL Plan
+      title: P1 Orientation 2025
       id: infobar
-      description: Login to SLS for access the HBL lessons. Please find the SLS lesson
-        titles here.
       button: Click here
-      url: /hbl/
+      url: /p1-orientation/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
