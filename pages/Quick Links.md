@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/p1orientationslides/" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides</a>
+<p><a href="/p1orientationslides/" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation</a>
 </p>
 </li>
 <li>
@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/schoolbooklists/" rel="noopener noreferrer nofollow" target="_blank">School Booklist 2024</a>
+<p><a href="/schoolbooklists/" rel="noopener noreferrer nofollow" target="_blank">School Booklist 2025</a>
 </p>
 </li>
 <li>
