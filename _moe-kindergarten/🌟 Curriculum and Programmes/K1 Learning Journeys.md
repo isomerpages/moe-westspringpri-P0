@@ -5,8 +5,8 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
-<h1>Woodlands Integrated Bus Interchange (MTL field trip)</h1>
-<p>This term, our K1 children have been exploring the themes of Transportation,
+<h1>2024 Woodlands Integrated Bus Interchange (MTL field trip)</h1>
+<p>In Term 3, our K1 children have been exploring the themes of Transportation,
 Safety, and Colours during their Mother Tongue Language (MTL) lessons.
 To extend their learning, they went on an MTL field trip to the Woodlands
 Integrated Transport Hub, where they further explored these topics. The
@@ -26,7 +26,7 @@ peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_MTL_Field_Trip_WIBI_2024_Reflections.jpg">
 </div>
-<h1>Singapore Zoo</h1>
+<h1>2024 Singapore Zoo</h1>
 <p>On August 14 and 16, the children embarked on an exciting adventure to
 the Fragile Forest at Singapore Zoo. They explored the layers of a rainforest,
 discovering the unique features of each stratum. The highlight was getting
@@ -52,7 +52,7 @@ HI-Light curriculum.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/Children_s_reflections___Zoo.jpg">
 </div>
-<h1>Senja Neighbourhood Walk</h1>
+<h1>2024 Senja Neighbourhood Walk</h1>
 <p>Our K1 children have been learning about people and places in their surroundings
 as part of the Term 2 HI-Light curriculum. To deepen this learning, the
 children went on a neighbourhood walk around Senja on 13 and 14 May 2024.
