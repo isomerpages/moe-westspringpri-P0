@@ -4,6 +4,8 @@ permalink: /p1orientationslides/
 variant: markdown
 description: ""
 ---
-Dear parents, click on this link to read more about the information shared during the Primary One Orientation briefing
+Dear Parents,
 
-[](/files/P1_2024_Orientation_Slides_for_Parents_1.pdf)
+Please click the link below to access the information shared during the Primary One Orientation briefing.
+
+[P1 Orientation Slides ](/files/P1_Orientation_slides.pdf)
