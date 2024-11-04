@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
-<h1>2024 Young  Intertidal Explorer Skit </h1>
+<h1>2024 Young Intertidal Explorer Skit</h1>
 <p>In Term 3, the children have been learning about marine life and how to
 conserve the environment. We engaged Young Nautilus to conduct an indoor
 workshop, <em>Young Intertidal Explorer Skit</em>, where children experienced
