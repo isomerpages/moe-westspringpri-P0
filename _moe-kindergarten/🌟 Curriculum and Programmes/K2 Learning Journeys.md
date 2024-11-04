@@ -5,6 +5,28 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h1>2024 Young  Intertidal Explorer Skit </h1>
+<p>In Term 3, the children have been learning about marine life and how to
+conserve the environment. We engaged Young Nautilus to conduct an indoor
+workshop, <em>Young Intertidal Explorer Skit</em>, where children experienced
+hands-on learning to deepen their understanding on the topic.</p>
+<p>The workshop included a skit, a discussion, and a marine touch tank, where
+the children interacted with live marine animals such as sea stars, sea
+urchins, sea snails, and hermit crabs.</p>
+<p>Through this workshop, the children developed greater awareness of the
+need to show responsibility, care, and respect for the environment, while
+learning how human actions impact the world around them. It was a fun and
+meaningful experience for all!</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQuuBtHiK4TLK8d9Y10z4L1vidzpPJ0e3DpCN7gOajGl1HPtCmvTZR4nDUJFcTGw1xJ1CsQqJ4X1t4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K2_Intertidal_Skit_children_s_reflection_1__Armel_Sen_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K2_Intertidal_Skit_children_s_reflection_2_Hafsa_Ubin_AM.jpg">
+</div>
 <h1>2024 River Wonders (MTL field trip)</h1>
 <p>In Term 3, our K2 children have been exploring the theme of Animals and
 Plants in Our Natural Environment during their Mother Tongue Language (MTL)
