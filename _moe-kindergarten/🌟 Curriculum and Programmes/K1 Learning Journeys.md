@@ -5,6 +5,27 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h1>Woodlands Integrated Bus Interchange (MTL field trip)</h1>
+<p>This term, our K1 children have been exploring the themes of Transportation,
+Safety, and Colours during their Mother Tongue Language (MTL) lessons.
+To extend their learning, they went on an MTL field trip to the Woodlands
+Integrated Transport Hub, where they further explored these topics. The
+children also had the opportunity to practise their speaking skills by
+conversing in their respective Mother Tongue languages with teachers and
+peers.</p>
+<div class="iframe-wrapper">
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDhb2uSO88BiWjqbPUw_uZVfchpi2HliKPvIqBjOCiGmSHgsz6zNtO-Au2_5cM7JqMywatKoA4Ueho/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_MTL_Field_Trip_WIBI_2024_Reflections__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_MTL_Field_Trip_WIBI_2024_Reflections__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_MTL_Field_Trip_WIBI_2024_Reflections.jpg">
+</div>
 <h1>Singapore Zoo</h1>
 <p>On August 14 and 16, the children embarked on an exciting adventure to
 the Fragile Forest at Singapore Zoo. They explored the layers of a rainforest,
