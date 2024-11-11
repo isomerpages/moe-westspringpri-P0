@@ -111,10 +111,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HRMS for Schools</a>
-</p>
-</li>
-<li>
 <p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS 2</a>
 </p>
 </li>
