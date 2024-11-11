@@ -63,10 +63,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/cyberwellnessresourcesparents/" rel="noopener noreferrer nofollow" target="_blank">Useful Resources for Parents to Promote Cyberwellness</a>
-</p>
-</li>
-<li>
 <p><a href="/moe-sed-schools/" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education in schools</a>
 </p>
 </li>
