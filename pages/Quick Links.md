@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/p6parents/" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
+<p><a href="https://go.gov.sg/ecgtipsparents" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
 </p>
 </li>
 <li>
@@ -63,10 +63,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/cyberwellnessresourcesparents/" rel="noopener noreferrer nofollow" target="_blank">Useful Resources for Parents to Promote Cyberwellness</a>
-</p>
-</li>
-<li>
 <p><a href="/moe-sed-schools/" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education in schools</a>
 </p>
 </li>
@@ -103,15 +99,11 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
 </p>
 </li>
 <li>
-<p><a href="http://intranet.moe.gov.sg/hronline/" rel="noopener noreferrer nofollow" target="_blank">MOE HR Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HRMS for Schools</a>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">MOE HR Portal</a>
 </p>
 </li>
 <li>
@@ -127,15 +119,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx" rel="noopener noreferrer nofollow" target="_blank">Reset IAMS Password</a>
-</p>
-</li>
-<li>
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.pac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PaC@Gov</a>
+<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </li>
 <li>
@@ -158,10 +142,6 @@ variant: tiptap
 <p><strong>Educational Links:</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
-</p>
-</li>
 <li>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
