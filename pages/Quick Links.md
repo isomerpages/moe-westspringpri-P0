@@ -103,11 +103,11 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
 </p>
 </li>
 <li>
-<p><a href="http://intranet.moe.gov.sg/hronline/" rel="noopener noreferrer nofollow" target="_blank">MOE HR Portal</a>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">MOE HR Portal</a>
 </p>
 </li>
 <li>
