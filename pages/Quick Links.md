@@ -123,15 +123,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx" rel="noopener noreferrer nofollow" target="_blank">Reset IAMS Password</a>
-</p>
-</li>
-<li>
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.pac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PaC@Gov</a>
+<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </li>
 <li>
@@ -154,10 +146,6 @@ variant: tiptap
 <p><strong>Educational Links:</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
-</p>
-</li>
 <li>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
