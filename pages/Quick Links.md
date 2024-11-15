@@ -111,10 +111,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://mcare.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">mCARE 2.0</a>
-</p>
-</li>
-<li>
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit Plus</a>
 </p>
 </li>
