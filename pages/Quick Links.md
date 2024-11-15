@@ -15,10 +15,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">Parent Kit / MOE</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/ecgtipsparents" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
 </p>
 </li>
