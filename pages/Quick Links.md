@@ -7,7 +7,7 @@ variant: tiptap
 <h1>For Parents</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/generalinformationforparents/" rel="noopener noreferrer nofollow" target="_blank">General Information for Parents</a>
+<p><a href="/informationforparents/" rel="noopener noreferrer nofollow" target="_blank">General Information for Parents</a>
 </p>
 </li>
 <li>
