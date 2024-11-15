@@ -7,15 +7,11 @@ variant: tiptap
 <h1>For Parents</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/generalinformationforparents/" rel="noopener noreferrer nofollow" target="_blank">General Information for Parents</a>
+<p><a href="/informationforparents/" rel="noopener noreferrer nofollow" target="_blank">General Information for Parents</a>
 </p>
 </li>
 <li>
 <p><a href="https://westspringpri.moe.edu.sg/p1-orientation/" rel="noopener nofollow" target="_blank">P1 Orientation</a>
-</p>
-</li>
-<li>
-<p><a href="" rel="noopener nofollow" target="_blank">Parent Kit / MOE</a>
 </p>
 </li>
 <li>
@@ -108,10 +104,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iEXAMS 2</a>
-</p>
-</li>
-<li>
-<p><a href="https://mcare.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">mCARE 2.0</a>
 </p>
 </li>
 <li>

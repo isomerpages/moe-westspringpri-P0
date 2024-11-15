@@ -2,6 +2,7 @@
 title: General Information for Parents
 permalink: /informationforparents/
 description: ""
+variant: markdown
 ---
 School Traffic Management Plan
 ------------------------------
