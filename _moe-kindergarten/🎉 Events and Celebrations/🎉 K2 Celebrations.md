@@ -19,7 +19,7 @@ in their kindergarten journey!
 <iframe height="569" width="540" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTbFZcuAjIr5Bo_9AFcHD7mFOgGLhE6dBlz7Qah9dvSLTkDwd0tpNSuqsX9e6RkQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="1080" width="1920" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1032927648?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1032927648?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
