@@ -5,6 +5,35 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h1>2024 Inclusive Playground</h1>
+<p>Our Kindergarten 1 children visited an inclusive playground in Canberra
+Park, where they had the opportunity to explore, learn, and engage with
+a variety of play equipment designed to be accessible for children of all
+abilities.</p>
+<p>During the trip, the children actively observed and explored how people
+with mobility challenges play in such an inclusive space. They asked thoughtful
+questions about the equipment and safety features, deepening their understanding
+of how inclusive playgrounds support diverse needs.</p>
+<p>The children also practiced important safety practices during the field
+trip, demonstrating appropriate behaviour and cooperation throughout the
+day.&nbsp;</p>
+<p>This hands-on experience not only helped the children develop an appreciation
+for inclusivity but also encouraged them to think critically about safety
+and how different children can&nbsp; play together. It was a wonderful
+opportunity for them to engage with the world in a meaningful way and share
+their reflections in creative ways!
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2o0IvCpyt9im0wdQL4JfUEvPYHiMfhsS1Mla6L0bFXn3RpZYwhKDYO0dNiUeE2f57tWqJQKYYsqVL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_Term_4_Field_Trip__Inclusive_Playground_2024_children_s_reflections__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_Term_4_Field_Trip__Inclusive_Playground_2024_children_s_reflections.jpg">
+</div>
 <h1>2024 Woodlands Integrated Bus Interchange (MTL field trip)</h1>
 <p>In Term 3, our K1 children have been exploring the themes of Transportation,
 Safety, and Colours during their Mother Tongue Language (MTL) lessons.
