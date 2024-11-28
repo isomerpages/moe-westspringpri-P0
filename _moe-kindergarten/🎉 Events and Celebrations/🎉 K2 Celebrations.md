@@ -25,8 +25,9 @@ in their kindergarten journey!
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/2024_K2C_children_s_reflections.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/2024_K2C_children_s_reflections___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/K2C_children_s_reflections_.jpg">
 </div>
 <h4>K2 Celebrates 2023</h4>
 <p>On the 10th of November 2023, we celebrated the milestone of our K2 children
