@@ -30,8 +30,8 @@ This is a brochure with information on what DSA-Sec is about and key actions and
 
 ##### Open House Dates
 This website provides information on the list of schools with open houses.
-[![Open House Dates](/images/For%20P6%20Parents/5_Open%20House%20Dates.png)](https://go.gov.sg/openhouse-2022)
-[https://go.gov.sg/openhouse-2022](https://go.gov.sg/openhouse-2022)
+![Secondary School Open House 2024](/images/For%20P6%20Parents/SchOpenHouse.jpg)
+[https://go.gov.sg/secsch-openhouse](https://go.gov.sg/secsch-openhouse)
 
 
 ##### ECG Parent Guide
