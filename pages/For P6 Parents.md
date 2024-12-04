@@ -36,8 +36,8 @@ This website provides information on the list of schools with open houses.
 
 ##### ECG Parent Guide
 This guide contains tips on how parents can engage their children in conversations and activities to support and guide them in their education and career decisions.
-[![ECG Parent Guide](/images/For%20P6%20Parents/6_ECG%20Parent%20Guide.png)](https://go.gov.sg/parent-guide )
-[https://go.gov.sg/parent-guide](https://go.gov.sg/parent-guide)[](https://go.gov.sg/parent-guide)
+![ECG Parents Guide](/images/For%20P6%20Parents/ECG_Tips_for_Parents_Cover_Page_01_Small_.jpg)
+[ECG Parents Guide PDF](/files/ECG_Tips_for_Parents_Reduce.pdf)
 
 
 ##### My Skills Future for Students
