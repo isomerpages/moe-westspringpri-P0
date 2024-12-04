@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ecgtipsparents" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
+<p><a href="/p6parents/" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
 </p>
 </li>
 <li>
@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Application</a>
 </p>
 </li>
 <li>
@@ -108,10 +108,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit Plus</a>
-</p>
-</li>
-<li>
-<p><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </li>
 <li>
