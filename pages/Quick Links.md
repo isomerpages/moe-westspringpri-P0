@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ecgtipsparents" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
+<p><a href="/p6parents/" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
 </p>
 </li>
 <li>
