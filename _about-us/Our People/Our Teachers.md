@@ -307,8 +307,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nur Ashiqin</strong>
-<br><a href="mailto:nur_ashiqin_saat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashiqin_saat@moe.edu.sg</a>
+<p><strong>Mr Ariff Rizwan</strong>
+<br><a href="mailto:ariff_rizwan_sahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ariff_rizwan_sahab@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -352,8 +352,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ariff Rizwan</strong>
-<br><a href="mailto:ariff_rizwan_sahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ariff_rizwan_sahab@moe.edu.sg</a>
+<p><strong>Ms Nur Ashiqin</strong>
+<br><a href="mailto:nur_ashiqin_saat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashiqin_saat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -400,8 +400,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Nicholas Ee</strong>
-<br><a href="mailto:ee_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_lin_hui@moe.edu.sg</a>
+<p><strong>Mr Calvin Tan</strong>
+<br><a href="mailto:tan_wui_nam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wui_nam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -445,8 +445,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Calvin Tan</strong>
-<br><a href="mailto:tan_wui_nam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wui_nam@moe.edu.sg</a>
+<p><strong>Mr Nicholas Ee</strong>
+<br><a href="mailto:ee_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_lin_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -574,7 +574,7 @@ variant: tiptap
 <p><strong>Ms Elaine Gian</strong>
 <br><a href="mailto:gian_yimei_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gian_yimei_elaine@moe.edu.sg</a>
 </p>
-<p><strong>Mdm Pauline Soh Poh Ling</strong>
+<p><strong>Mdm Pauline Soh</strong>
 <br><a href="mailto:pauline_soh_poh_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_soh_poh_ling@moe.edu.sg</a>
 </p>
 </td>
