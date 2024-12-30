@@ -43,16 +43,6 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdolah Bin Lamat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Khiang Hong, Wendy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Bala</p>
 </td>
 </tr>
@@ -68,22 +58,72 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chua Boon Chiew Eddy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Faroiz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Halimi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Hsu Yuh Fui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liang Huiting</p>
+<p>Ms Loh Lee Kien</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mahmud Bin Hussain</p>
+<p>Mdm Meena</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozianah Binte Ibrahim</p>
+<p>Mr Michael Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nancy Tham Lai Po</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Chay Hwang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurshahida</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Pauline Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Phang Lee Yann</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rupiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shah Nee</p>
 </td>
 </tr>
 <tr>
@@ -98,12 +138,17 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang Sock Kien</p>
+<p>Ms Swee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Soi Hong Adeline</p>
+<p>Mdm Teng Shi Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Veronica Wee</p>
 </td>
 </tr>
 </tbody>
