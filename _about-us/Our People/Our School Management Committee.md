@@ -35,42 +35,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Deans</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL /AES / SM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Michael Chua</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA / PE-LLP / CCE / POP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Pauline Soh</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SC-ALP / ICT / EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Lack Hwee Leng</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h5></h5>
 <h5>Curriculum And Instruction Departments (CAID)</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -206,6 +171,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <h5>Students, Staff &amp; Stakeholders Departments (SSSD)</h5>
 <table style="minWidth: 50px">
 <colgroup>
