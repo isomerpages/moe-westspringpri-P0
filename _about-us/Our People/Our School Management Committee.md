@@ -3,309 +3,326 @@ title: Our School Management Committee
 permalink: /aboutus-folder/Our-People/smc/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-School Management Committee
-===========================
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  text-align: center;
-}
-
-td, th {
-  border: 1x solid #dddddd;
-  text-align: center;
-  padding: 5px;
-}
-
-</style>
-
+<h1>School Management Committee</h1>
 <h5>SCHOOL LEADERS</h5>
-
-<table border="1">
-	<tbody><tr>
-		<td>
-			PRINCIPAL
-		</td>
-		<td>
-			<b>Mr Willy Tan</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			VICE-PRINCIPAL
-		</td>
-		<td>
-			<b>Mdm Kum Lai Meng</b><br>
-			<b>Mr Dave Sim</b><br>
-			<b>Mr Humphrey Chin</b>
-		</td>
-	</tr>
-	</tbody></table>
-
-<h5>Deans</h5>
-
-<table border="1">
-	<tbody><tr>
-		<td>
-			MTL /AES / SM
-		</td>
-		<td>
-			<b>Mr Michael Chua</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			MA / PE-LLP / CCE / POP
-		</td>
-		<td>
-			<b>Mrs Pauline Soh</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SC-ALP / ICT / EL
-		</td>
-		<td>
-			<b>Mrs Lack Hwee Leng</b>
-		</td>
-	</tr>
-	</tbody></table>
-
-
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PRINCIPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Willy Tan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VICE-PRINCIPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Kum Lai Meng</strong>
+<br><strong>Mr Dave Sim</strong>
+<br><strong>Mr Humphrey Chin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5></h5>
 <h5>Curriculum And Instruction Departments (CAID)</h5>
-
-<table border="1">
-	<tbody><tr>
-		<td>
-			HOD / English Language
-		</td>
-		<td>
-			<b>Mrs Zahid</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / Mother Tongue Language
-		</td>
-		<td>
-			<b>Mdm Lee Seng Tiang</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / Mathematics
-		</td>
-		<td>
-			<b>Mr James Ng Kwang Meng</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / Science
-		</td>
-		<td>
-			<b>Mdm Norain Binte Hassein</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / PE, OE &amp; CCA
-		</td>
-		<td>
-			<b>Mr Mohamed Shodikin</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / OE &amp; PAL
-		</td>
-		<td>
-			<b>Ms Casey Ng</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / CCA &amp; LLP
-		</td>
-		<td>
-			<b>Mr Justin Paolo</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / Aesthetics
-		</td>
-		<td>
-			<b>Miss Nurul Asyikin</b>
-		</td>
-	</tr>
-		<tr>
-			<td>
-				SH / HAL
-			</td>
-			<td>
-				<b>Ms Violet Pon</b>
-			</td>
-		</tr>
-	<tr>
-		<td>
-			LH / English
-		</td>
-		<td>
-			<b>Mr Lim Ker Wee</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			LH / Mathematics
-		</td>
-		<td>
-			<b>Ms Nadzirah Binte Azhar</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			LH / Science &amp; ALP
-		</td>
-		<td>
-			<b>Ms Revathi</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			LH / Mother Tongue
-		</td>
-		<td>
-			<b>Mr Daniel Foo</b>
-		</td>
-	</tr>
-	</tbody></table>
-
-
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dean (21 CC and Special Projects)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Pauline Soh</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Zahid</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lee Seng Tiang</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr James Ng</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Norain</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / PE, OE &amp; PAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Mohamed Shodikin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / OE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Justin Paolo</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Nurul Asyikin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / HAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Violet Pon</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Innovation (POP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Adeline Koh</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chan Xue Ting</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Ker Wee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nadzirah Binte Azhar</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH / Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Daniel Foo</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h5>Students, Staff &amp; Stakeholders Departments (SSSD)</h5>
-
-<table border="1">
-	<tbody><tr>
-		<td>
-			Year Head (P1 &amp; P4)
-		</td>
-		<td>
-			<b>Mr Liang Hong Poh</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Year Head (P2 &amp; P5)
-		</td>
-		<td>
-			<b>Ms Ho Shi Yin</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			Year Head (P3 - P6)
-		</td>
-		<td>
-			<b>Mr Samuel Mok</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			School Staff Developer
-		</td>
-		<td>
-			<b>Mr Azhar Hussain</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / Character &amp; Citizenship Education
-		</td>
-		<td>
-			<b>Mr Ko Chen Wei</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / Student Management
-		</td>
-		<td>
-			<b>Mrs Irene Yong</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / Info Comm Tech
-		</td>
-		<td>
-			<b>Mr Chu Wen Shen</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			HOD / SEN
-		</td>
-		<td>
-			<b>Miss Janet Ling</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / Partnership &amp; POP
-		</td>
-		<td>
-			<b>Mr M Satheeswaran</b>
-		</td>
-			</tr><tr>
-				<td>
-					SH / Partnership
-				</td>
-				<td>
-					<b>Ms Jasmine Wong</b>
-				</td>
-		</tr>
-	
-		<tr>
-		<td>
-			SH / Character &amp; Citizenship Education
-		</td>
-		<td>
-			<b>Mdm Norhany</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / AYH + Discipline (Lower Pri)
-		</td>
-		<td>
-			<b>Mr Fakhruddin</b>
-		</td>
-	</tr>
-	<tr>
-	<td>
-		SH / AYH + Discipline (Upper Pri)
-	</td>
-	<td>
-		<b>Mr Adam Lim</b>
-	</td>
-	</tr>
-		<tr>
-		<td>
-			SH / Student Leadership &amp; POP
-		</td>
-		<td>
-			<b>Mdm Shalarnee</b>
-		</td>
-	</tr>
-		<tr>
-		<td>
-			SH / Student Well Being
-		</td>
-		<td>
-			<b>Mdm Nur Atiqah</b>
-		</td>
-	</tr>
-	</tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dean (Student Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Michael Chua</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (P1 &amp; P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Samuel Mok</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (P2 &amp; P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Michael Chua</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (P3 - P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ho Shi Yin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Azhar Hussain</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ko Chen Wei</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Janet Ling</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Info Comm Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chu Wen Shen</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Irene Yong</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / AYH, Discipline (Upper Pri), LO &amp; Anti-Drug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Adam Lim</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / AYH, Discipline (Lower Pri), LO &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ariff</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Character &amp; Citizenship Education &amp; POP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr M Satheeswaran</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Student Well Being &amp; Anti-Bullying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nur Atiqah</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Student Leadership &amp; POP (IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Danesh</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Partnership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ivine Ng</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Fakhruddin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
