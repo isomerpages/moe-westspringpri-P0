@@ -9,5 +9,5 @@ variant: tiptap
 <p><strong>☎️Tel no</strong>: 6314 4192</p>
 <p><strong>📧Email address</strong>: mk_westspring@moe.edu.sg</p>
 <p></p>
-<p><strong>Centre Head</strong>: Mrs Marian Lee</p>
-<p><strong>Deputy Centre Head</strong>: Mr Rico Chan</p>
+<p><strong>Centre Head</strong>: Mr Rico Chan</p>
+<p></p>
