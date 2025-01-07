@@ -19,11 +19,6 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
-      title: P1 Orientation 2025
-      id: infobar
-      button: Click here
-      url: /p1-orientation/
-  - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
       description: Come and join us!
