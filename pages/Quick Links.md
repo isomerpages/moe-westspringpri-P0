@@ -11,11 +11,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://westspringpri.moe.edu.sg/p1-orientation/" rel="noopener nofollow" target="_blank">P1 Orientation</a>
+<p><a href="/schoolcalendar/" rel="noopener nofollow" target="_blank">School Calendar 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/p6parents/" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
+<p><a href="https://westspringpri.moe.edu.sg/p1-orientation/" rel="noopener nofollow" target="_blank">P1 Orientation</a>
 </p>
 </li>
 <li>
