@@ -15,7 +15,7 @@ variant: tiptap
 <iframe height="480" width="700" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/915794406?h=02c8a8f89d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="480" width="700" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/845160569?h=02c8a8f89d&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1044523791?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <div class="iframe-wrapper">
 <iframe height="480" width="700" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1001060851?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
