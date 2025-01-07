@@ -15,10 +15,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/p6parents/" rel="noopener noreferrer nofollow" target="_blank">For P6 Parents</a>
-</p>
-</li>
-<li>
 <p><a href="/moefas/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS</a>
 </p>
 </li>
