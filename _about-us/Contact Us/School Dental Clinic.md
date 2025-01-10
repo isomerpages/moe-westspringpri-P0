@@ -14,20 +14,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mondays to Thursdays</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00am to 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Fridays</strong>
+<p><strong>Mondays, Wednesdays &amp; Fridays</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.00am to 5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tuesdays &amp; Thursdays</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00am to 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 4 (2024)</h5>
+<h5>Operating Dates in Term 1 (2025)</h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,44 +59,36 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Sept 2024 to 4 Oct 2024</p>
+<p>14 Jan 2025 to 17 Jan 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Oct 2024 to 18 Oct 2024</p>
+<p>20 Jan 2025 to 24 Jan 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Oct 2024 to 1 Nov 2024</p>
+<p>10 Feb 2025 to 14 Feb 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Nov 2024 to 15 Nov 2024</p>
+<p>24 Feb 2025 to 28 Feb 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Nov 2024 to 29 Nov 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Dec&nbsp;2024 to 13 Dec 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Dec&nbsp;2024 to 27 Dec 2024</p>
+<p>10 Mar 2025 to 14 Mar 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Student who only requires <strong>URGENT</strong> dental treatment, please
-Call/Whatapps/SMS the buddy clinic (see table below) for an appointment.
-This is to ensure a dental staff is on duty at the location.</p>
+<p></p>
+<p><strong><u>Students requiring only URGENT dental treatment</u></strong>,
+please Call/WhatsApp/SMS the buddy clinic <em>(see table below) </em>for
+an appointment. This is to ensure a dental staff is on duty at the location.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -120,20 +112,33 @@ This is to ensure a dental staff is on duty at the location.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dazhong Primary School</p>
+<p>Beacon Primary (Monday - Thursday only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9114 5479</p>
+<p>9114 1358</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>35, Bukit Batok Street 31, S(659441)</p>
+<p>36 Bukit Panjang Ring Road, Singapore 679944</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Greenridge Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9838 6954</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Jelapang Road, Singapore 677744</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><u>In the event of dental emergencies</u> such as trauma (tooth broken/
-knocked out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>,
-please contact School Dental Centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>
+<p><strong><u>In the events of dental emergencies</u></strong> such as trauma
+(tooth broken/knocked out), facial/gum swelling or severe toothache <strong><u>during both dental clinic closure</u></strong>,
+please contact School Dental Centre via email: <strong><a href="Contact_YPS@hpb.gov.sg" rel="noopener nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
 </p>
-<p>Please refer to our notice at the school gate or school website for any
-changes to the schedule.</p>
+<p></p>
+<p><strong><em><u>*Please note that there may be changes to schedule, therefore parents who are unable to reach dental staff, may contact school to ensure that staff is on duty on that day.</u></em></strong>
+</p>
+<p></p>
