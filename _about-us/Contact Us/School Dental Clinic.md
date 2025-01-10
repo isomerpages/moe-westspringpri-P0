@@ -141,5 +141,4 @@ please contact School Dental Centre via email: <strong><a href="Contact_YPS@hpb.
 <p></p>
 <p><strong><em><u>*Please note that there may be changes to schedule, therefore parents who are unable to reach dental staff, may contact school to ensure that staff is on duty on that day.</u></em></strong>
 </p>
-<p>Please refer to our notice at the school gate or school website for any
-changes to the schedule.</p>
+<p></p>
