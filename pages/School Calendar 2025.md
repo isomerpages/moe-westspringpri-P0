@@ -47,7 +47,7 @@ time with their families.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>SEMSTER 2</u></strong>
+<p><strong><u>SEMESTER 2</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +123,7 @@ time with their families.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Public Holidays 2024</strong></h4>
+<h4><strong>Public Holidays 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
