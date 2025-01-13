@@ -208,7 +208,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 - P6)</p>
+<p>Year Head (P3 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ho Shi Yin</strong>
