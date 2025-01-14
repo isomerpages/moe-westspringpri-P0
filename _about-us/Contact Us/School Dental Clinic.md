@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Jan 2025 to 24 Jan 2025</p>
+<p>27 Jan 2025 to 31 Jan 2025</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,8 @@ an appointment. This is to ensure a dental staff is on duty at the location.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Beacon Primary (Monday - Thursday only)</p>
+<p><strong>Beacon Primary </strong><em>(Monday - Thursday only)</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9114 1358</p>
@@ -123,7 +124,8 @@ an appointment. This is to ensure a dental staff is on duty at the location.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Greenridge Primary</p>
+<p><strong>Greenridge Primary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9838 6954</p>
