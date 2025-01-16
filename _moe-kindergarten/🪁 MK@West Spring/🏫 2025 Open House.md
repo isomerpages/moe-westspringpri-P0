@@ -6,12 +6,21 @@ third_nav_title: 🪁 MK@West Spring
 variant: tiptap
 ---
 <h4>🏫 2025 MK Open House (more details coming soon!)</h4>
-<p><strong>MOE Kindergarten @ West Spring will be holding our MK Open House on 8 February 2025, 8.30am to 1230pm (last walk-in at 12.15pm).</strong>
+<p>MK Open House at MOE Kindergarten @ West Spring</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: <strong>Saturday, 8 February 2025</strong>
 </p>
+</li>
+<li>
+<p>Time: <strong>8.30am to 12.30pm (last walk-in at 12.15pm).</strong>
+</p>
+</li>
+</ul>
 <p>Parents are encouraged to visit and learn more about MK's curriculum,
 programmes, interactive learning environment and facilities, as well as
 speak to our MK Educators. The MK Open House will allow parents to better
-understand our MK before registering their child.</p>
+understand our MK before registering their child. See you there!</p>
 <p></p>
 <h4>📋 2025 MK Registration Exercise</h4>
 <p>The 2025 MK Registration Exercise is open to SC and PR children born between
