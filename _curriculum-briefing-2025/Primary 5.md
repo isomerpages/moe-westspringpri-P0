@@ -44,9 +44,5 @@ description: ""
 </p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P4_to_P6_POP.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 POP" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P4_to_P6_POP_Page_01.jpg"></a>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_SWB.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Well-Being</a></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 SWB" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_SWB_Page_01.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_SWB.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 SWB" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_SWB_Page_01.jpg"></a>
 <p></p>
