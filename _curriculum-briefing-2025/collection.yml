@@ -2,6 +2,7 @@ collections:
   curriculum-briefing-2025:
     output: true
     order:
+      - Curriculum Briefing 2025.md
       - Primary 1.md
       - Primary 2.md
       - Primary 3.md
