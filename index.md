@@ -22,7 +22,7 @@ sections:
       title: Curriculum Briefing 2025
       id: infobar
       button: Click here
-      url: //
+      url: /cb2025/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
