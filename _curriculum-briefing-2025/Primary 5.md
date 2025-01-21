@@ -32,10 +32,7 @@ description: ""
 </p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P4_to_P5_CCA.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 CCA" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P4_to_P5_CCA_Page_1.jpg"></a>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_ICT.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Communication Technology (ICT)</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 ICT" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_ICT_Page_01.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_ICT.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 ICT" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_ICT_Page_01.jpg"></a>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_to_P6_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education (CCE)</a></strong>
 </p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_to_P6_CCE.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 CCE" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_to_P6_CCE_Page_01.jpg"></a>
