@@ -42,23 +42,37 @@ description: ""
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_to_P6_PHF.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Health and Fitness (PHF)</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P6 PHF" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_to_P6_PHF_Page_01.jpg">
 </div>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P6_CCA.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA)</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P6 CCA" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P6_CCA_Page_1.jpg">
+</div>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P6_ICT.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Communication Technology (ICT)</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P6 ICT" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P6_ICT_Page_01.jpg">
+</div>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_to_P6_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education (CCE)</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P6 CCE" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_to_P6_CCE_Page_01.jpg">
+</div>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P4_to_P6_POP.pdf" rel="noopener noreferrer nofollow" target="_blank">Pursue Our Passion (POP)</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P6 POP" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P4_to_P6_POP_Page_01.jpg">
+</div>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_SWB.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Well-Being</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P6 SWB" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_SWB_Page_01.jpg">
+</div>
 <p></p>
