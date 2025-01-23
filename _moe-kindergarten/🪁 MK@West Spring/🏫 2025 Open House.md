@@ -17,6 +17,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p>Click <a href="https://go.gov.sg/mkoh2025" rel="noopener nofollow" target="_blank">here</a> to
+register for the Open House!</p>
 <p>Parents are encouraged to visit and learn more about MK's curriculum,
 programmes, interactive learning environment and facilities, as well as
 speak to our MK Educators. The MK Open House will allow parents to better
