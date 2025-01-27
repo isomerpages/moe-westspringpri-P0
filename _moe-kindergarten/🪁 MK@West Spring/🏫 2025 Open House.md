@@ -5,24 +5,14 @@ description: ""
 third_nav_title: 🪁 MK@West Spring
 variant: tiptap
 ---
-<h4>🏫 2025 MK Open House (more details coming soon!)</h4>
-<p>MK Open House at MOE Kindergarten @ West Spring</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: <strong>Saturday, 8 February 2025</strong>
-</p>
-</li>
-<li>
-<p>Time: <strong>8.30am to 12.30pm (last walk-in at 12.15pm).</strong>
-</p>
-</li>
-</ul>
-<p>Click <a href="https://go.gov.sg/mkoh2025" rel="noopener nofollow" target="_blank">here</a> to
-register for the Open House!</p>
-<p>Parents are encouraged to visit and learn more about MK's curriculum,
-programmes, interactive learning environment and facilities, as well as
-speak to our MK Educators. The MK Open House will allow parents to better
-understand our MK before registering their child. See you there!</p>
+<h4>🏫 2025 MK Open House </h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MK_WS_OH_2025.png">
+</div>
+<p>Scan the QR code above or click <a href="https://go.gov.sg/mkoh2025" rel="noopener nofollow" target="_blank">here</a> to register for the Open House.
+Hope to see you there!</p>
+<p></p>
 <p></p>
 <h4>📋 2025 MK Registration Exercise</h4>
 <p>The 2025 MK Registration Exercise is open to SC and PR children born between
