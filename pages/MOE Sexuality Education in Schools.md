@@ -65,18 +65,21 @@ sex, and make wise, informed and responsible decisions on sexuality matters.
 <br>
 <br>
 </p>
-<h4>At West Spring Primary School, the following Sexuality Education lessons will be taught in 2024</h4>
-<p></p>
+<h4>At West Spring Primary School, the following Sexuality Education lessons will be taught in 2025</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5__1_.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_part_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5__2_.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_part_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6__1_.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_part_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_part_1.png">
 </div>
 <p></p>
 <h5>INFORMATION FOR PARENTS</h5>
@@ -86,8 +89,8 @@ providers.
 <br>
 <br>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be distributed
-to parents at the start of the year and is also downloadable <a href="/files/2024_Parent_Opt_Out_Form__Pri____downloadable.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 1 April 2024.
+to parents at the start of the year and is also downloadable <a href="/files/2025_Parent_Opt_Out_Form__Pri____downloadable.pdf" rel="noopener nofollow" target="_blank">here</a>The
+completed opt-out form is to be submitted by 1 April 2025.
 <br>
 <br>10. Parents can contact the school at <a href="mailto:westspring_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westspring_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
