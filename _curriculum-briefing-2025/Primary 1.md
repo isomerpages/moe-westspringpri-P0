@@ -4,11 +4,8 @@ permalink: /cb2025p1/
 variant: tiptap
 description: ""
 ---
-<p><strong><a href="/files/Curriculum Briefing Slides/2024/2024_primary_1_curriculum_briefing___english.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a></strong>
+<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P1_English.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2024/2024_Primary_1_Curriculum_Briefing___English_1.jpg">
-</div>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2024/2024_Primary_1_Curriculum_Briefing___Mother_Tongue.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a></strong>
 </p>
