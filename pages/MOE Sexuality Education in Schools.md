@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education in Schools
-permalink: /moe-sed-schools/
+permalink: /sexualityeducation/
 description: ""
 variant: tiptap
 ---
