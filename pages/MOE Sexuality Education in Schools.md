@@ -35,7 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h5>OVERVIEW OF WEST SPRING PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME FOR 2024</h5>
+<h5>OVERVIEW OF WEST SPRING PRIMARY SCHOOL SEXUALITY EDUCATION PROGRAMME FOR 2025</h5>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
