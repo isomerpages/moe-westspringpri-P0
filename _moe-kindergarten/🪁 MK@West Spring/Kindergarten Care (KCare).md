@@ -8,8 +8,8 @@ variant: tiptap
 <h2>What is Kindergarten Care</h2>
 <p>Kindergarten Care (<strong>KCare</strong>) is available in all MOE Kindergartens
 (MK) located within primary schools. If you register, your child can be
-in KCare before and after their MK session, providing the convenience of
-a full-day service.</p>
+in KCare after their MK session, providing the convenience of a full-day
+service.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_01.png">
