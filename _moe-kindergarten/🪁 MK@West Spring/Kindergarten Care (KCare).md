@@ -18,6 +18,9 @@ a full-day service.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare%20Free%20Play.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_04.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare%20Modular%20Activities%20(Indoor).jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -26,13 +29,12 @@ a full-day service.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_07.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_06.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare_Fees_2025.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare_Team_2025.png">
 </div>
 <h1>Contact Details</h1>
 <p><strong>KCare @ West Spring</strong>
