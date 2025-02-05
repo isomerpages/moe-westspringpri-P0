@@ -10,8 +10,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MK_WS_OH_2025.png">
 </div>
-<p>Scan the QR code above or click <a href="https://go.gov.sg/mkoh2025" rel="noopener nofollow" target="_blank">here</a> to register for the Open House.
-Hope to see you there!</p>
+<p><strong><em>[UPDATE: Online registration for MK OH is <u>closed</u>, but parents/families are welcome to walk in on that day!]</em></strong>
+</p>
+<p>Hope to see you there!</p>
 <p></p>
 <p></p>
 <h4>📋 2025 MK Registration Exercise</h4>
