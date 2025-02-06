@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Curriculum Briefing 2025</h1>
-<p>Click <strong><a href="/curriculum-briefing/2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>for
+<p>Click <strong><a href="/cb2025/" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>for
 Curriculum Briefing Slides</p>
 <h1>Facebook</h1>
 <p>Check out our latest happenings on our Facebook page:</p>
