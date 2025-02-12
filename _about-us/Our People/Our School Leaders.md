@@ -35,22 +35,11 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Get to know them!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leader/2025/WSPS_SL_Question_2025_T1_01.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Kum.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Sim.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Chin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leader/2025/WSPS_SL_Question_2025_T1_02.jpg">
 </div>
 <p></p>
