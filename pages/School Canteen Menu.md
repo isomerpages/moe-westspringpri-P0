@@ -7,31 +7,31 @@ variant: tiptap
 <h4>Canteen Menu Lists for the canteen stalls are as follow:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 2" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 3" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 4" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 2" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_2.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 5" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 3" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_3.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 6" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall6.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 7" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 4" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_4.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 8" src="/images/School Canteen Menu/School Canteen_23Sep24/WSPS_Stall8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 6" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_6.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 7" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_7.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 8" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_8.jpg">
 </div>
 <p></p>
