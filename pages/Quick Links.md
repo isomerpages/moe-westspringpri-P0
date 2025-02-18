@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">eZhishi</a>
+<p><a href="https://ezhishi.com/" rel="noopener noreferrer nofollow" target="_blank">eZhishi</a>
 </p>
 </li>
 <li>
