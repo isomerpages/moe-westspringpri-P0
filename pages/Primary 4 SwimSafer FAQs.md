@@ -7,7 +7,6 @@ description: ""
 <h4><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; What is an authentic SwimSafer certificate?</strong></h4>
 <p>Authentic SwimSafer certificates are <strong>issued by ActiveSG</strong> that
 bears the ActiveSG logo.</p>
-<p>&nbsp;</p>
 <p>Below is the example of an authentic certificate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SwimSafer/01.jpg">
@@ -17,13 +16,11 @@ bears the ActiveSG logo.</p>
 your child/ ward to progress to the next stage as they have a standardised
 testing assessment criteria. An external assessor will be engaged to assess
 your child/ ward.</p>
-<p>&nbsp;</p>
 <p>You can submit in-house certificates (other than ActiveSG) but the school’s
 contracted coaches will do a short assessment of your child/ ward on the
 first lesson and recommend a proficiency stage that matches his/ her abilities.
 This will enable your child to complete the stage successfully with certification
 at the end of the programme.</p>
-<p>&nbsp;</p>
 <p>Below are examples of in-house certificates.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,7 +75,6 @@ level.</p>
 wish to seek the advice of own private swimming coach on the placement
 of the child's/ ward’s swim test stage. Please email your child’s/ ward’s
 PE teacher on the stage placement.</p>
-<p>&nbsp;</p>
 <p>If child/ ward does not have any proper swimming lessons or had lessons
 but stopped for a period of time (more than 6 months), we would recommend
 that the child/ ward remains to be tested for STAGE 1.</p>
@@ -86,7 +82,6 @@ that the child/ ward remains to be tested for STAGE 1.</p>
 <h4><strong>5.&nbsp;&nbsp;&nbsp;&nbsp; How will it affect if my child/ ward can swim without certification and I want to skip STAGE 1?</strong></h4>
 <p>Your child/ ward might end up not having any certifications if the child/
 ward unfortunately fails the requested stage test.</p>
-<p>&nbsp;</p>
 <p><strong><em>Example:</em></strong><em> Your child/ ward has no certification and you request for STAGE 2 instead of STAGE 1. If child/ ward fails STAGE 2 practical test, he/ she will not be awarded any certification even though he/ she passes the Theory Quiz. This applies to all other stages.</em>
 </p>
 <p><em>&nbsp;</em>
@@ -107,7 +102,6 @@ a group.</p>
 <p>There will not be any make-up Practical Assessment for individual student
 who miss the test date as the school will be engaging external assessors
 for the Practical Assessment only on Session 8.</p>
-<p>&nbsp;</p>
 <p>Make-up session will not apply as well for your child’s/ ward’s absence
 in other swimming sessions.</p>
 <p>&nbsp;</p>
@@ -119,7 +113,4 @@ details on external Practical Assessment.</p>
 <p>The school’s contracted vendor is not allowed to conduct Practical Assessment
 due to conflict of interest. Only ActiveSG certified assessors, who are
 engaged externally by the school, can conduct the assessment.</p>
-<p>
-<br>
-</p>
 <p></p>
