@@ -1,6 +1,6 @@
 ---
-title: Primary 4 SwimSafer FAQs
-permalink: /p4-swimsafer/
+title: SwimSafer FAQs
+permalink: /swimsafer/
 variant: tiptap
 description: ""
 ---
