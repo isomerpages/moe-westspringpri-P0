@@ -74,6 +74,10 @@ variant: tiptap
 <p><a href="/files/Cyberwellness_Slides_for_Parents_Engagement_.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness Resources for Lower Primary</a>
 </p>
 </li>
+<li>
+<p><a href="/p4-swimsafer/" rel="noopener nofollow" target="_blank">Primary 4 Swimsafer 2.0 FAQ</a>
+</p>
+</li>
 </ul>
 <h1>For Students</h1>
 <ul data-tight="true" class="tight">
