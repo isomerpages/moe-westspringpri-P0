@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/p4-swimsafer/" rel="noopener nofollow" target="_blank">Swimsafer 2.0 FAQ</a>
+<p><a href="/swimsafer/" rel="noopener nofollow" target="_blank">Swimsafer 2.0 FAQ</a>
 </p>
 </li>
 </ul>
