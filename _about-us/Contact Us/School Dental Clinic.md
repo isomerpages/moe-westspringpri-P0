@@ -133,7 +133,7 @@ an appointment. This is to ensure a dental staff is on duty at the location.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9838 6954</p>
+<p>9839 6954</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 Jelapang Road, Singapore 677744</p>
