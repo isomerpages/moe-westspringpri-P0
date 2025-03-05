@@ -51,7 +51,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 1 (2025)</h5>
+<h5>Operating Dates in Term 2 (2025)</h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,27 +59,32 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Jan 2025 to 17 Jan 2025</p>
+<p><strong>24 March to 28 March 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Jan 2025 to 31 Jan 2025</p>
+<p><strong>7 April to 11 April 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 Feb 2025 to 14 Feb 2025</p>
+<p><strong>21 April to 25 April 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Feb 2025 to 28 Feb 2025</p>
+<p><strong>5 May to 9 May 2025</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 Mar 2025 to 14 Mar 2025</p>
+<p><strong>19 May to 23 May 2025</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +133,7 @@ an appointment. This is to ensure a dental staff is on duty at the location.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9838 6954</p>
+<p>9839 6954</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 Jelapang Road, Singapore 677744</p>
