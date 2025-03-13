@@ -5,7 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h2><strong><u>Closure of School Dental Clinic</u></strong></h2>
-<p>We wish to inform you that the School Dental Clinic will be closed on <strong><u>12 March 2025</u></strong>.</p>
+<p>We wish to inform you that the School Dental Clinic will be closed on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>12 March 2025</strong>; and</p>
+</li>
+<li>
+<p><strong>14 March 2025 (from 11.30am onwards)</strong>.</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>In the event of dental emergencies </u></strong>such as trauma
 (tooth broken/knocked out), facial/gum swelling or severe toothache<strong><u> during both dental clinic closure</u>, </strong>please
