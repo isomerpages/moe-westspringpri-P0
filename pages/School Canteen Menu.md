@@ -27,7 +27,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stall 7" src="/images/School Canteen Menu/School Canteen_18Feb25/WSPS_School_Canteen_2025_Stall_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Stall 7" src="/images/School Canteen Menu/School Canteen_24Mar25/Canteen_Menu_Stall_7_updated_on_20_March_2025.jpg">
 </div>
 <p></p>
 <p></p>
