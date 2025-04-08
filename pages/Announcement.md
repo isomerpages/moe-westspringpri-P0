@@ -8,10 +8,10 @@ variant: tiptap
 <p>We wish to inform you that the School Dental Clinic will be closed on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>12 March 2025</strong>; and</p>
+<p><strong>8 April 2025</strong>; and</p>
 </li>
 <li>
-<p><strong>14 March 2025 (from 11.30am onwards)</strong>.</p>
+<p><strong>9 April 2025 (from 12pm onwards)</strong>.</p>
 </li>
 </ul>
 <p></p>
