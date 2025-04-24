@@ -29,4 +29,11 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infopic:
+      title: Discover West Spring
+      id: infopic
+      button: Click here
+      url: /discover-wsps/
+      image: /images/Discover West Spring/2025/Discover_West_Spring_small.jpg
+      alt: Discover West Spring
 ---
