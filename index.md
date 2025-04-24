@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: Discover West Spring
+      id: infobar
+      button: Click here to register
+      url: /discover-wsps/
+  - infobar:
       title: Curriculum Briefing 2025
       id: infobar
       button: Click here
