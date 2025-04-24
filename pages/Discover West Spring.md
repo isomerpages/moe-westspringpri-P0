@@ -7,8 +7,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Discover West Spring" src="/images/Discover West Spring/2025/Discover_West_Spring.jpg">
 </div>
-<p>🔗 Register your interest and submit any questions from 25 April to 9
-May by clicking this <a href="https://go.gov.sg/discoverwestspring" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p><em>🔗 Register your interest and submit any questions from 25 April to 9 May by clicking this <a href="https://go.gov.sg/discoverwestspring" rel="noopener nofollow" target="_blank">link</a>.</em>
+</p>
 <p></p>
 <p></p>
 <p>Dear Parents / Guardians,</p>
