@@ -18,13 +18,11 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /latesthappenings/
-  - infopic:
+  - infobar:
       title: Discover West Spring
-      id: infopic
-      button: Click here
+      id: infobar
+      button: Click here to register
       url: /discover-wsps/
-      image: /images/Discover West Spring/2025/Discover_West_Spring_small.jpg
-      alt: Discover West Spring
   - infobar:
       title: Curriculum Briefing 2025
       id: infobar
@@ -36,9 +34,4 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
-  - infobar:
-      title: Discover West Spring
-      id: infobar
-      button: Click here to register
-      url: /discover-wsps/
 ---
