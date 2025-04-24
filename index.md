@@ -36,4 +36,9 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infobar:
+      title: Discover West Spring
+      id: infobar
+      button: Click here to register
+      url: /discover-wsps/
 ---
