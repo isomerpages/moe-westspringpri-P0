@@ -7,6 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Discover West Spring" src="/images/Discover West Spring/2025/Discover_West_Spring.jpg">
 </div>
+<p>🔗 Register your interest and submit any questions from 25 April to 9
+May by clicking the link below.</p>
+<p><a href="https://go.gov.sg/discoverwestspring" rel="noopener nofollow" target="_blank">https://go.gov.sg/discoverwestspring</a>
+</p>
+<p></p>
 <p>Dear Parents / Guardians,</p>
 <p>Are you exploring primary schools for your child who will be entering
 Primary 1 next year?</p>
@@ -22,6 +27,5 @@ and discover how we develop confident, caring, and curious learners.</p>
 be the right next step in your child’s educational journey.</p>
 <p>🔗 Register your interest and submit any questions from 25 April to 9
 May by clicking the link below.</p>
-<p><a href="https://go.gov.sg/discoverwestspring" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/discoverwestspring</a>
-</p>
+<p>https://go.gov.sg/discoverwestspring</p>
 <p></p>
