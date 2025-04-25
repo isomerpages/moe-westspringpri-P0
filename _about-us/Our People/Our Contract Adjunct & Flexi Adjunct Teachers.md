@@ -63,7 +63,7 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Faroiz</p>
+<p>Mr Fairoz</p>
 </td>
 </tr>
 <tr>
@@ -83,17 +83,7 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Meena</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Michael Fong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nancy Tham Lai Po</p>
 </td>
 </tr>
 <tr>
@@ -118,11 +108,6 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rupiah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Shah Nee</p>
 </td>
 </tr>
@@ -139,16 +124,6 @@ to get in touch with the following staff.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Swee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Teng Shi Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Veronica Wee</p>
 </td>
 </tr>
 </tbody>
