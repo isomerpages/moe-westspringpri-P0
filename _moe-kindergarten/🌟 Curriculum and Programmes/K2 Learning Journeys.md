@@ -16,9 +16,6 @@ develop a deeper connection with nature through play and curiosity.</p>
 <div class="iframe-wrapper">
 <iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStATP6L6bve8_E1ZiBsiFg-6f0Ay-nwhek4fpnpWXdJTAnYW9KXEFcfsdbsOIXeGSWG53JN0gX_IYw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>
-<br>
-</p>
 <h1>2024 Young Intertidal Explorer Skit</h1>
 <p>In Term 3, the children have been learning about marine life and how to
 conserve the environment. We engaged Young Nautilus to conduct an indoor
