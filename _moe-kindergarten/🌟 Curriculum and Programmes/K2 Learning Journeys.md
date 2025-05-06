@@ -5,6 +5,20 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h1>2025 Jurong Lake Garden (MTL field trip)</h1>
+<p>In February, our children embarked on a Mother Tongue-based learning journey
+to Jurong Lakeside Garden.&nbsp;</p>
+<p>The Tamil Language classes focused on personal safety and environmental
+awareness.&nbsp;Meanwhile, the Chinese and Malay Language classes extended
+their learning to include hands-on exploration and hobbies, helping children
+develop a deeper connection with nature through play and curiosity.</p>
+<p>It was a fantastic day of learning, fun, and discovery in nature!🌿</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStATP6L6bve8_E1ZiBsiFg-6f0Ay-nwhek4fpnpWXdJTAnYW9KXEFcfsdbsOIXeGSWG53JN0gX_IYw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
 <h1>2024 Young Intertidal Explorer Skit</h1>
 <p>In Term 3, the children have been learning about marine life and how to
 conserve the environment. We engaged Young Nautilus to conduct an indoor
