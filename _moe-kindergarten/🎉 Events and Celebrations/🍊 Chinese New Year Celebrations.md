@@ -5,6 +5,17 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h4>Chinese New Year Celebration 2025</h4>
+<p>The Chinese New Year celebration brought immense joy as our MK children
+joined the primary school students in the school hall for various activities.</p>
+<p>Through performances, they learned about key Chinese New Year customs
+such as reunion dinners, red packets, and lion dances. Some of our kindergarten
+children even had the chance to perform on stage, which thrilled their
+peers greatly. Additionally, storytelling sessions about the origins of
+"Nian" deepened their appreciation for the significance behind the festivities.</p>
+<div class="iframe-wrapper">
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSf0qUon84qRyH-3cq6myMIEg2PZSiu8kpZ18K_l-Yb-_5Y1Mb4IY3szy-Y96TK9RYi23HFsHHFLJpL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4>Chinese New Year Celebration 2024</h4>
 <p>The children in MK celebrated Chinese New Year in two parts: Firstly,
 they were involved in spring cleaning and classroom decoration in the week
