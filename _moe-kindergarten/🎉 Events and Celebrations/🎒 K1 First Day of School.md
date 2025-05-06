@@ -5,7 +5,16 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
-<h4>First Day of School 2024</h4>
+<h2>First Day of School 2025</h2>
+<p>The first day of K1 at MK @ West Spring was a memorable milestone for
+both parents and children, filled with excitement, joy, and anticipation.
+Our classrooms came alive with laughter as the children met their new friends
+and teachers. We are delighted to begin this journey with the little ones
+and eagerly look forward to a year of growth, exploration, and learning!&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShyDNp17Axl3_V4JCqpLSeKHqiobZ3VmnadGFdnnaRB2LCGjkFEPnDyUN9nuPrtkROA17G-B8SLomT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h2>First Day of School 2024</h2>
 <p>The first day of school marks a special milestone, brimming with anticipation
 and new beginnings. We're here to support you and your child every step
 of the way. Our team of dedicated MK educators are committed to providing
@@ -24,7 +33,7 @@ to ensure that our children are "On To A Strong Start!"</p>
 </div>
 <p></p>
 <hr>
-<h4>First Day of School 2023</h4>
+<h2>First Day of School 2023</h2>
 <p>Welcome back to a new school year!</p>
 <p>It was so wonderful to see the smiling faces of our K1 children for the
 first time, as they embark on their kindergarten journey with MK @ West
