@@ -15,8 +15,8 @@ third_nav_title: Co Curricular Activities (CCA)
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WSPS CCA Schedule 2025 Term 2" src="/images/CCA Schedule/2025/CCA_Schedule_2025_Term2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Schedule for Term 2" src="/images/CCA Schedule/2025/CCA_Schedule_2025_29Apr_Update_.jpg">
+</div>
 <p></p>

@@ -5,6 +5,7 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h3>Hari Raya Celebration 2024</h3>
 <p>Hari Raya, also known as Eid, is a significant celebration for Muslims
 around the world, including those of Malay, Arab, Chinese, Indian and other
 ethnicities. It’s a time for family, community and charitable acts, and
