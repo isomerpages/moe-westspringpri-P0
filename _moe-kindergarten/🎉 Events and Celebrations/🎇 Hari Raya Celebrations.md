@@ -5,6 +5,20 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h3>Hari Raya Celebration 2025</h3>
+<p>On 4 April 2025, our children celebrated Hari Raya with a meaningful and
+joyful experience. They enjoyed a traditional <em>kenduri</em> (communal
+meal) with peers, sharing festive snacks like dates, Semperit Milo cookies,
+and banana chips while practising values such as respect and turn-taking.</p>
+<p>Children also took part in cultural activities like the bamboo dance and
+sarong games, fostering teamwork, communication, and inclusiveness. The
+celebration ended with heartfelt Hari Raya cards exchanged among friends,
+wrapped in money packets, as children learned respectful greetings and
+gestures.</p>
+<p><em>Selamat Hari Raya!</em> 🌙🕌</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9oFfMlrBzCr-jaoxne5LXmaarT_VXOONXWBN4nQVvkL3V-BQI7gkh-ldIiTBKO2B-rdG5cbWuAQhI/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3>Hari Raya Celebration 2024</h3>
 <p>Hari Raya, also known as Eid, is a significant celebration for Muslims
 around the world, including those of Malay, Arab, Chinese, Indian and other
