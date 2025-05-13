@@ -24,10 +24,10 @@ sections:
       button: Click here to register
       url: /discover-wsps/
   - infobar:
-      title: Curriculum Briefing 2025
+      title: PSD 2025
       id: infobar
       button: Click here
-      url: /cb2025/
+      url: /psd/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
