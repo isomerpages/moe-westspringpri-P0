@@ -5,6 +5,24 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h4>Sports Fiesta 2025</h4>
+<p>This year, the MK’s Sports Fiesta was held in conjunction with Parents
+Appreciation Day, bringing our K1 and K2 families together for an afternoon
+of active fun and bonding. With the theme of <em>Zoolympics!</em>, this
+year’s event was held in a lively carnival-style format,&nbsp; aimed to
+foster stronger parent-child relationships while promoting the core values
+of perseverance and sportsmanship.</p>
+<p>Children and parents worked hand-in-hand to complete animal-themed station
+games, many of which reinforced key motor skills taught in our MK curriculum.
+With cheers, laughter, and plenty of teamwork, <em>Zoolympics!</em> was a
+joyful celebration of movement, learning, and family connection.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5Q41hVybnpFeVHmNWN2oznIW7b2Edxwi96-wuQnkNocNNoJuQegNcuEr23Pqwf2rYIOW5FsM-z6yS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
 <h4>Sports Fiesta 2024</h4>
 <p>“Sports Fiesta 2024” aims to strengthen parent-child relationship, as
 well as to reinforce the values of perseverance and sportsmanship.</p>
@@ -17,7 +35,7 @@ children have learnt in our MK curriculum, and provided them with the platform
 to put them into practice. The Sports Fiesta was well-received by the parents
 and children!</p>
 <div class="iframe-wrapper">
-<iframe height="1012" width="983" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HAFjV-1eP2f_A88Y1vSkKNYjYpayENxqMpj6qJE4V98/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYYvhlvIffMTMiyrLDOYHrTZ6047MGzqxlgA5jo9fxw961J9kQyCTtuojtH34RI9GLvGka5jSYYUfQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
