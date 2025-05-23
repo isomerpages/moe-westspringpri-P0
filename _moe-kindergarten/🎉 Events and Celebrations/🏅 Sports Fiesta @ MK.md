@@ -18,7 +18,7 @@ With cheers, laughter, and plenty of teamwork, <em>Zoolympics!</em> was a
 joyful celebration of movement, learning, and family connection.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5Q41hVybnpFeVHmNWN2oznIW7b2Edxwi96-wuQnkNocNNoJuQegNcuEr23Pqwf2rYIOW5FsM-z6yS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5Q41hVybnpFeVHmNWN2oznIW7b2Edxwi96-wuQnkNocNNoJuQegNcuEr23Pqwf2rYIOW5FsM-z6yS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>
 <br>
@@ -35,7 +35,7 @@ children have learnt in our MK curriculum, and provided them with the platform
 to put them into practice. The Sports Fiesta was well-received by the parents
 and children!</p>
 <div class="iframe-wrapper">
-<iframe height="1012" width="983" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HAFjV-1eP2f_A88Y1vSkKNYjYpayENxqMpj6qJE4V98/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="521" width="492" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYYvhlvIffMTMiyrLDOYHrTZ6047MGzqxlgA5jo9fxw961J9kQyCTtuojtH34RI9GLvGka5jSYYUfQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
