@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: Discover West Spring
       id: infobar
-      button: Click here to register
+      button: CLICK HERE TO FIND OUT MORE
       url: /discover-wsps/
   - infobar:
       title: PSD 2025
