@@ -51,7 +51,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 2 (2025)</h5>
+<h5>Operating Dates in Term 3 (2025)</h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,31 +59,31 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>24 March to 28 March 2025</strong>
+<p><strong>30 June to 4 July 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 April to 11 April 2025</strong>
+<p><strong>14 July to 18 July 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>21 April to 25 April 2025</strong>
+<p><strong>28 July to 1 August 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 May to 9 May 2025</strong>
+<p><strong>11 August to 15 August 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>19 May to 23 May 2025</strong>
+<p><strong>25 August to 29 August 2025</strong>
 </p>
 </td>
 </tr>
@@ -143,7 +143,7 @@ an appointment. This is to ensure a dental staff is on duty at the location.</p>
 </table>
 <p><strong><u>In the events of dental emergencies</u></strong> such as trauma
 (tooth broken/knocked out), facial/gum swelling or severe toothache <strong><u>during both dental clinic closure</u></strong>,
-please contact School Dental Centre via email: <strong><a href="Contact_YPS@hpb.gov.sg" rel="noopener nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
+please contact School Dental Centre via email: <strong><a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
 </p>
 <p></p>
 <p><strong><em><u>*Please note that there may be changes to schedule, therefore parents who are unable to reach dental staff, may contact school to ensure that staff is on duty on that day.</u></em></strong>
