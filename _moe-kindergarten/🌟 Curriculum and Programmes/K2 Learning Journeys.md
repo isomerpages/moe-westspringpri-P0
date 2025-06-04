@@ -5,6 +5,22 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h1>2025 Sheng Siong Field Trip </h1>
+<p>The K2 children recently went on a fun and meaningful field trip to a
+supermarket near their neighbourhood. There, they explored their neighbourhood,
+selected healthier snack options, and practised simple purchasing skills
+using money.</p>
+<p>This hands-on experience brought classroom learning to life, and the children
+were curious, engaged, and eager to participate. We’re proud of their little
+steps towards greater independence and look forward to more exciting learning
+adventures ahead!</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7dfmDeZvsm7pAhf32uyCYzODBbhx1NazoZEEOXYAVlmsTSr5t6M8ABeHn__Z0myUMgxWi6NlmvNIM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
 <h1>2025 Jurong Lake Garden (MTL field trip)</h1>
 <p>In February, our children embarked on a Mother Tongue-based learning journey
 to Jurong Lakeside Garden.&nbsp;</p>
