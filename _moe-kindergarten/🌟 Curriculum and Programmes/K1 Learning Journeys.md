@@ -5,7 +5,25 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
-<h1>2024 Inclusive Playground</h1>
+<h2>2025 Senja Neighbourhood Walk</h2>
+<p>As part of their exploration of people and places in the community, our
+K1 children went on a lively neighbourhood walk around Senja! Along the
+way, they observed familiar places like the hawker centre and nearby shops,
+learning how each plays a part in our daily lives.</p>
+<p>To show their appreciation, the children also presented handmade thank-you
+cards to community helpers such as the bakers and cleaners—a meaningful
+way to connect with and give back to the people who serve our neighbourhood
+every day!
+<br>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7Lg8RqkgvOPX1sYgPkJuTOz-2bC1HjBDx7c7crmVRRS9wmGPsx-xRBzY_fAUli_hQ0WSjabkT-6Rv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
+<h2>2024 Inclusive Playground</h2>
 <p>Our Kindergarten 1 children visited an inclusive playground in Canberra
 Park, where they had the opportunity to explore, learn, and engage with
 a variety of play equipment designed to be accessible for children of all

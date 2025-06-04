@@ -310,7 +310,7 @@ variant: tiptap
 <p><strong>Mr Ariff Rizwan</strong>
 <br><a href="mailto:ariff_rizwan_sahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ariff_rizwan_sahab@moe.edu.sg</a>
 </p>
-<p><strong>Ms Desiree Tan</strong>
+<p><strong>Mrs Desiree Tan</strong>
 <br><a href="mailto:tan_jing_wei_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_wei_desiree@moe.edu.sg</a>
 </p>
 </td>
