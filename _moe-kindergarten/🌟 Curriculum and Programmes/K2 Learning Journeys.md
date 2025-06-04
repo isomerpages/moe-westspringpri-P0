@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
-<h1>2025 Sheng Siong Field Trip </h1>
+<h1>2025 Sheng Siong Field Trip</h1>
 <p>The K2 children recently went on a fun and meaningful field trip to a
 supermarket near their neighbourhood. There, they explored their neighbourhood,
 selected healthier snack options, and practised simple purchasing skills
