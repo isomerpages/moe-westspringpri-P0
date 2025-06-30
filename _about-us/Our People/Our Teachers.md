@@ -313,7 +313,7 @@ variant: tiptap
 <p><strong>Mr Ariff Rizwan</strong>
 <br><a href="mailto:ariff_rizwan_sahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ariff_rizwan_sahab@moe.edu.sg</a>
 </p>
-<p><strong>Mrs Desiree Tan</strong>
+<p><strong>Mrs Desiree Ng</strong>
 <br><a href="mailto:tan_jing_wei_desiree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_wei_desiree@moe.edu.sg</a>
 </p>
 </td>
@@ -580,7 +580,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Vinod</strong>
+<p><strong>Mr Vinod Chandar</strong>
 <br><a href="mailto:mohanadas_vinod_chandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohanadas_vinod_chandar@moe.edu.sg</a>
 </p>
 <p><strong>Ms Elaine Gian</strong>
