@@ -10,10 +10,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MK_WS_OH_2025.png">
 </div>
-<p><strong><em>[UPDATE: Online registration for MK OH is <u>closed</u>, but parents/families are welcome to walk in on that day!]</em></strong>
+<p><strong><em>[UPDATE: The 2025 MK OH has concluded. Stay tuned for 2026 MK OH!]</em></strong>
 </p>
-<p>Hope to see you there!</p>
-<p></p>
 <p></p>
 <h4>📋 2025 MK Registration Exercise</h4>
 <p>The 2025 MK Registration Exercise is open to SC and PR children born between
@@ -22,15 +20,14 @@ variant: tiptap
 <li>
 <p>Parents can register their child for admission to an MK via the MK website
 (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>),
-from <strong>9am on 7 February 2025</strong> to <strong>4pm on 17 February 2025</strong>.</p>
+from 9am on 7 February 2025 to 4pm on 17 February 2025.</p>
 </li>
 <li>
-<p>Parents will be informed of the <strong>registration outcome by 15 April 2025</strong>.</p>
+<p>Parents will be informed of the registration outcome by 15 April 2025.</p>
 </li>
 <li>
-<p>Outside this registration period, parents can seek admission to K1 or
-K2 for their child by contacting the MK directly to check if there are
-vacancies.</p>
+<p><strong>Outside this registration period, parents can seek admission to K1 or K2 for their child by contacting the MK directly to check if there are vacancies.</strong>
+</p>
 </li>
 </ul>
 <p>For more information on the 2025 MK Open House and Registration Exercise,
