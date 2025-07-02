@@ -58,7 +58,7 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Boon Chiew Eddy</p>
+<p>Ms Chan Mei Yann</p>
 </td>
 </tr>
 <tr>
@@ -83,12 +83,12 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Fong</p>
+<p>Mdm Ng Chay Hwang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Chay Hwang</p>
+<p>Mdm Nur Afiqah</p>
 </td>
 </tr>
 <tr>
@@ -108,6 +108,11 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Rozianah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Shah Nee</p>
 </td>
 </tr>
@@ -119,11 +124,6 @@ to get in touch with the following staff.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sugitha D/O Letchimanan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Swee</p>
 </td>
 </tr>
 </tbody>
