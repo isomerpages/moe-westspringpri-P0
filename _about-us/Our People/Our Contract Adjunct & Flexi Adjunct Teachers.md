@@ -53,11 +53,6 @@ to get in touch with the following staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Ching Ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chan Mei Yann</p>
 </td>
 </tr>
