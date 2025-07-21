@@ -8,22 +8,16 @@ variant: tiptap
 <p>We wish to inform you that the School Dental Clinic will be closed on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;3 June 2025 (from 8am – 3pm); &nbsp;&nbsp;&nbsp;</p>
+<p>1 July 2025 (PM Closure) - Closed from 3pm onwards;</p>
 </li>
 <li>
-<p>4 June 2025 (from 8am – 3pm); &nbsp;&nbsp;&nbsp;</p>
+<p>17 July 2025 (PM Closure) - Closed from 11.30am onwards;</p>
 </li>
 <li>
-<p>5 June 2025 (full day);</p>
+<p>18 July 2025 (Full Day Closure); and</p>
 </li>
 <li>
-<p>6 June 2025 (from 8am – 3pm); &nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>19 June 2025 (full day); and</p>
-</li>
-<li>
-<p>20 June 2025 (from 11.30am onwards).</p>
+<p>30 July 2025 (Full Day Closure)</p>
 <p></p>
 </li>
 </ul>
