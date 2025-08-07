@@ -4,31 +4,24 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
-<h2><strong><u>Closure of School Dental Clinic</u></strong></h2>
-<p>We wish to inform you that the School Dental Clinic will be closed on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1 July 2025 (PM Closure) - Closed from 3pm onwards;</p>
-</li>
-<li>
-<p>17 July 2025 (PM Closure) - Closed from 11.30am onwards;</p>
-</li>
-<li>
-<p>18 July 2025 (Full Day Closure); and</p>
-</li>
-<li>
-<p>30 July 2025 (Full Day Closure)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WSPS Alumni Day 2025" src="/images/Alumni/Alumni_Day_Pic.png">
+</div>
 <p></p>
-</li>
-</ul>
-<p>Please note that appointment slots for the school holidays are fully booked
-unless there are cancellations which have been notified. All non urgent
-cases will be seen and given appointments after school reopens.</p>
-<p>&nbsp;</p>
-<p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
-out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>,
-please contact School Dental Centre via email:&nbsp; <strong><a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
-</p>
-<p></p>
-<p></p>
+<p>We are thrilled to announce our <strong>2025 Alumni Day</strong>, bringing
+together former students who graduated from West Spring Primary for a heartwarming
+reunion on 3 September 2025.</p>
+<p>This year’s theme, <strong>“Rewind &amp; Reconnect: You’re Always Part of Us,”</strong> captures
+the spirit of belonging and lasting connection. As alumni return to familiar
+grounds, we invite you to take a walk down memory lane and look back on
+the memorable moments and relationships forged during your formative school
+years in West Spring Primary School.&nbsp; Take this chance to reconnect
+not only with friends and teachers, but also with the values and community
+that shaped you.</p>
+<p>Interested WSPS Alumni should register their interest via the following
+link. <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/wspsalumni2025</a>.</p>
+<p>Please note that the school <u>will not</u> be open for Alumni to visit
+during Teachers’ Day on 4 September as teachers will be engaged in Teachers’
+Day activities. We look forward to welcoming you back to West Spring on
+3 September!</p>
 <p>&nbsp;</p>
