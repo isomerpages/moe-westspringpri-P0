@@ -4,6 +4,52 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
+<h3>Closure of School Dental Clinic</h3>
+<p>We wish to inform you that the School Dental Clinic will be closed on:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>1) 8 August 2025 (Half day Closure) - Closed from 11am onwards;</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2) 13 August 2025 (AM Closure) - Open from 2pm - 5pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3) 14 August 2025 (AM Closure) - Open from 2pm - 5pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4) 27 August 2025 (Full Day Closure); and</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5) 29 August 2025 (Full Day Closure)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
+out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>,
+please contact School Dental Centre via email:&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
+</p>
+<p>We are sorry for any inconveniences caused during the closure.</p>
+<p></p>
+<h3><strong>2025 Alumni Day</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WSPS Alumni Day 2025" src="/images/Alumni/Alumni_Day_Pic.png">
 </div>
@@ -24,4 +70,5 @@ link. <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ws
 during Teachers’ Day on 4 September as teachers will be engaged in Teachers’
 Day activities. We look forward to welcoming you back to West Spring on
 3 September!</p>
+<p></p>
 <p>&nbsp;</p>
