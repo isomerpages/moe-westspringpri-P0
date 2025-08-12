@@ -5,6 +5,19 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h4>Racial Harmony Day 2025</h4>
+<p>On 21 July 2025, MK@West Spring celebrated Racial Harmony Day with a range
+of fun, meaningful, and engaging activities designed to help our children
+learn more about the significance of this important day in Singapore. As
+part of the celebration, we also introduced a family-based activity in
+the form of the “Racial Harmony Day Bingo”. This interactive bingo game
+encourages children to explore and appreciate their own cultural heritage,
+as well as learn about the traditions of others. It also provides a wonderful
+opportunity for family bonding through shared learning and thoughtful conversations.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeBx8hsH8tuZFGwJNTprZVjU2DMrOUCDgoErBVtLimFJpms2QRbR7mPMUGYBqouAxSXjgxpW8Dv-z_/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Racial Harmony Day 2024</h4>
 <p>Racial Harmony Day is an annual celebration in Singapore, as we celebrate
 the uniqueness of different cultures and races. Values like Respect and
