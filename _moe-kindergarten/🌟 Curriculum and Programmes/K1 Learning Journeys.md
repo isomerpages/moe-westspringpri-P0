@@ -5,7 +5,29 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
-<h2>2025 Senja Neighbourhood Walk</h2>
+<h4>Singapore Zoo (MTL) 2025</h4>
+<p>In Term 3, children are learning about animals and plants in our natural
+environment during their respective Mother Tongue Language (MTL) lessons.
+To extend their learning, our MTL teachers have planned for a field trip
+to the Singapore Zoo, where children will learn more about the different
+types of wildlife, their habitats and ways to protect these animals.</p>
+<p>The Malay Language classes embarked on a programme called <em>Kembara Nusantara</em>.
+Firstly, they went to Fragile Forest to look for <em>Sang Kancil</em> (Mousedeer),
+a significant animal in the Malay folktales and community. They then went
+to visit the <em>Orangutan</em>, who are critically endangered and learned
+ways to protect them.</p>
+<p>The Chinese Language classes enjoyed watching otters and compared monkeys
+with orangutans. The children also played a fun matching game, identifying
+zebras, rhinos, giraffes and pelicans by their special body features. They
+were especially fascinated to discover how giraffes sleep and eat.</p>
+<p>The Tamil Language classes focused on monkeys and elephants. They started
+off with visiting the elephants and observed the food they ate. They then
+saw a few different types of monkeys and the places they live in and food
+they eat.</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiaepEgZ5JHOEtysJQTD-G333pxIzzos7KOHaEe9NWRdjW2dm8PGaVHIRrCP1f4ojAOa2wQ-ZipeHD/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Senja Neighbourhood Walk 2025</h4>
 <p>As part of their exploration of people and places in the community, our
 K1 children went on a lively neighbourhood walk around Senja! Along the
 way, they observed familiar places like the hawker centre and nearby shops,
@@ -23,7 +45,7 @@ every day!
 <p>
 <br>
 </p>
-<h2>2024 Inclusive Playground</h2>
+<h4>Inclusive Playground 2024</h4>
 <p>Our Kindergarten 1 children visited an inclusive playground in Canberra
 Park, where they had the opportunity to explore, learn, and engage with
 a variety of play equipment designed to be accessible for children of all
@@ -52,7 +74,7 @@ their reflections in creative ways!
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_Term_4_Field_Trip__Inclusive_Playground_2024_children_s_reflections.jpg">
 </div>
-<h1>2024 Woodlands Integrated Bus Interchange (MTL field trip)</h1>
+<h4>Woodlands Integrated Bus Interchange (MTL) 2024</h4>
 <p>In Term 3, our K1 children have been exploring the themes of Transportation,
 Safety, and Colours during their Mother Tongue Language (MTL) lessons.
 To extend their learning, they went on an MTL field trip to the Woodlands
@@ -73,7 +95,7 @@ peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/K1_MTL_Field_Trip_WIBI_2024_Reflections.jpg">
 </div>
-<h1>2024 Singapore Zoo</h1>
+<h4>Singapore Zoo 2024</h4>
 <p>On August 14 and 16, the children embarked on an exciting adventure to
 the Fragile Forest at Singapore Zoo. They explored the layers of a rainforest,
 discovering the unique features of each stratum. The highlight was getting
@@ -99,7 +121,7 @@ HI-Light curriculum.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event Reflections/Children_s_reflections___Zoo.jpg">
 </div>
-<h1>2024 Senja Neighbourhood Walk</h1>
+<h4>Senja Neighbourhood Walk 2024</h4>
 <p>Our K1 children have been learning about people and places in their surroundings
 as part of the Term 2 HI-Light curriculum. To deepen this learning, the
 children went on a neighbourhood walk around Senja on 13 and 14 May 2024.
@@ -120,7 +142,7 @@ Senja Hawker Centre helps lighten the cleaners' workload.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/K1_Term_2_Field_Trip_reflections__1_.jpg">
 </div>
-<h1>The Arena @ Keat Hong</h1>
+<h4>The Arena @ Keat Hong 2023</h4>
 <p>On the 1st and 2nd November 2023, the K1 children embarked on their final
 Field Trip for the year. They visited The Arena @ Keat Hong to explore
 the features of an inclusive playground and the variety of play equipment
@@ -138,7 +160,7 @@ different from them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event%20Reflections/K1%20Field%20Trip%202023/reflection%20for%20ws%20website%20(k1%20t4%20field%20trip%202023).jpg">
 </div>
-<h1>Flower Dome at Gardens by the Bay</h1>
+<h4>Flower Dome at Gardens by the Bay 2023</h4>
 <p>On week 8 of Term 3, the K1 children went on a field trip to Gardens By
 The Bay and explored the Flower Dome to learn more about edible plants.
 They were introduced to the different parts of a plant that can be eaten
@@ -160,7 +182,7 @@ in a previous HI-Light activity.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Event%20Reflections/K1%20Field%20Trip%202023/reflection%20for%20ws%20website%20(k1%20t3%20field%20trip%202023)_cin%20pm.jpg">
 </div>
-<h1>Neighbourhood Walk</h1>
+<h4>Neighbourhood Walk 2023</h4>
 <p>As we explored the topic on “My Neighbourhood”, we learnt about the people
 and places in the neighbourhood and the importance of building positive
 relationships with the people around them. On week 8 of Term 2, we went
@@ -170,7 +192,7 @@ Let’s check out on our adventure!</p>
 <div class="iframe-wrapper">
 <iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpEamMnS-guNN3ervJkDpKm2D-0XY-Vu2anwYIustCZhdN6_-SPchQypGKKVLKOxz_FwO07-480jya/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<h1>Police Visit</h1>
+<h4>Police Visit 2023</h4>
 <p>On 18 May 2023, the children were visited by the police. This Learning
 Journey was arranged to extend their learning on the topic of "My Neighbourhood".</p>
 <p>The policemen shared with the children about stranger danger, and also
