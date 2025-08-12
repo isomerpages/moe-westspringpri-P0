@@ -16,7 +16,7 @@ as well as learn about the traditions of others. It also provides a wonderful
 opportunity for family bonding through shared learning and thoughtful conversations.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeBx8hsH8tuZFGwJNTprZVjU2DMrOUCDgoErBVtLimFJpms2QRbR7mPMUGYBqouAxSXjgxpW8Dv-z_/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeBx8hsH8tuZFGwJNTprZVjU2DMrOUCDgoErBVtLimFJpms2QRbR7mPMUGYBqouAxSXjgxpW8Dv-z_/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Racial Harmony Day 2024</h4>
 <p>Racial Harmony Day is an annual celebration in Singapore, as we celebrate
