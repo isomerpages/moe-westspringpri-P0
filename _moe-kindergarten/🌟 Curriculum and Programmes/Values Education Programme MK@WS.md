@@ -47,7 +47,12 @@ displays placed in common areas throughout the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/3.png">
 </div>
-<p></p>
 <h3>Responsibility (Term 3)</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Term_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Term_3__2_.jpg">
+</div>
 <p></p>
