@@ -48,3 +48,6 @@ displays placed in common areas throughout the school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/3.png">
 </div>
 <p></p>
+<h3>Responsibility (Term 3)</h3>
+<p></p>
+<p></p>
