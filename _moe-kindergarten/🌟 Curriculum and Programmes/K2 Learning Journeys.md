@@ -5,7 +5,18 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
-<h1>2025 Sheng Siong Field Trip</h1>
+<h2>Singapore Oceanarium 2025</h2>
+<p>As part of their learning under the theme <em>‘Amazing Seas’</em>, our
+K2 children embarked on an exciting field trip to the newly opened Singapore
+Oceanarium. The experience brought their classroom learning to life as
+they explored marine habitats, participated in hands-on sorting and recycling
+activities, and enjoyed a guided tour of the Oceanarium. The children deepened
+their understanding of marine biodiversity and reflected on how small actions
+can help protect our oceans. 🌊🐠</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHMW5wJJv1FsUYD2iCXDAMW0o2CXit0o_JkCjTW74v64vSleSdaNOPeXbGhuh4DPMrIJwkOLZPAdCJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h2>2025 Sheng Siong Field Trip</h2>
 <p>The K2 children recently went on a fun and meaningful field trip to a
 supermarket near their neighbourhood. There, they explored their neighbourhood,
 selected healthier snack options, and practised simple purchasing skills
@@ -21,7 +32,7 @@ adventures ahead!</p>
 <p>
 <br>
 </p>
-<h1>2025 Jurong Lake Garden (MTL field trip)</h1>
+<h2>2025 Jurong Lake Garden (MTL field trip)</h2>
 <p>In February, our children embarked on a Mother Tongue-based learning journey
 to Jurong Lakeside Garden.&nbsp;</p>
 <p>The Tamil Language classes focused on personal safety and environmental

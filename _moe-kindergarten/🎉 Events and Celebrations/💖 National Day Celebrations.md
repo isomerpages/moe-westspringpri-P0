@@ -5,6 +5,23 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
+<h3>National Day Celebration 2025</h3>
+<p>On 8th August 2025, we held a combined celebration with West Spring Primary
+School where some of our MK children had an opportunity to participate
+as flag bearers and performers. The performance incorporated 3 cultural
+dances (Chinese - “Mo Li Hua”, Malay - “Geylang Si Paku Geylang” &amp;
+Indian - “Engkal Singapore”) showcasing the idea of being united as one.
+Furthermore, children had a blast singing and dancing to this year's NDP
+song 'Here We Are'. They were also engaged in listening to past years collection
+of NDP songs and enjoyed dancing to the SG GetActive Workout. It was indeed
+a fun and memorable event!&nbsp;</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRk39J97JIeyRH9bJ8gPAmTv5glQkarA-FABbUzfU5s9u2-LteQH-_TBGhRxbn7oGS_aWNe3fB4HHYR/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
 <h3>National Day Celebration 2024</h3>
 <p>“Together, As One United People” is the theme for this year’s celebration.
 It highlights the collective strength of our people. Our MK children enjoyed
