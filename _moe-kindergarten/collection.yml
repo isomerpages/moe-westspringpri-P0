@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - 🪁 MK@West Spring/K1 Orientation (for 2026 intake).md
       - 🪁 MK@West Spring/.keep
       - 🪁 MK@West Spring/Welcome.md
       - 🪁 MK@West Spring/Our MK@WS Team.md
