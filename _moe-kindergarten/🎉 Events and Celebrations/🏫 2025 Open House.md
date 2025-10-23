@@ -2,7 +2,7 @@
 title: 🏫 2025 Open House
 permalink: /mkws/mk-open-house/
 description: ""
-third_nav_title: 🪁 MK@West Spring
+third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
 <h4>🏫 2025 MK Open House</h4>

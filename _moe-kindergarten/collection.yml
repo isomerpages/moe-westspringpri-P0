@@ -2,8 +2,8 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - 🪁 MK@West Spring/🏫 K1 Orientation (for 2026 intake).md
       - 🪁 MK@West Spring/.keep
-      - 🪁 MK@West Spring/🏫 2025 Open House.md
       - 🪁 MK@West Spring/Welcome.md
       - 🪁 MK@West Spring/Our MK@WS Team.md
       - 🪁 MK@West Spring/Our Learning Environment.md
@@ -22,6 +22,7 @@ collections:
       - 🌟 Curriculum and Programmes/K2 Transition Programme.md
       - 🌟 Curriculum and Programmes/K1 Learning Journeys.md
       - 🌟 Curriculum and Programmes/K2 Learning Journeys.md
+      - 🎉 Events and Celebrations/🏫 2025 Open House.md
       - 🎉 Events and Celebrations/🪔 Deepavali Celebrations.md
       - 🎉 Events and Celebrations/.keep
       - 🎉 Events and Celebrations/🎉 K2 Celebrations.md
