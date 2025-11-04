@@ -6,11 +6,9 @@ variant: tiptap
 ---
 <h3>Closure of School Dental Clinic</h3>
 <p>We wish to inform you that the School Dental Clinic will be closed on:</p>
-<p><strong>1) 3 November 2025 (PM closure) - Open from 8am to 12pm;</strong>
+<p><strong>1) 4 November 2025 (Full day closure);</strong>
 </p>
-<p><strong>2) 4 November 2025 (AM closure) - Open from 1pm to 530pm;</strong>
-</p>
-<p><strong>3) 5 November 2025 (AM closure) - Open from 1pm-530pm;</strong>
+<p><strong>2) 5 November 2025 (Full day closure);</strong>
 </p>
 <p><strong>4) 6 November 2025 (PM closure) - Open from 8am to 12pm; and</strong>
 </p>
