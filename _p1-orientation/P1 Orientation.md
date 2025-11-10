@@ -8,5 +8,5 @@ description: ""
 </p>
 <p><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener nofollow" target="_blank">Parent Kit / MOE</a>
 </p>
-<p><a href="/files/P1 Orientation Folder/Booklist_2026_WSPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+<p><a href="/files/P1 Orientation Folder/Booklist_2026_WSPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist </a>
 </p>
