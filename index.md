@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: P1 Orientation 2026
+      id: infobar
+      button: Click here
+      url: https://westspringpri.moe.edu.sg/p1-orientation/
+  - infobar:
       title: Discover West Spring
       id: infobar
       button: CLICK HERE TO FIND OUT MORE
@@ -34,9 +39,4 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
-  - infobar:
-      title: P1 Orientation 2026
-      id: infobar
-      button: Click here
-      url: https://westspringpri.moe.edu.sg/p1-orientation/
 ---
