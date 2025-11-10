@@ -34,4 +34,9 @@ sections:
       description: Come and join us!
       button: Let's Go
       url: /schooltour/
+  - infobar:
+      title: P1 Orientation 2026
+      id: infobar
+      button: Click here
+      url: /p1-orientation
 ---
