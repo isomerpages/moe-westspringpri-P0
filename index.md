@@ -38,5 +38,5 @@ sections:
       title: P1 Orientation 2026
       id: infobar
       button: Click here
-      url: /p1-orientation
+      url: https://westspringpri.moe.edu.sg/p1-orientation/
 ---
