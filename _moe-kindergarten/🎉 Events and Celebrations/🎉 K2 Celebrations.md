@@ -5,7 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: 🎉 Events and Celebrations
 ---
-<h4>K2 Celebrates 2024</h4>
+<h4>K2 Celebrates 2025🎉</h4>
+<p>On 11th November 2025, MK @ West Spring held its <strong>K2 Celebrates!</strong> event
+for our graduating K2 classes. It was a heartwarming occasion that brought
+back wonderful memories of the children’s time in kindergarten for both
+parents and teachers. We reflected on their growth, milestones, and joyful
+learning experiences, and celebrated how far they have come. As they prepare
+for their next chapter, we honour their achievements and encourage them
+to continue dreaming big and reaching new heights. 🚀</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1136736417?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1136739263?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+</div>
+<h4><br><br>K2 Celebrates 2024</h4>
 <p>On 1st November 2024, MK@West Spring hosted its <em>K2 Celebrates!</em> event
 for our K2 classes. This special day provided families with a meaningful
 opportunity to bond with their children and create lasting memories. The
