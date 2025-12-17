@@ -59,15 +59,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Ja Xian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Corporate Support Office</strong>
 </p>
 </td>
@@ -125,11 +116,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Khadijah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rozi</p>
 </td>
 </tr>
 </tbody>
