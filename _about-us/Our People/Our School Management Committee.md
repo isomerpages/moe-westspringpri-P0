@@ -45,10 +45,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dean (21 CC and Special Projects)</p>
+<p>Dean (21 CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Pauline Soh</strong>
+<p><strong>Mr Ko Chen Wei</strong>
+</p>
+<p><strong>Ms Ho Shi Yin</strong>
 </p>
 </td>
 </tr>
@@ -57,7 +59,7 @@ variant: tiptap
 <p>HOD / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Zahid</strong>
+<p><strong>Ms Ho Shi Yin</strong>
 </p>
 </td>
 </tr>
@@ -66,7 +68,7 @@ variant: tiptap
 <p>HOD / Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lee Seng Tiang</strong>
+<p><strong>Mr Daniel Foo</strong>
 </p>
 </td>
 </tr>
@@ -158,14 +160,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nadzirah Binte Azhar</strong>
 </p>
+<p><strong>Ms Faeqa</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH / Mother Tongue</p>
+<p>LH / Science &amp; Env-STEM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Daniel Foo</strong>
+<p><strong>Mr Samuel Mok</strong>
+</p>
+<p><strong>Mr Vinod Chandar</strong>
 </p>
 </td>
 </tr>
@@ -186,6 +192,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Michael Chua</strong>
 </p>
+<p><strong>Mrs Irene Yong</strong>
+</p>
+<p><strong>Mdm Janet Ling</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -193,16 +203,16 @@ variant: tiptap
 <p>Year Head (P1 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Samuel Mok</strong>
+<p><strong>Mdm Janet Ling</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P2 &amp; P5)</p>
+<p>Year Head (P2 &amp; P5), Discipline Master &amp; LO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Michael Chua</strong>
+<p><strong>Mr Adam Lim</strong>
 </p>
 </td>
 </tr>
@@ -211,7 +221,7 @@ variant: tiptap
 <p>Year Head (P3 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ho Shi Yin</strong>
+<p><strong>Mr Michael Chua</strong>
 </p>
 </td>
 </tr>
@@ -235,10 +245,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management</p>
+<p>HOD / Student Management &amp; SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Janet Ling</strong>
+<p><strong>Mrs Irene Yong</strong>
 </p>
 </td>
 </tr>
@@ -253,25 +263,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / SEN</p>
+<p>SH / AYH, Discipline (Lower Pri), LO &amp; Bully Free</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Irene Yong</strong>
+<p><strong>Ms Annalyna</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / AYH, Discipline (Upper Pri), LO &amp; Anti-Drug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Adam Lim</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / AYH, Discipline (Lower Pri), LO &amp; Safety</p>
+<p>SH / AYH, Discipline (Upper Pri), LO &amp; Drug Free</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ariff</strong>
@@ -280,7 +281,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Character &amp; Citizenship Education &amp; POP</p>
+<p>SH / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr M Satheeswaran</strong>
@@ -289,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Student Well Being &amp; Anti-Bullying</p>
+<p>SH / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nur Atiqah</strong>
@@ -298,7 +299,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership &amp; POP (IC)</p>
+<p>SH / Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Danesh</strong>
@@ -316,10 +317,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / SEN</p>
+<p>SH / Info Comm Tech, School Cockpit &amp; Cyberwellness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Fakhruddin</strong>
+<p><strong>Mdm Rozianah</strong>
+</p>
+<p><strong>Ms Shafizah</strong>
 </p>
 </td>
 </tr>
