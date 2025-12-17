@@ -173,11 +173,6 @@ variant: tiptap
 <p>Mr Richard Lim</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jasmine Purvanesary</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
