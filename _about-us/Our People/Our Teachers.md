@@ -564,6 +564,10 @@ variant: tiptap
 <p><strong>Mr Samuel Mok Zijun</strong>
 <br><a href="mailto:mok_zijun_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_zijun_samuel@moe.edu.sg</a>
 </p>
+<p></p>
+<p><strong>Mr Ko Chen Wei</strong>
+<br><a href="mailto:ko_chen_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ko_chen_wei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
