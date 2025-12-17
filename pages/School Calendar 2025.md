@@ -4,7 +4,7 @@ permalink: /schoolcalendar/
 description: ""
 variant: tiptap
 ---
-<h1>School Calendar 2025</h1>
+<h1>School Calendar 2026</h1>
 <p><strong>School Term, Term Breaks, Public and School Holidays</strong>
 </p>
 <p>The following tables outline the school terms and term breaks. These dates
@@ -19,12 +19,9 @@ time with their families.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong><u>SEMESTER 1</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -33,7 +30,7 @@ time with their families.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday, 2 January* to Friday, 14 March</p>
+<p>Friday, 2 January* to Friday, 13 March</p>
 </td>
 </tr>
 <tr>
@@ -42,16 +39,13 @@ time with their families.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 24 March to Friday, 30 May</p>
+<p>Monday, 23 March** to Friday, 29 May</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong><u>SEMESTER 2</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -60,7 +54,7 @@ time with their families.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 30 June to Friday, 5 September</p>
+<p>Monday, 29 June to Friday, 4 September</p>
 </td>
 </tr>
 <tr>
@@ -69,16 +63,16 @@ time with their families.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 15 September to Friday, 21 November**</p>
+<p>Monday, 14 September to Friday, 20 November***</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>*Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025.</em>
+<p><em>*Primary 1 and Kindergarten 1 will start school on Friday, 2 January 2026. Primary 2</em>
 </p>
-<p><em>Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2025.</em>
+<p><em>Primary 2 to 6 and Kindergarten 2 will start school on Monday, 5 January 2026.</em>
 </p>
-<p><em>**The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 24 October 2025.</em>
+<p><em>***The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 23 October 2026.</em>
 </p>
 <p></p>
 <h4><strong>School Vacation 2025</strong></h4>
@@ -94,7 +88,7 @@ time with their families.</p>
 <p>Between Term 1 and 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 15 March to Sunday, 23 March</p>
+<p>Saturday, 14 March to Sunday, 22 March</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +96,7 @@ time with their families.</p>
 <p>Between Semesters 1 and 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 31 May to Sunday, 29 June</p>
+<p>Saturday, 30 May to Sunday, 28 June</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +104,7 @@ time with their families.</p>
 <p>Between Term 3 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 6 September to Sunday, 14 September</p>
+<p>Saturday, 5 September to Sunday, 13 September</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +112,7 @@ time with their families.</p>
 <p>At End of School Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 22 November to Wednesday, 31 December</p>
+<p>Saturday, 21 November to Thursday, 31 December</p>
 </td>
 </tr>
 </tbody>
@@ -135,7 +129,7 @@ time with their families.</p>
 <p>New Year’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 1 January</p>
+<p>Thursday, 1 January</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +137,7 @@ time with their families.</p>
 <p>Chinese New Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 29 January to Thursday, 30 January</p>
+<p>Tuesday, 17 February to Wednesday, 18 February</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +145,7 @@ time with their families.</p>
 <p>Hari Raya Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 31 March</p>
+<p>Saturday, 21 March ****</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +153,7 @@ time with their families.</p>
 <p>Good Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday, 18 April</p>
+<p>Friday, 3 April</p>
 </td>
 </tr>
 <tr>
@@ -167,15 +161,7 @@ time with their families.</p>
 <p>Labour Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday, 1 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vesak Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday, 12 May</p>
+<p>Friday, 1 May</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +169,15 @@ time with their families.</p>
 <p>Hari Raya Haji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, ***7 June</p>
+<p>Wednesday, 27 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vesak Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sunday, 31 May *****</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +185,7 @@ time with their families.</p>
 <p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, ****9 August</p>
+<p>Sunday, 9 August ******</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +193,7 @@ time with their families.</p>
 <p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 20 October</p>
+<p>Sunday, 8 November</p>
 </td>
 </tr>
 <tr>
@@ -207,17 +201,18 @@ time with their families.</p>
 <p>Christmas Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday, 25 December</p>
+<p>Friday, 25 December</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>***Monday, 9 June will be a designated day off-in-lieu. Schools will be
-closed, including the General Office, Student Care Centres and Kindergarten
-Care (KCare) Centres.</p>
-<p>****Monday, 11 August will be a school holiday and a designated day off-in-lieu.
-Schools will be closed, including the General Office, Student Care Centres
-and Kindergarten Care (KCare) Centres.</p>
+<p>** &amp; **** As Saturday, 21 March 2026 is a Public Holiday, Monday,
+23 March 2026 will be a designed day off-in-lieu for schools (i.e. Schools,
+including the General Office, Student Care Centres and KCare Centres, will
+be closed).</p>
+<p>***** Monday, 1 June 2026 will be a public holiday.</p>
+<p>****** Monday, 10 August 2026 will be a public holiday.</p>
+<p>******* Monday, 9 November 2026 will be a public holiday.</p>
 <p></p>
 <h4><strong>Scheduled School Holidays 2025</strong></h4>
 <table style="minWidth: 50px">
@@ -231,8 +226,8 @@ and Kindergarten Care (KCare) Centres.</p>
 <p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Sunday, 6 July</p>
-<p>(The following Monday, 7 July will be a school holiday)</p>
+<p>*Sunday, 5 July</p>
+<p>(The following Monday, 6 July will be a school holiday)</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +235,7 @@ and Kindergarten Care (KCare) Centres.</p>
 <p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday, 5 September</p>
+<p>Friday, 4 September</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +244,7 @@ and Kindergarten Care (KCare) Centres.</p>
 <p>(for MKs, primary schools and primary sections of full schools only.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday, 3 October</p>
+<p>Friday, 2 October</p>
 </td>
 </tr>
 </tbody>
