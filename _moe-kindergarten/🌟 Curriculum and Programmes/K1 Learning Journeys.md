@@ -5,6 +5,20 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h4>Inclusive Playground 2025</h4>
+<p>In November, our K1 children visited an inclusive playground as part of
+their learning about how things work and how play spaces can be designed
+for everyone. They explored features such as ramps, sensory panels, wider
+pathways, and accessible play structures, gaining an understanding of how
+these designs support children with different needs.</p>
+<p>The children shared thoughtful observations and questions, which we will
+build on back in the classroom. They also made simple drawings and notes
+to record what they discovered. It was a meaningful and enjoyable visit,
+and the children had a wonderful time learning and playing at the inclusive
+playground.</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdFSvY19YuwXWiCEJpefWnhVXwrgxw6kuerMoIea02QfT4t88oYGzcof9qF85XDQ/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Singapore Zoo (MTL) 2025</h4>
 <p>In Term 3, children are learning about animals and plants in our natural
 environment during their respective Mother Tongue Language (MTL) lessons.
