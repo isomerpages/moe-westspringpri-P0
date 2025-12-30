@@ -50,7 +50,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ko Chen Wei</strong>
 </p>
-<p><strong>Ms Ho Shi Yin</strong>
+<p><strong>Mr Chu Wen Shen </strong>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / PE, OE &amp; PAL</p>
+<p>HOD / PE, CCA &amp; PAL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Mohamed Shodikin</strong>
@@ -101,28 +101,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / OE &amp; CCA</p>
+<p>SH / OE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Justin Paolo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Miss Nurul Asyikin</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / HAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Violet Pon</strong>
 </p>
 </td>
 </tr>
@@ -245,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management &amp; SEN</p>
+<p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Irene Yong</strong>
@@ -254,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Info Comm Tech</p>
+<p>HOD / Educational &amp; Digital Tech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chu Wen Shen</strong>
@@ -317,7 +299,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Info Comm Tech, School Cockpit &amp; Cyberwellness</p>
+<p>SH / Educational &amp; Digital Tech, School Cockpit &amp; Cyberwellness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Rozianah</strong>
