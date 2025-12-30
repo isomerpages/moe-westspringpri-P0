@@ -50,7 +50,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ko Chen Wei</strong>
 </p>
-<p><strong>Mr Chu Wen Shen </strong>
+<p><strong>Mr Chu Wen Shen</strong>
 </p>
 </td>
 </tr>
