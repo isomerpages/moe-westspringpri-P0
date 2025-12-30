@@ -9,7 +9,7 @@ variant: tiptap
 <br>Email General : <a rel="noopener noreferrer nofollow" target="_blank">info@beauvoix.com.sg</a> 
 <br>Online Sales :&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.beauvoix.com.sg/</a>  <em>&nbsp;</em>
 </p>
-<p><a href="/files/WSPS_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Price List </a>
+<p><a href="/files/WSPS_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Price List</a>
 </p>
 <p>Retail Outlet:</p>
 <p>2 Sims Close, #03-08, Gemini@Sims, Singapore 387298</p>
