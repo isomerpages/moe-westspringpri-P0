@@ -13,7 +13,9 @@ parents and teachers. We reflected on their growth, milestones, and joyful
 learning experiences, and celebrated how far they have come. As they prepare
 for their next chapter, we honour their achievements and encourage them
 to continue dreaming big and reaching new heights. 🚀</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="540" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8tkDFSM6ydE30FOo9R_kqeWRU4eWmLKslHXYUrfHsUvSvSv_9VXRPcR609f8us5SlL47aE2AX59RD/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1136736417?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
 </div>

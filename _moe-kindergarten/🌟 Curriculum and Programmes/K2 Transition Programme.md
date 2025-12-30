@@ -5,6 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 ---
+<h4>2025</h4>
+<p>In Term 4, our K2 children took part in a structured transition programme
+to support their move to primary school. Through activities such as visiting
+the school canteen, exploring the primary school grounds, interviewing
+a primary school teacher, and experiencing a lower primary lesson, the
+children became more familiar with their new environment and gained a clearer
+understanding of primary school life.</p>
+<p>To further support them, the Befriend Project paired our K2 children with
+Primary 3 students, giving them the opportunity to build friendships and
+feel supported. Having familiar faces to turn to helped ease their anxieties,
+building confidence and reassurance as they prepare for their transition
+to Primary 1.</p>
+<div class="iframe-wrapper">
+<iframe height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQns3LFBe-iCbNBQWJguujEZsfP-N8FXQ1H4AVGhoyjbJ7t-_OBoAFG7ZOgpsrMXKyDx7NveDCsCQmI/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>2024</h4>
 <p>In Term 4, our K2 children embarked on a comprehensive transition programme
 to ease their transition to primary school. This programme included a variety

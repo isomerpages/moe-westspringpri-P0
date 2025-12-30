@@ -8,7 +8,25 @@ variant: tiptap
 <p>At MK @ West Spring, we celebrate Children's Day in conjunction with our
 Literacy Day- which we call JELLY Day (<strong>J</strong>ust <strong>E</strong>njoy
 the <strong>L</strong>anguage and <strong>L</strong>iteracy around <strong>Y</strong>ou)!</p>
-<h2>3 October 2024</h2>
+<h2>J.E.L.L.Y Day 2025</h2>
+<p>On Thursday, 2 October 2025. The children came dressed as their favourite
+storybook characters, proudly bringing along their favourite books to share
+with friends.Throughout the celebration, the children took part in a series
+of fun, story-inspired games and activities. The K1s explored <em>The Very Busy Spider</em> by
+Eric Carle through interactive games that highlighted the importance of
+hard work and patience. The K2s enjoyed meaningful discussions and play
+activities based on <em>Waiting Is Not Forever</em> by Elizabeth Verdick,
+learning about patience and turn-taking in a hands-on way. For the Mother
+Tongue segment, the children had a wonderful time engaging with <em>Guru-Guru</em> by
+Lin Shi Cong, deepening their appreciation for language through playful
+storytelling. 🕷️📖✨</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="540" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRACD8F9rsLv1pIbupGBfUPA5svdsPIF5WBD8XJBd25fQYqW2pA0vsZ-CyWA0pyHg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>
+<br>
+</p>
+<h2>J.E.L.L.Y Day 2024</h2>
 <p>To celebrate Children’s Day and J.E.L.L.Y. Day, the children came to school
 in creative costumes, bringing their favorite books. Alongside the festivities,
 there were fun activities for the children, such as Germ Tag, a game related
