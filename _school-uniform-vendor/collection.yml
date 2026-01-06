@@ -1,5 +1,4 @@
 collections:
   school-uniform-vendor:
     output: true
-    order:
-      - School Uniform Vendor.md
+    order: []
