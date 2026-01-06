@@ -7,10 +7,16 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WSPS_CCA Schedule Term 3" src="/images/CCA Schedule/2025/CCA_Schedule_2025_Term_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Schedule_Pg_1.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WSPS_CCA Schedule Term 4" src="/images/CCA Schedule/2025/CCA_Schedule_2025_Term_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Schedule_Pg_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Schedule_Pg_3.jpg">
 </div>
 <p></p>
