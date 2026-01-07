@@ -246,7 +246,7 @@ variant: tiptap
 <br><a href="mailto:toh_kiat_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kiat_meng@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong>Ms Dorcas Tan</strong>
+<p><strong>Miss Dorcas Tan</strong>
 </p>
 <p><a href="mailto:dorcas_tan_zhi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas_tan_zhi_en@moe.edu.sg</a>
 </p>
