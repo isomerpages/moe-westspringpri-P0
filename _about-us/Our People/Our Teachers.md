@@ -64,6 +64,9 @@ variant: tiptap
 <br><strong>Mdm Tan Kai Ying</strong> 
 <br><a href="mailto:tan_kai_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kai_ying_a@moe.edu.sg</a>
 </p>
+<p><strong>Mdm Tan Kai Ying</strong> 
+<br><a href="mailto:tan_kai_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kai_ying_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +248,6 @@ variant: tiptap
 <p><strong>Ms Penny Toh</strong>
 <br><a href="mailto:toh_kiat_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kiat_meng@moe.edu.sg</a>
 </p>
-<p></p>
 <p><strong>Miss Dorcas Tan</strong>
 </p>
 <p><a href="mailto:dorcas_tan_zhi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas_tan_zhi_en@moe.edu.sg</a>
@@ -507,7 +509,6 @@ variant: tiptap
 <p><strong>Mr James Ng</strong>
 <br><a href="mailto:ng_kwang_meng_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kwang_meng_james@moe.edu.sg</a>
 </p>
-<p></p>
 <p><strong>Ms Li Na</strong>
 </p>
 <p><a href="mailto:li_na_b_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_na_b_1@moe.edu.sg</a>
@@ -573,7 +574,6 @@ variant: tiptap
 <p><strong>Mr Samuel Mok Zijun</strong>
 <br><a href="mailto:mok_zijun_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_zijun_samuel@moe.edu.sg</a>
 </p>
-<p></p>
 <p><strong>Mr Ko Chen Wei</strong>
 <br><a href="mailto:ko_chen_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ko_chen_wei@moe.edu.sg</a>
 </p>
