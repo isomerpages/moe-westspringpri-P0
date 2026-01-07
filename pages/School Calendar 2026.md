@@ -1,5 +1,5 @@
 ---
-title: School Calendar 2025
+title: School Calendar 2026
 permalink: /schoolcalendar/
 description: ""
 variant: tiptap
@@ -68,14 +68,8 @@ time with their families.</p>
 </tr>
 </tbody>
 </table>
-<p><em>*Primary 1 and Kindergarten 1 will start school on Friday, 2 January 2026. Primary 2</em>
-</p>
-<p><em>Primary 2 to 6 and Kindergarten 2 will start school on Monday, 5 January 2026.</em>
-</p>
-<p><em>***The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 23 October 2026.</em>
-</p>
 <p></p>
-<h4><strong>School Vacation 2025</strong></h4>
+<h4><strong>School Holidays</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,7 +111,7 @@ time with their families.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Public Holidays 2025</strong></h4>
+<h4><strong>Public Holidays</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -214,7 +208,7 @@ be closed).</p>
 <p>****** Monday, 10 August 2026 will be a public holiday.</p>
 <p>******* Monday, 9 November 2026 will be a public holiday.</p>
 <p></p>
-<h4><strong>Scheduled School Holidays 2025</strong></h4>
+<h4><strong>Scheduled School Holidays</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -249,5 +243,5 @@ be closed).</p>
 </tr>
 </tbody>
 </table>
-<p>The school terms and holidays for 2025 are also listed on the MOE's website
-at&nbsp;<a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/calendar</a>.</p>
+<p>The school terms and holidays are also listed on the MOE's website at&nbsp;
+<a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/calendar</a>.</p>
