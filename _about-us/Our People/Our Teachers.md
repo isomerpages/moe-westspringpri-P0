@@ -512,6 +512,8 @@ variant: tiptap
 <p></p>
 <p><strong>Ms Li Na</strong>
 </p>
+<p><a href="mailto:li_na_b_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_na_b_1@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
