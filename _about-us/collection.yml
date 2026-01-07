@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Student Handbook.md
       - Our Vision, Mission & Values.md
       - Our SHINE Aspirations.md
       - Our School Song.md
@@ -21,6 +22,7 @@ collections:
       - Our Stakeholders/Our Alumni.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
+      - Contact Us/School Uniform Vendor.md
       - Contact Us/School Bus Company.md
       - Contact Us/School Bookshop.md
       - Contact Us/School Dental Clinic.md

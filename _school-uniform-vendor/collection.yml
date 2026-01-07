@@ -1,0 +1,4 @@
+collections:
+  school-uniform-vendor:
+    output: true
+    order: []
