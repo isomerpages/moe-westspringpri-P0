@@ -318,13 +318,13 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Azhar</strong>
-<br><a href="mailto:azhar_mohamed_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azhar_mohamed_hussain@moe.edu.sg</a>
+<p><strong>Mr Vinod Chandar</strong>
+<br><a href="mailto:mohanadas_vinod_chandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohanadas_vinod_chandar@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Magdalene Chong</strong>
-<br><a href="mailto:magdalene_chong_kiat_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_chong_kiat_en@moe.edu.sg</a>
+<p><strong>Miss Mazlina</strong>
+<br><a href="mailto:mazlina_isnin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mazlina_isnin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -333,13 +333,13 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Vinod Chandar</strong>
-<br><a href="mailto:mohanadas_vinod_chandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohanadas_vinod_chandar@moe.edu.sg</a>
+<p><strong>Mr Azhar</strong>
+<br><a href="mailto:azhar_mohamed_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azhar_mohamed_hussain@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Mazlina</strong>
-<br><a href="mailto:mazlina_isnin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mazlina_isnin@moe.edu.sg</a>
+<p><strong>Ms Magdalene Chong</strong>
+<br><a href="mailto:magdalene_chong_kiat_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_chong_kiat_en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
