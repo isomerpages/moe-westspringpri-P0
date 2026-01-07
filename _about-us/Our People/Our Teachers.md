@@ -61,8 +61,6 @@ variant: tiptap
 <p><strong>Ms Adria</strong>
 </p>
 <p><a href="mailto:ang_lee_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_kiang@moe.edu.sg</a>
-</p>
-<p>
 <br><strong>Mdm Tan Kai Ying</strong> 
 <br><a href="mailto:tan_kai_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kai_ying_a@moe.edu.sg</a>
 </p>
