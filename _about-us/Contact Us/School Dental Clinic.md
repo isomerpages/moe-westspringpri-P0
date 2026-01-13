@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00am to 5.30pm</p>
+<p>8.00am to 5.30pm (5pm for school holidays)</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 3 (2025)</h5>
+<h5>Operating Dates in Term 1 (2026)</h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,31 +59,31 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>30 June to 4 July 2025</strong>
+<p><strong>13 January to 16 January 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>14 July to 18 July 2025</strong>
+<p><strong>26 January to 30 January 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>28 July to 1 August 2025</strong>
+<p><strong>9 February to 13 February 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11 August to 15 August 2025</strong>
+<p><strong>23 February to 27 February 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 August to 29 August 2025</strong>
+<p><strong>9 March to 13 March 2026</strong>
 </p>
 </td>
 </tr>
@@ -133,7 +133,7 @@ an appointment. This is to ensure a dental staff is on duty at the location.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9839 6954</p>
+<p>9839 6594</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 Jelapang Road, Singapore 677744</p>
