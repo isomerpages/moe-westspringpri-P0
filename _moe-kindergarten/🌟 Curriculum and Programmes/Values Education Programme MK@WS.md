@@ -32,7 +32,6 @@ displays placed in common areas throughout the school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Screenshot_2025_05_07_073916.png">
 </div>
 <h3>Respect (Term 1)</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Jpeg_for_School_Story.png">
 </div>
@@ -40,7 +39,6 @@ displays placed in common areas throughout the school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Jpeg_for_School_Story__2_.png">
 </div>
 <h3>Care (Term 2)</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/2.png">
 </div>
@@ -48,11 +46,17 @@ displays placed in common areas throughout the school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/3.png">
 </div>
 <h3>Responsibility (Term 3)</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Term_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Term_3__2_.jpg">
+</div>
+<h3>Honesty (Term 4)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Term_4___Honesty.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Term_4___Honesty__2_.png">
 </div>
 <p></p>
