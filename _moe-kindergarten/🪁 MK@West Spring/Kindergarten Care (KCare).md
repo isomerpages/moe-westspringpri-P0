@@ -10,33 +10,26 @@ variant: tiptap
 (MK) located within primary schools. If you register, your child can be
 in KCare after their MK session, providing the convenience of a full-day
 service.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_01.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_04.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare%20Free%20Play.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare%20Modular%20Activities%20(Indoor).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare%20Modular%20Activities%20(Outdoor).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare2024_07.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide5.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare_Fees_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide6.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/KCare/KCare_Team_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide7.png">
 </div>
 <h1>Contact Details</h1>
 <p><strong>KCare @ West Spring</strong>
