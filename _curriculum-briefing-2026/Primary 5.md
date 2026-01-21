@@ -4,42 +4,81 @@ permalink: /cb2026p5/
 variant: tiptap
 description: ""
 ---
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_English.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_English.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 English" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_English_Page_01.jpg"></a>
-<p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_Mother_Tongue.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_Mother_Tongue.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 Mother Tongue" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_Mother_Tongue_Page_01.jpg"></a>
-<p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_Maths.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_Maths.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 Maths" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_Maths_Page_01.jpg"></a>
-<p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_Science.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 Science" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_Science_Page_01.jpg"></a>
-<p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P1_to_P6_Art.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P1_to_P6_Art.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 Art" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P1_to_P6_Art_Page_1.jpg"></a>
-<p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P1_to_P6_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">Music</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P1_to_P6_Music.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 Music" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P1_to_P6_Music_Page_01.jpg"></a>
-<p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_to_P6_PHF.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Health and Fitness (PHF)</a></strong>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/01_2026_P5_EL_Curriculum_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 PHF" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_to_P6_PHF_Page_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/01_2026_P5_EL_Curriculum_Briefing.jpg">
 </div>
 <p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P4_to_P5_CCA.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA)</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P4_to_P5_CCA.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 CCA" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P4_to_P5_CCA_Page_1.jpg"></a>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/02_2026_P5_MTL_Curriculum_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/02_2026_P5_MTL_Curriculum_Briefing.jpg">
+</div>
 <p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_ICT.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Communication Technology (ICT)</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_ICT.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 ICT" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_ICT_Page_01.jpg"></a>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/03_2026_Curriculum_Briefing_Mathematics_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/03_2026_Curriculum_Briefing_Mathematics_P5.jpg">
+</div>
 <p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P5_to_P6_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education (CCE)</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P5_to_P6_CCE.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 CCE" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P5_to_P6_CCE_Page_01.jpg"></a>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/04_2026_Curriculum_Briefing_Science_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/04_2026_Curriculum_Briefing_Science_P5.jpg">
+</div>
 <p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_P4_to_P6_POP.pdf" rel="noopener noreferrer nofollow" target="_blank">Pursue Our Passion (POP)</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_P4_to_P6_POP.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 POP" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P4_to_P6_POP_Page_01.jpg"></a>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/05_Art_Curriculum_Briefing_2026__Primary_1_to_Primary_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/05_Art_Curriculum_Briefing_2026__Primary_1_to_Primary_6_.jpg">
+</div>
 <p></p>
-<p><strong><a href="/files/Curriculum Briefing Slides/2025/2025_Curriculum_Briefing_SWB.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Well-Being</a></strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum%20Briefing%20Slides/2025/2025_Curriculum_Briefing_SWB.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Curriculum Briefing_P5 SWB" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_SWB_Page_01.jpg"></a>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/06_Music_Curriculum_Briefing_2026__Primary_1_to_Primary_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Music</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/06_Music_Curriculum_Briefing_2026__Primary_1_to_Primary_6_.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/07_PHF_Curriculum_Briefing_2026__Primary_5___Primary_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Health and Fitness (PHF)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/07_PHF_Curriculum_Briefing_2026__Primary_5___Primary_6_.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/08_CCA_Curriculum_Briefing_2026__Primary_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activity (CCA)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/08_CCA_Curriculum_Briefing_2026__Primary_5_.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/09_ICT_Curriculum_Briefing_2026_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Communication Technology (ICT)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/09_ICT_Curriculum_Briefing_2026_P5.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/10_CCE_Curriculum_Briefing_P5_6_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education (CCE)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/10_CCE_Curriculum_Briefing_P5_6_2026.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/11_P4_P6_POP_Curriculum_Briefing_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Pursue Our Passion (POP)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/11_P4_P6_POP_Curriculum_Briefing_2026.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/12_Student_Well_being_Curriculum_Briefing_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Well-Being</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/12_Student_Well_being_Curriculum_Briefing_2026.jpg">
+</div>
+<p></p>
+<p><strong><a href="/files/Curriculum Briefing Slides/2026/13_P1__P6_PLAY2_0_slides_for_Curriculum_Briefing__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Purposeful Learning Activities for the Young (P.L.A.Y 2.0)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/13_P1__P6_PLAY2_0_slides_for_Curriculum_Briefing__2026_.jpg">
+</div>
 <p></p>
