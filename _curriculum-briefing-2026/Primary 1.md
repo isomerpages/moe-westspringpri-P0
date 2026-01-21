@@ -40,7 +40,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/06_PHF_Curriculum_Briefing_2026__Primary_1___Primary_2_.jpg">
 </div>
 <p></p>
-<p><strong>Information Communication Technology (ICT)<em> - coming soon</em></strong>
+<p><strong><a href="/files/ICT_Curriculum_Briefing_2026_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Information and Communications Technology (ICT)</a><em><a href="/files/ICT_Curriculum_Briefing_2026_P1.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a></em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P1 ICT" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P1_ICT_Page_01.jpg">
