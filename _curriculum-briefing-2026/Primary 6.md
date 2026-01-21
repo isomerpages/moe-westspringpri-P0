@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong><a href="/files/Curriculum Briefing Slides/2026/01_2026_P6_EL_Curriculum_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/01_2026_P6_EL_Curriculum_Briefing.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Curriculum Briefing Slides/2026/01_2026_P6_EL_Curriculm_Briefing.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/01_2026_P6_EL_Curriculum_Briefing.jpg"></a>
 <p></p>
 <p><strong><a href="/files/Curriculum Briefing Slides/2026/02_2026_P6_MTL_Curriculum_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a></strong>
 </p>
