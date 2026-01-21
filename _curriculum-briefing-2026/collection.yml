@@ -1,0 +1,11 @@
+collections:
+  curriculum-briefing-2026:
+    output: true
+    order:
+      - Curriculum Briefing 2026.md
+      - Primary 1.md
+      - Primary 2.md
+      - Primary 3.md
+      - Primary 4.md
+      - Primary 5.md
+      - Primary 6.md

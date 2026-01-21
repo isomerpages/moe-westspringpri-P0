@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: Curriculum Briefing 2026
+      id: infobar
+      button: Click here
+      url: /cb2026/
+  - infobar:
       title: P1 Orientation 2026
       id: infobar
       button: Click here
@@ -28,11 +33,6 @@ sections:
       id: infobar
       button: CLICK HERE TO FIND OUT MORE
       url: /discover-wsps/
-  - infobar:
-      title: PSD 2025
-      id: infobar
-      button: Click here
-      url: /psd/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
