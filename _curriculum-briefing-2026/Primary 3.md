@@ -52,7 +52,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2026/08_CCA_Curriculum_Briefing_2026__Primary_3_.jpg">
 </div>
 <p></p>
-<p><strong>Information Communication Technology (ICT)<em> - coming soon</em></strong>
+<p><strong><a href="/files/ICT_Curriculum_Briefing_2026_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Information and Communications Technology (ICT)</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum Briefing/2025/2025_Curriculum_Briefing_P3_ICT_Page_01.jpg">
