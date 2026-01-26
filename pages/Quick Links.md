@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/schoolcalendar/" rel="noopener nofollow" target="_blank">School Calendar 2025</a>
+<p><a href="/schoolcalendar/" rel="noopener nofollow" target="_blank">School Calendar 2026</a>
 </p>
 </li>
 <li>
