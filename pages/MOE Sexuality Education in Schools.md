@@ -89,9 +89,9 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <br>
 <br>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also available here. The completed
-opt-out form is to be submitted by 1 April 2026.
+to parents at the start of the year and is also available <strong><a href="/files/2026_Parent_Opt_Out_Form__Pri__Sexuality_Education_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed opt-out form is to be submitted by 1 April 2026.
 <br>
-<br>Parents can contact the school at <a href="mailto:westspring_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westspring_ps@moe.edu.sg</a> for
+<br>Parents can contact the school at <strong><a href="mailto:westspring_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westspring_ps@moe.edu.sg</a> </strong>for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
