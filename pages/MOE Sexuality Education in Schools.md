@@ -70,18 +70,17 @@ from sexuality-related risks.
 <br>
 </p>
 <h4>At West Spring Primary School, the following Sexuality Education lessons will be taught in 2025</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_part_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2026/Sexuality_Education_Lesson_in_CCE_P5_01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2026/Sexuality_Education_Lesson_in_CCE_P5_02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_part_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2026/Sexuality_Education_Lesson_in_CCE_P6_01.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_part_1.png">
-</div>
 <p></p>
 <h5>INFORMATION FOR PARENTS</h5>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
