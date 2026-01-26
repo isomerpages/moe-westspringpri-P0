@@ -69,7 +69,7 @@ from sexuality-related risks.
 <br>
 <br>
 </p>
-<h4>At West Spring Primary School, the following Sexuality Education lessons will be taught in 2025</h4>
+<h4>At West Spring Primary School, the following Sexuality Education lessons will be taught in 2026</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2026/Sexuality_Education_Lesson_in_CCE_P5_01.jpg">
 </div>
