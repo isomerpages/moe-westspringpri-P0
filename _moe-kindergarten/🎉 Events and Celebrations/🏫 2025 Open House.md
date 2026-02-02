@@ -5,12 +5,9 @@ description: ""
 third_nav_title: 🎉 Events and Celebrations
 variant: tiptap
 ---
-<h4>🏫 2025 MK Open House</h4>
+<h4>🏫 2026 MK Open House</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MK_WS_OH_2025.png">
-</div>
-<p><strong><em>[UPDATE: The 2025 MK OH has concluded. Stay tuned for 2026 MK OH!]</em></strong>
+<p><strong><em>[Stay tuned for 2026 MK Open House &amp; Registration Exercise]</em></strong>
 </p>
 <p></p>
 <h4>📋 2025 MK Registration Exercise</h4>
@@ -34,6 +31,6 @@ from 9am on 7 February 2025 to 4pm on 17 February 2025.</p>
 please visit <a href="http://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten</a>.</p>
 <h4>▶️ 2025 Open House Briefing (Pre-recorded)</h4>
 <div class="iframe-wrapper">
-<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1052206754?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1052206754?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p></p>
