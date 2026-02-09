@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h4><strong>🏫 2026 MK Open House</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/2026_MKOH_placeholder.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><em>Sign up for our 2026 MK Open House at [</em></strong><em><u>🔗URL to be shared shortly</u></em><strong><em>]</em></strong>
