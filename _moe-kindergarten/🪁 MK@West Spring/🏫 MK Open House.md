@@ -9,10 +9,10 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/2026_MKOH_placeholder.png">
-</div>
+</div><a class="isomer-image-wrapper" href="https://go.gov.sg/mkws-openhouse"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MKOH_QR_code_1__For_public_to_RSVP_in_advance_by_6_March__gogov_.png"></a>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Sign up for our 2026 MK Open House at [</em></strong><em><u>🔗URL to be shared shortly</u></em><strong><em>]</em></strong>
+<p><strong><em>Click <a href="https://go.gov.sg/mkws-openhouse" rel="noopener noreferrer nofollow" target="_blank">here</a> or scan the QR code above to sign for our 2026 MK Open House.</em></strong>
 </p>
 </li>
 <li>
