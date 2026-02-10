@@ -8,15 +8,15 @@ variant: tiptap
 <h4><strong>🏫 2026 MK Open House</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Open House/2026_MKOH_placeholder.png">
-</div>
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK Open House/2026_MKOH_placeholder.png">
+</div><a class="isomer-image-wrapper" href="https://go.gov.sg/mkws-openhouse"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MK/MK Open House/MKOH_QR_code_1__For_public_to_RSVP_in_advance_by_6_March__gogov_.png"></a>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Sign up for our 2026 MK Open House at [</em></strong><em><u>🔗URL to be shared shortly</u></em><strong><em>]</em></strong>
+<p><em>Click </em><strong><em><a href="https://go.gov.sg/mkws-openhouse" rel="noopener noreferrer nofollow" target="_blank">here</a> </em></strong><em>or </em><strong><em>scan the QR code above to sign up</em></strong><em> for our 2026 MK Open House.</em>
 </p>
 </li>
 <li>
-<p><strong><em>Stay tuned for more info regarding our Open House programme details!</em></strong>
+<p><em>Stay tuned for more info regarding our Open House programme details!</em>
 </p>
 </li>
 </ul>
