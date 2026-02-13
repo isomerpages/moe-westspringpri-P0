@@ -23,14 +23,21 @@ variant: tiptap
 <hr>
 <p></p>
 <h4><strong>📋 2026 MK Registration Exercise</strong></h4>
+<p>The 2026 MK Registration Exercise is open to <strong>SC and PR children born between 2 January 2022 and 1 January 2023</strong>,
+both dates inclusive.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Details of the 2026 MK Registration Exercise will be updated by 13 February 2026.</em></strong>
+<p>Parents can <strong>register their child for admission</strong> to an MK
+via the MK website (<a href="https://www.moe.gov.sg/mk" rel="noopener" target="_blank"><u>www.moe.gov.sg/mk</u></a>),
+from <strong>9am on Monday, 23 March 2026</strong> to <strong>4.30pm on Tuesday, 31 March 2026</strong>.</p>
+</li>
+<li>
+<p>Parents will be informed of the registration <strong>outcome by Monday, 1 June 2026</strong>.</p>
+<p></p>
+<p><em>Parents seeking admission to K1 or K2 for their child <u>outside the registration period</u> should <u>contact the MK directly</u> to check if there are vacancies.</em>
 </p>
 </li>
 </ul>
-<p>In the meantime, please visit <a href="http://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten</a> for
-more information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
