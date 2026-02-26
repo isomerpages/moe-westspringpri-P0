@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>🏫 2026 MK Open House</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Open_House_infographic_2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/Open_House_infographic_2026.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,17 +33,9 @@ from <strong>9am on Monday, 23 March 2026</strong> to <strong>4.30pm on Tuesday,
 </p>
 </li>
 </ul>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>▶️ 2025 Open House Briefing (Pre-recorded)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<hr>
+<h4><strong>▶️ 2026 Open House Briefing (Pre-recorded)</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1052206754?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1168527158?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
-</div>
-</details>
-</div>
-<h4></h4>
 <p></p>
