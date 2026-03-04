@@ -89,6 +89,44 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h5>Operating Dates in Term 2 (2026)</h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>23 March to 27 March 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6 April to 10 April 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20 April to 24 April 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 May to 8 May 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>18 May to 22 May 2026</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><u>Students requiring only URGENT dental treatment</u></strong>,
 please Call/WhatsApp/SMS the buddy clinic <em>(see table below) </em>for
