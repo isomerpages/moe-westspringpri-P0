@@ -9,9 +9,13 @@ created for parents. Through NEST, we aim to keep you updated on school
 matters while providing practical strategies and useful insights on how
 we can work together to support our children’s growth and well-being.</p>
 <p></p>
+<p>&lt;div style="padding:177.78% 0 0 0;position:relative;"&gt;</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1173857341?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
 </div>
+<p>&lt;/div&gt;&lt;script src="<a href="https://player.vimeo.com/api/player.js&quot;></script>" rel="noopener noreferrer nofollow" target="_blank">https://player.vimeo.com/api/player.js"&gt;&lt;/script&gt;</a>
+</p>
+<p></p>
 <p>In this episode of our Parenting for Wellness series, we explore the importance
 of supporting our children’s mental health. The video shares how the school
 nurtures students’ emotional wellbeing through Social-Emotional Learning
