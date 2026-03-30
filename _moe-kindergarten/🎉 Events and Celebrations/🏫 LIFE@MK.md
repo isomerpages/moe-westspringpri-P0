@@ -32,7 +32,7 @@ home.&nbsp;</p>
 <p>Information on specific topics, such as supporting your child’s transition
 to primary school.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_G2_zcBJ9PDHAWTPGUJOSjf1vEwojDwe-SNzd3RhBhuCb1zkbB18beh6mBQomvFfJC5WJ3DhOTh3-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_G2_zcBJ9PDHAWTPGUJOSjf1vEwojDwe-SNzd3RhBhuCb1zkbB18beh6mBQomvFfJC5WJ3DhOTh3-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </li>
 </ul>
