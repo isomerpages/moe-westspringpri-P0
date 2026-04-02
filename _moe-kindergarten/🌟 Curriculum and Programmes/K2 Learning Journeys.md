@@ -5,6 +5,17 @@ description: ""
 third_nav_title: 🌟 Curriculum and Programmes
 variant: tiptap
 ---
+<h2>Nam Hwa Opera 2026</h2>
+<p>In Term 1, the children have been developing their sense of identity and
+self-concept, with a particular focus on the value of respect. To build
+on this learning, the children went to Nam Hwa Opera to explore Chinese
+art forms such as music, dance and costume motifs. Through these experiences,
+they were able to deepen their appreciation of culture and continue to
+learn how to show respect and care for Singapore’s diverse and multicultural
+community.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="520" width="491" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTgDFZ461KaRAaNLZvHAuhAQZ2DIls5mBBxL7vaWYc6wBMryKwszp-XFbyzg1JzK32884ZQxSOGgQ1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h2>Singapore Oceanarium 2025</h2>
 <p>As part of their learning under the theme <em>‘Amazing Seas’</em>, our
 K2 children embarked on an exciting field trip to the newly opened Singapore
