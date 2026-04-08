@@ -2,12 +2,12 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - 🪁 MK@West Spring/🏫 MK Open House.md
       - 🪁 MK@West Spring/.keep
       - 🪁 MK@West Spring/Welcome.md
       - 🪁 MK@West Spring/Our MK@WS Team.md
       - 🪁 MK@West Spring/Our Learning Environment.md
       - 🪁 MK@West Spring/Kindergarten Care (KCare).md
+      - 🪁 MK@West Spring/🏫 MK Open House.md
       - 🔍 Information for Parents/.keep
       - 🔍 Information for Parents/MK Calendar of Events.md
       - 🔍 Information for Parents/MK Fees.md
