@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /latesthappenings/
   - infobar:
+      title: PSD & SAST
+      id: infobar
+      button: Click here to find out more
+      url: /psd/
+  - infobar:
       title: Curriculum Briefing 2026
       id: infobar
       button: Click here
