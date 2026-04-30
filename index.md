@@ -24,6 +24,11 @@ sections:
       button: Click here to find out more
       url: /psd/
   - infobar:
+      title: Discover West Spring
+      id: infobar
+      button: CLICK HERE TO FIND OUT MORE
+      url: /discover-wsps/
+  - infobar:
       title: Curriculum Briefing 2026
       id: infobar
       button: Click here
@@ -33,11 +38,6 @@ sections:
       id: infobar
       button: Click here
       url: https://westspringpri.moe.edu.sg/p1orientation/
-  - infobar:
-      title: Discover West Spring
-      id: infobar
-      button: CLICK HERE TO FIND OUT MORE
-      url: /discover-wsps/
   - infobar:
       title: SCHOOL TOUR
       subtitle: virtual
