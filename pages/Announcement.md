@@ -6,13 +6,9 @@ variant: tiptap
 ---
 <h3>Closure of School Dental Clinic</h3>
 <p>We wish to inform you that the School Dental Clinic will be closed on:</p>
-<p><strong>1) 9 March 2026 (Full day closure);</strong>
+<p><strong>1) 21 May 2026 (PM Closure) - Open from 8am to 12pm; and</strong>
 </p>
-<p><strong>2) 13 March 2026 (PM Closure) - Open from 8am to 1pm;</strong>
-</p>
-<p><strong>3) 23 March 2026 (Full day closure);</strong>
-</p>
-<p><strong>4) 25 March 2026 (PM Closure) - Open from 8am to 11am;</strong>
+<p><strong>2) 25 May 2026 (PM Closure) - Open from 8am to 1130am;</strong>
 </p>
 <p>&nbsp;</p>
 <p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
