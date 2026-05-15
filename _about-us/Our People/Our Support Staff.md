@@ -59,6 +59,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Administrative Executive</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Joanne Pek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Corporate Support Office</strong>
 </p>
 </td>
@@ -118,6 +127,11 @@ variant: tiptap
 <p>Mdm Siti Khadijah</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Ong</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -173,6 +187,11 @@ variant: tiptap
 <p>Mr Richard Lim</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Chan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -185,16 +204,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Norimah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Normah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Azizah</p>
 </td>
 </tr>
 <tr>
@@ -219,12 +228,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Hock Seng</p>
+<p>Mr Teo Peng Seng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Ong Yan Peng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Soon Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azizah (MK)</p>
 </td>
 </tr>
 <tr>
