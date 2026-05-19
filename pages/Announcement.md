@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p><strong>3) 21 May 2026 (PM Closure) - Open from 8am to 11am; and</strong>
 </p>
-<p><strong>4) 25 May 2026 (PM Closure) - Open from 8am to 1130am;</strong>
+<p><strong>4) 22 May 2026 (PM Closure) - Open from 8am to 12pm</strong>
 </p>
 <p>&nbsp;</p>
 <p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
