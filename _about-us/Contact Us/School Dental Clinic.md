@@ -51,7 +51,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5>Operating Dates in Term 1 (2026)</h5>
+<h5>Operating Dates in Term 3 (2026)</h5>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,69 +59,31 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13 January to 16 January 2026</strong>
+<p><strong>29 June to 3 July 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>26 January to 30 January 2026</strong>
+<p><strong>13 July to 17 July 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9 February to 13 February 2026</strong>
+<p><strong>27 July to 31 July 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>23 February to 27 February 2026</strong>
+<p><strong>10 August to 14 August 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9 March to 13 March 2026</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Operating Dates in Term 2 (2026)</h5>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>23 March to 27 March 2026</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 April to 10 April 2026</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>20 April to 24 April 2026</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 May to 8 May 2026</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>18 May to 22 May 2026</strong>
+<p><strong>24 August to 28 August 2026</strong>
 </p>
 </td>
 </tr>
