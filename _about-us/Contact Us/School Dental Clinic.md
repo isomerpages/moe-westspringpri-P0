@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10 August to 14 August 2026</strong>
+<p><strong>11 August to 14 August 2026</strong>
 </p>
 </td>
 </tr>
