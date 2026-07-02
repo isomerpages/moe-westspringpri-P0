@@ -6,17 +6,9 @@ variant: tiptap
 ---
 <h3>Closure of School Dental Clinic</h3>
 <p>We wish to inform you that the School Dental Clinic will be closed on:</p>
-<p><strong>1) 3 June 2026 (Wednesday);</strong>
+<p><strong>1) 16 July 2026 (Thursday) from 11am - 2pm; and</strong>
 </p>
-<p><strong>2) 4 June 2026 (Thursday);</strong>
-</p>
-<p><strong>3) 15 June 2026 (Monday);</strong>
-</p>
-<p><strong>4) 16 June 2026 (Tuesday);</strong>
-</p>
-<p><strong>5) 17 June 2026 (Wednesday); and</strong>
-</p>
-<p><strong>6) 18 June 2026 (Thursday)</strong>
+<p><strong>2) 17 July 2026 (Friday)</strong>
 </p>
 <p>&nbsp;</p>
 <p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
