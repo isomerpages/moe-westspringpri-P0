@@ -216,6 +216,9 @@ variant: tiptap
 <p><strong>Mdm Rozianah</strong>
 <br><a href="mailto:rozianah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozianah_ibrahim@moe.edu.sg</a>
 </p>
+<p><strong>Mdm Anuradha</strong>
+<br><a href="mailto:masilamani_anuradha@moe.edu.sg" rel="noopener nofollow" target="_blank">masilamani_anuradha@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -311,6 +314,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cao Liu</strong>
 <br><a href="mailto:cao_liu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cao_liu@moe.edu.sg</a>
+</p>
+<p><strong>Mdm Goh Wan Lin</strong>
+<br><a href="mailto:goh_wan_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_wan_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -508,6 +514,9 @@ variant: tiptap
 <p><strong>Mr Daniel Foo</strong>
 <br><a href="mailto:foo_kim_han_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_kim_han_daniel@moe.edu.sg</a>
 </p>
+<p><strong>Ms Cheryl Chan</strong>
+<br><a href="mailto:cheryl_chan_shin_ni@moe.edu.sg" rel="noopener nofollow" target="_blank">cheryl_chan_shin_ni@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -520,9 +529,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr James Ng</strong>
-<br><a href="mailto:ng_kwang_meng_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kwang_meng_james@moe.edu.sg</a>
-</p>
 <p><strong>Ms Li Na</strong>
 </p>
 <p><a href="mailto:li_na_b_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_na_b_1@moe.edu.sg</a>
@@ -542,6 +548,9 @@ variant: tiptap
 <p><strong>Ms Nuraida Sawi</strong>
 <br><a href="mailto:nuraida_sawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraida_sawi@moe.edu.sg</a>
 </p>
+<p><strong>Mr Noor Hanif</strong>
+<br><a href="mailto:noor_hanif_sulaimee@moe.edu.sg" rel="noopener nofollow" target="_blank">noor_hanif_sulaimee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -555,8 +564,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Uma Mageswari</strong>
-<br><a href="mailto:uma_mageswari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uma_mageswari@moe.edu.sg</a>
+<p><strong>Mr James Ng</strong>
+<br><a href="mailto:ng_kwang_meng_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kwang_meng_james@moe.edu.sg</a>
 </p>
 </td>
 </tr>
