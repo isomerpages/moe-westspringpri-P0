@@ -4,9 +4,23 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<p><strong>Greetings, Alumni!</strong>
+<h3>Closure of School Dental Clinic</h3>
+<p>We wish to inform you that the School Dental Clinic will be closed on:</p>
+<p><strong>1) 10 August 2026 (Monday);</strong>
 </p>
+<p><strong>2) 12 August 2026 (Wednesday) to 14 August 2026 (Friday); and</strong>
+</p>
+<p><strong>3) 26 August 2026 (Wednesday) from 10am onwards.</strong>
+</p>
+<p>&nbsp;</p>
+<p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
+out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>,
+please contact School Dental Centre via email:&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
+</p>
+<p>We are sorry for any inconveniences caused during the closure.</p>
+<p>___________________________________________________________________________________</p>
+<p></p>
+<h2><strong>Greetings, Alumni!</strong></h2>
 <p>We are thrilled to announce our <strong>2026 Alumni Day</strong>, bringing
 together former students who graduated from West Spring Primary for a heartwarming
 reunion on 2 September 2026.</p>
@@ -30,19 +44,6 @@ engaged in Teachers’ Day activities.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Closure of School Dental Clinic</h3>
-<p>We wish to inform you that the School Dental Clinic will be closed on:</p>
-<p><strong>1) 10 August 2026 (Monday);</strong>
-</p>
-<p><strong>2) 12 August 2026 (Wednesday) to 14 August 2026 (Friday); and</strong>
-</p>
-<p><strong>3) 26 August 2026 (Wednesday) from 10am onwards.</strong>
-</p>
-<p>&nbsp;</p>
-<p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
-out), facial/gum swelling or severe toothache <u>during both dental clinic closure</u>,
-please contact School Dental Centre via email:&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a></strong>
-</p>
-<p>We are sorry for any inconveniences caused during the closure.</p>
+<h3></h3>
 <p></p>
 <p>&nbsp;</p>
