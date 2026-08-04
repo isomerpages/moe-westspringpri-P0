@@ -32,9 +32,11 @@ engaged in Teachers’ Day activities.</p>
 <p></p>
 <h3>Closure of School Dental Clinic</h3>
 <p>We wish to inform you that the School Dental Clinic will be closed on:</p>
-<p><strong>1) 16 July 2026 (Thursday) from 11am - 2pm; and</strong>
+<p><strong>1) 10 August 2026 (Monday);</strong>
 </p>
-<p><strong>2) 17 July 2026 (Friday)</strong>
+<p><strong>2) 12 August 2026 (Wednesday) to 14 August 2026 (Friday); and</strong>
+</p>
+<p><strong>3) 26 August 2026 (Wednesday) from 10am onwards.</strong>
 </p>
 <p>&nbsp;</p>
 <p><u>In the event of dental emergencies </u>such as trauma (tooth broken/knocked
